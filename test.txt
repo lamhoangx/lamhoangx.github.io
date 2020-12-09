@@ -7,6 +7,7 @@
 ##.adsitem banner_show
 ##.box-script
 ##.ads-by-google
+##.adsbygoogle
 ##.vmc_ads_viewport
 ##.ns-wwpej-l-square-kiss ns-wwpej-v-0
 ##.ns-s9op0-l-banner-stewie ns-s9op0-v-4
@@ -34,6 +35,7 @@
 <--- selector --->
 ##ins[.adsbygoogle]
 ##a[href^="https://lg1.logging.admicro.vn/"]
+##ins[data-ad*=*]
 
 <--- Specific --->
 zingnews.vn###advTop
