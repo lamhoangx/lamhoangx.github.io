@@ -13,7 +13,7 @@
 ##.ns-s9op0-l-banner-stewie ns-s9op0-v-4
 ##.clearfix adv-box
 ##.clearfix adv-box adv_sponsored
-
+##.amp-ads
 
 <--- TAG Name --->
 ##divAdmicro_kd8iu5ir
@@ -35,6 +35,9 @@
 <--- selector --->
 ##ins[.adsbygoogle]
 ##a[href^="https://lg1.logging.admicro.vn/"]
+##div[data-admssprqid]
+##div[adslot]
+##div[data-adslot]
 
 <--- Specific --->
 ||admicro.vn^
@@ -64,4 +67,5 @@ bongdaplus.vn##.adsbygoogle
 cafebiz.vn##div[data-admssprqid]
 cafebiz.vn##div[adslot]
 cafebiz.vn##div[data-adslot]
+cafebiz.vn###admbackground
 cafebiz.vn###admbackground
