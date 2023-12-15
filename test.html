@@ -9,10 +9,62 @@
             text-align: center;
             min-height: 100vh;
         }
+        #overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        #popup {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100vw;
+            height: 100vh;
+            background-color: white;
+            z-index: 1;
+            }
+        #popup-iframe {
+            width: 100%;
+            height: 100%;
+        }
     </style>
 <body>
 
-    <a class="main" href="https://github.com/lamhoangx/MalNote/blob/master/README.md">Noted</a>
+    <button id="popup-button" style="margin:100px 0px 0px 100px;">Open Popup</button>
+    <div id="overlay"></div>
+    <div id="popup">
+        <iframe src="https://id.hay1.vn/login/qr?r=https%3A%2F%2Fhay1.vn%2F" id="popup-iframe"></iframe>
+    </div>
+    <button id="popup-button-close" style="display: none; position: absolute; margin:0px 0px 0px 100px; z-index:2" >Close Popup</button>
 
+    <script>
+        const button = document.getElementById("popup-button");
+        const overlay = document.getElementById("overlay");
+        const popup = document.getElementById("popup");
+        const close = document.getElementById("popup-button-close");
+
+        button.addEventListener("click", function () {
+            overlay.style.display = "block";
+            popup.style.display = "block";
+            close.style.display = "block";
+        });
+        close.addEventListener("click", function () {
+            overlay.style.display = "none";
+            popup.style.display = "none";
+            close.style.display = "none";
+        });
+
+        overlay.addEventListener("click", function () {
+            overlay.style.display = "none";
+            popup.style.display = "none";
+        });
+
+    </script>
 </body>
 </html>
