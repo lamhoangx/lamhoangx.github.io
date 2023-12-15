@@ -36,23 +36,28 @@
     </style>
 <body>
 
-    <button id="popup-button" style="margin:100px 0px 0px 100px;">Open Popup</button>
+    <button id="popup-button" style="position: relative; margin:100px 0px 0px 100px; width: 100px; height: 50px;">Login</button>
+    <button id="landing_page_button" style="position: relative; margin:100px 0px 0px 100px; width: 100px; height: 50px;">Landing page</button>
     <div id="overlay"></div>
     <div id="popup">
         <iframe src="https://id.hay1.vn/login/qr?r=https%3A%2F%2Fhay1.vn%2F" id="popup-iframe"></iframe>
     </div>
-    <button id="popup-button-close" style="display: none; position: absolute; margin:0px 0px 0px 100px; z-index:2" >Close Popup</button>
+    <button id="popup-button-close" style="display: none; position: absolute; width: 100px; height: 50px; margin:0px 0px 0px 100px; z-index:2" >Close </button>
 
     <script>
         const button = document.getElementById("popup-button");
         const overlay = document.getElementById("overlay");
         const popup = document.getElementById("popup");
         const close = document.getElementById("popup-button-close");
+        const landingPage = document.getElementById("landing_page_button");
 
         button.addEventListener("click", function () {
             overlay.style.display = "block";
             popup.style.display = "block";
             close.style.display = "block";
+        });
+        landingPage.addEventListener("click", function () {
+            location.replace("https://hay1.vn")
         });
         close.addEventListener("click", function () {
             overlay.style.display = "none";
