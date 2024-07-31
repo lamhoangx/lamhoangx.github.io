@@ -48,7 +48,7 @@
                     scrollInterval = null;
                 }
             }
-        }, { threshold: [1] });
+        }, { threshold: [0] });
 
         var endTag = document.querySelector("#end_tag")
         observer.observe(endTag);
@@ -57,7 +57,8 @@
             console.log("page is fully loaded");
             scrollInterval = setInterval(function () {
                 document.documentElement.scrollTop += 10;
-                console.log(endTag.getBoundingClientRect());
+                var rect = endTag.getBoundingClientRect();
+                console.log(`(${rect.left} - ${rect.top} - ${rect.right} - ${rect.bottom})`);
             }, 50);
         });
     </script>
