@@ -50,12 +50,14 @@
             }
         }, { threshold: [1] });
 
-        observer.observe(document.querySelector("#end_tag"));
+        var endTag = document.querySelector("#end_tag")
+        observer.observe(endTag);
 
         window.addEventListener("load", (event) => {
             console.log("page is fully loaded");
             scrollInterval = setInterval(function () {
                 document.documentElement.scrollTop += 10;
+                console.log(endTag.getBoundingClientRect());
             }, 50);
         });
     </script>
