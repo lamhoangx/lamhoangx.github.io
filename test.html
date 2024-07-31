@@ -1,76 +1,64 @@
 <!DOCTYPE html>
 <html>
-    <style>
-        .main {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            min-height: 100vh;
-        }
-        #overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
-        }
-        #popup {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 100vw;
-            height: 100vh;
-            background-color: white;
-            z-index: 1;
-            }
-        #popup-iframe {
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-<body>
+<style>
+    .center {
+        position: relative;
+        margin: 0px 0px 0px 0px;
+        align-self: center;
+    }
 
-    <button id="popup-button" style="position: relative; margin:100px 0px 0px 100px; width: 100px; height: 50px;">Login</button>
-    <a href="aihay://articleId=pN1UmG_Cyu0"> Test HRef </a>
-    <button id="landing_page_button" style="position: relative; margin:100px 0px 0px 100px; width: 100px; height: 50px;">Landing page</button>
-    <div id="overlay"></div>
-    <div id="popup">
-        <iframe src="" id="popup-iframe"></iframe>
-    </div>
-    <button id="popup-button-close" style="display: none; position: absolute; width: 100px; height: 50px; margin:0px 0px 0px 100px; z-index:2" >Close </button>
+    .block {
+        width: 100vw;
+        height: 200px;
+    }
+</style>
+
+<body style="display: flex; flex-direction: column; margin-top: 100px;">
+
+    <button id="popup-button" class="center" style="width: 100px; height: 50px;">Test</button>
+    <br>
+    <a href="aaa://articleId=pN1UmG_Cyu0" class="center"> Test HRef </a>
+
+    <div class="block" style="background-color: mediumseagreen;"></div>
+    <div class="block" style="background-color:bisque;"></div>
+    <div class="block" style="background-color:mediumseagreen;"></div>
+    <div class="block" style="background-color: bisque;"></div>
+    <div class="block" style="background-color:mediumseagreen;"></div>
+
+
+    <a href="aaa://articleId=pN1UmG_Cyu0" id="end_tag" class="center"> END </a>
 
     <script>
-        const button = document.getElementById("popup-button");
-        const overlay = document.getElementById("overlay");
-        const popup = document.getElementById("popup");
-        const close = document.getElementById("popup-button-close");
-        const landingPage = document.getElementById("landing_page_button");
+        const btnTest = document.getElementById("popup-button");
 
-        button.addEventListener("click", function () {
+        btnTest.addEventListener("click", function () {
             overlay.style.display = "block";
             popup.style.display = "block";
             close.style.display = "block";
         });
-        landingPage.addEventListener("click", function () {
-            location.replace("https://google.com")
-        });
-        close.addEventListener("click", function () {
-            overlay.style.display = "none";
-            popup.style.display = "none";
-            close.style.display = "none";
-        });
 
-        overlay.addEventListener("click", function () {
-            overlay.style.display = "none";
-            popup.style.display = "none";
-        });
 
+        var scrollInterval;
+
+        var observer = new IntersectionObserver(function (entries) {
+            if (entries[0].isIntersecting === true) {
+                console.log('END_TAG is fully visible in screen');
+                if(scrollInterval) {
+                    clearInterval(scrollInterval);
+                    scrollInterval = null;
+                }
+            }
+        }, { threshold: [1] });
+
+        observer.observe(document.querySelector("#end_tag"));
+
+        window.addEventListener("load", (event) => {
+            console.log("page is fully loaded");
+            scrollInterval = setInterval(function () {
+                document.documentElement.scrollTop += 10;
+            }, 50);
+        });
     </script>
 </body>
+
 </html>
