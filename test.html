@@ -39,14 +39,17 @@
 
 
         var scrollInterval;
+        function stopScroll() {
+            if(scrollInterval) {
+                clearInterval(scrollInterval);
+                scrollInterval = null;
+            }
+        }
 
         var observer = new IntersectionObserver(function (entries) {
             if (entries[0].isIntersecting === true) {
                 console.log('END_TAG is fully visible in screen');
-                if(scrollInterval) {
-                    clearInterval(scrollInterval);
-                    scrollInterval = null;
-                }
+                stopScroll();
             }
         }, { threshold: [0] });
 
@@ -59,6 +62,10 @@
                 document.documentElement.scrollTop += 10;
                 var rect = endTag.getBoundingClientRect();
                 console.log(`(${rect.left} - ${rect.top} - ${rect.right} - ${rect.bottom})`);
+                if(rect.top < 0) {
+                    console.log('END_PAGE');
+                    stopScroll();
+                }
             }, 50);
         });
     </script>
