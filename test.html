@@ -57,6 +57,7 @@
         observer.observe(endTag);
 
         window.addEventListener("load", (event) => {
+            if(true) return;
             console.log("page is fully loaded");
             scrollInterval = setInterval(function () {
                 document.documentElement.scrollTop += 10;
