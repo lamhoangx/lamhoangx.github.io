@@ -56,6 +56,11 @@
         var endTag = document.querySelector("#end_tag")
         observer.observe(endTag);
 
+        window.addEventListener('scroll',function(e) {
+            var rect = endTag.getBoundingClientRect();
+            console.log(`(${rect.left} - ${rect.top} - ${rect.right} - ${rect.bottom})`);
+        });
+
         window.addEventListener("load", (event) => {
             if(true) return;
             console.log("page is fully loaded");
