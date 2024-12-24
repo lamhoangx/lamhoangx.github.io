@@ -10,9 +10,13 @@
 </head>
 
 <body class="container">  
-  <div class="typewriter">
-    <h1>Giáng sinh xinh tươi như hoa</h1>
+  <div class="clickme" id="clickme">
+    <h2> * click me * </h2>
   </div>
+  <div class="typewriter">
+    <h2>Giáng sinh an lành!</h2>
+  </div>
+  
   <div class="night"></div>
   <div class="flowers">
     <div class="flower flower--1">
@@ -322,6 +326,7 @@
 
     document.body.addEventListener('click', () => {
       audio.play();
+      document.getElementById('clickme').remove();
     })
   </script>
 </body>
