@@ -93,11 +93,11 @@
     }
     const actionJson = NATIVE_VIEW_FULL({
         "thumb": "",
-        "url": window.location
+        "url": "https://lamhoangx.github.io/markmap.html"
     })
     const action = JSON.stringify(actionJson);
     const urlParams = new URLSearchParams(window.location.search);
-    const stcPlugin = "lam_test_aGVsbG9mZW4"; //urlParams.get('_stcPlugin');
+    const stcPlugin = "lam_test_aGVsbG9mZW4";
     try {
       window.FAINative.call(stcPlugin, action, (resp) => {
       });
