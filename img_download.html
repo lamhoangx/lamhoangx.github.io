@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Download Image</title>
+</head>
+<body>
+  <button onclick="downloadImage('https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif', 'animated_cat.gif')">Download Animated Cat</button>
+  <button onclick="downloadImage('https://via.placeholder.com/150', 'placeholder.png')">Download Placeholder</button>
+
+  <script>
+    function downloadImage(imageUrl, imageName = 'downloaded_image') {
+      fetch(imageUrl)
+        .then(response => response.blob())
+        .then(blob => {
+          const url = window.URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = imageName;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          window.URL.revokeObjectURL(url);
+        })
+        .catch(error => {
+          console.error('Error downloading image:', error);
+        });
+    }
+  </script>
+</body>
+</html>
