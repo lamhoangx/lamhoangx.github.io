@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T20:22:16+07:00",
-  "model": "naive-drift-v1",
+  "generated_at": "2026-08-18T22:12:09+07:00",
+  "model": "naive-drift-v2",
   "horizon_days": 7,
   "trained_days": 14,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-19",
-      "price": 96871,
-      "low": 95232,
-      "high": 98510
+      "price": 96612,
+      "low": 94973,
+      "high": 98251
     },
     {
       "date": "2026-08-20",
-      "price": 96850,
-      "low": 94532,
-      "high": 99168
+      "price": 96396,
+      "low": 94078,
+      "high": 98714
     },
     {
       "date": "2026-08-21",
-      "price": 96834,
-      "low": 93995,
-      "high": 99673
+      "price": 96234,
+      "low": 93395,
+      "high": 99072
     },
     {
       "date": "2026-08-22",
-      "price": 96822,
-      "low": 93544,
-      "high": 100100
+      "price": 96112,
+      "low": 92834,
+      "high": 99390
     },
     {
       "date": "2026-08-23",
-      "price": 96813,
-      "low": 93148,
-      "high": 100478
+      "price": 96021,
+      "low": 92356,
+      "high": 99686
     },
     {
       "date": "2026-08-24",
-      "price": 96806,
-      "low": 92792,
-      "high": 100821
+      "price": 95953,
+      "low": 91938,
+      "high": 99967
     },
     {
       "date": "2026-08-25",
-      "price": 96801,
-      "low": 92465,
-      "high": 101137
+      "price": 95901,
+      "low": 91565,
+      "high": 100238
     }
   ],
   "accuracy_30d": null,
