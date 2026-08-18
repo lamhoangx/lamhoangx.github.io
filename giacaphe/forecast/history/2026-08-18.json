@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-08-18T16:22:51+07:00",
+  "model": "naive-drift-v1",
+  "horizon_days": 7,
+  "trained_days": 14,
+  "anchor": {
+    "date": "2026-08-18",
+    "price": 96900
+  },
+  "predictions": [
+    {
+      "date": "2026-08-19",
+      "price": 96871,
+      "low": 95232,
+      "high": 98510
+    },
+    {
+      "date": "2026-08-20",
+      "price": 96850,
+      "low": 94532,
+      "high": 99168
+    },
+    {
+      "date": "2026-08-21",
+      "price": 96834,
+      "low": 93995,
+      "high": 99673
+    },
+    {
+      "date": "2026-08-22",
+      "price": 96822,
+      "low": 93544,
+      "high": 100100
+    },
+    {
+      "date": "2026-08-23",
+      "price": 96813,
+      "low": 93148,
+      "high": 100478
+    },
+    {
+      "date": "2026-08-24",
+      "price": 96806,
+      "low": 92792,
+      "high": 100821
+    },
+    {
+      "date": "2026-08-25",
+      "price": 96801,
+      "low": 92465,
+      "high": 101137
+    }
+  ],
+  "accuracy_30d": null,
+  "stats": {
+    "window_days": 14,
+    "high": {
+      "date": "2026-08-06",
+      "price": 98900
+    },
+    "low": {
+      "date": "2026-08-15",
+      "price": 94800
+    },
+    "average": 96857,
+    "ma7": 96329,
+    "ma30": null
+  },
+  "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
+  "region": "average"
+}
