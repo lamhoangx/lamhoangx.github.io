@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-19T09:28:14+07:00",
+  "generated_at": "2026-08-19T11:47:40+07:00",
   "model": "naive-drift-v2",
   "horizon_days": 7,
   "trained_days": 15,
   "anchor": {
     "date": "2026-08-19",
-    "price": 98900
+    "price": 98400
   },
   "predictions": [
     {
       "date": "2026-08-20",
-      "price": 98890,
-      "low": 97104,
-      "high": 100677
+      "price": 98349,
+      "low": 96651,
+      "high": 100047
     },
     {
       "date": "2026-08-21",
-      "price": 98883,
-      "low": 96357,
-      "high": 101410
+      "price": 98310,
+      "low": 95909,
+      "high": 100712
     },
     {
       "date": "2026-08-22",
-      "price": 98878,
-      "low": 95784,
-      "high": 101972
+      "price": 98282,
+      "low": 95341,
+      "high": 101223
     },
     {
       "date": "2026-08-23",
-      "price": 98874,
-      "low": 95301,
-      "high": 102447
+      "price": 98260,
+      "low": 94864,
+      "high": 101656
     },
     {
       "date": "2026-08-24",
-      "price": 98871,
-      "low": 94876,
-      "high": 102866
+      "price": 98244,
+      "low": 94447,
+      "high": 102041
     },
     {
       "date": "2026-08-25",
-      "price": 98869,
-      "low": 94493,
-      "high": 103245
+      "price": 98232,
+      "low": 94072,
+      "high": 102391
     },
     {
       "date": "2026-08-26",
-      "price": 98867,
-      "low": 94140,
-      "high": 103594
+      "price": 98223,
+      "low": 93730,
+      "high": 102715
     }
   ],
   "accuracy_30d": {
     "samples": 1,
-    "mae": 2288,
+    "mae": 1788,
     "direction_hit_rate": 0.0
   },
   "stats": {
@@ -66,8 +66,8 @@
       "date": "2026-08-15",
       "price": 94800
     },
-    "average": 96993,
-    "ma7": 96486,
+    "average": 96960,
+    "ma7": 96414,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
