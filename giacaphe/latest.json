@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
   "date": "2026-08-19",
-  "updated_at": "2026-08-19T09:25:30+07:00",
+  "updated_at": "2026-08-19T11:05:32+07:00",
   "fallback_host": "",
   "sources": [
     "giacaphe.com"
   ],
   "domestic": {
     "unit": "VND/kg",
-    "average": 98900,
-    "average_change": 2000,
-    "highest": 99000,
+    "average": 98400,
+    "average_change": 1500,
+    "highest": 98500,
     "regions": [
       {
         "id": "daklak",
         "name": "Đắk Lắk",
-        "price": 98800,
-        "change": 2000
+        "price": 98300,
+        "change": 1500
       },
       {
         "id": "lamdong",
         "name": "Lâm Đồng",
-        "price": 98200,
-        "change": 2000
+        "price": 97700,
+        "change": 1500
       },
       {
         "id": "gialai",
         "name": "Gia Lai",
-        "price": 98800,
-        "change": 2000
+        "price": 98300,
+        "change": 1500
       },
       {
         "id": "daknong",
         "name": "Đắk Nông",
-        "price": 99000,
-        "change": 2000
+        "price": 98500,
+        "change": 1500
       }
     ]
   },
   "pepper": {
     "unit": "VND/kg",
-    "price": 139999,
-    "change": 999
+    "price": 139000,
+    "change": null
   },
   "fx": {
     "usd_vnd": 25920
