@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-08-19T18:33:14+07:00",
+  "model": "naive-drift-v2",
+  "horizon_days": 7,
+  "trained_days": 7,
+  "anchor": {
+    "date": "2026-08-19",
+    "price": 98400
+  },
+  "predictions": [
+    {
+      "date": "2026-08-20",
+      "price": 98496,
+      "low": 96571,
+      "high": 100422
+    },
+    {
+      "date": "2026-08-21",
+      "price": 98569,
+      "low": 95845,
+      "high": 101292
+    },
+    {
+      "date": "2026-08-22",
+      "price": 98623,
+      "low": 95287,
+      "high": 101959
+    },
+    {
+      "date": "2026-08-23",
+      "price": 98664,
+      "low": 94812,
+      "high": 102515
+    },
+    {
+      "date": "2026-08-24",
+      "price": 98694,
+      "low": 94388,
+      "high": 103000
+    },
+    {
+      "date": "2026-08-25",
+      "price": 98717,
+      "low": 94000,
+      "high": 103434
+    },
+    {
+      "date": "2026-08-26",
+      "price": 98734,
+      "low": 93639,
+      "high": 103829
+    }
+  ],
+  "accuracy_30d": {
+    "samples": 2,
+    "mae": 2106,
+    "direction_hit_rate": 0.0
+  },
+  "stats": {
+    "window_days": 7,
+    "high": {
+      "date": "2026-08-19",
+      "price": 98400
+    },
+    "low": {
+      "date": "2026-08-15",
+      "price": 94800
+    },
+    "average": 96414,
+    "ma7": 96414,
+    "ma30": null
+  },
+  "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
+  "region": "average",
+  "accuracy_history": [
+    {
+      "date": "2026-08-18",
+      "absolute_error": 2470,
+      "direction_hit": false
+    },
+    {
+      "date": "2026-08-19",
+      "absolute_error": 1743,
+      "direction_hit": false
+    }
+  ]
+}

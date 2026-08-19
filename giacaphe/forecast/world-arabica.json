@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-08-19T18:33:14+07:00",
+  "model": "naive-drift-v2",
+  "horizon_days": 7,
+  "trained_days": 7,
+  "anchor": {
+    "date": "2026-08-19",
+    "price": 8012
+  },
+  "predictions": [
+    {
+      "date": "2026-08-20",
+      "price": 8089,
+      "low": 7813,
+      "high": 8365
+    },
+    {
+      "date": "2026-08-21",
+      "price": 8147,
+      "low": 7757,
+      "high": 8537
+    },
+    {
+      "date": "2026-08-22",
+      "price": 8190,
+      "low": 7712,
+      "high": 8668
+    },
+    {
+      "date": "2026-08-23",
+      "price": 8223,
+      "low": 7671,
+      "high": 8775
+    },
+    {
+      "date": "2026-08-24",
+      "price": 8247,
+      "low": 7630,
+      "high": 8865
+    },
+    {
+      "date": "2026-08-25",
+      "price": 8266,
+      "low": 7590,
+      "high": 8942
+    },
+    {
+      "date": "2026-08-26",
+      "price": 8279,
+      "low": 7549,
+      "high": 9010
+    }
+  ],
+  "accuracy_30d": {
+    "samples": 2,
+    "mae": 262,
+    "direction_hit_rate": 1.0
+  },
+  "stats": {
+    "window_days": 7,
+    "high": {
+      "date": "2026-08-19",
+      "price": 8012
+    },
+    "low": {
+      "date": "2026-08-14",
+      "price": 7344
+    },
+    "average": 7539,
+    "ma7": 7539,
+    "ma30": null
+  },
+  "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
+  "series": "arabica",
+  "name": "Arabica New York",
+  "unit": "USD/tấn",
+  "accuracy_history": [
+    {
+      "date": "2026-08-18",
+      "absolute_error": 148,
+      "direction_hit": true
+    },
+    {
+      "date": "2026-08-19",
+      "absolute_error": 375,
+      "direction_hit": true
+    }
+  ]
+}
