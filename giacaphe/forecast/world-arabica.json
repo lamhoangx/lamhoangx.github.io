@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-19T20:24:01+07:00",
+  "generated_at": "2026-08-20T20:25:56+07:00",
   "model": "naive-drift-v2",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
-    "date": "2026-08-19",
-    "price": 8012
+    "date": "2026-08-20",
+    "price": 7926
   },
   "predictions": [
     {
-      "date": "2026-08-20",
-      "price": 8089,
-      "low": 7813,
-      "high": 8365
-    },
-    {
       "date": "2026-08-21",
-      "price": 8147,
-      "low": 7757,
-      "high": 8537
+      "price": 8025,
+      "low": 7726,
+      "high": 8324
     },
     {
       "date": "2026-08-22",
-      "price": 8190,
-      "low": 7712,
-      "high": 8668
+      "price": 8099,
+      "low": 7676,
+      "high": 8522
     },
     {
       "date": "2026-08-23",
-      "price": 8223,
-      "low": 7671,
-      "high": 8775
+      "price": 8155,
+      "low": 7637,
+      "high": 8673
     },
     {
       "date": "2026-08-24",
-      "price": 8247,
-      "low": 7630,
-      "high": 8865
+      "price": 8197,
+      "low": 7599,
+      "high": 8795
     },
     {
       "date": "2026-08-25",
-      "price": 8266,
-      "low": 7590,
-      "high": 8942
+      "price": 8228,
+      "low": 7559,
+      "high": 8897
     },
     {
       "date": "2026-08-26",
-      "price": 8279,
-      "low": 7549,
-      "high": 9010
+      "price": 8252,
+      "low": 7519,
+      "high": 8984
+    },
+    {
+      "date": "2026-08-27",
+      "price": 8269,
+      "low": 7478,
+      "high": 9061
     }
   ],
   "accuracy_30d": {
-    "samples": 2,
-    "mae": 262,
-    "direction_hit_rate": 1.0
+    "samples": 3,
+    "mae": 229,
+    "direction_hit_rate": 0.667
   },
   "stats": {
     "window_days": 7,
@@ -66,8 +66,8 @@
       "date": "2026-08-14",
       "price": 7344
     },
-    "average": 7539,
-    "ma7": 7539,
+    "average": 7614,
+    "ma7": 7614,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
@@ -84,6 +84,11 @@
       "date": "2026-08-19",
       "absolute_error": 375,
       "direction_hit": true
+    },
+    {
+      "date": "2026-08-20",
+      "absolute_error": 163,
+      "direction_hit": false
     }
   ]
 }
