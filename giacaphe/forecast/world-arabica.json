@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-08-20T20:25:56+07:00",
+  "generated_at": "2026-08-21T20:25:01+07:00",
   "model": "naive-drift-v2",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
-    "date": "2026-08-20",
-    "price": 7926
+    "date": "2026-08-21",
+    "price": 8016
   },
   "predictions": [
     {
-      "date": "2026-08-21",
-      "price": 8025,
-      "low": 7726,
-      "high": 8324
-    },
-    {
       "date": "2026-08-22",
-      "price": 8099,
-      "low": 7676,
-      "high": 8522
+      "price": 8142,
+      "low": 7892,
+      "high": 8391
     },
     {
       "date": "2026-08-23",
-      "price": 8155,
-      "low": 7637,
-      "high": 8673
+      "price": 8236,
+      "low": 7883,
+      "high": 8589
     },
     {
       "date": "2026-08-24",
-      "price": 8197,
-      "low": 7599,
-      "high": 8795
+      "price": 8307,
+      "low": 7874,
+      "high": 8739
     },
     {
       "date": "2026-08-25",
-      "price": 8228,
-      "low": 7559,
-      "high": 8897
+      "price": 8360,
+      "low": 7860,
+      "high": 8859
     },
     {
       "date": "2026-08-26",
-      "price": 8252,
-      "low": 7519,
-      "high": 8984
+      "price": 8399,
+      "low": 7841,
+      "high": 8958
     },
     {
       "date": "2026-08-27",
-      "price": 8269,
-      "low": 7478,
-      "high": 9061
+      "price": 8429,
+      "low": 7817,
+      "high": 9041
+    },
+    {
+      "date": "2026-08-28",
+      "price": 8451,
+      "low": 7790,
+      "high": 9113
     }
   ],
   "accuracy_30d": {
-    "samples": 3,
-    "mae": 229,
-    "direction_hit_rate": 0.667
+    "samples": 4,
+    "mae": 174,
+    "direction_hit_rate": 0.75
   },
   "stats": {
     "window_days": 7,
     "high": {
-      "date": "2026-08-19",
-      "price": 8012
+      "date": "2026-08-21",
+      "price": 8016
     },
     "low": {
       "date": "2026-08-14",
       "price": 7344
     },
-    "average": 7614,
-    "ma7": 7614,
+    "average": 7688,
+    "ma7": 7688,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
@@ -89,6 +89,11 @@
       "date": "2026-08-20",
       "absolute_error": 163,
       "direction_hit": false
+    },
+    {
+      "date": "2026-08-21",
+      "absolute_error": 9,
+      "direction_hit": true
     }
   ]
 }

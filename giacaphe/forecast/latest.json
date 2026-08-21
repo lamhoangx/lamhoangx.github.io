@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-20T20:25:56+07:00",
+  "generated_at": "2026-08-21T20:25:01+07:00",
   "model": "naive-drift-v2",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
-    "date": "2026-08-20",
-    "price": 97800
+    "date": "2026-08-21",
+    "price": 97900
   },
   "predictions": [
     {
-      "date": "2026-08-21",
-      "price": 98186,
-      "low": 96244,
-      "high": 100128
-    },
-    {
       "date": "2026-08-22",
-      "price": 98475,
-      "low": 95728,
-      "high": 101222
+      "price": 98500,
+      "low": 96963,
+      "high": 100037
     },
     {
       "date": "2026-08-23",
-      "price": 98692,
-      "low": 95328,
-      "high": 102056
+      "price": 98950,
+      "low": 96777,
+      "high": 101123
     },
     {
       "date": "2026-08-24",
-      "price": 98855,
-      "low": 94970,
-      "high": 102739
+      "price": 99288,
+      "low": 96626,
+      "high": 101949
     },
     {
       "date": "2026-08-25",
-      "price": 98977,
-      "low": 94634,
-      "high": 103320
+      "price": 99541,
+      "low": 96467,
+      "high": 102614
     },
     {
       "date": "2026-08-26",
-      "price": 99068,
-      "low": 94311,
-      "high": 103826
+      "price": 99730,
+      "low": 96294,
+      "high": 103167
     },
     {
       "date": "2026-08-27",
-      "price": 99137,
-      "low": 93998,
-      "high": 104276
+      "price": 99873,
+      "low": 96109,
+      "high": 103637
+    },
+    {
+      "date": "2026-08-28",
+      "price": 99980,
+      "low": 95914,
+      "high": 104046
     }
   ],
   "accuracy_30d": {
-    "samples": 3,
-    "mae": 1636,
-    "direction_hit_rate": 0.0
+    "samples": 4,
+    "mae": 1299,
+    "direction_hit_rate": 0.25
   },
   "stats": {
     "window_days": 7,
@@ -66,8 +66,8 @@
       "date": "2026-08-15",
       "price": 94800
     },
-    "average": 96471,
-    "ma7": 96471,
+    "average": 96614,
+    "ma7": 96614,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
@@ -87,6 +87,11 @@
       "date": "2026-08-20",
       "absolute_error": 696,
       "direction_hit": false
+    },
+    {
+      "date": "2026-08-21",
+      "absolute_error": 286,
+      "direction_hit": true
     }
   ]
 }
