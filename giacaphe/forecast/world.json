@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T16:33:49+07:00",
-  "model": "tv-drift-v1",
+  "generated_at": "2026-08-22T16:48:37+07:00",
+  "model": "tv-drift-v2",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-23",
-      "price": 3596,
-      "low": 3496,
-      "high": 3695
+      "price": 3593,
+      "low": 3493,
+      "high": 3692
     },
     {
       "date": "2026-08-24",
-      "price": 3594,
-      "low": 3454,
-      "high": 3734
+      "price": 3589,
+      "low": 3448,
+      "high": 3729
     },
     {
       "date": "2026-08-25",
-      "price": 3593,
-      "low": 3421,
-      "high": 3764
+      "price": 3586,
+      "low": 3414,
+      "high": 3758
     },
     {
       "date": "2026-08-26",
-      "price": 3592,
-      "low": 3393,
-      "high": 3790
+      "price": 3583,
+      "low": 3385,
+      "high": 3782
     },
     {
       "date": "2026-08-27",
-      "price": 3591,
-      "low": 3369,
-      "high": 3813
+      "price": 3582,
+      "low": 3360,
+      "high": 3804
     },
     {
       "date": "2026-08-28",
-      "price": 3590,
-      "low": 3347,
-      "high": 3833
+      "price": 3581,
+      "low": 3337,
+      "high": 3824
     },
     {
       "date": "2026-08-29",
-      "price": 3590,
-      "low": 3327,
-      "high": 3852
+      "price": 3580,
+      "low": 3317,
+      "high": 3842
     }
   ],
   "accuracy_30d": {
@@ -83,7 +83,7 @@
     "rsi": 40.43576405073474,
     "close": 3598.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-22T16:33:49+07:00"
+    "fetched_at": "2026-08-22T16:48:37+07:00"
   },
   "accuracy_history": [
     {

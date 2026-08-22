@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T16:33:49+07:00",
-  "model": "naive-drift-v3",
+  "generated_at": "2026-08-22T16:48:37+07:00",
+  "model": "tv-drift-v2",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-23",
-      "price": 96693,
-      "low": 94783,
-      "high": 98602
+      "price": 96287,
+      "low": 94377,
+      "high": 98196
     },
     {
       "date": "2026-08-24",
-      "price": 96988,
-      "low": 94287,
-      "high": 99688
+      "price": 96277,
+      "low": 93576,
+      "high": 98977
     },
     {
       "date": "2026-08-25",
-      "price": 97208,
-      "low": 93901,
-      "high": 100516
+      "price": 96269,
+      "low": 92962,
+      "high": 99577
     },
     {
       "date": "2026-08-26",
-      "price": 97374,
-      "low": 93555,
-      "high": 101193
+      "price": 96264,
+      "low": 92444,
+      "high": 100083
     },
     {
       "date": "2026-08-27",
-      "price": 97499,
-      "low": 93228,
-      "high": 101769
+      "price": 96259,
+      "low": 91989,
+      "high": 100529
     },
     {
       "date": "2026-08-28",
-      "price": 97592,
-      "low": 92914,
-      "high": 102269
+      "price": 96256,
+      "low": 91579,
+      "high": 100934
     },
     {
       "date": "2026-08-29",
-      "price": 97662,
-      "low": 92609,
-      "high": 102714
+      "price": 96254,
+      "low": 91202,
+      "high": 101306
     }
   ],
   "accuracy_30d": {
@@ -72,6 +72,17 @@
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "region": "average",
+  "technical": {
+    "symbol": "ICEEUR:RCU2026",
+    "month": "09/26",
+    "rating": -0.5363636363636364,
+    "rating_ma": -0.8,
+    "rating_other": -0.2727272727272727,
+    "rsi": 40.43576405073474,
+    "close": 3598.0,
+    "unit": "USD/tấn",
+    "fetched_at": "2026-08-22T16:48:37+07:00"
+  },
   "accuracy_history": [
     {
       "date": "2026-08-21",
