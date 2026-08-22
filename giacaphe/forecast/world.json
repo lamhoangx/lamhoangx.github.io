@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-21T20:25:01+07:00",
-  "model": "naive-drift-v2",
+  "generated_at": "2026-08-22T16:33:49+07:00",
+  "model": "tv-drift-v1",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
-    "date": "2026-08-21",
-    "price": 3702
+    "date": "2026-08-22",
+    "price": 3598
   },
   "predictions": [
     {
-      "date": "2026-08-22",
-      "price": 3718,
-      "low": 3641,
-      "high": 3794
-    },
-    {
       "date": "2026-08-23",
-      "price": 3729,
-      "low": 3621,
-      "high": 3837
+      "price": 3596,
+      "low": 3496,
+      "high": 3695
     },
     {
       "date": "2026-08-24",
-      "price": 3738,
-      "low": 3605,
-      "high": 3871
+      "price": 3594,
+      "low": 3454,
+      "high": 3734
     },
     {
       "date": "2026-08-25",
-      "price": 3745,
-      "low": 3592,
-      "high": 3898
+      "price": 3593,
+      "low": 3421,
+      "high": 3764
     },
     {
       "date": "2026-08-26",
-      "price": 3750,
-      "low": 3578,
-      "high": 3921
+      "price": 3592,
+      "low": 3393,
+      "high": 3790
     },
     {
       "date": "2026-08-27",
-      "price": 3753,
-      "low": 3566,
-      "high": 3941
+      "price": 3591,
+      "low": 3369,
+      "high": 3813
     },
     {
       "date": "2026-08-28",
-      "price": 3756,
-      "low": 3554,
-      "high": 3958
+      "price": 3590,
+      "low": 3347,
+      "high": 3833
+    },
+    {
+      "date": "2026-08-29",
+      "price": 3590,
+      "low": 3327,
+      "high": 3852
     }
   ],
   "accuracy_30d": {
-    "samples": 4,
-    "mae": 64,
-    "direction_hit_rate": 0.25
+    "samples": 2,
+    "mae": 88,
+    "direction_hit_rate": 0.0
   },
   "stats": {
     "window_days": 7,
@@ -63,36 +63,37 @@
       "price": 3755
     },
     "low": {
-      "date": "2026-08-15",
-      "price": 3621
+      "date": "2026-08-22",
+      "price": 3598
     },
-    "average": 3679,
-    "ma7": 3679,
+    "average": 3669,
+    "ma7": 3669,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "robusta",
   "name": "Robusta London",
   "unit": "USD/tấn",
+  "technical": {
+    "symbol": "ICEEUR:RCU2026",
+    "month": "09/26",
+    "rating": -0.5363636363636364,
+    "rating_ma": -0.8,
+    "rating_other": -0.2727272727272727,
+    "rsi": 40.43576405073474,
+    "close": 3598.0,
+    "unit": "USD/tấn",
+    "fetched_at": "2026-08-22T16:33:49+07:00"
+  },
   "accuracy_history": [
     {
-      "date": "2026-08-18",
-      "absolute_error": 96,
-      "direction_hit": false
-    },
-    {
-      "date": "2026-08-19",
-      "absolute_error": 115,
-      "direction_hit": false
-    },
-    {
-      "date": "2026-08-20",
-      "absolute_error": 25,
-      "direction_hit": true
-    },
-    {
       "date": "2026-08-21",
-      "absolute_error": 19,
+      "absolute_error": 49,
+      "direction_hit": false
+    },
+    {
+      "date": "2026-08-22",
+      "absolute_error": 126,
       "direction_hit": false
     }
   ]
