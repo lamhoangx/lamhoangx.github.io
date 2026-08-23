@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T20:08:40+07:00",
-  "model": "tv-drift-v2",
+  "generated_at": "2026-08-23T12:13:12+07:00",
+  "model": "tv-drift-v3",
   "horizon_days": 7,
-  "trained_days": 7,
+  "trained_days": 6,
   "anchor": {
     "date": "2026-08-22",
     "price": 7909
@@ -10,90 +10,75 @@
   "predictions": [
     {
       "date": "2026-08-23",
-      "price": 7952,
-      "low": 7668,
-      "high": 8236
+      "price": 8007,
+      "low": 7702,
+      "high": 8311
     },
     {
       "date": "2026-08-24",
-      "price": 7984,
-      "low": 7583,
-      "high": 8385
+      "price": 8080,
+      "low": 7649,
+      "high": 8510
     },
     {
       "date": "2026-08-25",
-      "price": 8008,
-      "low": 7517,
-      "high": 8499
+      "price": 8135,
+      "low": 7607,
+      "high": 8662
     },
     {
       "date": "2026-08-26",
-      "price": 8026,
-      "low": 7459,
-      "high": 8594
+      "price": 8176,
+      "low": 7566,
+      "high": 8785
     },
     {
       "date": "2026-08-27",
-      "price": 8040,
-      "low": 7406,
-      "high": 8674
+      "price": 8206,
+      "low": 7525,
+      "high": 8888
     },
     {
       "date": "2026-08-28",
-      "price": 8050,
-      "low": 7356,
-      "high": 8745
+      "price": 8230,
+      "low": 7484,
+      "high": 8976
     },
     {
       "date": "2026-08-29",
-      "price": 8058,
-      "low": 7308,
-      "high": 8808
+      "price": 8247,
+      "low": 7441,
+      "high": 9053
     }
   ],
   "accuracy_30d": {
-    "samples": 2,
-    "mae": 150,
-    "direction_hit_rate": 0.5
+    "samples": 1,
+    "mae": 251,
+    "direction_hit_rate": 0.0
   },
   "stats": {
-    "window_days": 7,
+    "window_days": 6,
     "high": {
       "date": "2026-08-21",
       "price": 8016
     },
     "low": {
-      "date": "2026-08-15",
+      "date": "2026-08-17",
       "price": 7454
     },
-    "average": 7768,
-    "ma7": 7768,
+    "average": 7821,
+    "ma7": null,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
   "name": "Arabica New York",
   "unit": "USD/tấn",
-  "technical": {
-    "symbol": "ICEUS:KCU2026",
-    "month": "09/26",
-    "rating": 0.35454545454545455,
-    "rating_ma": 0.8,
-    "rating_other": -0.09090909090909091,
-    "rsi": 62.81440187661441,
-    "close": 7909.0,
-    "unit": "USD/tấn",
-    "fetched_at": "2026-08-22T20:08:40+07:00"
-  },
+  "technical": null,
   "accuracy_history": [
     {
-      "date": "2026-08-21",
-      "absolute_error": 60,
-      "direction_hit": true
-    },
-    {
       "date": "2026-08-22",
-      "absolute_error": 239,
+      "absolute_error": 251,
       "direction_hit": false
     }
   ]
