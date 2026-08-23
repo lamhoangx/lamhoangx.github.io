@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T12:13:12+07:00",
-  "model": "tv-drift-v3",
+  "generated_at": "2026-08-23T20:09:22+07:00",
+  "model": "tv-drift-gemini-v1",
   "horizon_days": 7,
   "trained_days": 7,
   "anchor": {
@@ -86,10 +86,11 @@
   "region": "average",
   "technical": null,
   "tam_ly": -0.5,
+  "de_xuat_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-08-23T12:13:12+07:00",
-      "model": "tv-drift-v3",
+      "generated_at": "2026-08-23T20:09:22+07:00",
+      "model": "tv-drift-gemini-v1",
       "horizon_days": 7,
       "trained_days": 7,
       "anchor": {
@@ -175,8 +176,8 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-08-23T12:13:12+07:00",
-      "model": "tv-drift-v3",
+      "generated_at": "2026-08-23T20:09:22+07:00",
+      "model": "tv-drift-gemini-v1",
       "horizon_days": 7,
       "trained_days": 7,
       "anchor": {
@@ -262,8 +263,8 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-08-23T12:13:12+07:00",
-      "model": "tv-drift-v3",
+      "generated_at": "2026-08-23T20:09:22+07:00",
+      "model": "tv-drift-gemini-v1",
       "horizon_days": 7,
       "trained_days": 7,
       "anchor": {
@@ -349,8 +350,8 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-08-23T12:13:12+07:00",
-      "model": "tv-drift-v3",
+      "generated_at": "2026-08-23T20:09:22+07:00",
+      "model": "tv-drift-gemini-v1",
       "horizon_days": 7,
       "trained_days": 7,
       "anchor": {
