@@ -1,19 +1,25 @@
 {
   "schema_version": 1,
   "date": "2026-08-23",
-  "updated_at": "2026-08-23T11:18:07+07:00",
+  "updated_at": "2026-08-23T11:53:02+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
-    "average": 96300,
-    "average_change": -1600,
-    "highest": 96500,
+    "average": 96575,
+    "average_change": -1425,
+    "highest": 97900,
     "regions": [
       {
         "id": "daklak",
         "name": "Đắk Lắk",
         "price": 96200,
-        "change": -1700
+        "change": -2600
+      },
+      {
+        "id": "gialai",
+        "name": "Gia Lai",
+        "price": 97900,
+        "change": 0
       },
       {
         "id": "daknong",
@@ -22,17 +28,16 @@
         "change": -1500
       },
       {
-        "id": "gialai",
-        "name": "Gia Lai",
-        "price": 96200,
-        "change": -1700
-      },
-      {
         "id": "lamdong",
         "name": "Lâm Đồng",
         "price": 95700,
         "change": -1600
       }
     ]
+  },
+  "pepper": {
+    "unit": "VND/kg",
+    "price": 137000,
+    "change": 0
   }
 }
