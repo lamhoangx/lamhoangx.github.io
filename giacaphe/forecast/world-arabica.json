@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-23T20:09:22+07:00",
+  "generated_at": "2026-08-24T20:29:21+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
   "trained_days": 6,
   "anchor": {
-    "date": "2026-08-22",
+    "date": "2026-08-24",
     "price": 7909
   },
   "predictions": [
     {
-      "date": "2026-08-23",
-      "price": 8007,
-      "low": 7702,
-      "high": 8311
-    },
-    {
-      "date": "2026-08-24",
-      "price": 8080,
-      "low": 7649,
-      "high": 8510
-    },
-    {
       "date": "2026-08-25",
-      "price": 8135,
-      "low": 7607,
-      "high": 8662
+      "price": 7936,
+      "low": 7631,
+      "high": 8240
     },
     {
       "date": "2026-08-26",
-      "price": 8176,
-      "low": 7566,
-      "high": 8785
+      "price": 7956,
+      "low": 7525,
+      "high": 8386
     },
     {
       "date": "2026-08-27",
-      "price": 8206,
-      "low": 7525,
-      "high": 8888
+      "price": 7971,
+      "low": 7444,
+      "high": 8497
     },
     {
       "date": "2026-08-28",
-      "price": 8230,
-      "low": 7484,
-      "high": 8976
+      "price": 7982,
+      "low": 7373,
+      "high": 8590
     },
     {
       "date": "2026-08-29",
-      "price": 8247,
-      "low": 7441,
-      "high": 9053
+      "price": 7990,
+      "low": 7310,
+      "high": 8670
+    },
+    {
+      "date": "2026-08-30",
+      "price": 7996,
+      "low": 7251,
+      "high": 8742
+    },
+    {
+      "date": "2026-08-31",
+      "price": 8001,
+      "low": 7196,
+      "high": 8806
     }
   ],
   "accuracy_30d": {
-    "samples": 1,
-    "mae": 251,
+    "samples": 2,
+    "mae": 211,
     "direction_hit_rate": 0.0
   },
   "stats": {
@@ -63,10 +63,10 @@
       "price": 8016
     },
     "low": {
-      "date": "2026-08-17",
-      "price": 7454
+      "date": "2026-08-18",
+      "price": 7608
     },
-    "average": 7821,
+    "average": 7897,
     "ma7": null,
     "ma30": null
   },
@@ -74,11 +74,26 @@
   "series": "arabica",
   "name": "Arabica New York",
   "unit": "USD/tấn",
-  "technical": null,
+  "technical": {
+    "symbol": "ICEUS:KCU2026",
+    "month": "09/26",
+    "rating": 0.4,
+    "rating_ma": 0.8,
+    "rating_other": 0,
+    "rsi": 65.06672413033942,
+    "close": 8047.0,
+    "unit": "USD/tấn",
+    "fetched_at": "2026-08-24T20:29:21+07:00"
+  },
   "accuracy_history": [
     {
       "date": "2026-08-22",
       "absolute_error": 251,
+      "direction_hit": false
+    },
+    {
+      "date": "2026-08-24",
+      "absolute_error": 171,
       "direction_hit": false
     }
   ]

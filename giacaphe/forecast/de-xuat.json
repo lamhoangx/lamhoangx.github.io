@@ -10,8 +10,28 @@
       "tam_ly": -0.5,
       "gia_co_ai": 96672,
       "gia_khong_ai": 96672,
+      "sai_so_co_ai": 72,
+      "sai_so_khong_ai": 72
+    },
+    {
+      "ngay_dung": "2026-08-24",
+      "ngay_dich": "2026-08-25",
+      "nhan": "yếu hơn sàn một chút",
+      "gia_tri": -0.5,
+      "rating": -0.49090909090909096,
+      "tam_ly": 0.0,
+      "gia_co_ai": 96392,
+      "gia_khong_ai": 96439,
       "sai_so_co_ai": null,
       "sai_so_khong_ai": null
     }
-  ]
+  ],
+  "hom_nay": {
+    "nhan": "yếu hơn sàn một chút",
+    "gia_tri": -0.5,
+    "tin_hieu_san": "bán",
+    "model": "gemini-3.5-flash",
+    "generated_at": "2026-08-24T20:29:22+07:00",
+    "ngay": "2026-08-24"
+  }
 }

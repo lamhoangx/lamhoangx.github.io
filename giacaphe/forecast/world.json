@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-23T20:09:22+07:00",
+  "generated_at": "2026-08-24T20:29:21+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
   "trained_days": 6,
   "anchor": {
-    "date": "2026-08-22",
+    "date": "2026-08-24",
     "price": 3598
   },
   "predictions": [
     {
-      "date": "2026-08-23",
-      "price": 3596,
-      "low": 3488,
-      "high": 3705
-    },
-    {
-      "date": "2026-08-24",
-      "price": 3595,
-      "low": 3441,
-      "high": 3749
-    },
-    {
       "date": "2026-08-25",
-      "price": 3594,
-      "low": 3406,
-      "high": 3783
+      "price": 3582,
+      "low": 3450,
+      "high": 3715
     },
     {
       "date": "2026-08-26",
-      "price": 3594,
-      "low": 3376,
-      "high": 3811
+      "price": 3571,
+      "low": 3383,
+      "high": 3759
     },
     {
       "date": "2026-08-27",
-      "price": 3593,
-      "low": 3350,
-      "high": 3836
+      "price": 3562,
+      "low": 3332,
+      "high": 3792
     },
     {
       "date": "2026-08-28",
-      "price": 3593,
-      "low": 3327,
-      "high": 3859
+      "price": 3555,
+      "low": 3290,
+      "high": 3821
     },
     {
       "date": "2026-08-29",
-      "price": 3592,
-      "low": 3305,
-      "high": 3880
+      "price": 3550,
+      "low": 3253,
+      "high": 3847
+    },
+    {
+      "date": "2026-08-30",
+      "price": 3547,
+      "low": 3221,
+      "high": 3872
+    },
+    {
+      "date": "2026-08-31",
+      "price": 3544,
+      "low": 3192,
+      "high": 3895
     }
   ],
   "accuracy_30d": {
-    "samples": 1,
-    "mae": 125,
+    "samples": 2,
+    "mae": 64,
     "direction_hit_rate": 0.0
   },
   "stats": {
@@ -66,7 +66,7 @@
       "date": "2026-08-22",
       "price": 3598
     },
-    "average": 3677,
+    "average": 3674,
     "ma7": null,
     "ma30": null
   },
@@ -74,11 +74,26 @@
   "series": "robusta",
   "name": "Robusta London",
   "unit": "USD/tấn",
-  "technical": null,
+  "technical": {
+    "symbol": "ICEEUR:RCU2026",
+    "month": "09/26",
+    "rating": -0.49090909090909096,
+    "rating_ma": -0.8,
+    "rating_other": -0.18181818181818182,
+    "rsi": 40.32484897659309,
+    "close": 3596.0,
+    "unit": "USD/tấn",
+    "fetched_at": "2026-08-24T20:29:21+07:00"
+  },
   "accuracy_history": [
     {
       "date": "2026-08-22",
       "absolute_error": 125,
+      "direction_hit": false
+    },
+    {
+      "date": "2026-08-24",
+      "absolute_error": 3,
       "direction_hit": false
     }
   ]
