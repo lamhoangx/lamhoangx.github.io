@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:21:10+07:00",
+  "generated_at": "2026-08-25T16:07:45+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
   "trained_days": 6,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-26",
-      "price": 8364,
-      "low": 8050,
-      "high": 8678
+      "price": 8357,
+      "low": 8043,
+      "high": 8671
     },
     {
       "date": "2026-08-27",
-      "price": 8392,
-      "low": 7948,
-      "high": 8836
+      "price": 8379,
+      "low": 7935,
+      "high": 8823
     },
     {
       "date": "2026-08-28",
-      "price": 8412,
-      "low": 7868,
-      "high": 8956
+      "price": 8395,
+      "low": 7852,
+      "high": 8939
     },
     {
       "date": "2026-08-29",
-      "price": 8428,
-      "low": 7800,
-      "high": 9055
+      "price": 8408,
+      "low": 7780,
+      "high": 9036
     },
     {
       "date": "2026-08-30",
-      "price": 8439,
-      "low": 7737,
-      "high": 9141
+      "price": 8417,
+      "low": 7715,
+      "high": 9119
     },
     {
       "date": "2026-08-31",
-      "price": 8448,
-      "low": 7679,
-      "high": 9217
+      "price": 8424,
+      "low": 7655,
+      "high": 9193
     },
     {
       "date": "2026-09-01",
-      "price": 8454,
-      "low": 7624,
-      "high": 9285
+      "price": 8429,
+      "low": 7598,
+      "high": 9260
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCU2026",
     "month": "09/26",
-    "rating": 0.603030303030303,
+    "rating": 0.4212121212121212,
     "rating_ma": 0.9333333333333333,
-    "rating_other": 0.2727272727272727,
-    "rsi": 68.90846515653,
-    "close": 8328.0,
+    "rating_other": -0.09090909090909091,
+    "rsi": 68.30570593962948,
+    "close": 8307.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-25T15:21:10+07:00"
+    "fetched_at": "2026-08-25T16:07:45+07:00"
   },
   "accuracy_history": [
     {
@@ -102,7 +102,8 @@
       "direction_hit": true,
       "gia_du_doan": 7936,
       "gia_neo": 7909,
-      "gia_thuc": 8328
+      "gia_thuc": 8328,
+      "sai_so_khong_doi": 419
     }
   ]
 }
