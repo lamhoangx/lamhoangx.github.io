@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-08-24T20:29:21+07:00",
+  "generated_at": "2026-08-25T15:21:10+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
   "trained_days": 6,
   "anchor": {
-    "date": "2026-08-24",
-    "price": 3598
+    "date": "2026-08-25",
+    "price": 3790
   },
   "predictions": [
     {
-      "date": "2026-08-25",
-      "price": 3582,
-      "low": 3450,
-      "high": 3715
-    },
-    {
       "date": "2026-08-26",
-      "price": 3571,
-      "low": 3383,
-      "high": 3759
+      "price": 3795,
+      "low": 3614,
+      "high": 3977
     },
     {
       "date": "2026-08-27",
-      "price": 3562,
-      "low": 3332,
-      "high": 3792
+      "price": 3799,
+      "low": 3542,
+      "high": 4056
     },
     {
       "date": "2026-08-28",
-      "price": 3555,
-      "low": 3290,
-      "high": 3821
+      "price": 3802,
+      "low": 3488,
+      "high": 4117
     },
     {
       "date": "2026-08-29",
-      "price": 3550,
-      "low": 3253,
-      "high": 3847
+      "price": 3804,
+      "low": 3441,
+      "high": 4168
     },
     {
       "date": "2026-08-30",
-      "price": 3547,
-      "low": 3221,
-      "high": 3872
+      "price": 3806,
+      "low": 3400,
+      "high": 4212
     },
     {
       "date": "2026-08-31",
-      "price": 3544,
-      "low": 3192,
-      "high": 3895
+      "price": 3807,
+      "low": 3362,
+      "high": 4252
+    },
+    {
+      "date": "2026-09-01",
+      "price": 3808,
+      "low": 3328,
+      "high": 4289
     }
   ],
   "accuracy_30d": {
-    "samples": 2,
-    "mae": 64,
+    "samples": 3,
+    "mae": 112,
     "direction_hit_rate": 0.0
   },
   "stats": {
     "window_days": 6,
     "high": {
-      "date": "2026-08-19",
-      "price": 3755
+      "date": "2026-08-25",
+      "price": 3790
     },
     "low": {
       "date": "2026-08-22",
       "price": 3598
     },
-    "average": 3674,
+    "average": 3694,
     "ma7": null,
     "ma30": null
   },
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEEUR:RCU2026",
     "month": "09/26",
-    "rating": -0.49090909090909096,
-    "rating_ma": -0.8,
-    "rating_other": -0.18181818181818182,
-    "rsi": 40.32484897659309,
-    "close": 3596.0,
+    "rating": 0.3333333333333333,
+    "rating_ma": 0.6666666666666666,
+    "rating_other": 0,
+    "rsi": 51.549538767152036,
+    "close": 3768.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-24T20:29:21+07:00"
+    "fetched_at": "2026-08-25T15:21:10+07:00"
   },
   "accuracy_history": [
     {
@@ -95,6 +95,14 @@
       "date": "2026-08-24",
       "absolute_error": 3,
       "direction_hit": false
+    },
+    {
+      "date": "2026-08-25",
+      "absolute_error": 208,
+      "direction_hit": false,
+      "gia_du_doan": 3582,
+      "gia_neo": 3598,
+      "gia_thuc": 3790
     }
   ]
 }
