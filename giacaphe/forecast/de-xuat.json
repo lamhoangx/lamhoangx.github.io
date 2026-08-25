@@ -1,39 +1,15 @@
 {
-  "model": "tv-drift-gemini-v1",
+  "model": "tv-close-gemini-v1",
   "ban_ghi": [
-    {
-      "ngay_dung": "2026-08-23",
-      "ngay_dich": "2026-08-24",
-      "nhan": null,
-      "gia_tri": null,
-      "rating": null,
-      "tam_ly": -0.5,
-      "gia_co_ai": 96672,
-      "gia_khong_ai": 96672,
-      "sai_so_co_ai": 72,
-      "sai_so_khong_ai": 72
-    },
-    {
-      "ngay_dung": "2026-08-24",
-      "ngay_dich": "2026-08-25",
-      "nhan": "yếu hơn sàn một chút",
-      "gia_tri": -0.5,
-      "rating": -0.49090909090909096,
-      "tam_ly": 0.0,
-      "gia_co_ai": 96392,
-      "gia_khong_ai": 96439,
-      "sai_so_co_ai": 1208,
-      "sai_so_khong_ai": 1161
-    },
     {
       "ngay_dung": "2026-08-25",
       "ngay_dich": "2026-08-26",
-      "nhan": null,
-      "gia_tri": null,
+      "nhan": "đi cùng sàn",
+      "gia_tri": 0.0,
       "rating": 0.3333333333333333,
       "tam_ly": 0.5,
-      "gia_co_ai": 97600,
-      "gia_khong_ai": 97600,
+      "gia_co_ai": 97643,
+      "gia_khong_ai": 97643,
       "sai_so_co_ai": null,
       "sai_so_khong_ai": null
     }
