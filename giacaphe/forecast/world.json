@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T06:01:06+07:00",
+  "generated_at": "2026-08-26T07:26:05+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
-  "trained_days": 6,
+  "trained_days": 5,
   "anchor": {
     "date": "2026-08-25",
     "price": 3790
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-26",
-      "price": 3778,
-      "low": 3597,
-      "high": 3960
+      "price": 3782,
+      "low": 3600,
+      "high": 3963
     },
     {
       "date": "2026-08-27",
-      "price": 3769,
-      "low": 3512,
-      "high": 4026
+      "price": 3776,
+      "low": 3519,
+      "high": 4033
     },
     {
       "date": "2026-08-28",
-      "price": 3763,
-      "low": 3448,
-      "high": 4077
+      "price": 3771,
+      "low": 3456,
+      "high": 4086
     },
     {
       "date": "2026-08-29",
-      "price": 3758,
-      "low": 3394,
-      "high": 4121
+      "price": 3768,
+      "low": 3404,
+      "high": 4131
     },
     {
       "date": "2026-08-30",
-      "price": 3754,
-      "low": 3348,
-      "high": 4160
+      "price": 3765,
+      "low": 3359,
+      "high": 4171
     },
     {
       "date": "2026-08-31",
-      "price": 3751,
-      "low": 3306,
-      "high": 4196
+      "price": 3763,
+      "low": 3318,
+      "high": 4208
     },
     {
       "date": "2026-09-01",
-      "price": 3749,
-      "low": 3268,
-      "high": 4229
+      "price": 3762,
+      "low": 3281,
+      "high": 4242
     }
   ],
   "accuracy_30d": {
@@ -57,7 +57,7 @@
     "direction_hit_rate": 0.0
   },
   "stats": {
-    "window_days": 6,
+    "window_days": 5,
     "high": {
       "date": "2026-08-25",
       "price": 3790
@@ -66,7 +66,7 @@
       "date": "2026-08-22",
       "price": 3598
     },
-    "average": 3694,
+    "average": 3681,
     "ma7": null,
     "ma30": null
   },
@@ -83,7 +83,7 @@
     "rsi": 45.56435100279831,
     "close": 3653.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-26T06:01:06+07:00"
+    "fetched_at": "2026-08-26T07:26:05+07:00"
   },
   "accuracy_history": [
     {

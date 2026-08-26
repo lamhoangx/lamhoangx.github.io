@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T06:01:06+07:00",
+  "generated_at": "2026-08-26T07:26:05+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
-  "trained_days": 6,
+  "trained_days": 5,
   "anchor": {
     "date": "2026-08-25",
     "price": 8328
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-26",
-      "price": 8353,
+      "price": 8362,
       "low": 8039,
-      "high": 8667
+      "high": 8684
     },
     {
       "date": "2026-08-27",
-      "price": 8371,
-      "low": 7927,
-      "high": 8815
+      "price": 8387,
+      "low": 7931,
+      "high": 8843
     },
     {
       "date": "2026-08-28",
-      "price": 8385,
-      "low": 7841,
-      "high": 8929
+      "price": 8406,
+      "low": 7847,
+      "high": 8965
     },
     {
       "date": "2026-08-29",
-      "price": 8395,
-      "low": 7767,
-      "high": 9023
+      "price": 8420,
+      "low": 7775,
+      "high": 9065
     },
     {
       "date": "2026-08-30",
-      "price": 8403,
-      "low": 7701,
-      "high": 9105
+      "price": 8431,
+      "low": 7710,
+      "high": 9152
     },
     {
       "date": "2026-08-31",
-      "price": 8409,
-      "low": 7640,
-      "high": 9178
+      "price": 8439,
+      "low": 7649,
+      "high": 9229
     },
     {
       "date": "2026-09-01",
-      "price": 8413,
-      "low": 7583,
-      "high": 9244
+      "price": 8445,
+      "low": 7591,
+      "high": 9298
     }
   ],
   "accuracy_30d": {
@@ -57,7 +57,7 @@
     "direction_hit_rate": 0.333
   },
   "stats": {
-    "window_days": 6,
+    "window_days": 5,
     "high": {
       "date": "2026-08-25",
       "price": 8328
@@ -66,7 +66,7 @@
       "date": "2026-08-22",
       "price": 7909
     },
-    "average": 8017,
+    "average": 8018,
     "ma7": null,
     "ma30": null
   },
@@ -80,10 +80,10 @@
     "rating": 0.3090909090909091,
     "rating_ma": 0.8,
     "rating_other": -0.18181818181818182,
-    "rsi": 65.70428963538377,
-    "close": 8212.0,
+    "rsi": 65.07033216044047,
+    "close": 8188.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-26T06:01:06+07:00"
+    "fetched_at": "2026-08-26T07:26:05+07:00"
   },
   "accuracy_history": [
     {
