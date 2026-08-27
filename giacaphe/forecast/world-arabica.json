@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T20:32:07+07:00",
+  "generated_at": "2026-08-27T09:16:00+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
-  "trained_days": 6,
+  "trained_days": 5,
   "anchor": {
     "date": "2026-08-26",
     "price": 8188
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-08-27",
-      "price": 8222,
-      "low": 7893,
-      "high": 8551
+      "price": 8230,
+      "low": 7864,
+      "high": 8596
     },
     {
       "date": "2026-08-28",
-      "price": 8248,
-      "low": 7783,
-      "high": 8713
+      "price": 8261,
+      "low": 7743,
+      "high": 8778
     },
     {
       "date": "2026-08-29",
-      "price": 8267,
-      "low": 7698,
-      "high": 8837
+      "price": 8284,
+      "low": 7650,
+      "high": 8918
     },
     {
       "date": "2026-08-30",
-      "price": 8281,
-      "low": 7624,
-      "high": 8939
+      "price": 8302,
+      "low": 7570,
+      "high": 9034
     },
     {
       "date": "2026-08-31",
-      "price": 8292,
-      "low": 7557,
-      "high": 9027
+      "price": 8315,
+      "low": 7497,
+      "high": 9133
     },
     {
       "date": "2026-09-01",
-      "price": 8300,
-      "low": 7495,
-      "high": 9106
+      "price": 8325,
+      "low": 7428,
+      "high": 9221
     },
     {
       "date": "2026-09-02",
-      "price": 8306,
-      "low": 7437,
-      "high": 9176
+      "price": 8332,
+      "low": 7364,
+      "high": 9301
     }
   ],
   "accuracy_30d": {
@@ -57,7 +57,7 @@
     "direction_hit_rate": 0.25
   },
   "stats": {
-    "window_days": 6,
+    "window_days": 5,
     "high": {
       "date": "2026-08-25",
       "price": 8328
@@ -66,7 +66,7 @@
       "date": "2026-08-22",
       "price": 7909
     },
-    "average": 8046,
+    "average": 8070,
     "ma7": null,
     "ma30": null
   },
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCU2026",
     "month": "09/26",
-    "rating": 0.35454545454545455,
+    "rating": 0.4,
     "rating_ma": 0.8,
-    "rating_other": -0.09090909090909091,
-    "rsi": 59.402886993574995,
-    "close": 7965.0,
+    "rating_other": 0,
+    "rsi": 57.56613005907704,
+    "close": 7884.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-26T20:32:07+07:00"
+    "fetched_at": "2026-08-27T09:16:00+07:00"
   },
   "accuracy_history": [
     {
