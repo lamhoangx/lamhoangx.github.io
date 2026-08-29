@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-29T10:52:34+07:00",
+  "generated_at": "2026-08-29T10:53:27+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
   "trained_days": 6,
   "anchor": {
-    "date": "2026-08-28",
-    "price": 7538
+    "date": "2026-08-29",
+    "price": 7625
   },
   "predictions": [
     {
-      "date": "2026-08-29",
-      "price": 7529,
-      "low": 7077,
-      "high": 7981
-    },
-    {
       "date": "2026-08-30",
-      "price": 7523,
-      "low": 6883,
-      "high": 8162
+      "price": 7599,
+      "low": 7136,
+      "high": 8062
     },
     {
       "date": "2026-08-31",
-      "price": 7518,
-      "low": 6735,
-      "high": 8301
+      "price": 7580,
+      "low": 6925,
+      "high": 8235
     },
     {
       "date": "2026-09-01",
-      "price": 7514,
-      "low": 6610,
-      "high": 8418
+      "price": 7565,
+      "low": 6763,
+      "high": 8367
     },
     {
       "date": "2026-09-02",
-      "price": 7511,
-      "low": 6501,
-      "high": 8522
+      "price": 7554,
+      "low": 6628,
+      "high": 8480
     },
     {
       "date": "2026-09-03",
-      "price": 7509,
-      "low": 6402,
-      "high": 8616
+      "price": 7546,
+      "low": 6510,
+      "high": 8581
     },
     {
       "date": "2026-09-04",
-      "price": 7508,
-      "low": 6312,
-      "high": 8703
+      "price": 7540,
+      "low": 6405,
+      "high": 8674
+    },
+    {
+      "date": "2026-09-05",
+      "price": 7535,
+      "low": 6310,
+      "high": 8760
     }
   ],
   "accuracy_30d": {
-    "samples": 6,
-    "mae": 282,
-    "direction_hit_rate": 0.167
+    "samples": 7,
+    "mae": 256,
+    "direction_hit_rate": 0.143
   },
   "stats": {
     "window_days": 6,
@@ -66,7 +66,7 @@
       "date": "2026-08-28",
       "price": 7538
     },
-    "average": 7959,
+    "average": 7912,
     "ma7": null,
     "ma30": null
   },
@@ -83,7 +83,7 @@
     "rsi": 52.047802811756505,
     "close": 7625.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-08-29T10:52:34+07:00"
+    "fetched_at": "2026-08-29T10:53:27+07:00"
   },
   "accuracy_history": [
     {
@@ -128,6 +128,15 @@
       "gia_du_doan": 7897,
       "gia_neo": 7884,
       "gia_thuc": 7538
+    },
+    {
+      "date": "2026-08-29",
+      "absolute_error": 96,
+      "direction_hit": false,
+      "sai_so_khong_doi": 87,
+      "gia_du_doan": 7529,
+      "gia_neo": 7538,
+      "gia_thuc": 7625
     }
   ]
 }
