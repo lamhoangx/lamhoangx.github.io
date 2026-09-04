@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-09-04T08:57:05+07:00",
-  "model": "tv-drift-v3",
+  "generated_at": "2026-09-04T12:22:16+07:00",
+  "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 5,
+  "trained_days": 19,
   "anchor": {
-    "date": "2026-09-03",
-    "price": 7240
+    "date": "2026-09-04",
+    "price": 7151
   },
   "predictions": [
     {
-      "date": "2026-09-04",
-      "price": 7207,
-      "low": 7008,
-      "high": 7407
-    },
-    {
       "date": "2026-09-05",
-      "price": 7182,
-      "low": 6900,
-      "high": 7464
+      "price": 7114,
+      "low": 6781,
+      "high": 7447
     },
     {
       "date": "2026-09-06",
-      "price": 7164,
-      "low": 6818,
-      "high": 7509
+      "price": 7086,
+      "low": 6615,
+      "high": 7557
     },
     {
       "date": "2026-09-07",
-      "price": 7150,
-      "low": 6751,
-      "high": 7549
+      "price": 7065,
+      "low": 6488,
+      "high": 7642
     },
     {
       "date": "2026-09-08",
-      "price": 7140,
-      "low": 6693,
-      "high": 7586
+      "price": 7050,
+      "low": 6383,
+      "high": 7716
     },
     {
       "date": "2026-09-09",
-      "price": 7132,
-      "low": 6643,
-      "high": 7620
+      "price": 7038,
+      "low": 6293,
+      "high": 7783
     },
     {
       "date": "2026-09-10",
-      "price": 7126,
-      "low": 6598,
-      "high": 7654
+      "price": 7029,
+      "low": 6213,
+      "high": 7845
+    },
+    {
+      "date": "2026-09-11",
+      "price": 7023,
+      "low": 6141,
+      "high": 7904
     }
   ],
   "accuracy_30d": {
-    "samples": 11,
-    "mae": 202,
-    "direction_hit_rate": 0.364
+    "samples": 14,
+    "mae": 178,
+    "direction_hit_rate": 0.429
   },
   "stats": {
-    "window_days": 5,
+    "window_days": 19,
     "high": {
-      "date": "2026-08-29",
-      "price": 7625
+      "date": "2026-08-25",
+      "price": 8328
     },
     "low": {
-      "date": "2026-09-03",
-      "price": 7240
+      "date": "2026-09-04",
+      "price": 7151
     },
-    "average": 7523,
-    "ma7": null,
+    "average": 7702,
+    "ma7": 7472,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
@@ -83,81 +83,92 @@
     "rsi": 42.666766258007094,
     "close": 7151.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-04T08:57:05+07:00"
+    "fetched_at": "2026-09-04T12:22:16+07:00"
   },
   "accuracy_history": [
     {
+      "date": "2026-08-20",
+      "absolute_error": 235,
+      "direction_hit": false,
+      "sai_so_khong_doi": 86
+    },
+    {
+      "date": "2026-08-21",
+      "absolute_error": 45,
+      "direction_hit": true,
+      "sai_so_khong_doi": 90
+    },
+    {
       "date": "2026-08-22",
-      "absolute_error": 251,
-      "direction_hit": false
+      "absolute_error": 233,
+      "direction_hit": false,
+      "sai_so_khong_doi": 107
     },
     {
       "date": "2026-08-24",
-      "absolute_error": 171,
-      "direction_hit": false
+      "absolute_error": 179,
+      "direction_hit": false,
+      "sai_so_khong_doi": 0
     },
     {
       "date": "2026-08-25",
-      "absolute_error": 392,
+      "absolute_error": 340,
       "direction_hit": true,
       "sai_so_khong_doi": 419
     },
     {
       "date": "2026-08-26",
-      "absolute_error": 174,
+      "absolute_error": 228,
       "direction_hit": false,
       "sai_so_khong_doi": 140
     },
     {
       "date": "2026-08-27",
-      "absolute_error": 346,
+      "absolute_error": 369,
       "direction_hit": false,
       "sai_so_khong_doi": 304
     },
     {
       "date": "2026-08-28",
-      "absolute_error": 359,
+      "absolute_error": 362,
       "direction_hit": false,
       "sai_so_khong_doi": 346
     },
     {
       "date": "2026-08-29",
-      "absolute_error": 96,
+      "absolute_error": 112,
       "direction_hit": false,
       "sai_so_khong_doi": 87
     },
     {
       "date": "2026-08-31",
-      "absolute_error": 98,
+      "absolute_error": 100,
       "direction_hit": false,
       "sai_so_khong_doi": 0
     },
     {
       "date": "2026-09-01",
-      "absolute_error": 6,
+      "absolute_error": 29,
       "direction_hit": true,
-      "sai_so_khong_doi": 43,
-      "gia_du_doan": 7588,
-      "gia_neo": 7625,
-      "gia_thuc": 7582
+      "sai_so_khong_doi": 43
     },
     {
       "date": "2026-09-02",
-      "absolute_error": 25,
+      "absolute_error": 56,
       "direction_hit": true,
-      "sai_so_khong_doi": 37,
-      "gia_du_doan": 7570,
-      "gia_neo": 7582,
-      "gia_thuc": 7545
+      "sai_so_khong_doi": 37
     },
     {
       "date": "2026-09-03",
-      "absolute_error": 300,
+      "absolute_error": 195,
       "direction_hit": true,
-      "sai_so_khong_doi": 305,
-      "gia_du_doan": 7540,
-      "gia_neo": 7545,
-      "gia_thuc": 7240
+      "sai_so_khong_doi": 305
+    },
+    {
+      "date": "2026-09-04",
+      "absolute_error": 9,
+      "direction_hit": true,
+      "sai_so_khong_doi": 89
     }
   ]
 }

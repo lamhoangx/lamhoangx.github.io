@@ -1,126 +1,6 @@
 {
-  "model": "tv-close-gemini-v1",
+  "model": "tv-close-gemini-v2",
   "ban_ghi": [
-    {
-      "ngay_dung": "2026-08-25",
-      "ngay_dich": "2026-08-26",
-      "nhan": "đi cùng sàn",
-      "gia_tri": 0.0,
-      "rating": -0.403030303030303,
-      "tam_ly": 0.5,
-      "gia_co_ai": 96154,
-      "gia_khong_ai": 96154,
-      "sai_so_co_ai": 946,
-      "sai_so_khong_ai": 946
-    },
-    {
-      "ngay_dung": "2026-08-26",
-      "ngay_dich": "2026-08-27",
-      "nhan": "mạnh hơn sàn một chút",
-      "gia_tri": 0.5,
-      "rating": -0.5363636363636364,
-      "tam_ly": 0.0,
-      "gia_co_ai": 96276,
-      "gia_khong_ai": 96236,
-      "sai_so_co_ai": 24,
-      "sai_so_khong_ai": 64
-    },
-    {
-      "ngay_dung": "2026-08-27",
-      "ngay_dich": "2026-08-28",
-      "nhan": "đi cùng sàn",
-      "gia_tri": 0.0,
-      "rating": -0.4666666666666667,
-      "tam_ly": null,
-      "gia_co_ai": 95361,
-      "gia_khong_ai": 95361,
-      "sai_so_co_ai": 61,
-      "sai_so_khong_ai": 61
-    },
-    {
-      "ngay_dung": "2026-08-28",
-      "ngay_dich": "2026-08-29",
-      "nhan": "đi cùng sàn",
-      "gia_tri": 0.0,
-      "rating": -0.4666666666666667,
-      "tam_ly": null,
-      "gia_co_ai": 94948,
-      "gia_khong_ai": 94948,
-      "sai_so_co_ai": 252,
-      "sai_so_khong_ai": 252
-    },
-    {
-      "ngay_dung": "2026-08-29",
-      "ngay_dich": "2026-08-30",
-      "nhan": "đi cùng sàn",
-      "gia_tri": 0.0,
-      "rating": -0.4666666666666667,
-      "tam_ly": -0.5,
-      "gia_co_ai": 95167,
-      "gia_khong_ai": 95167,
-      "sai_so_co_ai": 33,
-      "sai_so_khong_ai": 33
-    },
-    {
-      "ngay_dung": "2026-08-30",
-      "ngay_dich": "2026-09-01",
-      "nhan": null,
-      "gia_tri": null,
-      "rating": -0.4666666666666667,
-      "tam_ly": null,
-      "gia_co_ai": 95200,
-      "gia_khong_ai": 95200,
-      "sai_so_co_ai": 400,
-      "sai_so_khong_ai": 400
-    },
-    {
-      "ngay_dung": "2026-08-31",
-      "ngay_dich": "2026-09-01",
-      "nhan": null,
-      "gia_tri": null,
-      "rating": -0.4666666666666667,
-      "tam_ly": null,
-      "gia_co_ai": 95600,
-      "gia_khong_ai": 95600,
-      "sai_so_co_ai": 0,
-      "sai_so_khong_ai": 0
-    },
-    {
-      "ngay_dung": "2026-09-01",
-      "ngay_dich": "2026-09-02",
-      "nhan": null,
-      "gia_tri": null,
-      "rating": -0.4666666666666667,
-      "tam_ly": null,
-      "gia_co_ai": 95600,
-      "gia_khong_ai": 95600,
-      "sai_so_co_ai": 700,
-      "sai_so_khong_ai": 700
-    },
-    {
-      "ngay_dung": "2026-09-02",
-      "ngay_dich": "2026-09-03",
-      "nhan": null,
-      "gia_tri": null,
-      "rating": -0.4454545454545455,
-      "tam_ly": 0.0,
-      "gia_co_ai": 94706,
-      "gia_khong_ai": 94706,
-      "sai_so_co_ai": 406,
-      "sai_so_khong_ai": 406
-    },
-    {
-      "ngay_dung": "2026-09-03",
-      "ngay_dich": "2026-09-04",
-      "nhan": "yếu hơn sàn một chút",
-      "gia_tri": -0.5,
-      "rating": -0.5121212121212121,
-      "tam_ly": -1.0,
-      "gia_co_ai": 94229,
-      "gia_khong_ai": 94253,
-      "sai_so_co_ai": 71,
-      "sai_so_khong_ai": 47
-    },
     {
       "ngay_dung": "2026-09-04",
       "ngay_dich": "2026-09-05",
@@ -128,8 +8,8 @@
       "gia_tri": null,
       "rating": -0.4454545454545455,
       "tam_ly": null,
-      "gia_co_ai": 94300,
-      "gia_khong_ai": 94300,
+      "gia_co_ai": 93800,
+      "gia_khong_ai": 93800,
       "sai_so_co_ai": null,
       "sai_so_khong_ai": null
     }
