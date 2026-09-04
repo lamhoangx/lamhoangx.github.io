@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T23:36:15+07:00",
+  "generated_at": "2026-09-04T08:57:05+07:00",
   "model": "tv-drift-v3",
   "horizon_days": 7,
-  "trained_days": 6,
+  "trained_days": 5,
   "anchor": {
     "date": "2026-09-03",
     "price": 3376
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-09-04",
-      "price": 3366,
-      "low": 3323,
-      "high": 3408
+      "price": 3364,
+      "low": 3317,
+      "high": 3412
     },
     {
       "date": "2026-09-05",
-      "price": 3358,
-      "low": 3297,
-      "high": 3418
+      "price": 3356,
+      "low": 3288,
+      "high": 3423
     },
     {
       "date": "2026-09-06",
-      "price": 3352,
-      "low": 3278,
-      "high": 3426
+      "price": 3349,
+      "low": 3267,
+      "high": 3432
     },
     {
       "date": "2026-09-07",
-      "price": 3347,
-      "low": 3262,
-      "high": 3433
-    },
-    {
-      "date": "2026-09-08",
-      "price": 3344,
+      "price": 3345,
       "low": 3249,
       "high": 3440
     },
     {
+      "date": "2026-09-08",
+      "price": 3341,
+      "low": 3234,
+      "high": 3448
+    },
+    {
       "date": "2026-09-09",
-      "price": 3342,
-      "low": 3237,
-      "high": 3446
+      "price": 3338,
+      "low": 3221,
+      "high": 3455
     },
     {
       "date": "2026-09-10",
-      "price": 3340,
-      "low": 3227,
-      "high": 3453
+      "price": 3336,
+      "low": 3210,
+      "high": 3462
     }
   ],
   "accuracy_30d": {
@@ -57,16 +57,16 @@
     "direction_hit_rate": 0.545
   },
   "stats": {
-    "window_days": 6,
+    "window_days": 5,
     "high": {
-      "date": "2026-08-28",
-      "price": 3518
+      "date": "2026-08-29",
+      "price": 3492
     },
     "low": {
       "date": "2026-09-03",
       "price": 3376
     },
-    "average": 3467,
+    "average": 3457,
     "ma7": null,
     "ma30": null
   },
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEEUR:RCU2026",
     "month": "09/26",
-    "rating": -0.5121212121212121,
-    "rating_ma": -0.9333333333333333,
+    "rating": -0.4454545454545455,
+    "rating_ma": -0.8,
     "rating_other": -0.09090909090909091,
-    "rsi": 33.78406493814177,
-    "close": 3376.0,
+    "rsi": 32.56709738003393,
+    "close": 3344.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-03T23:36:15+07:00"
+    "fetched_at": "2026-09-04T08:57:05+07:00"
   },
   "accuracy_history": [
     {
@@ -130,10 +130,7 @@
       "date": "2026-08-31",
       "absolute_error": 58,
       "direction_hit": false,
-      "sai_so_khong_doi": 0,
-      "gia_du_doan": 3434,
-      "gia_neo": 3492,
-      "gia_thuc": 3492
+      "sai_so_khong_doi": 0
     },
     {
       "date": "2026-09-01",
