@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-09-07",
-  "updated_at": "2026-09-07T12:07:30+07:00",
+  "date": "2026-09-08",
+  "updated_at": "2026-09-08T07:14:36+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
@@ -16,9 +16,9 @@
         "change": 0
       },
       {
-        "id": "lamdong",
-        "name": "Lâm Đồng",
-        "price": 94200,
+        "id": "daknong",
+        "name": "Đắk Nông",
+        "price": 95000,
         "change": 0
       },
       {
@@ -28,153 +28,11 @@
         "change": 0
       },
       {
-        "id": "daknong",
-        "name": "Đắk Nông",
-        "price": 95000,
+        "id": "lamdong",
+        "name": "Lâm Đồng",
+        "price": 94200,
         "change": 0
       }
     ]
-  },
-  "pepper": {
-    "unit": "VND/kg",
-    "price": 137000,
-    "change": null
-  },
-  "fx": {
-    "usd_vnd": 25840
-  },
-  "international": {
-    "robusta_london": {
-      "unit": "USD/tấn",
-      "updated": "07/09/2026",
-      "contracts": [
-        {
-          "month": "09/26",
-          "price": 3344.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 3400.0,
-          "low": 3344.0,
-          "volume": 0,
-          "open": 3344.0,
-          "previous": 3344.0,
-          "open_interest": 434
-        },
-        {
-          "month": "11/26",
-          "price": 3430.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 3464.0,
-          "low": 3348.0,
-          "volume": 0,
-          "open": 3389.0,
-          "previous": 3374.0,
-          "open_interest": 48889
-        },
-        {
-          "month": "01/27",
-          "price": 3415.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 3449.0,
-          "low": 3343.0,
-          "volume": 0,
-          "open": 3380.0,
-          "previous": 3360.0,
-          "open_interest": 23418
-        },
-        {
-          "month": "03/27",
-          "price": 3396.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 3429.0,
-          "low": 3329.0,
-          "volume": 0,
-          "open": 3344.0,
-          "previous": 3340.0,
-          "open_interest": 15242
-        },
-        {
-          "month": "05/27",
-          "price": 3383.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 3410.0,
-          "low": 3318.0,
-          "volume": 0,
-          "open": 3328.0,
-          "previous": 3326.0,
-          "open_interest": 3270
-        }
-      ]
-    },
-    "arabica_newyork": {
-      "unit": "USD/tấn",
-      "updated": "07/09/2026",
-      "contracts": [
-        {
-          "month": "09/26",
-          "price": 7148.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 7182.0,
-          "low": 7148.0,
-          "volume": 0,
-          "open": 7182.0,
-          "previous": 7151.0,
-          "open_interest": 61
-        },
-        {
-          "month": "12/26",
-          "price": 6517.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 6633.0,
-          "low": 6454.0,
-          "volume": 0,
-          "open": 6528.0,
-          "previous": 6511.0,
-          "open_interest": 85920
-        },
-        {
-          "month": "03/27",
-          "price": 6336.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 6430.0,
-          "low": 6249.0,
-          "volume": 0,
-          "open": 6291.0,
-          "previous": 6284.0,
-          "open_interest": 39107
-        },
-        {
-          "month": "05/27",
-          "price": 6284.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 6368.0,
-          "low": 6189.0,
-          "volume": 0,
-          "open": 6228.0,
-          "previous": 6218.0,
-          "open_interest": 11315
-        },
-        {
-          "month": "07/27",
-          "price": 6248.0,
-          "change": 0.0,
-          "change_pct": 0.0,
-          "high": 6321.0,
-          "low": 6148.0,
-          "volume": 0,
-          "open": 6217.0,
-          "previous": 6173.0,
-          "open_interest": 5649
-        }
-      ]
-    }
   }
 }
