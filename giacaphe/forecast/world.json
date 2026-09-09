@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-09-09T07:14:36+07:00",
+  "generated_at": "2026-09-09T11:17:27+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 22,
+  "trained_days": 23,
   "anchor": {
-    "date": "2026-09-08",
-    "price": 3400
+    "date": "2026-09-09",
+    "price": 3347
   },
   "predictions": [
     {
-      "date": "2026-09-09",
-      "price": 3387,
-      "low": 3270,
-      "high": 3504
-    },
-    {
       "date": "2026-09-10",
-      "price": 3378,
-      "low": 3212,
-      "high": 3543
+      "price": 3336,
+      "low": 3221,
+      "high": 3451
     },
     {
       "date": "2026-09-11",
-      "price": 3370,
-      "low": 3167,
-      "high": 3573
+      "price": 3328,
+      "low": 3165,
+      "high": 3491
     },
     {
       "date": "2026-09-12",
-      "price": 3365,
-      "low": 3130,
-      "high": 3599
+      "price": 3322,
+      "low": 3122,
+      "high": 3521
     },
     {
       "date": "2026-09-13",
-      "price": 3361,
-      "low": 3099,
-      "high": 3623
+      "price": 3317,
+      "low": 3086,
+      "high": 3548
     },
     {
       "date": "2026-09-14",
-      "price": 3358,
-      "low": 3071,
-      "high": 3645
+      "price": 3314,
+      "low": 3056,
+      "high": 3572
     },
     {
       "date": "2026-09-15",
-      "price": 3355,
-      "low": 3045,
-      "high": 3666
+      "price": 3311,
+      "low": 3029,
+      "high": 3594
+    },
+    {
+      "date": "2026-09-16",
+      "price": 3309,
+      "low": 3004,
+      "high": 3614
     }
   ],
   "accuracy_30d": {
-    "samples": 17,
-    "mae": 58,
-    "direction_hit_rate": 0.294
+    "samples": 18,
+    "mae": 57,
+    "direction_hit_rate": 0.333
   },
   "stats": {
-    "window_days": 22,
+    "window_days": 23,
     "high": {
       "date": "2026-08-25",
       "price": 3790
@@ -66,8 +66,8 @@
       "date": "2026-09-04",
       "price": 3298
     },
-    "average": 3557,
-    "ma7": 3384,
+    "average": 3548,
+    "ma7": 3363,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
@@ -83,7 +83,7 @@
     "rsi": 39.83468916262024,
     "close": 3428.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-09T07:14:36+07:00"
+    "fetched_at": "2026-09-09T11:17:27+07:00"
   },
   "accuracy_history": [
     {
@@ -193,6 +193,15 @@
       "gia_du_doan": 3331,
       "gia_neo": 3344,
       "gia_thuc": 3400
+    },
+    {
+      "date": "2026-09-09",
+      "absolute_error": 40,
+      "direction_hit": true,
+      "sai_so_khong_doi": 53,
+      "gia_du_doan": 3387,
+      "gia_neo": 3400,
+      "gia_thuc": 3347
     }
   ]
 }

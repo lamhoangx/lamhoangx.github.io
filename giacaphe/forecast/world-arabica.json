@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-09-09T07:14:36+07:00",
+  "generated_at": "2026-09-09T11:17:27+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 22,
+  "trained_days": 23,
   "anchor": {
-    "date": "2026-09-08",
-    "price": 7148
+    "date": "2026-09-09",
+    "price": 7021
   },
   "predictions": [
     {
-      "date": "2026-09-09",
-      "price": 7112,
-      "low": 6804,
-      "high": 7421
-    },
-    {
       "date": "2026-09-10",
-      "price": 7085,
-      "low": 6649,
-      "high": 7522
+      "price": 6992,
+      "low": 6688,
+      "high": 7296
     },
     {
       "date": "2026-09-11",
-      "price": 7065,
-      "low": 6531,
-      "high": 7600
+      "price": 6970,
+      "low": 6540,
+      "high": 7400
     },
     {
       "date": "2026-09-12",
-      "price": 7050,
-      "low": 6433,
-      "high": 7667
+      "price": 6954,
+      "low": 6427,
+      "high": 7480
     },
     {
       "date": "2026-09-13",
-      "price": 7039,
-      "low": 6349,
-      "high": 7729
+      "price": 6942,
+      "low": 6333,
+      "high": 7550
     },
     {
       "date": "2026-09-14",
-      "price": 7030,
-      "low": 6275,
-      "high": 7786
+      "price": 6932,
+      "low": 6252,
+      "high": 7612
     },
     {
       "date": "2026-09-15",
-      "price": 7024,
-      "low": 6208,
-      "high": 7840
+      "price": 6925,
+      "low": 6181,
+      "high": 7670
+    },
+    {
+      "date": "2026-09-16",
+      "price": 6920,
+      "low": 6116,
+      "high": 7725
     }
   ],
   "accuracy_30d": {
-    "samples": 17,
-    "mae": 154,
-    "direction_hit_rate": 0.412
+    "samples": 18,
+    "mae": 150,
+    "direction_hit_rate": 0.444
   },
   "stats": {
-    "window_days": 22,
+    "window_days": 23,
     "high": {
       "date": "2026-08-25",
       "price": 8328
     },
     "low": {
-      "date": "2026-09-05",
-      "price": 7148
+      "date": "2026-09-09",
+      "price": 7021
     },
-    "average": 7626,
-    "ma7": 7280,
+    "average": 7600,
+    "ma7": 7200,
     "ma30": null
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCU2026",
     "month": "09/26",
-    "rating": -0.2909090909090909,
-    "rating_ma": -0.4,
-    "rating_other": -0.18181818181818182,
-    "rsi": 38.411735486205096,
-    "close": 6918.0,
+    "rating": -0.17878787878787877,
+    "rating_ma": -0.26666666666666666,
+    "rating_other": -0.09090909090909091,
+    "rsi": 40.17902202393176,
+    "close": 7021.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-09T07:14:36+07:00"
+    "fetched_at": "2026-09-09T11:17:27+07:00"
   },
   "accuracy_history": [
     {
@@ -193,6 +193,15 @@
       "gia_du_doan": 7111,
       "gia_neo": 7148,
       "gia_thuc": 7148
+    },
+    {
+      "date": "2026-09-09",
+      "absolute_error": 91,
+      "direction_hit": true,
+      "sai_so_khong_doi": 127,
+      "gia_du_doan": 7112,
+      "gia_neo": 7148,
+      "gia_thuc": 7021
     }
   ]
 }
