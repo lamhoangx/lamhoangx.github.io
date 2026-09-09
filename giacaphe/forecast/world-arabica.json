@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:37:30+07:00",
+  "generated_at": "2026-09-09T07:14:36+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 22,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-09-09",
-      "price": 7114,
-      "low": 6805,
-      "high": 7422
+      "price": 7112,
+      "low": 6804,
+      "high": 7421
     },
     {
       "date": "2026-09-10",
-      "price": 7088,
-      "low": 6652,
-      "high": 7525
+      "price": 7085,
+      "low": 6649,
+      "high": 7522
     },
     {
       "date": "2026-09-11",
-      "price": 7069,
-      "low": 6535,
-      "high": 7603
+      "price": 7065,
+      "low": 6531,
+      "high": 7600
     },
     {
       "date": "2026-09-12",
-      "price": 7055,
-      "low": 6438,
-      "high": 7672
+      "price": 7050,
+      "low": 6433,
+      "high": 7667
     },
     {
       "date": "2026-09-13",
-      "price": 7044,
-      "low": 6354,
-      "high": 7734
+      "price": 7039,
+      "low": 6349,
+      "high": 7729
     },
     {
       "date": "2026-09-14",
-      "price": 7036,
-      "low": 6280,
-      "high": 7791
+      "price": 7030,
+      "low": 6275,
+      "high": 7786
     },
     {
       "date": "2026-09-15",
-      "price": 7030,
-      "low": 6213,
-      "high": 7846
+      "price": 7024,
+      "low": 6208,
+      "high": 7840
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCU2026",
     "month": "09/26",
-    "rating": -0.08787878787878788,
-    "rating_ma": -0.26666666666666666,
-    "rating_other": 0.09090909090909091,
-    "rsi": 42.625178837417344,
-    "close": 7148.0,
+    "rating": -0.2909090909090909,
+    "rating_ma": -0.4,
+    "rating_other": -0.18181818181818182,
+    "rsi": 38.411735486205096,
+    "close": 6918.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-08T10:37:30+07:00"
+    "fetched_at": "2026-09-09T07:14:36+07:00"
   },
   "accuracy_history": [
     {
@@ -174,10 +174,7 @@
       "date": "2026-09-05",
       "absolute_error": 32,
       "direction_hit": true,
-      "sai_so_khong_doi": 3,
-      "gia_du_doan": 7116,
-      "gia_neo": 7151,
-      "gia_thuc": 7148
+      "sai_so_khong_doi": 3
     },
     {
       "date": "2026-09-07",
