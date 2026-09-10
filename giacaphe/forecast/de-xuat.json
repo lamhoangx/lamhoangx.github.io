@@ -16,22 +16,22 @@
     {
       "ngay_dung": "2026-09-10",
       "ngay_dich": "2026-09-11",
-      "nhan": null,
-      "gia_tri": null,
+      "nhan": "mạnh hơn sàn nhiều",
+      "gia_tri": 1.0,
       "rating": -0.3333333333333333,
       "tam_ly": 0.5,
-      "gia_co_ai": 95460,
+      "gia_co_ai": 95540,
       "gia_khong_ai": 95460,
       "sai_so_co_ai": null,
       "sai_so_khong_ai": null
     }
   ],
   "hom_nay": {
-    "nhan": "mạnh hơn sàn một chút",
-    "gia_tri": 0.5,
+    "nhan": "mạnh hơn sàn nhiều",
+    "gia_tri": 1.0,
     "tin_hieu_san": "bán",
     "model": "gemini-3.5-flash",
-    "generated_at": "2026-09-09T23:48:33+07:00",
-    "ngay": "2026-09-09"
+    "generated_at": "2026-09-10T23:34:27+07:00",
+    "ngay": "2026-09-10"
   }
 }
