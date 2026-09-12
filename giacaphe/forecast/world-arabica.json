@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:39:00+07:00",
+  "generated_at": "2026-09-12T07:09:30+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 25,
@@ -83,7 +83,7 @@
     "rsi": 38.11963197862679,
     "close": 6911.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-11T23:39:00+07:00"
+    "fetched_at": "2026-09-12T07:09:30+07:00"
   },
   "accuracy_history": [
     {
@@ -186,10 +186,7 @@
       "date": "2026-09-08",
       "absolute_error": 37,
       "direction_hit": false,
-      "sai_so_khong_doi": 0,
-      "gia_du_doan": 7111,
-      "gia_neo": 7148,
-      "gia_thuc": 7148
+      "sai_so_khong_doi": 0
     },
     {
       "date": "2026-09-09",
