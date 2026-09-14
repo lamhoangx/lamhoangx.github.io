@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:33:40+07:00",
+  "generated_at": "2026-09-14T07:26:28+07:00",
   "model": "tv-close-gemini-glm-v1",
   "horizon_days": 7,
   "trained_days": 29,
@@ -196,10 +196,7 @@
       "date": "2026-09-10",
       "absolute_error": 295,
       "direction_hit": false,
-      "sai_so_khong_doi": 100,
-      "gia_du_doan": 95795,
-      "gia_neo": 95600,
-      "gia_thuc": 95500
+      "sai_so_khong_doi": 100
     },
     {
       "date": "2026-09-11",
@@ -239,7 +236,7 @@
     "rsi": 45.11493647944541,
     "close": 3495.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-14T05:33:40+07:00"
+    "fetched_at": "2026-09-14T07:26:28+07:00"
   },
   "truyen_dan": {
     "r": 0.0,
@@ -249,7 +246,7 @@
   "glm_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-09-14T05:33:40+07:00",
+      "generated_at": "2026-09-14T07:26:28+07:00",
       "model": "tv-close-gemini-glm-v1",
       "horizon_days": 7,
       "trained_days": 29,
@@ -446,10 +443,7 @@
           "date": "2026-09-10",
           "absolute_error": 195,
           "direction_hit": false,
-          "sai_so_khong_doi": 0,
-          "gia_du_doan": 95695,
-          "gia_neo": 95500,
-          "gia_thuc": 95500
+          "sai_so_khong_doi": 0
         },
         {
           "date": "2026-09-11",
@@ -482,7 +476,7 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-09-14T05:33:40+07:00",
+      "generated_at": "2026-09-14T07:26:28+07:00",
       "model": "tv-close-gemini-glm-v1",
       "horizon_days": 7,
       "trained_days": 29,
@@ -679,10 +673,7 @@
           "date": "2026-09-10",
           "absolute_error": 194,
           "direction_hit": false,
-          "sai_so_khong_doi": 0,
-          "gia_du_doan": 95194,
-          "gia_neo": 95000,
-          "gia_thuc": 95000
+          "sai_so_khong_doi": 0
         },
         {
           "date": "2026-09-11",
@@ -715,7 +706,7 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-09-14T05:33:40+07:00",
+      "generated_at": "2026-09-14T07:26:28+07:00",
       "model": "tv-close-gemini-glm-v1",
       "horizon_days": 7,
       "trained_days": 29,
@@ -912,10 +903,7 @@
           "date": "2026-09-10",
           "absolute_error": 195,
           "direction_hit": false,
-          "sai_so_khong_doi": 0,
-          "gia_du_doan": 95695,
-          "gia_neo": 95500,
-          "gia_thuc": 95500
+          "sai_so_khong_doi": 0
         },
         {
           "date": "2026-09-11",
@@ -948,7 +936,7 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-09-14T05:33:40+07:00",
+      "generated_at": "2026-09-14T07:26:28+07:00",
       "model": "tv-close-gemini-glm-v1",
       "horizon_days": 7,
       "trained_days": 29,
@@ -1145,10 +1133,7 @@
           "date": "2026-09-10",
           "absolute_error": 496,
           "direction_hit": false,
-          "sai_so_khong_doi": 300,
-          "gia_du_doan": 95996,
-          "gia_neo": 95800,
-          "gia_thuc": 95500
+          "sai_so_khong_doi": 300
         },
         {
           "date": "2026-09-11",
