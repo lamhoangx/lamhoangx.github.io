@@ -1,12 +1,19 @@
 {
   "beta": 0.5,
   "beta_mac_dinh": 0.5,
-  "so_mau": 0,
+  "so_mau": 1,
   "toi_thieu": 20,
   "nguong_cai_thien": 0.03,
-  "mae_theo_beta": {},
-  "mae_hien_tai": null,
-  "ly_do": "chưa đủ mẫu (0/20) — dùng beta mặc định 0,5",
+  "mae_theo_beta": {
+    "0.3": 0,
+    "0.4": 0,
+    "0.5": 22,
+    "0.6": 49,
+    "0.7": 76,
+    "0.8": 104
+  },
+  "mae_hien_tai": 22,
+  "ly_do": "chưa đủ mẫu (1/20) — dùng beta mặc định 0,5",
   "chuoi": "average",
-  "cap_nhat": "2026-09-15T01:07:26+07:00"
+  "cap_nhat": "2026-09-15T07:09:28+07:00"
 }
