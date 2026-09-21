@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 21/09/2026 07:29. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 21/09/2026 10:48. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -101,8 +101,8 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 | Lâm Đồng | 7 | 140 đ | 300 đ | 71% | 100% |
 | Gia Lai | 7 | 156 đ | 286 đ | 71% | 100% |
 | Đắk Nông | 7 | 138 đ | 271 đ | 71% | 100% |
-| Robusta London | 4 | 38 USD | 38 USD | 50% | 100% |
-| Arabica New York | 4 | 168 USD | 205 USD | 100% | 75% |
+| Robusta London | 5 | 35 USD | 32 USD | 40% | 100% |
+| Arabica New York | 5 | 137 USD | 184 USD | 100% | 80% |
 
 ## Cách đọc
 
