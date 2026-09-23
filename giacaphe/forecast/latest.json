@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:16:38+07:00",
+  "generated_at": "2026-09-23T17:33:35+07:00",
   "model": "tv-close-gemini-glm-v2",
   "horizon_days": 7,
   "trained_days": 38,
@@ -275,7 +275,7 @@
     "rsi": 30.9477092270713,
     "close": 3230.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-23T11:16:38+07:00"
+    "fetched_at": "2026-09-23T17:33:35+07:00"
   },
   "tam_ly": -1.0,
   "truyen_dan": {
@@ -286,21 +286,21 @@
   "glm_ai": {
     "nhan": "dồi dào lên nhiều",
     "gia_tri": -1.0,
-    "generated_at": "2026-09-23T11:15:38+07:00",
+    "generated_at": "2026-09-23T17:33:07+07:00",
     "model": "glm/glm-5.3",
     "websearch": true,
     "so_doan": 9,
     "can_cu": [
-      "thời tiết vùng trồng",
-      "tồn kho sàn và cảng",
-      "xuất khẩu"
+      "vụ mùa Brazil",
+      "vụ mùa Việt Nam",
+      "tồn kho sàn và cảng"
     ],
     "dong_thuan": "kỹ thuật và tin cùng chiều",
-    "ky_thuat": "- Robusta London: tín hiệu tổng hợp bán mạnh; đường trung bình bán mạnh; chỉ báo dao động bán; RSI yếu; năm phiên gần đây giảm khá; hai mươi phiên gần đây giảm khá; đang ở vùng giữa của hai mươi phiên.\n- Arabica New York: tín hiệu tổng hợp bán; đường trung bình bán mạnh; chỉ báo dao động trung tính; RSI yếu; năm phiên gần đây giảm mạnh; hai mươi phiên gần đây giảm mạnh; đang ở gần đáy của hai mươi phiên."
+    "ky_thuat": "- Robusta London: tín hiệu tổng hợp bán mạnh; đường trung bình bán mạnh; chỉ báo dao động bán; RSI yếu; năm phiên gần đây giảm khá; hai mươi phiên gần đây giảm khá; đang ở vùng giữa của hai mươi phiên.\n- Arabica New York: tín hiệu tổng hợp bán mạnh; đường trung bình bán mạnh; chỉ báo dao động bán; RSI yếu; năm phiên gần đây giảm mạnh; hai mươi phiên gần đây giảm mạnh; đang ở gần đáy của hai mươi phiên."
   },
   "regions": {
     "daklak": {
-      "generated_at": "2026-09-23T11:16:38+07:00",
+      "generated_at": "2026-09-23T17:33:35+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 38,
@@ -569,7 +569,7 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-09-23T11:16:38+07:00",
+      "generated_at": "2026-09-23T17:33:35+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 38,
@@ -838,7 +838,7 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-09-23T11:16:38+07:00",
+      "generated_at": "2026-09-23T17:33:35+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 38,
@@ -1107,7 +1107,7 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-09-23T11:16:38+07:00",
+      "generated_at": "2026-09-23T17:33:35+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 38,
