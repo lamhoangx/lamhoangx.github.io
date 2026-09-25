@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:16:47+07:00",
+  "generated_at": "2026-09-26T00:24:05+07:00",
   "model": "tv-close-gemini-glm-v2",
   "horizon_days": 7,
   "trained_days": 40,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-09-26",
-      "price": 92628,
-      "low": 91709,
-      "high": 93547
+      "price": 93712,
+      "low": 92792,
+      "high": 94631
     },
     {
       "date": "2026-09-27",
-      "price": 92566,
-      "low": 91266,
-      "high": 93866
+      "price": 93645,
+      "low": 92345,
+      "high": 94946
     },
     {
       "date": "2026-09-28",
-      "price": 92519,
-      "low": 90927,
-      "high": 94111
+      "price": 93596,
+      "low": 92003,
+      "high": 95188
     },
     {
       "date": "2026-09-29",
-      "price": 92484,
-      "low": 90645,
-      "high": 94323
+      "price": 93558,
+      "low": 91720,
+      "high": 95397
     },
     {
       "date": "2026-09-30",
-      "price": 92458,
-      "low": 90402,
-      "high": 94513
+      "price": 93530,
+      "low": 91475,
+      "high": 95586
     },
     {
       "date": "2026-10-01",
-      "price": 92438,
-      "low": 90186,
-      "high": 94690
+      "price": 93510,
+      "low": 91258,
+      "high": 95761
     },
     {
       "date": "2026-10-02",
-      "price": 92423,
-      "low": 89991,
-      "high": 94856
+      "price": 93494,
+      "low": 91062,
+      "high": 95926
     }
   ],
   "accuracy_30d": {
@@ -269,20 +269,26 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.4,
+    "rating": -0.4454545454545455,
     "rating_ma": -0.8,
-    "rating_other": 0,
-    "rsi": 35.49460425420463,
-    "close": 3290.0,
+    "rating_other": -0.09090909090909091,
+    "rsi": 42.38988015978436,
+    "close": 3367.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-25T11:16:47+07:00"
+    "fetched_at": "2026-09-26T00:24:05+07:00"
   },
   "tam_ly": 0.5,
   "truyen_dan": {
-    "r": 0.0,
+    "r": 0.023404,
     "beta": 0.5
   },
-  "de_xuat_ai": null,
+  "de_xuat_ai": {
+    "nhan": "đi cùng sàn",
+    "gia_tri": 0.0,
+    "tin_hieu_san": "bán",
+    "model": "gemini-3.5-flash",
+    "generated_at": "2026-09-25T07:50:01+07:00"
+  },
   "glm_ai": {
     "nhan": "không có gì đổi",
     "gia_tri": 0.0,
@@ -300,7 +306,7 @@
   },
   "regions": {
     "daklak": {
-      "generated_at": "2026-09-25T11:16:47+07:00",
+      "generated_at": "2026-09-26T00:24:05+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 40,
@@ -311,45 +317,45 @@
       "predictions": [
         {
           "date": "2026-09-26",
-          "price": 92528,
-          "low": 91601,
-          "high": 93455
+          "price": 93611,
+          "low": 92684,
+          "high": 94539
         },
         {
           "date": "2026-09-27",
-          "price": 92465,
-          "low": 91154,
-          "high": 93777
+          "price": 93545,
+          "low": 92234,
+          "high": 94856
         },
         {
           "date": "2026-09-28",
-          "price": 92419,
-          "low": 90813,
-          "high": 94024
+          "price": 93495,
+          "low": 91889,
+          "high": 95101
         },
         {
           "date": "2026-09-29",
-          "price": 92384,
-          "low": 90529,
-          "high": 94238
+          "price": 93458,
+          "low": 91604,
+          "high": 95312
         },
         {
           "date": "2026-09-30",
-          "price": 92357,
-          "low": 90284,
-          "high": 94430
+          "price": 93430,
+          "low": 91357,
+          "high": 95503
         },
         {
           "date": "2026-10-01",
-          "price": 92338,
-          "low": 90067,
-          "high": 94608
+          "price": 93409,
+          "low": 91138,
+          "high": 95680
         },
         {
           "date": "2026-10-02",
-          "price": 92323,
-          "low": 89870,
-          "high": 94776
+          "price": 93393,
+          "low": 90940,
+          "high": 95846
         }
       ],
       "accuracy_30d": {
@@ -569,7 +575,7 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-09-25T11:16:47+07:00",
+      "generated_at": "2026-09-26T00:24:05+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 40,
@@ -580,45 +586,45 @@
       "predictions": [
         {
           "date": "2026-09-26",
-          "price": 92028,
-          "low": 91101,
-          "high": 92955
+          "price": 93105,
+          "low": 92178,
+          "high": 94032
         },
         {
           "date": "2026-09-27",
-          "price": 91968,
-          "low": 90657,
-          "high": 93279
+          "price": 93040,
+          "low": 91729,
+          "high": 94352
         },
         {
           "date": "2026-09-28",
-          "price": 91923,
-          "low": 90317,
-          "high": 93528
+          "price": 92992,
+          "low": 91386,
+          "high": 94598
         },
         {
           "date": "2026-09-29",
-          "price": 91888,
-          "low": 90034,
-          "high": 93743
+          "price": 92956,
+          "low": 91102,
+          "high": 94810
         },
         {
           "date": "2026-09-30",
-          "price": 91863,
-          "low": 89790,
-          "high": 93936
+          "price": 92928,
+          "low": 90855,
+          "high": 95002
         },
         {
           "date": "2026-10-01",
-          "price": 91844,
-          "low": 89573,
-          "high": 94115
+          "price": 92908,
+          "low": 90637,
+          "high": 95179
         },
         {
           "date": "2026-10-02",
-          "price": 91829,
-          "low": 89377,
-          "high": 94282
+          "price": 92893,
+          "low": 90440,
+          "high": 95346
         }
       ],
       "accuracy_30d": {
@@ -838,7 +844,7 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-09-25T11:16:47+07:00",
+      "generated_at": "2026-09-26T00:24:05+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 40,
@@ -849,45 +855,45 @@
       "predictions": [
         {
           "date": "2026-09-26",
-          "price": 92528,
-          "low": 91601,
-          "high": 93455
+          "price": 93611,
+          "low": 92684,
+          "high": 94539
         },
         {
           "date": "2026-09-27",
-          "price": 92465,
-          "low": 91154,
-          "high": 93777
+          "price": 93545,
+          "low": 92234,
+          "high": 94856
         },
         {
           "date": "2026-09-28",
-          "price": 92419,
-          "low": 90813,
-          "high": 94024
+          "price": 93495,
+          "low": 91889,
+          "high": 95101
         },
         {
           "date": "2026-09-29",
-          "price": 92384,
-          "low": 90529,
-          "high": 94238
+          "price": 93458,
+          "low": 91604,
+          "high": 95312
         },
         {
           "date": "2026-09-30",
-          "price": 92357,
-          "low": 90284,
-          "high": 94430
+          "price": 93430,
+          "low": 91357,
+          "high": 95503
         },
         {
           "date": "2026-10-01",
-          "price": 92338,
-          "low": 90067,
-          "high": 94608
+          "price": 93409,
+          "low": 91138,
+          "high": 95680
         },
         {
           "date": "2026-10-02",
-          "price": 92323,
-          "low": 89870,
-          "high": 94776
+          "price": 93393,
+          "low": 90940,
+          "high": 95846
         }
       ],
       "accuracy_30d": {
@@ -1107,7 +1113,7 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-09-25T11:16:47+07:00",
+      "generated_at": "2026-09-26T00:24:05+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 40,
@@ -1118,45 +1124,45 @@
       "predictions": [
         {
           "date": "2026-09-26",
-          "price": 92728,
-          "low": 91814,
-          "high": 93643
+          "price": 93813,
+          "low": 92898,
+          "high": 94727
         },
         {
           "date": "2026-09-27",
-          "price": 92666,
-          "low": 91373,
-          "high": 93959
+          "price": 93747,
+          "low": 92453,
+          "high": 95040
         },
         {
           "date": "2026-09-28",
-          "price": 92619,
-          "low": 91036,
-          "high": 94203
+          "price": 93697,
+          "low": 92113,
+          "high": 95281
         },
         {
           "date": "2026-09-29",
-          "price": 92584,
-          "low": 90756,
-          "high": 94413
+          "price": 93660,
+          "low": 91831,
+          "high": 95489
         },
         {
           "date": "2026-09-30",
-          "price": 92558,
-          "low": 90513,
-          "high": 94603
+          "price": 93632,
+          "low": 91587,
+          "high": 95677
         },
         {
           "date": "2026-10-01",
-          "price": 92538,
-          "low": 90299,
-          "high": 94778
+          "price": 93611,
+          "low": 91371,
+          "high": 95851
         },
         {
           "date": "2026-10-02",
-          "price": 92524,
-          "low": 90104,
-          "high": 94943
+          "price": 93595,
+          "low": 91176,
+          "high": 96015
         }
       ],
       "accuracy_30d": {

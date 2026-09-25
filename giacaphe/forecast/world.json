@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:16:47+07:00",
+  "generated_at": "2026-09-26T00:24:05+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 36,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-09-26",
-      "price": 3278,
+      "price": 3277,
       "low": 3166,
-      "high": 3389
+      "high": 3388
     },
     {
       "date": "2026-09-27",
-      "price": 3268,
-      "low": 3111,
-      "high": 3426
+      "price": 3267,
+      "low": 3110,
+      "high": 3425
     },
     {
       "date": "2026-09-28",
-      "price": 3261,
-      "low": 3068,
-      "high": 3454
+      "price": 3260,
+      "low": 3067,
+      "high": 3453
     },
     {
       "date": "2026-09-29",
-      "price": 3256,
-      "low": 3033,
-      "high": 3479
+      "price": 3254,
+      "low": 3032,
+      "high": 3477
     },
     {
       "date": "2026-09-30",
-      "price": 3252,
-      "low": 3003,
-      "high": 3502
+      "price": 3250,
+      "low": 3001,
+      "high": 3500
     },
     {
       "date": "2026-10-01",
-      "price": 3249,
-      "low": 2976,
-      "high": 3522
+      "price": 3247,
+      "low": 2974,
+      "high": 3520
     },
     {
       "date": "2026-10-02",
-      "price": 3247,
-      "low": 2952,
-      "high": 3542
+      "price": 3245,
+      "low": 2950,
+      "high": 3540
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.4,
+    "rating": -0.4454545454545455,
     "rating_ma": -0.8,
-    "rating_other": 0,
-    "rsi": 35.49460425420463,
-    "close": 3290.0,
+    "rating_other": -0.09090909090909091,
+    "rsi": 42.38988015978436,
+    "close": 3367.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-25T11:16:47+07:00"
+    "fetched_at": "2026-09-26T00:24:05+07:00"
   },
   "accuracy_history": [
     {
