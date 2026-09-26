@@ -1,83 +1,77 @@
 {
-  "generated_at": "2026-09-26T00:24:05+07:00",
+  "generated_at": "2026-09-26T07:09:26+07:00",
   "model": "tv-close-gemini-glm-v2",
   "horizon_days": 7,
-  "trained_days": 40,
+  "trained_days": 41,
   "anchor": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "price": 92600
   },
   "predictions": [
     {
-      "date": "2026-09-26",
-      "price": 93712,
-      "low": 92792,
-      "high": 94631
-    },
-    {
       "date": "2026-09-27",
-      "price": 93645,
-      "low": 92345,
-      "high": 94946
+      "price": 92628,
+      "low": 91714,
+      "high": 93543
     },
     {
       "date": "2026-09-28",
-      "price": 93596,
-      "low": 92003,
-      "high": 95188
+      "price": 92566,
+      "low": 91272,
+      "high": 93860
     },
     {
       "date": "2026-09-29",
-      "price": 93558,
-      "low": 91720,
-      "high": 95397
+      "price": 92519,
+      "low": 90934,
+      "high": 94103
     },
     {
       "date": "2026-09-30",
-      "price": 93530,
-      "low": 91475,
-      "high": 95586
+      "price": 92483,
+      "low": 90654,
+      "high": 94313
     },
     {
       "date": "2026-10-01",
-      "price": 93510,
-      "low": 91258,
-      "high": 95761
+      "price": 92457,
+      "low": 90411,
+      "high": 94503
     },
     {
       "date": "2026-10-02",
-      "price": 93494,
-      "low": 91062,
-      "high": 95926
+      "price": 92437,
+      "low": 90196,
+      "high": 94678
+    },
+    {
+      "date": "2026-10-03",
+      "price": 92422,
+      "low": 90002,
+      "high": 94843
     }
   ],
   "accuracy_30d": {
     "samples": 30,
-    "mae": 407,
-    "direction_hit_rate": 0.567
+    "mae": 440,
+    "direction_hit_rate": 0.533
   },
   "stats": {
     "window_days": 30,
     "high": {
-      "date": "2026-08-26",
-      "price": 97100
+      "date": "2026-08-27",
+      "price": 96300
     },
     "low": {
       "date": "2026-09-23",
       "price": 91900
     },
-    "average": 94620,
-    "ma7": 93057,
-    "ma30": 94620
+    "average": 94470,
+    "ma7": 92900,
+    "ma30": 94470
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "accuracy_history": [
-    {
-      "date": "2026-08-26",
-      "absolute_error": 118,
-      "direction_hit": true,
-      "sai_so_khong_doi": 500
-    },
     {
       "date": "2026-08-27",
       "absolute_error": 1198,
@@ -232,10 +226,7 @@
       "date": "2026-09-22",
       "absolute_error": 21,
       "direction_hit": true,
-      "sai_so_khong_doi": 800,
-      "gia_du_doan": 92879,
-      "gia_neo": 93700,
-      "gia_thuc": 92900
+      "sai_so_khong_doi": 800
     },
     {
       "date": "2026-09-23",
@@ -263,6 +254,15 @@
       "gia_du_doan": 92900,
       "gia_neo": 92900,
       "gia_thuc": 92600
+    },
+    {
+      "date": "2026-09-26",
+      "absolute_error": 1112,
+      "direction_hit": false,
+      "sai_so_khong_doi": 0,
+      "gia_du_doan": 93712,
+      "gia_neo": 92600,
+      "gia_thuc": 92600
     }
   ],
   "region": "average",
@@ -275,116 +275,90 @@
     "rsi": 42.38988015978436,
     "close": 3367.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-26T00:24:05+07:00"
+    "fetched_at": "2026-09-26T07:09:26+07:00"
   },
   "tam_ly": 0.5,
   "truyen_dan": {
-    "r": 0.023404,
+    "r": 0.0,
     "beta": 0.5
   },
-  "de_xuat_ai": {
-    "nhan": "đi cùng sàn",
-    "gia_tri": 0.0,
-    "tin_hieu_san": "bán",
-    "model": "gemini-3.5-flash",
-    "generated_at": "2026-09-25T07:50:01+07:00"
-  },
-  "glm_ai": {
-    "nhan": "không có gì đổi",
-    "gia_tri": 0.0,
-    "generated_at": "2026-09-25T11:15:40+07:00",
-    "model": "glm/glm-5.3",
-    "websearch": true,
-    "so_doan": 9,
-    "can_cu": [
-      "vụ mùa Việt Nam",
-      "tồn kho sàn và cảng",
-      "xuất khẩu"
-    ],
-    "dong_thuan": "kỹ thuật và tin ngược chiều",
-    "ky_thuat": "- Robusta London: tín hiệu tổng hợp bán; đường trung bình bán mạnh; chỉ báo dao động trung tính; RSI yếu; năm phiên gần đây giảm khá; hai mươi phiên gần đây giảm mạnh; đang ở gần đáy của hai mươi phiên.\n- Arabica New York: tín hiệu tổng hợp bán; đường trung bình bán mạnh; chỉ báo dao động trung tính; RSI yếu; năm phiên gần đây đứng yên; hai mươi phiên gần đây giảm mạnh; đang ở gần đáy của hai mươi phiên."
-  },
+  "de_xuat_ai": null,
+  "glm_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-09-26T00:24:05+07:00",
+      "generated_at": "2026-09-26T07:09:26+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
-      "trained_days": 40,
+      "trained_days": 41,
       "anchor": {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "price": 92500
       },
       "predictions": [
         {
-          "date": "2026-09-26",
-          "price": 93611,
-          "low": 92684,
-          "high": 94539
-        },
-        {
           "date": "2026-09-27",
-          "price": 93545,
-          "low": 92234,
-          "high": 94856
+          "price": 92528,
+          "low": 91606,
+          "high": 93451
         },
         {
           "date": "2026-09-28",
-          "price": 93495,
-          "low": 91889,
-          "high": 95101
+          "price": 92465,
+          "low": 91161,
+          "high": 93770
         },
         {
           "date": "2026-09-29",
-          "price": 93458,
-          "low": 91604,
-          "high": 95312
+          "price": 92418,
+          "low": 90820,
+          "high": 94016
         },
         {
           "date": "2026-09-30",
-          "price": 93430,
-          "low": 91357,
-          "high": 95503
+          "price": 92383,
+          "low": 90538,
+          "high": 94228
         },
         {
           "date": "2026-10-01",
-          "price": 93409,
-          "low": 91138,
-          "high": 95680
+          "price": 92356,
+          "low": 90293,
+          "high": 94419
         },
         {
           "date": "2026-10-02",
-          "price": 93393,
-          "low": 90940,
-          "high": 95846
+          "price": 92337,
+          "low": 90077,
+          "high": 94597
+        },
+        {
+          "date": "2026-10-03",
+          "price": 92322,
+          "low": 89881,
+          "high": 94763
         }
       ],
       "accuracy_30d": {
         "samples": 30,
-        "mae": 408,
-        "direction_hit_rate": 0.567
+        "mae": 441,
+        "direction_hit_rate": 0.533
       },
       "stats": {
         "window_days": 30,
         "high": {
-          "date": "2026-08-26",
-          "price": 97000
+          "date": "2026-08-27",
+          "price": 96200
         },
         "low": {
           "date": "2026-09-23",
           "price": 91800
         },
-        "average": 94537,
-        "ma7": 92957,
-        "ma30": 94537
+        "average": 94387,
+        "ma7": 92800,
+        "ma30": 94387
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-08-26",
-          "absolute_error": 117,
-          "direction_hit": true,
-          "sai_so_khong_doi": 500
-        },
         {
           "date": "2026-08-27",
           "absolute_error": 1196,
@@ -539,10 +513,7 @@
           "date": "2026-09-22",
           "absolute_error": 20,
           "direction_hit": true,
-          "sai_so_khong_doi": 800,
-          "gia_du_doan": 92780,
-          "gia_neo": 93600,
-          "gia_thuc": 92800
+          "sai_so_khong_doi": 800
         },
         {
           "date": "2026-09-23",
@@ -570,90 +541,93 @@
           "gia_du_doan": 92800,
           "gia_neo": 92800,
           "gia_thuc": 92500
+        },
+        {
+          "date": "2026-09-26",
+          "absolute_error": 1111,
+          "direction_hit": false,
+          "sai_so_khong_doi": 0,
+          "gia_du_doan": 93611,
+          "gia_neo": 92500,
+          "gia_thuc": 92500
         }
       ],
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-09-26T00:24:05+07:00",
+      "generated_at": "2026-09-26T07:09:26+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
-      "trained_days": 40,
+      "trained_days": 41,
       "anchor": {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "price": 92000
       },
       "predictions": [
         {
-          "date": "2026-09-26",
-          "price": 93105,
-          "low": 92178,
-          "high": 94032
-        },
-        {
           "date": "2026-09-27",
-          "price": 93040,
-          "low": 91729,
-          "high": 94352
+          "price": 92028,
+          "low": 91105,
+          "high": 92950
         },
         {
           "date": "2026-09-28",
-          "price": 92992,
-          "low": 91386,
-          "high": 94598
+          "price": 91968,
+          "low": 90663,
+          "high": 93273
         },
         {
           "date": "2026-09-29",
-          "price": 92956,
-          "low": 91102,
-          "high": 94810
+          "price": 91923,
+          "low": 90325,
+          "high": 93521
         },
         {
           "date": "2026-09-30",
-          "price": 92928,
-          "low": 90855,
-          "high": 95002
+          "price": 91890,
+          "low": 90044,
+          "high": 93735
         },
         {
           "date": "2026-10-01",
-          "price": 92908,
-          "low": 90637,
-          "high": 95179
+          "price": 91864,
+          "low": 89801,
+          "high": 93928
         },
         {
           "date": "2026-10-02",
-          "price": 92893,
-          "low": 90440,
-          "high": 95346
+          "price": 91846,
+          "low": 89586,
+          "high": 94106
+        },
+        {
+          "date": "2026-10-03",
+          "price": 91831,
+          "low": 89390,
+          "high": 94273
         }
       ],
       "accuracy_30d": {
         "samples": 30,
-        "mae": 399,
-        "direction_hit_rate": 0.567
+        "mae": 432,
+        "direction_hit_rate": 0.533
       },
       "stats": {
         "window_days": 30,
         "high": {
-          "date": "2026-08-26",
-          "price": 96500
+          "date": "2026-08-27",
+          "price": 95700
         },
         "low": {
           "date": "2026-09-23",
           "price": 91200
         },
-        "average": 94007,
-        "ma7": 92371,
-        "ma30": 94007
+        "average": 93857,
+        "ma7": 92229,
+        "ma30": 93857
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-08-26",
-          "absolute_error": 114,
-          "direction_hit": true,
-          "sai_so_khong_doi": 500
-        },
         {
           "date": "2026-08-27",
           "absolute_error": 1186,
@@ -808,10 +782,7 @@
           "date": "2026-09-22",
           "absolute_error": 15,
           "direction_hit": true,
-          "sai_so_khong_doi": 800,
-          "gia_du_doan": 92185,
-          "gia_neo": 93000,
-          "gia_thuc": 92200
+          "sai_so_khong_doi": 800
         },
         {
           "date": "2026-09-23",
@@ -839,90 +810,93 @@
           "gia_du_doan": 92200,
           "gia_neo": 92200,
           "gia_thuc": 92000
+        },
+        {
+          "date": "2026-09-26",
+          "absolute_error": 1105,
+          "direction_hit": false,
+          "sai_so_khong_doi": 0,
+          "gia_du_doan": 93105,
+          "gia_neo": 92000,
+          "gia_thuc": 92000
         }
       ],
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-09-26T00:24:05+07:00",
+      "generated_at": "2026-09-26T07:09:26+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
-      "trained_days": 40,
+      "trained_days": 41,
       "anchor": {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "price": 92500
       },
       "predictions": [
         {
-          "date": "2026-09-26",
-          "price": 93611,
-          "low": 92684,
-          "high": 94539
-        },
-        {
           "date": "2026-09-27",
-          "price": 93545,
-          "low": 92234,
-          "high": 94856
+          "price": 92528,
+          "low": 91606,
+          "high": 93451
         },
         {
           "date": "2026-09-28",
-          "price": 93495,
-          "low": 91889,
-          "high": 95101
+          "price": 92465,
+          "low": 91161,
+          "high": 93770
         },
         {
           "date": "2026-09-29",
-          "price": 93458,
-          "low": 91604,
-          "high": 95312
+          "price": 92418,
+          "low": 90820,
+          "high": 94016
         },
         {
           "date": "2026-09-30",
-          "price": 93430,
-          "low": 91357,
-          "high": 95503
+          "price": 92383,
+          "low": 90538,
+          "high": 94228
         },
         {
           "date": "2026-10-01",
-          "price": 93409,
-          "low": 91138,
-          "high": 95680
+          "price": 92356,
+          "low": 90293,
+          "high": 94419
         },
         {
           "date": "2026-10-02",
-          "price": 93393,
-          "low": 90940,
-          "high": 95846
+          "price": 92337,
+          "low": 90077,
+          "high": 94597
+        },
+        {
+          "date": "2026-10-03",
+          "price": 92322,
+          "low": 89881,
+          "high": 94763
         }
       ],
       "accuracy_30d": {
         "samples": 30,
-        "mae": 408,
-        "direction_hit_rate": 0.567
+        "mae": 441,
+        "direction_hit_rate": 0.533
       },
       "stats": {
         "window_days": 30,
         "high": {
-          "date": "2026-08-26",
-          "price": 97000
+          "date": "2026-08-27",
+          "price": 96200
         },
         "low": {
           "date": "2026-09-23",
           "price": 91800
         },
-        "average": 94537,
-        "ma7": 92957,
-        "ma30": 94537
+        "average": 94387,
+        "ma7": 92800,
+        "ma30": 94387
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-08-26",
-          "absolute_error": 117,
-          "direction_hit": true,
-          "sai_so_khong_doi": 500
-        },
         {
           "date": "2026-08-27",
           "absolute_error": 1196,
@@ -1077,10 +1051,7 @@
           "date": "2026-09-22",
           "absolute_error": 20,
           "direction_hit": true,
-          "sai_so_khong_doi": 800,
-          "gia_du_doan": 92780,
-          "gia_neo": 93600,
-          "gia_thuc": 92800
+          "sai_so_khong_doi": 800
         },
         {
           "date": "2026-09-23",
@@ -1108,90 +1079,93 @@
           "gia_du_doan": 92800,
           "gia_neo": 92800,
           "gia_thuc": 92500
+        },
+        {
+          "date": "2026-09-26",
+          "absolute_error": 1111,
+          "direction_hit": false,
+          "sai_so_khong_doi": 0,
+          "gia_du_doan": 93611,
+          "gia_neo": 92500,
+          "gia_thuc": 92500
         }
       ],
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-09-26T00:24:05+07:00",
+      "generated_at": "2026-09-26T07:09:26+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
-      "trained_days": 40,
+      "trained_days": 41,
       "anchor": {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "price": 92700
       },
       "predictions": [
         {
-          "date": "2026-09-26",
-          "price": 93813,
-          "low": 92898,
-          "high": 94727
-        },
-        {
           "date": "2026-09-27",
-          "price": 93747,
-          "low": 92453,
-          "high": 95040
+          "price": 92728,
+          "low": 91818,
+          "high": 93637
         },
         {
           "date": "2026-09-28",
-          "price": 93697,
-          "low": 92113,
-          "high": 95281
+          "price": 92665,
+          "low": 91378,
+          "high": 93952
         },
         {
           "date": "2026-09-29",
-          "price": 93660,
-          "low": 91831,
-          "high": 95489
+          "price": 92618,
+          "low": 91042,
+          "high": 94194
         },
         {
           "date": "2026-09-30",
-          "price": 93632,
-          "low": 91587,
-          "high": 95677
+          "price": 92583,
+          "low": 90763,
+          "high": 94403
         },
         {
           "date": "2026-10-01",
-          "price": 93611,
-          "low": 91371,
-          "high": 95851
+          "price": 92556,
+          "low": 90522,
+          "high": 94591
         },
         {
           "date": "2026-10-02",
-          "price": 93595,
-          "low": 91176,
-          "high": 96015
+          "price": 92537,
+          "low": 90308,
+          "high": 94765
+        },
+        {
+          "date": "2026-10-03",
+          "price": 92522,
+          "low": 90114,
+          "high": 94929
         }
       ],
       "accuracy_30d": {
         "samples": 30,
-        "mae": 419,
-        "direction_hit_rate": 0.567
+        "mae": 452,
+        "direction_hit_rate": 0.533
       },
       "stats": {
         "window_days": 30,
         "high": {
-          "date": "2026-08-26",
-          "price": 97200
+          "date": "2026-08-27",
+          "price": 96500
         },
         "low": {
           "date": "2026-09-23",
           "price": 92000
         },
-        "average": 94747,
-        "ma7": 93157,
-        "ma30": 94747
+        "average": 94597,
+        "ma7": 93000,
+        "ma30": 94597
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-08-26",
-          "absolute_error": 119,
-          "direction_hit": true,
-          "sai_so_khong_doi": 500
-        },
         {
           "date": "2026-08-27",
           "absolute_error": 1300,
@@ -1346,10 +1320,7 @@
           "date": "2026-09-22",
           "absolute_error": 22,
           "direction_hit": true,
-          "sai_so_khong_doi": 800,
-          "gia_du_doan": 92978,
-          "gia_neo": 93800,
-          "gia_thuc": 93000
+          "sai_so_khong_doi": 800
         },
         {
           "date": "2026-09-23",
@@ -1376,6 +1347,15 @@
           "sai_so_khong_doi": 300,
           "gia_du_doan": 93000,
           "gia_neo": 93000,
+          "gia_thuc": 92700
+        },
+        {
+          "date": "2026-09-26",
+          "absolute_error": 1113,
+          "direction_hit": false,
+          "sai_so_khong_doi": 0,
+          "gia_du_doan": 93813,
+          "gia_neo": 92700,
           "gia_thuc": 92700
         }
       ],
