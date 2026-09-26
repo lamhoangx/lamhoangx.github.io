@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:09:26+07:00",
+  "generated_at": "2026-09-26T07:52:44+07:00",
   "model": "tv-close-gemini-glm-v2",
   "horizon_days": 7,
   "trained_days": 41,
@@ -275,18 +275,24 @@
     "rsi": 42.38988015978436,
     "close": 3367.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-09-26T07:09:26+07:00"
+    "fetched_at": "2026-09-26T07:52:44+07:00"
   },
   "tam_ly": 0.5,
   "truyen_dan": {
     "r": 0.0,
     "beta": 0.5
   },
-  "de_xuat_ai": null,
+  "de_xuat_ai": {
+    "nhan": "đi cùng sàn",
+    "gia_tri": 0.0,
+    "tin_hieu_san": "bán",
+    "model": "gemini-3.5-flash",
+    "generated_at": "2026-09-26T07:52:57+07:00"
+  },
   "glm_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-09-26T07:09:26+07:00",
+      "generated_at": "2026-09-26T07:52:44+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 41,
@@ -555,7 +561,7 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-09-26T07:09:26+07:00",
+      "generated_at": "2026-09-26T07:52:44+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 41,
@@ -824,7 +830,7 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-09-26T07:09:26+07:00",
+      "generated_at": "2026-09-26T07:52:44+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 41,
@@ -1093,7 +1099,7 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-09-26T07:09:26+07:00",
+      "generated_at": "2026-09-26T07:52:44+07:00",
       "model": "tv-close-gemini-glm-v2",
       "horizon_days": 7,
       "trained_days": 41,
