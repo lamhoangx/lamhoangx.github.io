@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:24:40+07:00",
+  "generated_at": "2026-10-02T17:42:16+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 42,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-10-03",
-      "price": 6168,
-      "low": 5954,
-      "high": 6382
+      "price": 6184,
+      "low": 5970,
+      "high": 6399
     },
     {
       "date": "2026-10-04",
-      "price": 6171,
-      "low": 5868,
-      "high": 6474
+      "price": 6200,
+      "low": 5897,
+      "high": 6503
     },
     {
       "date": "2026-10-05",
-      "price": 6173,
-      "low": 5802,
-      "high": 6544
+      "price": 6211,
+      "low": 5840,
+      "high": 6582
     },
     {
       "date": "2026-10-06",
-      "price": 6175,
-      "low": 5746,
-      "high": 6604
+      "price": 6220,
+      "low": 5791,
+      "high": 6649
     },
     {
       "date": "2026-10-07",
-      "price": 6176,
-      "low": 5697,
-      "high": 6655
+      "price": 6226,
+      "low": 5747,
+      "high": 6706
     },
     {
       "date": "2026-10-08",
-      "price": 6177,
-      "low": 5652,
-      "high": 6702
+      "price": 6231,
+      "low": 5706,
+      "high": 6756
     },
     {
       "date": "2026-10-09",
-      "price": 6178,
-      "low": 5611,
-      "high": 6745
+      "price": 6235,
+      "low": 5668,
+      "high": 6802
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCH2027",
     "month": "03/27",
-    "rating": -0.15454545454545454,
-    "rating_ma": -0.4,
+    "rating": 0.4454545454545455,
+    "rating_ma": 0.8,
     "rating_other": 0.09090909090909091,
-    "rsi": 47.656193279619494,
-    "close": 6164.0,
+    "rsi": 53.58486752574301,
+    "close": 6309.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-02T10:24:40+07:00"
+    "fetched_at": "2026-10-02T17:42:16+07:00"
   },
   "accuracy_history": [
     {
