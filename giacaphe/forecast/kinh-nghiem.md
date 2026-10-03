@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 03/10/2026 07:35. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 03/10/2026 11:02. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -12,35 +12,35 @@ Cập nhật: 03/10/2026 07:35. Sổ giữ 60 ngày mốc gần nhất; mọi co
 
 | Tầm (ngày) | Số lần | Sai số TB | Đứng yên | Dải 90% phủ |
 |---|---|---|---|---|
-| 1 | 19 | 211 đ | 437 đ | 100% |
-| 2 | 18 | 486 đ | 578 đ | 100% |
-| 3 | 17 | 580 đ | 759 đ | 100% |
-| 4 | 16 | 756 đ | 944 đ | 94% |
-| 5 | 15 | 901 đ | 1.020 đ | 93% |
-| 6 | 14 | 956 đ | 1.093 đ | 93% |
-| 7 | 13 | 1.140 đ | 1.177 đ | 92% |
+| 1 | 19 | 206 đ | 442 đ | 100% |
+| 2 | 18 | 481 đ | 572 đ | 100% |
+| 3 | 17 | 575 đ | 765 đ | 100% |
+| 4 | 16 | 754 đ | 950 đ | 94% |
+| 5 | 15 | 895 đ | 1.027 đ | 93% |
+| 6 | 14 | 964 đ | 1.100 đ | 93% |
+| 7 | 13 | 1.148 đ | 1.185 đ | 92% |
 
 ### Ngày-1: mô hình so với đứng yên
 
-Trên 19 lần đo: sai số TB **211 đ**, đứng yên **437 đ**, đúng chiều 68%, dải 90% phủ 100%.
-→ Mô hình **đang thắng** mốc đứng yên (−226 đ).
+Trên 19 lần đo: sai số TB **206 đ**, đứng yên **442 đ**, đúng chiều 74%, dải 90% phủ 100%.
+→ Mô hình **đang thắng** mốc đứng yên (−236 đ).
 
 ### Từng lớp giúp hay hại (ngày-1)
 
 | Lớp | Có tiếng nói | Đúng chiều | Nếu bỏ lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| truyền dẫn London | 14 | 79% | 439 đ | giúp (+228 đ) |
-| tín hiệu sàn | 0 | — | 211 đ | chưa có tiếng nói |
-| xu hướng gần | 0 | — | 211 đ | chưa có tiếng nói |
-| AI điều tiết | 11 | 46% | 183 đ | hại (−28 đ) |
+| truyền dẫn London | 14 | 86% | 445 đ | giúp (+239 đ) |
+| tín hiệu sàn | 0 | — | 206 đ | chưa có tiếng nói |
+| xu hướng gần | 0 | — | 206 đ | chưa có tiếng nói |
+| AI điều tiết | 11 | 46% | 178 đ | hại (−28 đ) |
 
 ### Từng lớp AI riêng (ngày-1)
 
 | Lớp AI | Có tiếng nói | Đúng chiều | Nếu bỏ riêng lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| tâm lý bản tin | 11 | 55% | 198 đ | hại (−13 đ) |
-| đề xuất lệch sàn | 4 | 0% | 210 đ | hại (−1 đ) |
-| cung–cầu thế giới (GLM) | 8 | 50% | 197 đ | hại (−14 đ) |
+| tâm lý bản tin | 11 | 55% | 193 đ | hại (−13 đ) |
+| đề xuất lệch sàn | 4 | 0% | 205 đ | hại (−1 đ) |
+| cung–cầu thế giới (GLM) | 8 | 50% | 191 đ | hại (−15 đ) |
 
 ### GLM theo đồng thuận kỹ thuật–tin
 
@@ -61,7 +61,7 @@ Luật chốt trước: cần ≥ 20 mẫu "ngược chiều" (hiện 0) rồi m
 - bỏ lỡ cú đi lớn: 1 lần
 - đoán cú đi không xảy ra: 1 lần
 
-Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 9 ngày sàn đi ≥ +0,50%): **0,40**.
+Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 10 ngày sàn đi ≥ +0,50%): **0,29**.
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
@@ -69,12 +69,12 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 
 | beta | Sai số TB nếu dùng |
 |---|---|
-| 0,3 | 325 đ |
-| 0,4 | 253 đ |
-| 0,5 | 226 đ |
-| 0,6 | 295 đ |
-| 0,7 | 385 đ |
-| 0,8 | 496 đ |
+| 0,3 | 316 đ |
+| 0,4 | 244 đ |
+| 0,5 | 217 đ |
+| 0,6 | 286 đ |
+| 0,7 | 376 đ |
+| 0,8 | 487 đ |
 
 ### Năm lỗi lớn nhất và lý do
 
@@ -100,12 +100,12 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 
 | Chuỗi | Số lần | Sai số TB | Đứng yên | Đúng chiều | Dải 90% phủ |
 |---|---|---|---|---|---|
-| Đắk Lắk | 19 | 217 đ | 442 đ | 68% | 100% |
-| Lâm Đồng | 19 | 210 đ | 437 đ | 68% | 100% |
-| Gia Lai | 19 | 217 đ | 442 đ | 68% | 100% |
+| Đắk Lắk | 19 | 206 đ | 453 đ | 74% | 100% |
+| Lâm Đồng | 19 | 196 đ | 453 đ | 74% | 100% |
+| Gia Lai | 19 | 206 đ | 453 đ | 74% | 100% |
 | Đắk Nông | 19 | 210 đ | 437 đ | 68% | 100% |
-| Robusta London | 15 | 40 USD | 39 USD | 40% | 93% |
-| Arabica New York | 15 | 110 USD | 115 USD | 60% | 93% |
+| Robusta London | 16 | 38 USD | 38 USD | 44% | 94% |
+| Arabica New York | 16 | 103 USD | 109 USD | 62% | 94% |
 
 ## Cách đọc
 
