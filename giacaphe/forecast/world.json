@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:30:23+07:00",
+  "generated_at": "2026-10-07T05:45:13+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 44,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-10-07",
-      "price": 3539,
-      "low": 3451,
-      "high": 3627
+      "price": 3541,
+      "low": 3453,
+      "high": 3629
     },
     {
       "date": "2026-10-08",
-      "price": 3547,
-      "low": 3423,
-      "high": 3672
+      "price": 3551,
+      "low": 3427,
+      "high": 3676
     },
     {
       "date": "2026-10-09",
-      "price": 3553,
-      "low": 3401,
-      "high": 3706
+      "price": 3558,
+      "low": 3406,
+      "high": 3711
     },
     {
       "date": "2026-10-10",
-      "price": 3558,
-      "low": 3382,
-      "high": 3734
+      "price": 3564,
+      "low": 3388,
+      "high": 3740
     },
     {
       "date": "2026-10-11",
-      "price": 3561,
-      "low": 3364,
-      "high": 3758
+      "price": 3568,
+      "low": 3371,
+      "high": 3765
     },
     {
       "date": "2026-10-12",
-      "price": 3564,
-      "low": 3348,
-      "high": 3780
+      "price": 3571,
+      "low": 3356,
+      "high": 3787
     },
     {
       "date": "2026-10-13",
-      "price": 3566,
-      "low": 3333,
-      "high": 3799
+      "price": 3574,
+      "low": 3341,
+      "high": 3807
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": 0.403030303030303,
-    "rating_ma": 0.5333333333333333,
+    "rating": 0.603030303030303,
+    "rating_ma": 0.9333333333333333,
     "rating_other": 0.2727272727272727,
-    "rsi": 56.59758447380877,
-    "close": 3540.0,
+    "rsi": 60.084664283221514,
+    "close": 3590.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-06T19:30:23+07:00"
+    "fetched_at": "2026-10-07T05:45:13+07:00"
   },
   "accuracy_history": [
     {
@@ -222,10 +222,7 @@
       "date": "2026-10-03",
       "absolute_error": 2,
       "direction_hit": true,
-      "sai_so_khong_doi": 21,
-      "gia_du_doan": 3467,
-      "gia_neo": 3448,
-      "gia_thuc": 3469
+      "sai_so_khong_doi": 21
     },
     {
       "date": "2026-10-06",
