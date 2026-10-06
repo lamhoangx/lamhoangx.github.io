@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:45:08+07:00",
+  "generated_at": "2026-10-06T09:31:01+07:00",
   "model": "tv-close-gemini-glm-v3",
   "horizon_days": 7,
   "trained_days": 50,
@@ -266,17 +266,38 @@
     "rsi": 55.66808349982385,
     "close": 3528.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-06T05:45:08+07:00"
+    "fetched_at": "2026-10-06T09:31:01+07:00"
   },
+  "tam_ly": 0.0,
   "truyen_dan": {
     "r": 0.017008,
     "beta": 0.5
   },
-  "de_xuat_ai": null,
-  "glm_ai": null,
+  "de_xuat_ai": {
+    "nhan": "mạnh hơn sàn một chút",
+    "gia_tri": 0.5,
+    "tin_hieu_san": "mua",
+    "model": "gemini-3.5-flash",
+    "generated_at": "2026-10-06T09:31:02+07:00"
+  },
+  "glm_ai": {
+    "nhan": "dồi dào lên một chút",
+    "gia_tri": -0.5,
+    "generated_at": "2026-10-06T07:31:08+07:00",
+    "model": "glm/glm-5.3 (gateway dự phòng)",
+    "websearch": true,
+    "so_doan": 9,
+    "can_cu": [
+      "vụ mùa Brazil",
+      "tồn kho sàn và cảng",
+      "xuất khẩu"
+    ],
+    "dong_thuan": "kỹ thuật và tin ngược chiều",
+    "ky_thuat": "- Robusta London: tín hiệu tổng hợp mua; đường trung bình mua; chỉ báo dao động mua; RSI mạnh; năm phiên gần đây tăng khá; hai mươi phiên gần đây tăng khá; đang ở gần đỉnh của hai mươi phiên.\n- Arabica New York: tín hiệu tổng hợp mua; đường trung bình mua mạnh; chỉ báo dao động mua; RSI trung tính; năm phiên gần đây nhích nhẹ lên; hai mươi phiên gần đây giảm mạnh; đang ở gần đáy của hai mươi phiên."
+  },
   "regions": {
     "daklak": {
-      "generated_at": "2026-10-06T05:45:08+07:00",
+      "generated_at": "2026-10-06T09:31:01+07:00",
       "model": "tv-close-gemini-glm-v3",
       "horizon_days": 7,
       "trained_days": 50,
@@ -536,7 +557,7 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-10-06T05:45:08+07:00",
+      "generated_at": "2026-10-06T09:31:01+07:00",
       "model": "tv-close-gemini-glm-v3",
       "horizon_days": 7,
       "trained_days": 50,
@@ -796,7 +817,7 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-10-06T05:45:08+07:00",
+      "generated_at": "2026-10-06T09:31:01+07:00",
       "model": "tv-close-gemini-glm-v3",
       "horizon_days": 7,
       "trained_days": 50,
@@ -1056,7 +1077,7 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-10-06T05:45:08+07:00",
+      "generated_at": "2026-10-06T09:31:01+07:00",
       "model": "tv-close-gemini-glm-v3",
       "horizon_days": 7,
       "trained_days": 50,
