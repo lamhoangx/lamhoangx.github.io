@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:30:21+07:00",
+  "generated_at": "2026-10-09T05:45:11+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 46,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-10-09",
-      "price": 6453,
-      "low": 6238,
-      "high": 6668
+      "price": 6451,
+      "low": 6236,
+      "high": 6666
     },
     {
       "date": "2026-10-10",
-      "price": 6452,
-      "low": 6148,
-      "high": 6757
+      "price": 6449,
+      "low": 6145,
+      "high": 6753
     },
     {
       "date": "2026-10-11",
-      "price": 6452,
-      "low": 6080,
-      "high": 6825
+      "price": 6448,
+      "low": 6075,
+      "high": 6820
     },
     {
       "date": "2026-10-12",
-      "price": 6452,
-      "low": 6022,
-      "high": 6882
+      "price": 6447,
+      "low": 6017,
+      "high": 6877
     },
     {
       "date": "2026-10-13",
-      "price": 6452,
-      "low": 5971,
-      "high": 6933
+      "price": 6446,
+      "low": 5965,
+      "high": 6927
     },
     {
       "date": "2026-10-14",
-      "price": 6452,
-      "low": 5925,
-      "high": 6979
+      "price": 6446,
+      "low": 5919,
+      "high": 6973
     },
     {
       "date": "2026-10-15",
-      "price": 6452,
-      "low": 5883,
-      "high": 7021
+      "price": 6445,
+      "low": 5876,
+      "high": 7014
     }
   ],
   "accuracy_30d": {
-    "samples": 25,
-    "mae": 93,
-    "direction_hit_rate": 0.6
+    "samples": 24,
+    "mae": 95,
+    "direction_hit_rate": 0.625
   },
   "stats": {
     "window_days": 30,
@@ -77,21 +77,15 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": -0.2,
-    "rating_ma": -0.4,
+    "rating": -0.26666666666666666,
+    "rating_ma": -0.5333333333333333,
     "rating_other": 0,
-    "rsi": 48.26384839601758,
-    "close": 6381.0,
+    "rsi": 47.15952324459292,
+    "close": 6346.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-08T19:30:21+07:00"
+    "fetched_at": "2026-10-09T05:45:11+07:00"
   },
   "accuracy_history": [
-    {
-      "date": "2026-09-08",
-      "absolute_error": 37,
-      "direction_hit": false,
-      "sai_so_khong_doi": 0
-    },
     {
       "date": "2026-09-09",
       "absolute_error": 91,
