@@ -1,37 +1,37 @@
 {
   "schema_version": 1,
-  "date": "2026-10-08",
-  "updated_at": "2026-10-08T11:42:21+07:00",
+  "date": "2026-10-09",
+  "updated_at": "2026-10-09T09:25:12+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
-    "average": 92900,
-    "average_change": -1400,
-    "highest": 93000,
+    "average": 91900,
+    "average_change": -1000,
+    "highest": 92000,
     "regions": [
       {
         "id": "daklak",
         "name": "Đắk Lắk",
-        "price": 92800,
-        "change": -1400
+        "price": 91800,
+        "change": -1000
       },
       {
         "id": "lamdong",
         "name": "Lâm Đồng",
-        "price": 92200,
-        "change": -1400
+        "price": 91200,
+        "change": -1000
       },
       {
         "id": "gialai",
         "name": "Gia Lai",
-        "price": 92800,
-        "change": -1400
+        "price": 91800,
+        "change": -1000
       },
       {
         "id": "daknong",
         "name": "Đắk Nông",
-        "price": 93000,
-        "change": -1400
+        "price": 92000,
+        "change": -1000
       }
     ]
   },
@@ -41,138 +41,138 @@
     "change": null
   },
   "fx": {
-    "usd_vnd": 25750
+    "usd_vnd": 25680
   },
   "international": {
     "robusta_london": {
       "unit": "USD/tấn",
-      "updated": "08/10/2026",
+      "updated": "09/10/2026",
       "contracts": [
         {
           "month": "11/26",
-          "price": 3485.0,
-          "change": -105.0,
-          "change_pct": -2.92,
-          "high": 3669.0,
-          "low": 3482.0,
-          "volume": 13212,
-          "open": 3600.0,
-          "previous": 3590.0,
-          "open_interest": 35083
+          "price": 3423.0,
+          "change": -62.0,
+          "change_pct": -1.78,
+          "high": 3509.0,
+          "low": 3406.0,
+          "volume": 8220,
+          "open": 3496.0,
+          "previous": 3485.0,
+          "open_interest": 31497
         },
         {
           "month": "01/27",
-          "price": 3469.0,
-          "change": -108.0,
-          "change_pct": -3.02,
-          "high": 3659.0,
-          "low": 3465.0,
-          "volume": 18439,
-          "open": 3580.0,
-          "previous": 3577.0,
-          "open_interest": 36103
+          "price": 3398.0,
+          "change": -71.0,
+          "change_pct": -2.05,
+          "high": 3486.0,
+          "low": 3386.0,
+          "volume": 14429,
+          "open": 3481.0,
+          "previous": 3469.0,
+          "open_interest": 35250
         },
         {
           "month": "03/27",
-          "price": 3455.0,
-          "change": -104.0,
-          "change_pct": -2.92,
-          "high": 3642.0,
-          "low": 3451.0,
-          "volume": 6770,
-          "open": 3559.0,
-          "previous": 3559.0,
-          "open_interest": 22072
+          "price": 3378.0,
+          "change": -77.0,
+          "change_pct": -2.23,
+          "high": 3471.0,
+          "low": 3372.0,
+          "volume": 4902,
+          "open": 3469.0,
+          "previous": 3455.0,
+          "open_interest": 22832
         },
         {
           "month": "05/27",
-          "price": 3448.0,
-          "change": -98.0,
-          "change_pct": -2.76,
-          "high": 3625.0,
-          "low": 3443.0,
-          "volume": 1766,
-          "open": 3541.0,
-          "previous": 3546.0,
-          "open_interest": 5688
+          "price": 3369.0,
+          "change": -79.0,
+          "change_pct": -2.29,
+          "high": 3465.0,
+          "low": 3363.0,
+          "volume": 1131,
+          "open": 3450.0,
+          "previous": 3448.0,
+          "open_interest": 6308
         },
         {
           "month": "07/27",
-          "price": 3437.0,
-          "change": -95.0,
-          "change_pct": -2.69,
-          "high": 3602.0,
-          "low": 3431.0,
-          "volume": 674,
-          "open": 3527.0,
-          "previous": 3532.0,
-          "open_interest": 2605
+          "price": 3358.0,
+          "change": -79.0,
+          "change_pct": -2.3,
+          "high": 3454.0,
+          "low": 3352.0,
+          "volume": 230,
+          "open": 3454.0,
+          "previous": 3437.0,
+          "open_interest": 2571
         }
       ]
     },
     "arabica_newyork": {
       "unit": "USD/tấn",
-      "updated": "08/10/2026",
+      "updated": "09/10/2026",
       "contracts": [
         {
           "month": "12/26",
-          "price": 6453.0,
-          "change": -259.0,
-          "change_pct": -3.86,
-          "high": 6798.0,
-          "low": 6439.0,
-          "volume": 18777,
-          "open": 6678.0,
-          "previous": 6712.0,
-          "open_interest": 81369
+          "price": 6372.0,
+          "change": -80.0,
+          "change_pct": -1.25,
+          "high": 6501.0,
+          "low": 6305.0,
+          "volume": 14516,
+          "open": 6479.0,
+          "previous": 6453.0,
+          "open_interest": 78758
         },
         {
           "month": "03/27",
-          "price": 6281.0,
-          "change": -241.0,
-          "change_pct": -3.7,
-          "high": 6614.0,
-          "low": 6269.0,
-          "volume": 9590,
-          "open": 6490.0,
-          "previous": 6522.0,
-          "open_interest": 43373
+          "price": 6203.0,
+          "change": -78.0,
+          "change_pct": -1.25,
+          "high": 6322.0,
+          "low": 6139.0,
+          "volume": 8150,
+          "open": 6303.0,
+          "previous": 6281.0,
+          "open_interest": 44303
         },
         {
           "month": "05/27",
-          "price": 6210.0,
-          "change": -238.0,
-          "change_pct": -3.69,
-          "high": 6536.0,
-          "low": 6204.0,
-          "volume": 3735,
-          "open": 6414.0,
-          "previous": 6449.0,
-          "open_interest": 17573
+          "price": 6127.0,
+          "change": -84.0,
+          "change_pct": -1.35,
+          "high": 6250.0,
+          "low": 6069.0,
+          "volume": 3404,
+          "open": 6236.0,
+          "previous": 6210.0,
+          "open_interest": 17650
         },
         {
           "month": "07/27",
-          "price": 6151.0,
-          "change": -241.0,
-          "change_pct": -3.78,
-          "high": 6472.0,
-          "low": 6144.0,
-          "volume": 1931,
-          "open": 6342.0,
-          "previous": 6392.0,
-          "open_interest": 6959
+          "price": 6070.0,
+          "change": -80.0,
+          "change_pct": -1.31,
+          "high": 6184.0,
+          "low": 6012.0,
+          "volume": 1770,
+          "open": 6151.0,
+          "previous": 6151.0,
+          "open_interest": 7004
         },
         {
           "month": "09/27",
-          "price": 6090.0,
-          "change": -241.0,
-          "change_pct": -3.81,
-          "high": 6407.0,
-          "low": 6084.0,
-          "volume": 450,
-          "open": 6358.0,
-          "previous": 6332.0,
-          "open_interest": 5181
+          "price": 6014.0,
+          "change": -76.0,
+          "change_pct": -1.25,
+          "high": 6121.0,
+          "low": 5952.0,
+          "volume": 632,
+          "open": 6090.0,
+          "previous": 6090.0,
+          "open_interest": 5126
         }
       ]
     }
