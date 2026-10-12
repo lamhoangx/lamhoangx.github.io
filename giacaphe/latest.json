@@ -1,43 +1,43 @@
 {
   "schema_version": 1,
-  "date": "2026-10-10",
-  "updated_at": "2026-10-10T09:55:12+07:00",
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12T13:00:07+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
     "average": 93000,
-    "average_change": 1100,
+    "average_change": 0,
     "highest": 93000,
     "regions": [
       {
         "id": "daklak",
         "name": "Đắk Lắk",
         "price": 93000,
-        "change": 1200
+        "change": 0
       },
       {
         "id": "lamdong",
         "name": "Lâm Đồng",
         "price": 92200,
-        "change": 1000
+        "change": 0
       },
       {
         "id": "gialai",
         "name": "Gia Lai",
         "price": 93000,
-        "change": 1200
+        "change": 0
       },
       {
         "id": "daknong",
         "name": "Đắk Nông",
         "price": 93000,
-        "change": 1000
+        "change": 0
       }
     ]
   },
   "pepper": {
     "unit": "VND/kg",
-    "price": 139000,
+    "price": 140000,
     "change": 1000
   },
   "fx": {
@@ -46,7 +46,7 @@
   "international": {
     "robusta_london": {
       "unit": "USD/tấn",
-      "updated": "10/10/2026",
+      "updated": "12/10/2026",
       "contracts": [
         {
           "month": "11/26",
@@ -112,7 +112,7 @@
     },
     "arabica_newyork": {
       "unit": "USD/tấn",
-      "updated": "10/10/2026",
+      "updated": "12/10/2026",
       "contracts": [
         {
           "month": "12/26",
