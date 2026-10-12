@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:30:20+07:00",
+  "generated_at": "2026-10-13T05:45:08+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 49,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-10-13",
-      "price": 6325,
-      "low": 6126,
-      "high": 6525
+      "price": 6346,
+      "low": 6147,
+      "high": 6546
     },
     {
       "date": "2026-10-14",
-      "price": 6325,
-      "low": 6044,
-      "high": 6607
+      "price": 6362,
+      "low": 6080,
+      "high": 6643
     },
     {
       "date": "2026-10-15",
-      "price": 6325,
-      "low": 5980,
-      "high": 6670
+      "price": 6373,
+      "low": 6029,
+      "high": 6718
     },
     {
       "date": "2026-10-16",
-      "price": 6325,
-      "low": 5927,
-      "high": 6723
+      "price": 6382,
+      "low": 5984,
+      "high": 6780
     },
     {
       "date": "2026-10-17",
-      "price": 6324,
-      "low": 5879,
-      "high": 6770
+      "price": 6388,
+      "low": 5943,
+      "high": 6834
     },
     {
       "date": "2026-10-18",
-      "price": 6324,
-      "low": 5837,
-      "high": 6812
+      "price": 6393,
+      "low": 5906,
+      "high": 6881
     },
     {
       "date": "2026-10-19",
-      "price": 6324,
-      "low": 5798,
-      "high": 6851
+      "price": 6397,
+      "low": 5870,
+      "high": 6924
     }
   ],
   "accuracy_30d": {
-    "samples": 24,
-    "mae": 92,
-    "direction_hit_rate": 0.583
+    "samples": 23,
+    "mae": 95,
+    "direction_hit_rate": 0.565
   },
   "stats": {
     "window_days": 30,
@@ -77,21 +77,15 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": -0.31212121212121213,
-    "rating_ma": -0.5333333333333333,
-    "rating_other": -0.09090909090909091,
-    "rsi": 46.07792080337882,
-    "close": 6315.0,
+    "rating": -0.024242424242424246,
+    "rating_ma": 0.13333333333333333,
+    "rating_other": -0.18181818181818182,
+    "rsi": 48.916300960533405,
+    "close": 6391.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-12T19:30:20+07:00"
+    "fetched_at": "2026-10-13T05:45:08+07:00"
   },
   "accuracy_history": [
-    {
-      "date": "2026-09-12",
-      "absolute_error": 19,
-      "direction_hit": true,
-      "sai_so_khong_doi": 36
-    },
     {
       "date": "2026-09-14",
       "absolute_error": 30,
@@ -216,10 +210,7 @@
       "date": "2026-10-09",
       "absolute_error": 81,
       "direction_hit": false,
-      "sai_so_khong_doi": 81,
-      "gia_du_doan": 6453,
-      "gia_neo": 6453,
-      "gia_thuc": 6372
+      "sai_so_khong_doi": 81
     },
     {
       "date": "2026-10-10",
