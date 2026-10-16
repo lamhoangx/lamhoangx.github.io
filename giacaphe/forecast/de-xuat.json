@@ -28,22 +28,22 @@
     {
       "ngay_dung": "2026-10-16",
       "ngay_dich": "2026-10-17",
-      "nhan": null,
-      "gia_tri": null,
-      "rating": -0.5121212121212121,
-      "tam_ly": null,
-      "gia_co_ai": 91867,
-      "gia_khong_ai": 91867,
+      "nhan": "mạnh hơn sàn một chút",
+      "gia_tri": 0.5,
+      "rating": 0.13636363636363635,
+      "tam_ly": -0.5,
+      "gia_co_ai": 93160,
+      "gia_khong_ai": 93127,
       "sai_so_co_ai": null,
       "sai_so_khong_ai": null
     }
   ],
   "hom_nay": {
-    "nhan": "đi cùng sàn",
-    "gia_tri": 0.0,
+    "nhan": "mạnh hơn sàn một chút",
+    "gia_tri": 0.5,
     "tin_hieu_san": "mua",
-    "model": "gemini-3.5-flash",
-    "generated_at": "2026-10-13T19:30:29+07:00",
-    "ngay": "2026-10-13"
+    "model": "gemini-3.8-flash",
+    "generated_at": "2026-10-16T19:33:03+07:00",
+    "ngay": "2026-10-16"
   }
 }
