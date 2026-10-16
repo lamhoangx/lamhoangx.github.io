@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:32:51+07:00",
+  "generated_at": "2026-10-17T05:45:11+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 53,
@@ -52,9 +52,9 @@
     }
   ],
   "accuracy_30d": {
-    "samples": 25,
-    "mae": 93,
-    "direction_hit_rate": 0.6
+    "samples": 24,
+    "mae": 91,
+    "direction_hit_rate": 0.583
   },
   "stats": {
     "window_days": 30,
@@ -80,18 +80,12 @@
     "rating": 0.603030303030303,
     "rating_ma": 0.9333333333333333,
     "rating_other": 0.2727272727272727,
-    "rsi": 60.84114486323577,
-    "close": 6773.0,
+    "rsi": 59.89490626006218,
+    "close": 6736.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-16T19:32:51+07:00"
+    "fetched_at": "2026-10-17T05:45:11+07:00"
   },
   "accuracy_history": [
-    {
-      "date": "2026-09-16",
-      "absolute_error": 132,
-      "direction_hit": true,
-      "sai_so_khong_doi": 170
-    },
     {
       "date": "2026-09-17",
       "absolute_error": 43,
@@ -216,10 +210,7 @@
       "date": "2026-10-13",
       "absolute_error": 63,
       "direction_hit": true,
-      "sai_so_khong_doi": 81,
-      "gia_du_doan": 6344,
-      "gia_neo": 6326,
-      "gia_thuc": 6407
+      "sai_so_khong_doi": 81
     },
     {
       "date": "2026-10-14",
