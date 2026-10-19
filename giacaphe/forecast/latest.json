@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:02:03+07:00",
+  "generated_at": "2026-10-19T07:29:43+07:00",
   "model": "tv-close-gemini-glm-v4",
   "horizon_days": 7,
   "trained_days": 61,
@@ -52,9 +52,9 @@
     }
   ],
   "accuracy_30d": {
-    "samples": 29,
-    "mae": 344,
-    "direction_hit_rate": 0.586
+    "samples": 28,
+    "mae": 354,
+    "direction_hit_rate": 0.571
   },
   "stats": {
     "window_days": 30,
@@ -72,12 +72,6 @@
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "accuracy_history": [
-    {
-      "date": "2026-09-18",
-      "absolute_error": 59,
-      "direction_hit": true,
-      "sai_so_khong_doi": 600
-    },
     {
       "date": "2026-09-19",
       "absolute_error": 252,
@@ -232,10 +226,7 @@
       "date": "2026-10-15",
       "absolute_error": 108,
       "direction_hit": true,
-      "sai_so_khong_doi": 400,
-      "gia_du_doan": 93292,
-      "gia_neo": 93000,
-      "gia_thuc": 93400
+      "sai_so_khong_doi": 400
     },
     {
       "date": "2026-10-16",
@@ -266,31 +257,18 @@
     "rsi": 46.19013263482359,
     "close": 3414.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-18T23:02:03+07:00"
+    "fetched_at": "2026-10-19T07:29:43+07:00"
   },
-  "tam_ly": 0.5,
+  "tam_ly": 0.0,
   "truyen_dan": {
     "r": 0.0,
     "beta": 0.5
   },
   "de_xuat_ai": null,
-  "glm_ai": {
-    "nhan": "dồi dào lên một chút",
-    "gia_tri": -0.5,
-    "generated_at": "2026-10-18T07:02:37+07:00",
-    "model": "glm/glm-5.3 (gateway dự phòng)",
-    "websearch": true,
-    "so_doan": 9,
-    "can_cu": [
-      "vụ mùa Việt Nam",
-      "tồn kho sàn và cảng"
-    ],
-    "dong_thuan": "kỹ thuật và tin cùng chiều",
-    "ky_thuat": "- Robusta London: tín hiệu tổng hợp bán; đường trung bình bán mạnh; chỉ báo dao động mua; RSI trung tính; năm phiên gần đây nhích nhẹ xuống; hai mươi phiên gần đây đứng yên; đang ở vùng giữa của hai mươi phiên.\n- Arabica New York: tín hiệu tổng hợp mua mạnh; đường trung bình mua mạnh; chỉ báo dao động mua; RSI mạnh; năm phiên gần đây tăng mạnh; hai mươi phiên gần đây tăng mạnh; đang ở gần đỉnh của hai mươi phiên."
-  },
+  "glm_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-10-18T23:02:03+07:00",
+      "generated_at": "2026-10-19T07:29:43+07:00",
       "model": "tv-close-gemini-glm-v4",
       "horizon_days": 7,
       "trained_days": 61,
@@ -343,9 +321,9 @@
         }
       ],
       "accuracy_30d": {
-        "samples": 29,
-        "mae": 348,
-        "direction_hit_rate": 0.586
+        "samples": 28,
+        "mae": 358,
+        "direction_hit_rate": 0.571
       },
       "stats": {
         "window_days": 30,
@@ -363,12 +341,6 @@
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-09-18",
-          "absolute_error": 60,
-          "direction_hit": true,
-          "sai_so_khong_doi": 600
-        },
         {
           "date": "2026-09-19",
           "absolute_error": 270,
@@ -523,10 +495,7 @@
           "date": "2026-10-15",
           "absolute_error": 8,
           "direction_hit": true,
-          "sai_so_khong_doi": 300,
-          "gia_du_doan": 93292,
-          "gia_neo": 93000,
-          "gia_thuc": 93300
+          "sai_so_khong_doi": 300
         },
         {
           "date": "2026-10-16",
@@ -550,7 +519,7 @@
       "region": "daklak"
     },
     "lamdong": {
-      "generated_at": "2026-10-18T23:02:03+07:00",
+      "generated_at": "2026-10-19T07:29:43+07:00",
       "model": "tv-close-gemini-glm-v4",
       "horizon_days": 7,
       "trained_days": 61,
@@ -603,9 +572,9 @@
         }
       ],
       "accuracy_30d": {
-        "samples": 29,
-        "mae": 354,
-        "direction_hit_rate": 0.586
+        "samples": 28,
+        "mae": 366,
+        "direction_hit_rate": 0.571
       },
       "stats": {
         "window_days": 30,
@@ -623,12 +592,6 @@
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-09-18",
-          "absolute_error": 36,
-          "direction_hit": true,
-          "sai_so_khong_doi": 500
-        },
         {
           "date": "2026-09-19",
           "absolute_error": 290,
@@ -783,10 +746,7 @@
           "date": "2026-10-15",
           "absolute_error": 10,
           "direction_hit": true,
-          "sai_so_khong_doi": 300,
-          "gia_du_doan": 92590,
-          "gia_neo": 92300,
-          "gia_thuc": 92600
+          "sai_so_khong_doi": 300
         },
         {
           "date": "2026-10-16",
@@ -810,7 +770,7 @@
       "region": "lamdong"
     },
     "gialai": {
-      "generated_at": "2026-10-18T23:02:03+07:00",
+      "generated_at": "2026-10-19T07:29:43+07:00",
       "model": "tv-close-gemini-glm-v4",
       "horizon_days": 7,
       "trained_days": 61,
@@ -863,9 +823,9 @@
         }
       ],
       "accuracy_30d": {
-        "samples": 29,
-        "mae": 348,
-        "direction_hit_rate": 0.586
+        "samples": 28,
+        "mae": 358,
+        "direction_hit_rate": 0.571
       },
       "stats": {
         "window_days": 30,
@@ -883,12 +843,6 @@
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-09-18",
-          "absolute_error": 60,
-          "direction_hit": true,
-          "sai_so_khong_doi": 600
-        },
         {
           "date": "2026-09-19",
           "absolute_error": 270,
@@ -1043,10 +997,7 @@
           "date": "2026-10-15",
           "absolute_error": 8,
           "direction_hit": true,
-          "sai_so_khong_doi": 300,
-          "gia_du_doan": 93292,
-          "gia_neo": 93000,
-          "gia_thuc": 93300
+          "sai_so_khong_doi": 300
         },
         {
           "date": "2026-10-16",
@@ -1070,7 +1021,7 @@
       "region": "gialai"
     },
     "daknong": {
-      "generated_at": "2026-10-18T23:02:03+07:00",
+      "generated_at": "2026-10-19T07:29:43+07:00",
       "model": "tv-close-gemini-glm-v4",
       "horizon_days": 7,
       "trained_days": 61,
@@ -1123,9 +1074,9 @@
         }
       ],
       "accuracy_30d": {
-        "samples": 29,
-        "mae": 342,
-        "direction_hit_rate": 0.552
+        "samples": 28,
+        "mae": 352,
+        "direction_hit_rate": 0.536
       },
       "stats": {
         "window_days": 30,
@@ -1143,12 +1094,6 @@
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "accuracy_history": [
-        {
-          "date": "2026-09-18",
-          "absolute_error": 59,
-          "direction_hit": true,
-          "sai_so_khong_doi": 600
-        },
         {
           "date": "2026-09-19",
           "absolute_error": 244,
@@ -1303,10 +1248,7 @@
           "date": "2026-10-15",
           "absolute_error": 207,
           "direction_hit": true,
-          "sai_so_khong_doi": 500,
-          "gia_du_doan": 93293,
-          "gia_neo": 93000,
-          "gia_thuc": 93500
+          "sai_so_khong_doi": 500
         },
         {
           "date": "2026-10-16",
