@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-21T09:15:17+07:00",
+  "generated_at": "2026-10-21T10:39:33+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 56,
+  "trained_days": 57,
   "anchor": {
-    "date": "2026-10-20",
-    "price": 6960
+    "date": "2026-10-21",
+    "price": 6863
   },
   "predictions": [
     {
-      "date": "2026-10-21",
-      "price": 6995,
-      "low": 6766,
-      "high": 7224
-    },
-    {
       "date": "2026-10-22",
-      "price": 7021,
-      "low": 6697,
-      "high": 7345
+      "price": 6897,
+      "low": 6666,
+      "high": 7127
     },
     {
       "date": "2026-10-23",
-      "price": 7041,
-      "low": 6644,
-      "high": 7438
+      "price": 6922,
+      "low": 6596,
+      "high": 7247
     },
     {
       "date": "2026-10-24",
-      "price": 7056,
-      "low": 6597,
-      "high": 7514
+      "price": 6941,
+      "low": 6542,
+      "high": 7339
     },
     {
       "date": "2026-10-25",
-      "price": 7067,
-      "low": 6554,
-      "high": 7579
+      "price": 6955,
+      "low": 6495,
+      "high": 7415
     },
     {
       "date": "2026-10-26",
-      "price": 7075,
-      "low": 6514,
-      "high": 7636
+      "price": 6965,
+      "low": 6451,
+      "high": 7480
     },
     {
       "date": "2026-10-27",
-      "price": 7081,
-      "low": 6475,
-      "high": 7687
+      "price": 6973,
+      "low": 6410,
+      "high": 7537
+    },
+    {
+      "date": "2026-10-28",
+      "price": 6979,
+      "low": 6371,
+      "high": 7588
     }
   ],
   "accuracy_30d": {
-    "samples": 25,
-    "mae": 89,
-    "direction_hit_rate": 0.56
+    "samples": 26,
+    "mae": 91,
+    "direction_hit_rate": 0.538
   },
   "stats": {
     "window_days": 30,
@@ -66,9 +66,9 @@
       "date": "2026-09-21",
       "price": 5995
     },
-    "average": 6380,
-    "ma7": 6623,
-    "ma30": 6380
+    "average": 6378,
+    "ma7": 6689,
+    "ma30": 6378
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -83,6 +83,6 @@
     "rsi": 61.4674285008267,
     "close": 6863.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-21T09:15:17+07:00"
+    "fetched_at": "2026-10-21T10:39:33+07:00"
   }
 }
