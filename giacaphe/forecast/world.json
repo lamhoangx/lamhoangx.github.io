@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:30:21+07:00",
+  "generated_at": "2026-10-22T05:45:12+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 57,
@@ -12,49 +12,49 @@
       "date": "2026-10-22",
       "price": 3401,
       "low": 3298,
-      "high": 3505
+      "high": 3504
     },
     {
       "date": "2026-10-23",
-      "price": 3395,
-      "low": 3249,
-      "high": 3541
+      "price": 3394,
+      "low": 3248,
+      "high": 3540
     },
     {
       "date": "2026-10-24",
-      "price": 3390,
-      "low": 3211,
-      "high": 3569
+      "price": 3389,
+      "low": 3210,
+      "high": 3567
     },
     {
       "date": "2026-10-25",
-      "price": 3386,
-      "low": 3180,
-      "high": 3593
+      "price": 3385,
+      "low": 3179,
+      "high": 3591
     },
     {
       "date": "2026-10-26",
-      "price": 3384,
-      "low": 3153,
-      "high": 3614
+      "price": 3382,
+      "low": 3151,
+      "high": 3612
     },
     {
       "date": "2026-10-27",
-      "price": 3382,
-      "low": 3129,
-      "high": 3634
+      "price": 3380,
+      "low": 3127,
+      "high": 3632
     },
     {
       "date": "2026-10-28",
-      "price": 3380,
-      "low": 3107,
-      "high": 3653
+      "price": 3378,
+      "low": 3105,
+      "high": 3651
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
+    "samples": 25,
     "mae": 44,
-    "direction_hit_rate": 0.423
+    "direction_hit_rate": 0.44
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.5121212121212121,
+    "rating": -0.5575757575757576,
     "rating_ma": -0.9333333333333333,
-    "rating_other": -0.09090909090909091,
-    "rsi": 44.15318452761607,
-    "close": 3378.0,
+    "rating_other": -0.18181818181818182,
+    "rsi": 42.548428579079946,
+    "close": 3352.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-21T19:30:21+07:00"
+    "fetched_at": "2026-10-22T05:45:12+07:00"
   }
 }
