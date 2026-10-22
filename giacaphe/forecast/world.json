@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:30:21+07:00",
+  "generated_at": "2026-10-23T05:45:13+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 58,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-10-23",
-      "price": 3342,
-      "low": 3240,
+      "price": 3343,
+      "low": 3241,
       "high": 3444
     },
     {
       "date": "2026-10-24",
-      "price": 3334,
-      "low": 3191,
-      "high": 3478
+      "price": 3335,
+      "low": 3192,
+      "high": 3479
     },
     {
       "date": "2026-10-25",
-      "price": 3329,
-      "low": 3153,
-      "high": 3505
+      "price": 3330,
+      "low": 3154,
+      "high": 3506
     },
     {
       "date": "2026-10-26",
-      "price": 3324,
-      "low": 3121,
-      "high": 3528
+      "price": 3326,
+      "low": 3123,
+      "high": 3529
     },
     {
       "date": "2026-10-27",
-      "price": 3321,
-      "low": 3094,
-      "high": 3549
+      "price": 3323,
+      "low": 3096,
+      "high": 3550
     },
     {
       "date": "2026-10-28",
-      "price": 3319,
-      "low": 3070,
-      "high": 3568
+      "price": 3321,
+      "low": 3072,
+      "high": 3570
     },
     {
       "date": "2026-10-29",
-      "price": 3317,
-      "low": 3048,
-      "high": 3586
+      "price": 3319,
+      "low": 3050,
+      "high": 3588
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
+    "samples": 25,
     "mae": 45,
-    "direction_hit_rate": 0.462
+    "direction_hit_rate": 0.44
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.5575757575757576,
+    "rating": -0.5121212121212121,
     "rating_ma": -0.9333333333333333,
-    "rating_other": -0.18181818181818182,
-    "rsi": 37.721546269201795,
-    "close": 3267.0,
+    "rating_other": -0.09090909090909091,
+    "rsi": 38.809271092385096,
+    "close": 3288.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-22T19:30:21+07:00"
+    "fetched_at": "2026-10-23T05:45:13+07:00"
   }
 }

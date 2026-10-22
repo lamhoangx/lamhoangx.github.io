@@ -3,12 +3,6 @@
   "so": {
     "latest.json": [
       {
-        "date": "2026-09-22",
-        "absolute_error": 21,
-        "direction_hit": true,
-        "sai_so_khong_doi": 800
-      },
-      {
         "date": "2026-09-23",
         "absolute_error": 2306,
         "direction_hit": false,
@@ -172,12 +166,6 @@
       }
     ],
     "latest.json#daklak": [
-      {
-        "date": "2026-09-22",
-        "absolute_error": 20,
-        "direction_hit": true,
-        "sai_so_khong_doi": 800
-      },
       {
         "date": "2026-09-23",
         "absolute_error": 2305,
@@ -343,12 +331,6 @@
     ],
     "latest.json#lamdong": [
       {
-        "date": "2026-09-22",
-        "absolute_error": 15,
-        "direction_hit": true,
-        "sai_so_khong_doi": 800
-      },
-      {
         "date": "2026-09-23",
         "absolute_error": 2296,
         "direction_hit": false,
@@ -512,12 +494,6 @@
       }
     ],
     "latest.json#gialai": [
-      {
-        "date": "2026-09-22",
-        "absolute_error": 20,
-        "direction_hit": true,
-        "sai_so_khong_doi": 800
-      },
       {
         "date": "2026-09-23",
         "absolute_error": 2305,
@@ -683,12 +659,6 @@
     ],
     "latest.json#daknong": [
       {
-        "date": "2026-09-22",
-        "absolute_error": 22,
-        "direction_hit": true,
-        "sai_so_khong_doi": 800
-      },
-      {
         "date": "2026-09-23",
         "absolute_error": 2308,
         "direction_hit": false,
@@ -853,12 +823,6 @@
     ],
     "world.json": [
       {
-        "date": "2026-09-22",
-        "absolute_error": 45,
-        "direction_hit": true,
-        "sai_so_khong_doi": 59
-      },
-      {
         "date": "2026-09-23",
         "absolute_error": 111,
         "direction_hit": false,
@@ -988,10 +952,7 @@
         "date": "2026-10-19",
         "absolute_error": 11,
         "direction_hit": false,
-        "sai_so_khong_doi": 0,
-        "gia_du_doan": 3403,
-        "gia_neo": 3414,
-        "gia_thuc": 3414
+        "sai_so_khong_doi": 0
       },
       {
         "date": "2026-10-20",
@@ -1022,12 +983,6 @@
       }
     ],
     "world-arabica.json": [
-      {
-        "date": "2026-09-22",
-        "absolute_error": 159,
-        "direction_hit": false,
-        "sai_so_khong_doi": 99
-      },
       {
         "date": "2026-09-23",
         "absolute_error": 29,
@@ -1158,10 +1113,7 @@
         "date": "2026-10-19",
         "absolute_error": 56,
         "direction_hit": false,
-        "sai_so_khong_doi": 0,
-        "gia_du_doan": 6793,
-        "gia_neo": 6737,
-        "gia_thuc": 6737
+        "sai_so_khong_doi": 0
       },
       {
         "date": "2026-10-20",

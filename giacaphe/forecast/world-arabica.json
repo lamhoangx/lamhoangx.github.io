@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:30:21+07:00",
+  "generated_at": "2026-10-23T05:45:13+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 58,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-10-23",
-      "price": 7005,
-      "low": 6769,
-      "high": 7242
+      "price": 7001,
+      "low": 6764,
+      "high": 7238
     },
     {
       "date": "2026-10-24",
-      "price": 7032,
-      "low": 6697,
-      "high": 7366
+      "price": 7024,
+      "low": 6690,
+      "high": 7359
     },
     {
       "date": "2026-10-25",
-      "price": 7051,
-      "low": 6642,
-      "high": 7461
+      "price": 7042,
+      "low": 6632,
+      "high": 7452
     },
     {
       "date": "2026-10-26",
-      "price": 7066,
-      "low": 6593,
-      "high": 7539
+      "price": 7055,
+      "low": 6582,
+      "high": 7528
     },
     {
       "date": "2026-10-27",
-      "price": 7077,
-      "low": 6548,
-      "high": 7606
+      "price": 7065,
+      "low": 6536,
+      "high": 7594
     },
     {
       "date": "2026-10-28",
-      "price": 7086,
-      "low": 6506,
-      "high": 7665
+      "price": 7072,
+      "low": 6493,
+      "high": 7652
     },
     {
       "date": "2026-10-29",
-      "price": 7092,
-      "low": 6466,
-      "high": 7718
+      "price": 7078,
+      "low": 6452,
+      "high": 7704
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 93,
-    "direction_hit_rate": 0.538
+    "samples": 25,
+    "mae": 90,
+    "direction_hit_rate": 0.56
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": 0.4,
+    "rating": 0.26363636363636367,
     "rating_ma": 0.8,
-    "rating_other": 0,
-    "rsi": 54.793908598302735,
-    "close": 6720.0,
+    "rating_other": -0.2727272727272727,
+    "rsi": 59.82105203757115,
+    "close": 6865.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-22T19:30:21+07:00"
+    "fetched_at": "2026-10-23T05:45:13+07:00"
   }
 }
