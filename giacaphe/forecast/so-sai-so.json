@@ -3,12 +3,6 @@
   "so": {
     "latest.json": [
       {
-        "date": "2026-09-24",
-        "absolute_error": 2122,
-        "direction_hit": false,
-        "sai_so_khong_doi": 1000
-      },
-      {
         "date": "2026-09-25",
         "absolute_error": 78,
         "direction_hit": true,
@@ -144,10 +138,7 @@
         "date": "2026-10-21",
         "absolute_error": 1003,
         "direction_hit": true,
-        "sai_so_khong_doi": 2000,
-        "gia_du_doan": 92903,
-        "gia_neo": 93900,
-        "gia_thuc": 91900
+        "sai_so_khong_doi": 2000
       },
       {
         "date": "2026-10-22",
@@ -178,12 +169,6 @@
       }
     ],
     "latest.json#daklak": [
-      {
-        "date": "2026-09-24",
-        "absolute_error": 2120,
-        "direction_hit": false,
-        "sai_so_khong_doi": 1000
-      },
       {
         "date": "2026-09-25",
         "absolute_error": 78,
@@ -320,10 +305,7 @@
         "date": "2026-10-21",
         "absolute_error": 1004,
         "direction_hit": true,
-        "sai_so_khong_doi": 2000,
-        "gia_du_doan": 92804,
-        "gia_neo": 93800,
-        "gia_thuc": 91800
+        "sai_so_khong_doi": 2000
       },
       {
         "date": "2026-10-22",
@@ -354,12 +336,6 @@
       }
     ],
     "latest.json#lamdong": [
-      {
-        "date": "2026-09-24",
-        "absolute_error": 2113,
-        "direction_hit": false,
-        "sai_so_khong_doi": 1000
-      },
       {
         "date": "2026-09-25",
         "absolute_error": 175,
@@ -496,10 +472,7 @@
         "date": "2026-10-21",
         "absolute_error": 1010,
         "direction_hit": true,
-        "sai_so_khong_doi": 2000,
-        "gia_du_doan": 92210,
-        "gia_neo": 93200,
-        "gia_thuc": 91200
+        "sai_so_khong_doi": 2000
       },
       {
         "date": "2026-10-22",
@@ -530,12 +503,6 @@
       }
     ],
     "latest.json#gialai": [
-      {
-        "date": "2026-09-24",
-        "absolute_error": 2120,
-        "direction_hit": false,
-        "sai_so_khong_doi": 1000
-      },
       {
         "date": "2026-09-25",
         "absolute_error": 78,
@@ -672,10 +639,7 @@
         "date": "2026-10-21",
         "absolute_error": 1004,
         "direction_hit": true,
-        "sai_so_khong_doi": 2000,
-        "gia_du_doan": 92804,
-        "gia_neo": 93800,
-        "gia_thuc": 91800
+        "sai_so_khong_doi": 2000
       },
       {
         "date": "2026-10-22",
@@ -706,12 +670,6 @@
       }
     ],
     "latest.json#daknong": [
-      {
-        "date": "2026-09-24",
-        "absolute_error": 2123,
-        "direction_hit": false,
-        "sai_so_khong_doi": 1000
-      },
       {
         "date": "2026-09-25",
         "absolute_error": 79,
@@ -848,10 +806,7 @@
         "date": "2026-10-21",
         "absolute_error": 1002,
         "direction_hit": true,
-        "sai_so_khong_doi": 2000,
-        "gia_du_doan": 93002,
-        "gia_neo": 94000,
-        "gia_thuc": 92000
+        "sai_so_khong_doi": 2000
       },
       {
         "date": "2026-10-22",
@@ -882,12 +837,6 @@
       }
     ],
     "world.json": [
-      {
-        "date": "2026-09-24",
-        "absolute_error": 71,
-        "direction_hit": true,
-        "sai_so_khong_doi": 83
-      },
       {
         "date": "2026-09-25",
         "absolute_error": 14,
@@ -1018,10 +967,7 @@
         "date": "2026-10-21",
         "absolute_error": 66,
         "direction_hit": true,
-        "sai_so_khong_doi": 74,
-        "gia_du_doan": 3476,
-        "gia_neo": 3484,
-        "gia_thuc": 3410
+        "sai_so_khong_doi": 74
       },
       {
         "date": "2026-10-22",
@@ -1052,12 +998,6 @@
       }
     ],
     "world-arabica.json": [
-      {
-        "date": "2026-09-24",
-        "absolute_error": 133,
-        "direction_hit": false,
-        "sai_so_khong_doi": 80
-      },
       {
         "date": "2026-09-25",
         "absolute_error": 33,
@@ -1188,10 +1128,7 @@
         "date": "2026-10-21",
         "absolute_error": 132,
         "direction_hit": false,
-        "sai_so_khong_doi": 97,
-        "gia_du_doan": 6995,
-        "gia_neo": 6960,
-        "gia_thuc": 6863
+        "sai_so_khong_doi": 97
       },
       {
         "date": "2026-10-22",
