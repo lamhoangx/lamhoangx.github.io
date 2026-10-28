@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:30:25+07:00",
+  "generated_at": "2026-10-29T05:45:10+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 62,
@@ -52,9 +52,9 @@
     }
   ],
   "accuracy_30d": {
-    "samples": 25,
-    "mae": 102,
-    "direction_hit_rate": 0.52
+    "samples": 24,
+    "mae": 105,
+    "direction_hit_rate": 0.542
   },
   "stats": {
     "window_days": 30,
@@ -80,9 +80,9 @@
     "rating": -0.49090909090909096,
     "rating_ma": -0.8,
     "rating_other": -0.18181818181818182,
-    "rsi": 41.715507394556724,
-    "close": 6306.0,
+    "rsi": 41.87932031667875,
+    "close": 6313.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-10-28T19:30:25+07:00"
+    "fetched_at": "2026-10-29T05:45:10+07:00"
   }
 }
