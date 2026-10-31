@@ -1,13 +1,37 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T06:50:56+07:00",
+  "generated_at": "2026-10-31T07:22:43+07:00",
   "date": "2026-10-31",
   "groups": [
     {
       "id": "gia-2026-10-31",
       "label": "Giá cà phê ngày 31/10",
-      "important": false,
+      "important": true,
       "items": [
+        {
+          "id": "bgl-603591",
+          "title": "Giá nông sản hôm nay 31/10: Cà phê dưới 88.000 đồng, hồ tiêu giảm mạnh",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-3110-ca-phe-duoi-88000-dong-ho-tieu-giam-manh-post603591.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-10-31T07:04:02+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/63vJbNi5_BsRtzmB86Ou44tP9UVIiSWLNJpseHkmbKOt-NqJC249D966iKAX-VHrTFo6ovW1tOiOFE3BPDCgA3Qi1F3jNapXCQIAmnSXmPI/gia-ca-phe-ho-tieu-hom-nay-31-10.jpg.avif"
+        },
+        {
+          "id": "bm-56395065",
+          "title": "Giá cà phê hôm nay 31/10: Hồi phục nhẹ, arabica thoát đáy 1 tháng",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-31-10-hoi-phuc-nhe-arabica-thoat-day-1-thang-c56395065.epi",
+          "source": "Báo Ninh Bình",
+          "published_at": "2026-10-31T06:57:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_10_31_442_56395065/6f2691203a6bd3358a7a.jpg"
+        },
+        {
+          "id": "tbtc-206198",
+          "title": "Ngày 31 10 Giá cà phê và hồ tiêu phiên cuối tháng 10 đồng loạt giảm mạnh",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-31-10-gia-ca-phe-va-ho-tieu-phien-cuoi-thang-10-dong-loat-giam-manh-206198.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-10-31T06:54:37+07:00",
+          "image": ""
+        },
         {
           "id": "tbtc-206178",
           "title": "Giá cà phê xuất khẩu chịu áp lực từ nguồn cung vụ mới",
