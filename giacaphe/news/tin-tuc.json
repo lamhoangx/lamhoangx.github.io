@@ -1,8 +1,39 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T07:59:03+07:00",
+  "generated_at": "2026-11-02T08:49:59+07:00",
   "date": "2026-11-02",
   "groups": [
+    {
+      "id": "gia-2026-11-02",
+      "label": "Giá cà phê ngày 02/11",
+      "important": true,
+      "items": [
+        {
+          "id": "vov-1346426",
+          "title": "Giá cà phê hôm nay 2/11: Giá cà phê thế giới ổn định sau khi tăng mạnh",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-211-gia-ca-phe-the-gioi-on-dinh-sau-khi-tang-manh-post1346426.vov",
+          "source": "VOV",
+          "published_at": "2026-11-02T08:41:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-05/-4535-1745025743_860x0.jpg"
+        },
+        {
+          "id": "bgl-603747",
+          "title": "Giá nông sản hôm nay 2/11: Cà phê giữ vùng thấp, hồ tiêu giảm tiếp",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-211-ca-phe-giu-vung-thap-ho-tieu-giam-tiep-post603747.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-02T08:33:53+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/63vJbNi5_BsRtzmB86Ou40uxuaI1dEU9mrTnTbzekdmt-NqJC249D966iKAX-VHr6o8cgn2WpG63QQNkZyHKn8Lk50iahx67riq2nDK8dhk/gia-ca-phe-ho-tieu-hom-nay-2-11.jpg.avif"
+        },
+        {
+          "id": "tbtc-206247",
+          "title": "Ngày 2 11 Giá cà phê chưa thấy tín hiệu phục hồi hồ tiêu giảm mạnh",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-2-11-gia-ca-phe-chua-thay-tin-hieu-phuc-hoi-ho-tieu-giam-manh-206247.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-02T06:38:20+07:00",
+          "image": ""
+        }
+      ]
+    },
     {
       "id": "bm-56407021",
       "label": "",
@@ -30,29 +61,6 @@
           "source": "Tuổi Trẻ",
           "published_at": "2026-11-02T07:01:00+07:00",
           "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/2/27835-17935790393571492092879-106-0-1706-2560-crop-17935790746701550226813.png"
-        }
-      ]
-    },
-    {
-      "id": "gia-2026-11-02",
-      "label": "Giá cà phê ngày 02/11",
-      "important": false,
-      "items": [
-        {
-          "id": "tbtc-206247",
-          "title": "Ngày 2 11 Giá cà phê chưa thấy tín hiệu phục hồi hồ tiêu giảm mạnh",
-          "url": "https://thoibaotaichinhvietnam.vn/ngay-2-11-gia-ca-phe-chua-thay-tin-hieu-phuc-hoi-ho-tieu-giam-manh-206247.html",
-          "source": "Thời báo Tài chính Việt Nam",
-          "published_at": "2026-11-02T06:38:20+07:00",
-          "image": ""
-        },
-        {
-          "id": "vov-1346426",
-          "title": "Giá cà phê hôm nay 2/11: Giá cà phê thế giới tăng mạnh",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-211-gia-ca-phe-the-gioi-tang-manh-post1346426.vov",
-          "source": "VOV",
-          "published_at": "2026-11-02T05:00:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-05/-4535-1745025743_860x0.jpg"
         }
       ]
     }
