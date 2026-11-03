@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 03/11/2026 09:55. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 03/11/2026 17:43. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -41,6 +41,12 @@ Trên 45 lần đo: sai số TB **349 đ**, đứng yên **584 đ**, đúng chi�
 | tâm lý bản tin | 21 | 62% | 343 đ | hại (−6 đ) |
 | đề xuất lệch sàn | 5 | 0% | 348 đ | hại (−1 đ) |
 | cung–cầu thế giới (GLM) | 28 | 46% | 348 đ | hại (−1 đ) |
+
+### Lớp đang đo BÓNG (chưa áp vào dự đoán)
+
+**kỳ vọng của giới phân tích** — chỉ ĐO, dự đoán không dùng nhãn này; sổ tính "nếu áp thêm lớp này" bằng đúng hàm của bước ngày-1.
+Chưa có mốc nào có nhãn của hôm đó và giá thật để so.
+Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 0) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
 
 ### GLM theo đồng thuận kỹ thuật–tin
 
