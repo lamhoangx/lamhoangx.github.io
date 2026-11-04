@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 04/11/2026 10:11. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 04/11/2026 11:16. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -40,23 +40,12 @@ Trên 46 lần đo: sai số TB **342 đ**, đứng yên **583 đ**, đúng chi�
 |---|---|---|---|---|
 | tâm lý bản tin | 21 | 62% | 336 đ | hại (−6 đ) |
 | đề xuất lệch sàn | 5 | 0% | 341 đ | hại (−1 đ) |
-| cung–cầu thế giới (GLM) | 29 | 48% | 342 đ | không đổi |
 
 ### Lớp đang đo BÓNG (chưa áp vào dự đoán)
 
 **kỳ vọng của giới phân tích** — chỉ ĐO, dự đoán không dùng nhãn này; sổ tính "nếu áp thêm lớp này" bằng đúng hàm của bước ngày-1.
 Chưa có mốc nào có nhãn của hôm đó và giá thật để so.
 Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 0) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
-
-### GLM theo đồng thuận kỹ thuật–tin
-
-| Đồng thuận | Số lần | Sai số TB | Nếu bỏ GLM |
-|---|---|---|---|
-| kỹ thuật và tin cùng chiều | 22 | 491 đ | 493 đ |
-| kỹ thuật và tin ngược chiều | 5 | 306 đ | 324 đ |
-| không rõ | 2 | 143 đ | 90 đ |
-
-Luật chốt trước: cần ≥ 20 mẫu "ngược chiều" (hiện 5) rồi mới xét hạ trọng số GLM ở nhóm đó.
 
 ### Phân loại lỗi ngày-1
 
