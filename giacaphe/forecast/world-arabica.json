@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:30:21+07:00",
+  "generated_at": "2026-11-06T05:45:10+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 69,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-06",
-      "price": 6151,
-      "low": 5936,
-      "high": 6366
+      "price": 6147,
+      "low": 5932,
+      "high": 6362
     },
     {
       "date": "2026-11-07",
-      "price": 6139,
-      "low": 5835,
-      "high": 6444
+      "price": 6132,
+      "low": 5827,
+      "high": 6436
     },
     {
       "date": "2026-11-08",
-      "price": 6131,
-      "low": 5758,
-      "high": 6503
+      "price": 6120,
+      "low": 5748,
+      "high": 6493
     },
     {
       "date": "2026-11-09",
-      "price": 6124,
-      "low": 5693,
-      "high": 6554
+      "price": 6112,
+      "low": 5682,
+      "high": 6542
     },
     {
       "date": "2026-11-10",
-      "price": 6119,
-      "low": 5638,
-      "high": 6600
+      "price": 6106,
+      "low": 5624,
+      "high": 6587
     },
     {
       "date": "2026-11-11",
-      "price": 6115,
-      "low": 5588,
-      "high": 6642
+      "price": 6101,
+      "low": 5574,
+      "high": 6628
     },
     {
       "date": "2026-11-12",
-      "price": 6112,
-      "low": 5543,
-      "high": 6682
+      "price": 6097,
+      "low": 5528,
+      "high": 6667
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 104,
-    "direction_hit_rate": 0.538
+    "samples": 25,
+    "mae": 106,
+    "direction_hit_rate": 0.52
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": -0.3090909090909091,
-    "rating_ma": -0.8,
-    "rating_other": 0.18181818181818182,
-    "rsi": 41.056597371629685,
-    "close": 6215.0,
+    "rating": -0.4666666666666667,
+    "rating_ma": -0.9333333333333333,
+    "rating_other": 0,
+    "rsi": 37.779681603630195,
+    "close": 6116.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-05T19:30:21+07:00"
+    "fetched_at": "2026-11-06T05:45:10+07:00"
   }
 }

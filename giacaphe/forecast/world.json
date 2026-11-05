@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:30:21+07:00",
+  "generated_at": "2026-11-06T05:45:10+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 69,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-06",
-      "price": 3240,
-      "low": 3139,
-      "high": 3341
+      "price": 3242,
+      "low": 3140,
+      "high": 3343
     },
     {
       "date": "2026-11-07",
-      "price": 3238,
-      "low": 3094,
-      "high": 3381
+      "price": 3241,
+      "low": 3097,
+      "high": 3384
     },
     {
       "date": "2026-11-08",
-      "price": 3236,
-      "low": 3060,
-      "high": 3411
+      "price": 3240,
+      "low": 3064,
+      "high": 3415
     },
     {
       "date": "2026-11-09",
-      "price": 3235,
-      "low": 3032,
-      "high": 3437
+      "price": 3239,
+      "low": 3037,
+      "high": 3442
     },
     {
       "date": "2026-11-10",
-      "price": 3234,
-      "low": 3007,
-      "high": 3460
+      "price": 3239,
+      "low": 3012,
+      "high": 3465
     },
     {
       "date": "2026-11-11",
-      "price": 3233,
-      "low": 2985,
-      "high": 3481
+      "price": 3238,
+      "low": 2990,
+      "high": 3487
     },
     {
       "date": "2026-11-12",
-      "price": 3232,
-      "low": 2964,
-      "high": 3500
+      "price": 3238,
+      "low": 2970,
+      "high": 3506
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 41,
-    "direction_hit_rate": 0.5
+    "samples": 25,
+    "mae": 42,
+    "direction_hit_rate": 0.48
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.4,
-    "rating_ma": -0.8,
+    "rating": -0.26666666666666666,
+    "rating_ma": -0.5333333333333333,
     "rating_other": 0,
-    "rsi": 42.05295062749837,
-    "close": 3243.0,
+    "rsi": 43.345356266673,
+    "close": 3256.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-05T19:30:21+07:00"
+    "fetched_at": "2026-11-06T05:45:10+07:00"
   }
 }
