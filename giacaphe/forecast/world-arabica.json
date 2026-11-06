@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:30:32+07:00",
+  "generated_at": "2026-11-07T05:45:12+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 70,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-07",
-      "price": 6092,
-      "low": 5882,
-      "high": 6303
+      "price": 6094,
+      "low": 5883,
+      "high": 6305
     },
     {
       "date": "2026-11-08",
-      "price": 6079,
-      "low": 5781,
-      "high": 6378
+      "price": 6082,
+      "low": 5783,
+      "high": 6380
     },
     {
       "date": "2026-11-09",
-      "price": 6070,
-      "low": 5704,
-      "high": 6435
+      "price": 6072,
+      "low": 5707,
+      "high": 6438
     },
     {
       "date": "2026-11-10",
-      "price": 6062,
-      "low": 5640,
-      "high": 6484
+      "price": 6065,
+      "low": 5644,
+      "high": 6487
     },
     {
       "date": "2026-11-11",
-      "price": 6057,
-      "low": 5585,
-      "high": 6528
+      "price": 6060,
+      "low": 5589,
+      "high": 6532
     },
     {
       "date": "2026-11-12",
-      "price": 6052,
-      "low": 5536,
-      "high": 6569
+      "price": 6056,
+      "low": 5540,
+      "high": 6573
     },
     {
       "date": "2026-11-13",
-      "price": 6049,
-      "low": 5491,
-      "high": 6607
+      "price": 6054,
+      "low": 5496,
+      "high": 6611
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 103,
-    "direction_hit_rate": 0.538
+    "samples": 25,
+    "mae": 98,
+    "direction_hit_rate": 0.52
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": -0.35454545454545455,
+    "rating": -0.3090909090909091,
     "rating_ma": -0.8,
-    "rating_other": 0.09090909090909091,
-    "rsi": 38.417579438793624,
-    "close": 6128.0,
+    "rating_other": 0.18181818181818182,
+    "rsi": 40.455414273472314,
+    "close": 6176.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-06T19:30:32+07:00"
+    "fetched_at": "2026-11-07T05:45:12+07:00"
   }
 }
