@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-06T05:45:10+07:00",
+  "generated_at": "2026-11-06T10:21:26+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 69,
+  "trained_days": 70,
   "anchor": {
-    "date": "2026-11-05",
-    "price": 6167
+    "date": "2026-11-06",
+    "price": 6110
   },
   "predictions": [
     {
-      "date": "2026-11-06",
-      "price": 6147,
-      "low": 5932,
-      "high": 6362
-    },
-    {
       "date": "2026-11-07",
-      "price": 6132,
-      "low": 5827,
-      "high": 6436
+      "price": 6089,
+      "low": 5879,
+      "high": 6300
     },
     {
       "date": "2026-11-08",
-      "price": 6120,
-      "low": 5748,
-      "high": 6493
+      "price": 6074,
+      "low": 5776,
+      "high": 6372
     },
     {
       "date": "2026-11-09",
-      "price": 6112,
-      "low": 5682,
-      "high": 6542
+      "price": 6063,
+      "low": 5697,
+      "high": 6428
     },
     {
       "date": "2026-11-10",
-      "price": 6106,
-      "low": 5624,
-      "high": 6587
+      "price": 6054,
+      "low": 5632,
+      "high": 6476
     },
     {
       "date": "2026-11-11",
-      "price": 6101,
-      "low": 5574,
-      "high": 6628
+      "price": 6047,
+      "low": 5576,
+      "high": 6519
     },
     {
       "date": "2026-11-12",
-      "price": 6097,
-      "low": 5528,
-      "high": 6667
+      "price": 6042,
+      "low": 5526,
+      "high": 6559
+    },
+    {
+      "date": "2026-11-13",
+      "price": 6039,
+      "low": 5481,
+      "high": 6597
     }
   ],
   "accuracy_30d": {
-    "samples": 25,
-    "mae": 106,
-    "direction_hit_rate": 0.52
+    "samples": 26,
+    "mae": 103,
+    "direction_hit_rate": 0.538
   },
   "stats": {
     "window_days": 30,
@@ -63,12 +63,12 @@
       "price": 6970
     },
     "low": {
-      "date": "2026-10-02",
-      "price": 6164
+      "date": "2026-11-06",
+      "price": 6110
     },
-    "average": 6478,
-    "ma7": 6307,
-    "ma30": 6478
+    "average": 6469,
+    "ma7": 6276,
+    "ma30": 6469
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -80,9 +80,9 @@
     "rating": -0.4666666666666667,
     "rating_ma": -0.9333333333333333,
     "rating_other": 0,
-    "rsi": 37.779681603630195,
-    "close": 6116.0,
+    "rsi": 37.64152987027052,
+    "close": 6110.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-06T05:45:10+07:00"
+    "fetched_at": "2026-11-06T10:21:26+07:00"
   }
 }
