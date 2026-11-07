@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-07T05:45:12+07:00",
+  "generated_at": "2026-11-07T11:24:34+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 70,
+  "trained_days": 71,
   "anchor": {
-    "date": "2026-11-06",
-    "price": 3243
+    "date": "2026-11-07",
+    "price": 3285
   },
   "predictions": [
     {
-      "date": "2026-11-07",
-      "price": 3244,
-      "low": 3141,
-      "high": 3346
-    },
-    {
       "date": "2026-11-08",
-      "price": 3244,
-      "low": 3099,
+      "price": 3286,
+      "low": 3184,
       "high": 3389
     },
     {
       "date": "2026-11-09",
-      "price": 3244,
-      "low": 3067,
-      "high": 3421
+      "price": 3287,
+      "low": 3142,
+      "high": 3432
     },
     {
       "date": "2026-11-10",
-      "price": 3245,
-      "low": 3040,
-      "high": 3449
+      "price": 3288,
+      "low": 3110,
+      "high": 3465
     },
     {
       "date": "2026-11-11",
-      "price": 3245,
-      "low": 3016,
-      "high": 3473
+      "price": 3288,
+      "low": 3083,
+      "high": 3493
     },
     {
       "date": "2026-11-12",
-      "price": 3245,
-      "low": 2995,
-      "high": 3495
+      "price": 3288,
+      "low": 3059,
+      "high": 3518
     },
     {
       "date": "2026-11-13",
-      "price": 3245,
-      "low": 2975,
-      "high": 3515
+      "price": 3289,
+      "low": 3038,
+      "high": 3540
+    },
+    {
+      "date": "2026-11-14",
+      "price": 3289,
+      "low": 3018,
+      "high": 3560
     }
   ],
   "accuracy_30d": {
-    "samples": 25,
+    "samples": 26,
     "mae": 40,
-    "direction_hit_rate": 0.44
+    "direction_hit_rate": 0.462
   },
   "stats": {
     "window_days": 30,
@@ -66,9 +66,9 @@
       "date": "2026-10-30",
       "price": 3177
     },
-    "average": 3366,
-    "ma7": 3232,
-    "ma30": 3366
+    "average": 3360,
+    "ma7": 3247,
+    "ma30": 3360
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "robusta",
@@ -83,6 +83,6 @@
     "rsi": 46.22656439312365,
     "close": 3285.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-07T05:45:12+07:00"
+    "fetched_at": "2026-11-07T11:24:34+07:00"
   }
 }
