@@ -1,28 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T05:40:22+07:00",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-10T05:40:21+07:00",
+  "date": "2026-11-10",
   "window_days": 3,
   "source": "Bộ Nông nghiệp và Môi trường (thitruongnongsan.gov.vn)",
   "regions": {
     "daklak": [
-      {
-        "nam": 2025,
-        "gia": 118900,
-        "so_phien": 5
-      },
-      {
-        "nam": 2024,
-        "gia": 107800,
-        "so_phien": 2
-      },
-      {
-        "nam": 2023,
-        "gia": 58100,
-        "so_phien": 5
-      }
-    ],
-    "daknong": [
       {
         "nam": 2025,
         "gia": 118400,
@@ -30,46 +13,63 @@
       },
       {
         "nam": 2024,
-        "gia": 108000,
-        "so_phien": 2
+        "gia": 108400,
+        "so_phien": 3
       },
       {
         "nam": 2023,
-        "gia": 58000,
-        "so_phien": 5
-      }
-    ],
-    "gialai": [
-      {
-        "nam": 2025,
-        "gia": 118100,
-        "so_phien": 5
-      },
-      {
-        "nam": 2024,
-        "gia": 107800,
-        "so_phien": 2
-      },
-      {
-        "nam": 2023,
-        "gia": 57900,
+        "gia": 58200,
         "so_phien": 5
       }
     ],
     "lamdong": [
       {
         "nam": 2025,
-        "gia": 117600,
+        "gia": 117300,
         "so_phien": 5
       },
       {
         "nam": 2024,
-        "gia": 107400,
-        "so_phien": 2
+        "gia": 108000,
+        "so_phien": 3
       },
       {
         "nam": 2023,
-        "gia": 57200,
+        "gia": 57600,
+        "so_phien": 5
+      }
+    ],
+    "daknong": [
+      {
+        "nam": 2025,
+        "gia": 118000,
+        "so_phien": 5
+      },
+      {
+        "nam": 2024,
+        "gia": 108600,
+        "so_phien": 3
+      },
+      {
+        "nam": 2023,
+        "gia": 58200,
+        "so_phien": 5
+      }
+    ],
+    "gialai": [
+      {
+        "nam": 2025,
+        "gia": 117900,
+        "so_phien": 5
+      },
+      {
+        "nam": 2024,
+        "gia": 108400,
+        "so_phien": 3
+      },
+      {
+        "nam": 2023,
+        "gia": 58100,
         "so_phien": 5
       }
     ]
