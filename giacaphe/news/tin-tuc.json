@@ -1,13 +1,38 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T08:45:24+07:00",
+  "generated_at": "2026-11-09T09:05:25+07:00",
   "date": "2026-11-09",
   "groups": [
+    {
+      "id": "vnb-thi-truong-ca-phe-noi-dia-phuc-hoi-nhe-dong-luc-nao-cho-xu-huong-gia-sap-toi",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "vnb-thi-truong-ca-phe-noi-dia-phuc-hoi-nhe-dong-luc-nao-cho-xu-huong-gia-sap-toi",
+          "title": "Thị trường cà phê nội địa phục hồi nhẹ: Động lực nào cho xu hướng giá sắp tới?",
+          "url": "https://vnbusiness.vn//thi-truong-ca-phe-noi-dia-phuc-hoi-nhe-dong-luc-nao-cho-xu-huong-gia-sap-toi.html",
+          "source": "VnBusiness",
+          "published_at": "2026-11-09T08:51:43+07:00",
+          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/09/81a4a420d2434b2d8660dafa5b239f7f-19807.jpg?w=1200&h=630&mode=crop&anchor=top-center",
+          "image_small": "news/anh/2c10c4b7efdce5ce6687.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-09",
       "label": "Giá cà phê ngày 09/11",
       "important": true,
       "items": [
+        {
+          "id": "vov-1348398",
+          "title": "Giá cà phê hôm nay 9/11: Giá cà phê Robusta và Arabica tăng nhẹ",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-911-gia-ca-phe-robusta-va-arabica-tang-nhe-post1348398.vov",
+          "source": "VOV",
+          "published_at": "2026-11-09T08:49:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-11/cafe5.jpg",
+          "image_small": "news/anh/af78ae941d512beb937d.jpg"
+        },
         {
           "id": "bgl-604395",
           "title": "Giá nông sản ngày 9-11: Hồ tiêu giữ giá 138.000 đồng/kg, cà phê đi ngang",
@@ -23,14 +48,22 @@
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-09T06:32:54+07:00",
           "image": ""
-        },
+        }
+      ]
+    },
+    {
+      "id": "tt-100261109084214169",
+      "label": "",
+      "important": false,
+      "items": [
         {
-          "id": "vov-1348398",
-          "title": "Giá cà phê hôm nay 31/8: Cà phê trong nước tăng, giá cao nhất 84.700 đồng/kg",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-318-ca-phe-trong-nuoc-tang-gia-cao-nhat-84700-dongkg-post1348398.vov",
-          "source": "VOV",
-          "published_at": "2026-11-09T01:00:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-11/cafe5.jpg"
+          "id": "tt-100261109084214169",
+          "title": "Robusta tuần qua: Giá xuống dưới 85.000 đồng/kg, nông dân 'cân não' tỉ lệ bán ra",
+          "url": "https://tuoitre.vn/robusta-tuan-qua-gia-xuong-duoi-85000-dong-kg-nong-dan-can-nao-ti-le-ban-ra-100261109084214169.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-09T08:48:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/9/qrobusta-tuan-qua-8112-17941884624711320446212-77-0-1677-2560-crop-1794188686363198329422.jpg",
+          "image_small": "news/anh/79ced7522557f375d578.jpg"
         }
       ]
     }
