@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-10T05:45:09+07:00",
+  "generated_at": "2026-11-10T10:26:23+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
-  "trained_days": 72,
+  "trained_days": 73,
   "anchor": {
-    "date": "2026-11-09",
-    "price": 6173
+    "date": "2026-11-10",
+    "price": 6032
   },
   "predictions": [
     {
-      "date": "2026-11-10",
-      "price": 6148,
-      "low": 5937,
-      "high": 6360
-    },
-    {
       "date": "2026-11-11",
-      "price": 6130,
-      "low": 5831,
-      "high": 6429
+      "price": 6007,
+      "low": 5801,
+      "high": 6214
     },
     {
       "date": "2026-11-12",
-      "price": 6116,
-      "low": 5750,
-      "high": 6483
+      "price": 5989,
+      "low": 5697,
+      "high": 6281
     },
     {
       "date": "2026-11-13",
-      "price": 6106,
-      "low": 5682,
-      "high": 6529
+      "price": 5975,
+      "low": 5618,
+      "high": 6333
     },
     {
       "date": "2026-11-14",
-      "price": 6098,
-      "low": 5625,
-      "high": 6571
+      "price": 5965,
+      "low": 5552,
+      "high": 6378
     },
     {
       "date": "2026-11-15",
-      "price": 6092,
-      "low": 5574,
-      "high": 6611
+      "price": 5957,
+      "low": 5496,
+      "high": 6419
     },
     {
       "date": "2026-11-16",
-      "price": 6088,
-      "low": 5528,
-      "high": 6648
+      "price": 5951,
+      "low": 5446,
+      "high": 6457
+    },
+    {
+      "date": "2026-11-17",
+      "price": 5947,
+      "low": 5401,
+      "high": 6493
     }
   ],
   "accuracy_30d": {
-    "samples": 24,
+    "samples": 25,
     "mae": 98,
-    "direction_hit_rate": 0.5
+    "direction_hit_rate": 0.52
   },
   "stats": {
     "window_days": 30,
@@ -63,12 +63,12 @@
       "price": 6970
     },
     "low": {
-      "date": "2026-11-06",
-      "price": 6110
+      "date": "2026-11-10",
+      "price": 6032
     },
-    "average": 6468,
-    "ma7": 6236,
-    "ma30": 6468
+    "average": 6462,
+    "ma7": 6194,
+    "ma30": 6462
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": -0.5121212121212121,
+    "rating": -0.4212121212121212,
     "rating_ma": -0.9333333333333333,
-    "rating_other": -0.09090909090909091,
-    "rsi": 36.23250620567,
-    "close": 6020.0,
+    "rating_other": 0.09090909090909091,
+    "rsi": 36.525585193362204,
+    "close": 6032.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-10T05:45:09+07:00"
+    "fetched_at": "2026-11-10T10:26:23+07:00"
   }
 }
