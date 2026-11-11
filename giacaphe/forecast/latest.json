@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:30:41+07:00",
+  "generated_at": "2026-11-12T05:45:17+07:00",
   "model": "tv-close-gemini-v7",
   "horizon_days": 7,
   "trained_days": 76,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-12",
-      "price": 84061,
-      "low": 82791,
-      "high": 85332
+      "price": 84036,
+      "low": 82765,
+      "high": 85306
     },
     {
       "date": "2026-11-13",
-      "price": 84005,
-      "low": 82209,
-      "high": 85802
+      "price": 84012,
+      "low": 82215,
+      "high": 85809
     },
     {
       "date": "2026-11-14",
-      "price": 83963,
-      "low": 81763,
-      "high": 86164
+      "price": 83994,
+      "low": 81793,
+      "high": 86194
     },
     {
       "date": "2026-11-15",
-      "price": 83932,
-      "low": 81391,
-      "high": 86473
+      "price": 83980,
+      "low": 81439,
+      "high": 86521
     },
     {
       "date": "2026-11-16",
-      "price": 83908,
-      "low": 81067,
-      "high": 86749
+      "price": 83970,
+      "low": 81129,
+      "high": 86811
     },
     {
       "date": "2026-11-17",
-      "price": 83890,
-      "low": 80778,
-      "high": 87002
+      "price": 83963,
+      "low": 80851,
+      "high": 87074
     },
     {
       "date": "2026-11-18",
-      "price": 83877,
-      "low": 80516,
-      "high": 87238
+      "price": 83957,
+      "low": 80596,
+      "high": 87318
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 442,
-    "direction_hit_rate": 0.731
+    "samples": 25,
+    "mae": 453,
+    "direction_hit_rate": 0.76
   },
   "stats": {
     "window_days": 30,
@@ -75,29 +75,28 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.3333333333333333,
-    "rating_ma": -0.6666666666666666,
-    "rating_other": 0,
-    "rsi": 44.4383477856874,
-    "close": 3265.0,
+    "rating": -0.3090909090909091,
+    "rating_ma": -0.8,
+    "rating_other": 0.18181818181818182,
+    "rsi": 43.97539024429961,
+    "close": 3260.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-11T19:30:41+07:00"
+    "fetched_at": "2026-11-12T05:45:17+07:00"
   },
-  "tam_ly": -0.5,
   "truyen_dan": {
-    "r": 0.0,
+    "r": -0.001531,
     "beta": 0.5
   },
   "tin_hieu_san": {
     "san": "London",
-    "phan_tram": 0.0,
+    "phan_tram": -0.2,
     "tu_ngay": "2026-11-11",
-    "luc": "2026-11-11T19:30:41+07:00"
+    "luc": "2026-11-12T05:45:17+07:00"
   },
   "de_xuat_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-11-11T19:30:41+07:00",
+      "generated_at": "2026-11-12T05:45:17+07:00",
       "model": "tv-close-gemini-v7",
       "horizon_days": 7,
       "trained_days": 76,
@@ -108,51 +107,51 @@
       "predictions": [
         {
           "date": "2026-11-12",
-          "price": 84261,
-          "low": 82997,
-          "high": 85524
+          "price": 84235,
+          "low": 82971,
+          "high": 85499
         },
         {
           "date": "2026-11-13",
-          "price": 84206,
-          "low": 82419,
-          "high": 85993
+          "price": 84212,
+          "low": 82425,
+          "high": 86000
         },
         {
           "date": "2026-11-14",
-          "price": 84165,
-          "low": 81977,
-          "high": 86354
+          "price": 84196,
+          "low": 82007,
+          "high": 86384
         },
         {
           "date": "2026-11-15",
-          "price": 84135,
-          "low": 81607,
-          "high": 86662
+          "price": 84183,
+          "low": 81655,
+          "high": 86710
         },
         {
           "date": "2026-11-16",
-          "price": 84112,
-          "low": 81286,
-          "high": 86938
+          "price": 84173,
+          "low": 81348,
+          "high": 86999
         },
         {
           "date": "2026-11-17",
-          "price": 84095,
-          "low": 80999,
-          "high": 87190
+          "price": 84166,
+          "low": 81071,
+          "high": 87262
         },
         {
           "date": "2026-11-18",
-          "price": 84082,
-          "low": 80738,
-          "high": 87425
+          "price": 84161,
+          "low": 80817,
+          "high": 87505
         }
       ],
       "accuracy_30d": {
-        "samples": 26,
-        "mae": 422,
-        "direction_hit_rate": 0.731
+        "samples": 25,
+        "mae": 431,
+        "direction_hit_rate": 0.76
       },
       "stats": {
         "window_days": 30,
@@ -174,11 +173,11 @@
         "title": "Phân tích",
         "subtitle": "Đắk Lắk · dự đoán ngày 12/11",
         "target_date": "2026-11-12",
-        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Hiện tại, sàn London gần như chưa đổi và tin tức trong nước hơi tiêu cực nhưng không làm thay đổi kết quả, khiến giá chỉ đổi rất ít và có thể gần như đi ngang. Tính tiếp cho khoảng một tuần tới, giá trong nước nhiều khả năng vẫn gần như đi ngang, với lưu ý càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 39đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **84.261 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±422đ), nên được xem là gần như đi ngang. Lúc tính chưa có yếu tố mới nào đủ mạnh để đẩy giá: sàn London gần như chưa đi thêm từ khi giá trong nước cập nhật ngày 11/11; tin tức trong nước gần như không ảnh hưởng.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Đắk Lắk: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.200 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.200đ (5,8%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 84.961 | 84.800 | 161đ |\n| 11/11 | 84.580 | 84.300 | 280đ |\n\nSai số trung bình ±422đ/⁠kg trong 26 lần đo gần nhất. Đoán đúng chiều 7 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±619đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 84.261 | 82.997 – 85.524 |\n| 13/11 | 84.206 | 82.419 – 85.993 |\n| 14/11 | 84.165 | 81.977 – 86.354 |\n| 15/11 | 84.135 | 81.607 – 86.662 |\n| 16/11 | 84.112 | 81.286 – 86.938 |\n| 17/11 | 84.095 | 80.999 – 87.190 |\n| 18/11 | 84.082 | 80.738 – 87.425 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 218đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.260đ, ngày 18/11 là ±3.340đ. Sai số trung bình ±422đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 19:30 ngày 11/11. Sai số trung bình ±422đ/⁠kg trong 26 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Sàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay, khiến giá chỉ đổi rất ít và nhiều khả năng đi ngang. Tính tiếp cho khoảng một tuần tới, giá được dự báo gần như đi ngang; càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 65đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **84.235 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±431đ), nên được xem là gần như đi ngang.\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 11/11 (84.300 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 60đ**\n\nSàn London đã giảm 0,2% từ khi giá trong nước cập nhật ngày 11/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Đắk Lắk: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.200 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.200đ (5,8%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 84.961 | 84.800 | 161đ |\n| 11/11 | 84.580 | 84.300 | 280đ |\n\nSai số trung bình ±431đ/⁠kg trong 25 lần đo gần nhất. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±644đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 84.235 | 82.971 – 85.499 |\n| 13/11 | 84.212 | 82.425 – 86.000 |\n| 14/11 | 84.196 | 82.007 – 86.384 |\n| 15/11 | 84.183 | 81.655 – 86.710 |\n| 16/11 | 84.173 | 81.348 – 86.999 |\n| 17/11 | 84.166 | 81.071 – 87.262 |\n| 18/11 | 84.161 | 80.817 – 87.505 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 139đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.260đ, ngày 18/11 là ±3.340đ. Sai số trung bình ±431đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 05:45 ngày 12/11. Sai số trung bình ±431đ/⁠kg trong 25 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "lamdong": {
-      "generated_at": "2026-11-11T19:30:41+07:00",
+      "generated_at": "2026-11-12T05:45:17+07:00",
       "model": "tv-close-gemini-v7",
       "horizon_days": 7,
       "trained_days": 76,
@@ -189,51 +188,51 @@
       "predictions": [
         {
           "date": "2026-11-12",
-          "price": 83762,
-          "low": 82502,
-          "high": 85021
+          "price": 83736,
+          "low": 82477,
+          "high": 84995
         },
         {
           "date": "2026-11-13",
-          "price": 83713,
-          "low": 81932,
-          "high": 85494
+          "price": 83719,
+          "low": 81938,
+          "high": 85500
         },
         {
           "date": "2026-11-14",
-          "price": 83676,
-          "low": 81495,
-          "high": 85857
+          "price": 83706,
+          "low": 81525,
+          "high": 85887
         },
         {
           "date": "2026-11-15",
-          "price": 83648,
-          "low": 81130,
-          "high": 86167
+          "price": 83696,
+          "low": 81177,
+          "high": 86215
         },
         {
           "date": "2026-11-16",
-          "price": 83628,
-          "low": 80812,
-          "high": 86443
+          "price": 83689,
+          "low": 80873,
+          "high": 86505
         },
         {
           "date": "2026-11-17",
-          "price": 83612,
-          "low": 80528,
-          "high": 86697
+          "price": 83683,
+          "low": 80599,
+          "high": 86768
         },
         {
           "date": "2026-11-18",
-          "price": 83600,
-          "low": 80269,
-          "high": 86932
+          "price": 83679,
+          "low": 80347,
+          "high": 87011
         }
       ],
       "accuracy_30d": {
-        "samples": 26,
-        "mae": 429,
-        "direction_hit_rate": 0.731
+        "samples": 25,
+        "mae": 438,
+        "direction_hit_rate": 0.76
       },
       "stats": {
         "window_days": 30,
@@ -255,11 +254,11 @@
         "title": "Phân tích",
         "subtitle": "Lâm Đồng · dự đoán ngày 12/11",
         "target_date": "2026-11-12",
-        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Hiện tại, sàn London gần như chưa đổi và tin tức trong nước hơi tiêu cực nhưng không làm thay đổi kết quả, khiến giá chỉ đổi rất ít và có thể gần như đi ngang. Tính tiếp cho khoảng một tuần tới, giá trong nước nhiều khả năng vẫn gần như đi ngang, với lưu ý càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 38đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **83.762 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±429đ), nên được xem là gần như đi ngang. Lúc tính chưa có yếu tố mới nào đủ mạnh để đẩy giá: sàn London gần như chưa đi thêm từ khi giá trong nước cập nhật ngày 11/11; tin tức trong nước gần như không ảnh hưởng.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Lâm Đồng: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 93.600 đ/⁠kg (ngày 07/10), thấp nhất 83.300 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.000 đ/⁠kg ngày 24/10, giá đã giảm 5.200đ (5,8%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 84.461 | 84.400 | 61đ |\n| 11/11 | 84.181 | 83.800 | 381đ |\n\nSai số trung bình ±429đ/⁠kg trong 26 lần đo gần nhất. Đoán đúng chiều 7 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±638đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 83.762 | 82.502 – 85.021 |\n| 13/11 | 83.713 | 81.932 – 85.494 |\n| 14/11 | 83.676 | 81.495 – 85.857 |\n| 15/11 | 83.648 | 81.130 – 86.167 |\n| 16/11 | 83.628 | 80.812 – 86.443 |\n| 17/11 | 83.612 | 80.528 – 86.697 |\n| 18/11 | 83.600 | 80.269 – 86.932 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 200đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.260đ, ngày 18/11 là ±3.330đ. Sai số trung bình ±429đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 19:30 ngày 11/11. Sai số trung bình ±429đ/⁠kg trong 26 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Sàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay, khiến giá chỉ đổi rất ít và nhiều khả năng đi ngang. Tính tiếp cho khoảng một tuần tới, giá được dự báo gần như đi ngang; càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 64đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **83.736 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±438đ), nên được xem là gần như đi ngang.\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 11/11 (83.800 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 60đ**\n\nSàn London đã giảm 0,2% từ khi giá trong nước cập nhật ngày 11/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Lâm Đồng: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 93.600 đ/⁠kg (ngày 07/10), thấp nhất 83.300 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.000 đ/⁠kg ngày 24/10, giá đã giảm 5.200đ (5,8%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 84.461 | 84.400 | 61đ |\n| 11/11 | 84.181 | 83.800 | 381đ |\n\nSai số trung bình ±438đ/⁠kg trong 25 lần đo gần nhất. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±664đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 83.736 | 82.477 – 84.995 |\n| 13/11 | 83.719 | 81.938 – 85.500 |\n| 14/11 | 83.706 | 81.525 – 85.887 |\n| 15/11 | 83.696 | 81.177 – 86.215 |\n| 16/11 | 83.689 | 80.873 – 86.505 |\n| 17/11 | 83.683 | 80.599 – 86.768 |\n| 18/11 | 83.679 | 80.347 – 87.011 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 121đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.260đ, ngày 18/11 là ±3.330đ. Sai số trung bình ±438đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 05:45 ngày 12/11. Sai số trung bình ±438đ/⁠kg trong 25 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "gialai": {
-      "generated_at": "2026-11-11T19:30:41+07:00",
+      "generated_at": "2026-11-12T05:45:17+07:00",
       "model": "tv-close-gemini-v7",
       "horizon_days": 7,
       "trained_days": 76,
@@ -270,51 +269,51 @@
       "predictions": [
         {
           "date": "2026-11-12",
-          "price": 83962,
-          "low": 82700,
-          "high": 85224
+          "price": 83936,
+          "low": 82674,
+          "high": 85198
         },
         {
           "date": "2026-11-13",
-          "price": 83903,
-          "low": 82119,
-          "high": 85688
+          "price": 83910,
+          "low": 82125,
+          "high": 85694
         },
         {
           "date": "2026-11-14",
-          "price": 83859,
-          "low": 81673,
-          "high": 86045
+          "price": 83890,
+          "low": 81704,
+          "high": 86076
         },
         {
           "date": "2026-11-15",
-          "price": 83827,
-          "low": 81302,
-          "high": 86351
+          "price": 83874,
+          "low": 81350,
+          "high": 86399
         },
         {
           "date": "2026-11-16",
-          "price": 83802,
-          "low": 80980,
-          "high": 86624
+          "price": 83863,
+          "low": 81041,
+          "high": 86685
         },
         {
           "date": "2026-11-17",
-          "price": 83783,
-          "low": 80692,
-          "high": 86875
+          "price": 83855,
+          "low": 80763,
+          "high": 86946
         },
         {
           "date": "2026-11-18",
-          "price": 83769,
-          "low": 80430,
-          "high": 87109
+          "price": 83848,
+          "low": 80509,
+          "high": 87188
         }
       ],
       "accuracy_30d": {
-        "samples": 26,
-        "mae": 417,
-        "direction_hit_rate": 0.769
+        "samples": 25,
+        "mae": 426,
+        "direction_hit_rate": 0.8
       },
       "stats": {
         "window_days": 30,
@@ -336,11 +335,11 @@
         "title": "Phân tích",
         "subtitle": "Gia Lai · dự đoán ngày 12/11",
         "target_date": "2026-11-12",
-        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Hiện tại, sàn London gần như chưa đổi và tin tức trong nước hơi tiêu cực nhưng không làm thay đổi kết quả, khiến giá chỉ đổi rất ít và có thể gần như đi ngang. Tính tiếp cho khoảng một tuần tới, giá trong nước nhiều khả năng vẫn gần như đi ngang, với lưu ý càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 38đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **83.962 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±417đ), nên được xem là gần như đi ngang. Lúc tính chưa có yếu tố mới nào đủ mạnh để đẩy giá: sàn London gần như chưa đi thêm từ khi giá trong nước cập nhật ngày 11/11; tin tức trong nước gần như không ảnh hưởng.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Gia Lai: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.200 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.500đ (6,1%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 84.961 | 84.800 | 161đ |\n| 11/11 | 84.580 | 84.000 | 580đ |\n\nSai số trung bình ±417đ/⁠kg trong 26 lần đo gần nhất. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±631đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 83.962 | 82.700 – 85.224 |\n| 13/11 | 83.903 | 82.119 – 85.688 |\n| 14/11 | 83.859 | 81.673 – 86.045 |\n| 15/11 | 83.827 | 81.302 – 86.351 |\n| 16/11 | 83.802 | 80.980 – 86.624 |\n| 17/11 | 83.783 | 80.692 – 86.875 |\n| 18/11 | 83.769 | 80.430 – 87.109 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 231đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.260đ, ngày 18/11 là ±3.340đ. Sai số trung bình ±417đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 19:30 ngày 11/11. Sai số trung bình ±417đ/⁠kg trong 26 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Sàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay, khiến giá chỉ đổi rất ít và nhiều khả năng đi ngang. Tính tiếp cho khoảng một tuần tới, giá được dự báo gần như đi ngang; càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 64đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **83.936 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±426đ), nên được xem là gần như đi ngang.\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 11/11 (84.000 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 60đ**\n\nSàn London đã giảm 0,2% từ khi giá trong nước cập nhật ngày 11/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Gia Lai: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.200 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.500đ (6,1%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 84.961 | 84.800 | 161đ |\n| 11/11 | 84.580 | 84.000 | 580đ |\n\nSai số trung bình ±426đ/⁠kg trong 25 lần đo gần nhất. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±656đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 83.936 | 82.674 – 85.198 |\n| 13/11 | 83.910 | 82.125 – 85.694 |\n| 14/11 | 83.890 | 81.704 – 86.076 |\n| 15/11 | 83.874 | 81.350 – 86.399 |\n| 16/11 | 83.863 | 81.041 – 86.685 |\n| 17/11 | 83.855 | 80.763 – 86.946 |\n| 18/11 | 83.848 | 80.509 – 87.188 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 152đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.260đ, ngày 18/11 là ±3.340đ. Sai số trung bình ±426đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 05:45 ngày 12/11. Sai số trung bình ±426đ/⁠kg trong 25 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "daknong": {
-      "generated_at": "2026-11-11T19:30:41+07:00",
+      "generated_at": "2026-11-12T05:45:17+07:00",
       "model": "tv-close-gemini-v7",
       "horizon_days": 7,
       "trained_days": 76,
@@ -351,51 +350,51 @@
       "predictions": [
         {
           "date": "2026-11-12",
-          "price": 83960,
-          "low": 82650,
-          "high": 85270
+          "price": 83936,
+          "low": 82626,
+          "high": 85246
         },
         {
           "date": "2026-11-13",
-          "price": 83901,
-          "low": 82048,
-          "high": 85753
+          "price": 83910,
+          "low": 82057,
+          "high": 85762
         },
         {
           "date": "2026-11-14",
-          "price": 83856,
-          "low": 81587,
-          "high": 86125
+          "price": 83890,
+          "low": 81621,
+          "high": 86159
         },
         {
           "date": "2026-11-15",
-          "price": 83823,
-          "low": 81202,
-          "high": 86443
+          "price": 83875,
+          "low": 81255,
+          "high": 86495
         },
         {
           "date": "2026-11-16",
-          "price": 83798,
-          "low": 80868,
-          "high": 86727
+          "price": 83864,
+          "low": 80934,
+          "high": 86794
         },
         {
           "date": "2026-11-17",
-          "price": 83779,
-          "low": 80570,
-          "high": 86988
+          "price": 83856,
+          "low": 80646,
+          "high": 87065
         },
         {
           "date": "2026-11-18",
-          "price": 83765,
-          "low": 80298,
-          "high": 87231
+          "price": 83849,
+          "low": 80383,
+          "high": 87316
         }
       ],
       "accuracy_30d": {
-        "samples": 26,
-        "mae": 491,
-        "direction_hit_rate": 0.731
+        "samples": 25,
+        "mae": 504,
+        "direction_hit_rate": 0.76
       },
       "stats": {
         "window_days": 30,
@@ -417,7 +416,7 @@
         "title": "Phân tích",
         "subtitle": "Đắk Nông · dự đoán ngày 12/11",
         "target_date": "2026-11-12",
-        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Hiện tại, sàn London gần như chưa đổi và tin tức trong nước hơi tiêu cực nhưng không làm thay đổi kết quả, khiến giá chỉ đổi rất ít và có thể gần như đi ngang. Tính tiếp cho khoảng một tuần tới, giá trong nước nhiều khả năng vẫn gần như đi ngang, với lưu ý càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 40đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **83.960 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±491đ), nên được xem là gần như đi ngang. Lúc tính chưa có yếu tố mới nào đủ mạnh để đẩy giá: sàn London gần như chưa đi thêm từ khi giá trong nước cập nhật ngày 11/11; tin tức trong nước gần như không ảnh hưởng.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Đắk Nông: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.400 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.500đ (6,1%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.261 | 85.000 | 261đ |\n| 11/11 | 84.780 | 84.000 | 780đ |\n\nSai số trung bình ±491đ/⁠kg trong 26 lần đo gần nhất. Đoán đúng chiều 7 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±677đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 83.960 | 82.650 – 85.270 |\n| 13/11 | 83.901 | 82.048 – 85.753 |\n| 14/11 | 83.856 | 81.587 – 86.125 |\n| 15/11 | 83.823 | 81.202 – 86.443 |\n| 16/11 | 83.798 | 80.868 – 86.727 |\n| 17/11 | 83.779 | 80.570 – 86.988 |\n| 18/11 | 83.765 | 80.298 – 87.231 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 235đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.310đ, ngày 18/11 là ±3.470đ. Sai số trung bình ±491đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 19:30 ngày 11/11. Sai số trung bình ±491đ/⁠kg trong 26 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Sàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay, khiến giá chỉ đổi rất ít và nhiều khả năng đi ngang. Tính tiếp cho khoảng một tuần tới, giá được dự báo gần như đi ngang; càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 64đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **83.936 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±504đ), nên được xem là gần như đi ngang.\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 11/11 (84.000 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 60đ**\n\nSàn London đã giảm 0,2% từ khi giá trong nước cập nhật ngày 11/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Đắk Nông: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.400 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.500đ (6,1%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.261 | 85.000 | 261đ |\n| 11/11 | 84.780 | 84.000 | 780đ |\n\nSai số trung bình ±504đ/⁠kg trong 25 lần đo gần nhất. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±704đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 83.936 | 82.626 – 85.246 |\n| 13/11 | 83.910 | 82.057 – 85.762 |\n| 14/11 | 83.890 | 81.621 – 86.159 |\n| 15/11 | 83.875 | 81.255 – 86.495 |\n| 16/11 | 83.864 | 80.934 – 86.794 |\n| 17/11 | 83.856 | 80.646 – 87.065 |\n| 18/11 | 83.849 | 80.383 – 87.316 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 151đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.310đ, ngày 18/11 là ±3.470đ. Sai số trung bình ±504đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 05:45 ngày 12/11. Sai số trung bình ±504đ/⁠kg trong 25 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     }
   },
@@ -425,6 +424,6 @@
     "title": "Phân tích",
     "subtitle": "Trung bình 4 tỉnh · dự đoán ngày 12/11",
     "target_date": "2026-11-12",
-    "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Hiện tại, sàn London gần như chưa đổi và tin tức trong nước hơi tiêu cực nhưng không làm thay đổi kết quả, khiến giá chỉ đổi rất ít và có thể gần như đi ngang. Tính tiếp cho khoảng một tuần tới, giá trong nước nhiều khả năng vẫn gần như đi ngang, với lưu ý càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 39đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **84.061 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±442đ), nên được xem là gần như đi ngang. Lúc tính chưa có yếu tố mới nào đủ mạnh để đẩy giá: sàn London gần như chưa đi thêm từ khi giá trong nước cập nhật ngày 11/11; tin tức trong nước gần như không ảnh hưởng.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.300 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.400đ (6,0%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n\nSai số trung bình ±442đ/⁠kg trong 26 lần đo gần nhất. Đoán đúng chiều 7 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±642đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 84.061 | 82.791 – 85.332 |\n| 13/11 | 84.005 | 82.209 – 85.802 |\n| 14/11 | 83.963 | 81.763 – 86.164 |\n| 15/11 | 83.932 | 81.391 – 86.473 |\n| 16/11 | 83.908 | 81.067 – 86.749 |\n| 17/11 | 83.890 | 80.778 – 87.002 |\n| 18/11 | 83.877 | 80.516 – 87.238 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 223đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.270đ, ngày 18/11 là ±3.360đ. Sai số trung bình ±442đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 19:30 ngày 11/11. Sai số trung bình ±442đ/⁠kg trong 26 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+    "markdown": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Sàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay, khiến giá chỉ đổi rất ít và nhiều khả năng đi ngang. Tính tiếp cho khoảng một tuần tới, giá được dự báo gần như đi ngang; càng xa càng khó đoán.\n\n---\n\n**▼ Giảm 64đ** so với giá ngày 11/11 → dự đoán ngày 12/11: **84.036 đ/⁠kg**\n\nMức này nhỏ hơn sai số trung bình của dự đoán (±453đ), nên được xem là gần như đi ngang.\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 11/11 (84.100 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 60đ**\n\nSàn London đã giảm 0,2% từ khi giá trong nước cập nhật ngày 11/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **76 phiên**, từ ngày 14/08 tới ngày 11/11.\n- Trong 30 phiên gần nhất: cao nhất 94.300 đ/⁠kg (ngày 07/10), thấp nhất 84.000 đ/⁠kg (ngày 04/11).\n- ▼ Từ mức 89.500 đ/⁠kg ngày 24/10, giá đã giảm 5.400đ (6,0%) sau 14 phiên.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 phiên gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 phiên gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n\nSai số trung bình ±453đ/⁠kg trong 25 lần đo gần nhất. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình ±668đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 12/11 | 84.036 | 82.765 – 85.306 |\n| 13/11 | 84.012 | 82.215 – 85.809 |\n| 14/11 | 83.994 | 81.793 – 86.194 |\n| 15/11 | 83.980 | 81.439 – 86.521 |\n| 16/11 | 83.970 | 81.129 – 86.811 |\n| 17/11 | 83.963 | 80.851 – 87.074 |\n| 18/11 | 83.957 | 80.596 – 87.318 |\n\nGiá trong bảng tính bằng đ/⁠kg. Hướng chung tới ngày 18/11: **— gần như đi ngang** so với giá ngày 11/11 (chênh 143đ, nhỏ hơn sai số trung bình).\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 12/11 là ±1.270đ, ngày 18/11 là ±3.360đ. Sai số trung bình ±453đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n### Dự đoán không biết những gì\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính. Sàn đổi chiều sau đó, thời tiết, chính sách, hay giá đại lý trả thực tế đều không nằm trong con số này.\n\nDự đoán này tính lúc 05:45 ngày 12/11. Sai số trung bình ±453đ/⁠kg trong 25 lần đo gần nhất.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
   }
 }

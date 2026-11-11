@@ -1,12 +1,17 @@
 {
   "calls": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "count": 1
   },
   "entries": {
     "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
       "text": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Hiện tại, sàn London gần như chưa đổi và tin tức trong nước hơi tiêu cực nhưng không làm thay đổi kết quả, khiến giá chỉ đổi rất ít và có thể gần như đi ngang. Tính tiếp cho khoảng một tuần tới, giá trong nước nhiều khả năng vẫn gần như đi ngang, với lưu ý càng xa càng khó đoán.",
       "at": "2026-11-11T19:30:41+07:00",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nChưa có đánh giá tin tức trong nước của hôm nay.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
+      "text": "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây. Sàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay, khiến giá chỉ đổi rất ít và nhiều khả năng đi ngang. Tính tiếp cho khoảng một tuần tới, giá được dự báo gần như đi ngang; càng xa càng khó đoán.",
+      "at": "2026-11-12T05:45:17+07:00",
       "model": "gemini-3.5-flash-lite"
     }
   }
