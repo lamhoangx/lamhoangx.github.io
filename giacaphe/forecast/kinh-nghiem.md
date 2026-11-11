@@ -1,45 +1,45 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 11/11/2026 05:45. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 11/11/2026 10:04. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
 ## Trung bình 4 tỉnh
 
-Đã ghi 52 mốc dự đoán, 51 mốc đã có giá thật để chấm.
+Đã ghi 53 mốc dự đoán, 52 mốc đã có giá thật để chấm.
 
 ### Sai số theo tầm dự đoán
 
 | Tầm (ngày) | Số lần | Sai số TB | Đứng yên | Dải 90% phủ |
 |---|---|---|---|---|
-| 1 | 43 | 319 đ | 595 đ | 98% |
-| 2 | 41 | 712 đ | 729 đ | 93% |
+| 1 | 44 | 325 đ | 600 đ | 98% |
+| 2 | 42 | 716 đ | 736 đ | 93% |
 | 3 | 41 | 876 đ | 1.000 đ | 93% |
-| 4 | 40 | 1.191 đ | 1.168 đ | 85% |
-| 5 | 39 | 1.154 đ | 1.264 đ | 90% |
-| 6 | 39 | 1.247 đ | 1.492 đ | 92% |
-| 7 | 42 | 1.501 đ | 1.676 đ | 86% |
+| 4 | 41 | 1.167 đ | 1.151 đ | 85% |
+| 5 | 40 | 1.125 đ | 1.235 đ | 90% |
+| 6 | 40 | 1.228 đ | 1.455 đ | 92% |
+| 7 | 43 | 1.480 đ | 1.640 đ | 86% |
 
 ### Ngày-1: mô hình so với đứng yên
 
-Trên 51 lần đo: sai số TB **328 đ**, đứng yên **551 đ**, đúng chiều 72%, dải 90% phủ 98%.
+Trên 52 lần đo: sai số TB **333 đ**, đứng yên **556 đ**, đúng chiều 73%, dải 90% phủ 98%.
 → Mô hình **đang thắng** mốc đứng yên (−223 đ).
 
 ### Từng lớp giúp hay hại (ngày-1)
 
 | Lớp | Có tiếng nói | Đúng chiều | Nếu bỏ lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| truyền dẫn London | 41 | 85% | 545 đ | giúp (+217 đ) |
-| tín hiệu sàn | 0 | — | 328 đ | chưa có tiếng nói |
-| xu hướng gần | 0 | — | 328 đ | chưa có tiếng nói |
-| AI điều tiết | 27 | 48% | 322 đ | hại (−6 đ) |
+| truyền dẫn London | 42 | 86% | 550 đ | giúp (+217 đ) |
+| tín hiệu sàn | 0 | — | 333 đ | chưa có tiếng nói |
+| xu hướng gần | 0 | — | 333 đ | chưa có tiếng nói |
+| AI điều tiết | 27 | 48% | 327 đ | hại (−6 đ) |
 
 ### Từng lớp AI riêng (ngày-1)
 
 | Lớp AI | Có tiếng nói | Đúng chiều | Nếu bỏ riêng lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| tâm lý bản tin | 21 | 62% | 323 đ | hại (−5 đ) |
-| đề xuất lệch sàn | 5 | 0% | 328 đ | không đổi |
+| tâm lý bản tin | 21 | 62% | 328 đ | hại (−5 đ) |
+| đề xuất lệch sàn | 5 | 0% | 332 đ | hại (−1 đ) |
 
 ### Lớp đang đo BÓNG (chưa áp vào dự đoán)
 
@@ -54,7 +54,7 @@ Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 0
 - bỏ lỡ cú đi: 6 lần
 - đúng chiều, quá tay: 6 lần
 - đoán cú đi không xảy ra: 6 lần
-- đúng chiều, non tay: 5 lần
+- đúng chiều, non tay: 6 lần
 - ngược chiều: 2 lần
 - bỏ lỡ cú đi lớn: 1 lần
 
@@ -62,16 +62,16 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
-Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 352 so với 352) nhưng chưa vượt ngưỡng cải thiện 3%.
+Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 358 so với 358) nhưng chưa vượt ngưỡng cải thiện 3%.
 
 | beta | Sai số TB nếu dùng |
 |---|---|
-| 0,3 | 400 đ |
-| 0,4 | 363 đ |
-| 0,5 | 352 đ |
-| 0,6 | 408 đ |
-| 0,7 | 486 đ |
-| 0,8 | 578 đ |
+| 0,3 | 407 đ |
+| 0,4 | 370 đ |
+| 0,5 | 358 đ |
+| 0,6 | 411 đ |
+| 0,7 | 487 đ |
+| 0,8 | 574 đ |
 
 ### Năm lỗi lớn nhất và lý do
 
@@ -98,12 +98,12 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 
 | Chuỗi | Số lần | Sai số TB | Đứng yên | Đúng chiều | Dải 90% phủ |
 |---|---|---|---|---|---|
-| Đắk Lắk | 51 | 326 đ | 549 đ | 72% | 98% |
-| Lâm Đồng | 51 | 315 đ | 555 đ | 72% | 98% |
-| Gia Lai | 51 | 331 đ | 549 đ | 69% | 98% |
-| Đắk Nông | 51 | 338 đ | 563 đ | 71% | 98% |
-| Robusta London | 46 | 38 USD | 39 USD | 48% | 96% |
-| Arabica New York | 46 | 100 USD | 101 USD | 56% | 94% |
+| Đắk Lắk | 52 | 325 đ | 548 đ | 73% | 98% |
+| Lâm Đồng | 52 | 317 đ | 556 đ | 73% | 98% |
+| Gia Lai | 52 | 336 đ | 554 đ | 69% | 98% |
+| Đắk Nông | 52 | 347 đ | 571 đ | 71% | 98% |
+| Robusta London | 47 | 38 USD | 38 USD | 47% | 96% |
+| Arabica New York | 47 | 99 USD | 99 USD | 57% | 94% |
 
 ## Cách đọc
 
