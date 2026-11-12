@@ -1,13 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T06:47:44+07:00",
+  "generated_at": "2026-11-12T07:31:49+07:00",
   "date": "2026-11-12",
   "groups": [
     {
       "id": "gia-2026-11-12",
       "label": "Giá cà phê ngày 12/11",
-      "important": false,
+      "important": true,
       "items": [
+        {
+          "id": "bm-56490557",
+          "title": "Giá cà phê hôm nay 12.11.2026: Nội địa hạ nhiệt, hai sàn còn chịu sức ép",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-12-11-2026-noi-dia-ha-nhiet-hai-san-con-chiu-suc-ep-c56490557.epi",
+          "source": "Báo Văn hóa",
+          "published_at": "2026-11-12T07:00:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_12_125_56490557/bc82adac0de7e4b9bdf6.jpg"
+        },
+        {
+          "id": "tbtc-206786",
+          "title": "Ngày 12 11 Giá cà phê tiếp tục đi xuống hồ tiêu giữ mốc 138 000 đồng kg",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-12-11-gia-ca-phe-tiep-tuc-di-xuong-ho-tieu-giu-moc-138-000-dong-kg-206786.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-12T06:51:34+07:00",
+          "image": ""
+        },
         {
           "id": "vov-1349306",
           "title": "Giá cà phê hôm nay 12/11: Giá cà phê Robusta và Arabica tiếp tục giảm",
@@ -15,7 +31,7 @@
           "source": "VOV",
           "published_at": "2026-11-12T01:00:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-09/ca_phe_5.jpg",
-          "image_small": "news/anh/4841a521d6fbb7ff5b46.jpg"
+          "image_small": "news/anh/be0db6c57c1bf9d9b888.jpg"
         }
       ]
     }
