@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:30:17+07:00",
+  "generated_at": "2026-11-13T05:45:19+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 75,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-13",
-      "price": 3256,
-      "low": 3157,
-      "high": 3356
+      "price": 3254,
+      "low": 3155,
+      "high": 3353
     },
     {
       "date": "2026-11-14",
-      "price": 3254,
-      "low": 3113,
-      "high": 3394
+      "price": 3249,
+      "low": 3109,
+      "high": 3390
     },
     {
       "date": "2026-11-15",
-      "price": 3252,
-      "low": 3080,
-      "high": 3424
+      "price": 3246,
+      "low": 3074,
+      "high": 3418
     },
     {
       "date": "2026-11-16",
-      "price": 3250,
-      "low": 3052,
-      "high": 3449
+      "price": 3243,
+      "low": 3045,
+      "high": 3442
     },
     {
       "date": "2026-11-17",
-      "price": 3249,
-      "low": 3027,
-      "high": 3471
+      "price": 3241,
+      "low": 3019,
+      "high": 3463
     },
     {
       "date": "2026-11-18",
-      "price": 3248,
-      "low": 3005,
-      "high": 3492
+      "price": 3240,
+      "low": 2997,
+      "high": 3483
     },
     {
       "date": "2026-11-19",
-      "price": 3248,
-      "low": 2985,
-      "high": 3511
+      "price": 3239,
+      "low": 2976,
+      "high": 3502
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 32,
-    "direction_hit_rate": 0.5
+    "samples": 25,
+    "mae": 33,
+    "direction_hit_rate": 0.52
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEEUR:RCX2026",
     "month": "11/26",
-    "rating": -0.3090909090909091,
-    "rating_ma": -0.8,
-    "rating_other": 0.18181818181818182,
-    "rsi": 43.97539024429961,
-    "close": 3260.0,
+    "rating": -0.5121212121212121,
+    "rating_ma": -0.9333333333333333,
+    "rating_other": -0.09090909090909091,
+    "rsi": 40.52033817834995,
+    "close": 3222.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-12T20:30:17+07:00"
+    "fetched_at": "2026-11-13T05:45:19+07:00"
   }
 }

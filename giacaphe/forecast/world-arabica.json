@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:30:17+07:00",
+  "generated_at": "2026-11-13T05:45:19+07:00",
   "model": "tv-drift-v4",
   "horizon_days": 7,
   "trained_days": 75,
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-13",
-      "price": 5911,
-      "low": 5716,
-      "high": 6106
+      "price": 5912,
+      "low": 5717,
+      "high": 6107
     },
     {
       "date": "2026-11-14",
-      "price": 5897,
-      "low": 5620,
-      "high": 6173
+      "price": 5899,
+      "low": 5622,
+      "high": 6175
     },
     {
       "date": "2026-11-15",
-      "price": 5886,
-      "low": 5548,
-      "high": 6225
+      "price": 5889,
+      "low": 5550,
+      "high": 6227
     },
     {
       "date": "2026-11-16",
-      "price": 5878,
-      "low": 5487,
-      "high": 6269
+      "price": 5881,
+      "low": 5490,
+      "high": 6272
     },
     {
       "date": "2026-11-17",
-      "price": 5872,
-      "low": 5435,
-      "high": 6309
+      "price": 5875,
+      "low": 5438,
+      "high": 6312
     },
     {
       "date": "2026-11-18",
-      "price": 5868,
-      "low": 5389,
-      "high": 6346
+      "price": 5871,
+      "low": 5392,
+      "high": 6350
     },
     {
       "date": "2026-11-19",
-      "price": 5864,
-      "low": 5347,
-      "high": 6381
+      "price": 5868,
+      "low": 5351,
+      "high": 6385
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 96,
-    "direction_hit_rate": 0.577
+    "samples": 25,
+    "mae": 98,
+    "direction_hit_rate": 0.56
   },
   "stats": {
     "window_days": 30,
@@ -77,12 +77,12 @@
   "technical": {
     "symbol": "ICEUS:KCZ2026",
     "month": "12/26",
-    "rating": -0.26363636363636367,
-    "rating_ma": -0.8,
-    "rating_other": 0.2727272727272727,
-    "rsi": 37.677161466012585,
-    "close": 6008.0,
+    "rating": -0.2212121212121212,
+    "rating_ma": -0.5333333333333333,
+    "rating_other": 0.09090909090909091,
+    "rsi": 44.871738816290964,
+    "close": 6186.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-12T20:30:17+07:00"
+    "fetched_at": "2026-11-13T05:45:19+07:00"
   }
 }

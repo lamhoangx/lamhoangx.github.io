@@ -1,7 +1,7 @@
 {
   "calls": {
-    "date": "2026-11-12",
-    "count": 3
+    "date": "2026-11-13",
+    "count": 1
   },
   "entries": {
     "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
@@ -22,6 +22,11 @@
     "Kết quả của dự đoán: giá nhiều khả năng đi ngang — cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán.\nTrước lần dự đoán này, giá trong nước đã giảm mạnh trong những ngày gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nChưa có đánh giá tin tức trong nước của hôm nay.\nDự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
       "text": "Giá cà phê trong nước nhiều khả năng đi ngang. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây, còn sàn London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất và chưa có đánh giá tin tức trong nước của hôm nay. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.",
       "at": "2026-11-12T09:35:32+07:00",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "Kết quả của dự đoán: giá nhiều khả năng giảm — cộng lại các yếu tố đang kéo giá xuống.\nTrước lần dự đoán này, giá trong nước đã giảm mạnh trong những ngày gần đây.\nSàn cà phê London đã giảm khá mạnh kể từ lần giá trong nước cập nhật gần nhất, mà giá trong nước chưa đi theo.\nGiá trong nước thường đi theo sàn, khoảng một nửa mức sàn đi.\nChưa có đánh giá tin tức trong nước của hôm nay.\nDự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ.\nTính tiếp cho khoảng một tuần tới, giá có thể thấp dần; càng xa càng khó đoán.": {
+      "text": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.",
+      "at": "2026-11-13T05:45:19+07:00",
       "model": "gemini-3.5-flash-lite"
     }
   }
