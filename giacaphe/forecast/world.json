@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:30:37+07:00",
+  "generated_at": "2026-11-14T06:15:09+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 76,
@@ -10,50 +10,50 @@
   "predictions": [
     {
       "date": "2026-11-14",
-      "price": 3257,
-      "low": 3181,
-      "high": 3333
+      "price": 3196,
+      "low": 3170,
+      "high": 3222
     },
     {
       "date": "2026-11-15",
-      "price": 3257,
-      "low": 3181,
-      "high": 3333
+      "price": 3196,
+      "low": 3170,
+      "high": 3222
     },
     {
       "date": "2026-11-16",
-      "price": 3257,
-      "low": 3181,
-      "high": 3333
+      "price": 3196,
+      "low": 3170,
+      "high": 3222
     },
     {
       "date": "2026-11-17",
-      "price": 3255,
-      "low": 3131,
-      "high": 3379
+      "price": 3190,
+      "low": 3091,
+      "high": 3289
     },
     {
       "date": "2026-11-18",
-      "price": 3253,
-      "low": 3094,
-      "high": 3412
+      "price": 3186,
+      "low": 3046,
+      "high": 3325
     },
     {
       "date": "2026-11-19",
-      "price": 3252,
-      "low": 3065,
-      "high": 3439
+      "price": 3182,
+      "low": 3012,
+      "high": 3353
     },
     {
       "date": "2026-11-20",
-      "price": 3251,
-      "low": 3040,
-      "high": 3462
+      "price": 3180,
+      "low": 2983,
+      "high": 3377
     }
   ],
   "accuracy_30d": {
-    "samples": 23,
-    "mae": 39,
+    "samples": 22,
+    "mae": 40,
     "direction_hit_rate": null
   },
   "stats": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.17575757575757575,
-    "rating_ma": -0.5333333333333333,
-    "rating_other": 0.18181818181818182,
-    "rsi": 46.01103990070756,
-    "close": 3257.0,
+    "rating": -0.4666666666666667,
+    "rating_ma": -0.9333333333333333,
+    "rating_other": 0,
+    "rsi": 38.738981918968875,
+    "close": 3196.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-13T19:30:37+07:00"
+    "fetched_at": "2026-11-14T06:15:09+07:00"
   },
   "pre_session": {
     "anchor_date": "2026-11-13",

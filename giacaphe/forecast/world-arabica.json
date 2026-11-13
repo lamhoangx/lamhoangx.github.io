@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:30:37+07:00",
+  "generated_at": "2026-11-14T06:15:09+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 76,
@@ -10,50 +10,50 @@
   "predictions": [
     {
       "date": "2026-11-14",
-      "price": 6140,
-      "low": 5973,
-      "high": 6307
+      "price": 6041,
+      "low": 5991,
+      "high": 6091
     },
     {
       "date": "2026-11-15",
-      "price": 6140,
-      "low": 5973,
-      "high": 6307
+      "price": 6041,
+      "low": 5991,
+      "high": 6091
     },
     {
       "date": "2026-11-16",
-      "price": 6140,
-      "low": 5973,
-      "high": 6307
+      "price": 6041,
+      "low": 5991,
+      "high": 6091
     },
     {
       "date": "2026-11-17",
-      "price": 6139,
-      "low": 5872,
-      "high": 6406
+      "price": 6031,
+      "low": 5824,
+      "high": 6239
     },
     {
       "date": "2026-11-18",
-      "price": 6138,
-      "low": 5800,
-      "high": 6476
+      "price": 6024,
+      "low": 5730,
+      "high": 6318
     },
     {
       "date": "2026-11-19",
-      "price": 6137,
-      "low": 5740,
-      "high": 6534
+      "price": 6019,
+      "low": 5659,
+      "high": 6379
     },
     {
       "date": "2026-11-20",
-      "price": 6137,
-      "low": 5688,
-      "high": 6585
+      "price": 6015,
+      "low": 5599,
+      "high": 6431
     }
   ],
   "accuracy_30d": {
-    "samples": 23,
-    "mae": 116,
+    "samples": 22,
+    "mae": 119,
     "direction_hit_rate": null
   },
   "stats": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCH2027",
     "month": "03/27",
-    "rating": -0.06666666666666667,
-    "rating_ma": -0.13333333333333333,
-    "rating_other": 0,
-    "rsi": 50.15017724324901,
-    "close": 6140.0,
+    "rating": -0.35757575757575755,
+    "rating_ma": -0.5333333333333333,
+    "rating_other": -0.18181818181818182,
+    "rsi": 45.89129440300675,
+    "close": 6041.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-13T19:30:37+07:00"
+    "fetched_at": "2026-11-14T06:15:09+07:00"
   },
   "pre_session": {
     "anchor_date": "2026-11-13",

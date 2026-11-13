@@ -1,7 +1,7 @@
 {
   "calls": {
-    "date": "2026-11-13",
-    "count": 4
+    "date": "2026-11-14",
+    "count": 1
   },
   "entries": {
     "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
@@ -42,6 +42,11 @@
     "Kết quả của dự đoán: giá nhiều khả năng đi ngang — cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán.\nApp dự đoán sàn cà phê London tối nay giảm nhẹ.\nGiá trong nước thường đi theo sàn, khoảng một nửa mức sàn đi.\nCác yếu tố bổ trợ: thời vụ, chu kỳ giá, kinh tế và kỳ vọng của giới phân tích nghiêng về giảm.": {
       "text": "Giá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù app dự đoán sàn London tối nay giảm nhẹ. Các yếu tố gồm thời vụ, chu kỳ giá, kinh tế và kỳ vọng của giới phân tích nghiêng về giảm, trong khi giá trong nước thường đi theo sàn với khoảng một nửa mức sàn đi.",
       "at": "2026-11-13T13:38:01+07:00",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "Kết quả của dự đoán: giá nhiều khả năng đi ngang — cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán.\nSàn cà phê London đã giảm nhẹ kể từ lần giá trong nước cập nhật gần nhất, mà giá trong nước chưa đi theo.\nGiá trong nước thường đi theo sàn, khoảng một nửa mức sàn đi.\nCác yếu tố bổ trợ: chu kỳ giá và kinh tế nghiêng về giảm; thời vụ chưa nghiêng rõ.": {
+      "text": "Giá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong đó, chu kỳ giá và kinh tế nghiêng về giảm, thời vụ chưa nghiêng rõ, còn sàn London đã giảm nhẹ nhưng giá trong nước chưa đi theo.",
+      "at": "2026-11-14T06:15:09+07:00",
       "model": "gemini-3.5-flash-lite"
     }
   }
