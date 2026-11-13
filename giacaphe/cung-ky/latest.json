@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T05:40:28+07:00",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-14T05:40:20+07:00",
+  "date": "2026-11-14",
   "window_days": 3,
   "source": "Bộ Nông nghiệp và Môi trường (thitruongnongsan.gov.vn)",
   "regions": {
-    "daknong": [
+    "lamdong": [
       {
         "nam": 2025,
-        "gia": 118000,
+        "gia": 111500,
         "so_phien": 5
       },
       {
@@ -18,15 +18,15 @@
       },
       {
         "nam": 2023,
-        "gia": 59000,
+        "gia": 58700,
         "so_phien": 5
       }
     ],
-    "gialai": [
+    "daklak": [
       {
         "nam": 2025,
-        "gia": 117900,
-        "so_phien": 5
+        "gia": 115900,
+        "so_phien": 4
       },
       {
         "nam": 2024,
@@ -35,31 +35,14 @@
       },
       {
         "nam": 2023,
-        "gia": 58900,
+        "gia": 59300,
         "so_phien": 5
       }
     ],
-    "lamdong": [
+    "gialai": [
       {
         "nam": 2025,
-        "gia": 117300,
-        "so_phien": 5
-      },
-      {
-        "nam": 2024,
-        "gia": 110800,
-        "so_phien": 5
-      },
-      {
-        "nam": 2023,
-        "gia": 58500,
-        "so_phien": 5
-      }
-    ],
-    "daklak": [
-      {
-        "nam": 2025,
-        "gia": 118400,
+        "gia": 112900,
         "so_phien": 5
       },
       {
@@ -70,6 +53,23 @@
       {
         "nam": 2023,
         "gia": 59100,
+        "so_phien": 5
+      }
+    ],
+    "daknong": [
+      {
+        "nam": 2025,
+        "gia": 113400,
+        "so_phien": 5
+      },
+      {
+        "nam": 2024,
+        "gia": 110800,
+        "so_phien": 5
+      },
+      {
+        "nam": 2023,
+        "gia": 59200,
         "so_phien": 5
       }
     ]
