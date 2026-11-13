@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T05:40:21+07:00",
+  "generated_at": "2026-11-13T08:40:21+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
@@ -9,33 +9,33 @@
         {
           "date": "2026-11-13",
           "t_min": 22,
-          "t_max": 30,
-          "rain_mm": 6.2,
+          "t_max": 29,
+          "rain_mm": 9.1,
           "rain": {
-            "sang": 0.1,
-            "chieu": 5.3,
-            "toi": 0.8
+            "sang": 0.0,
+            "chieu": 8.7,
+            "toi": 0.4
           }
         },
         {
           "date": "2026-11-14",
           "t_min": 22,
-          "t_max": 31,
-          "rain_mm": 0.6,
+          "t_max": 30,
+          "rain_mm": 5.4,
           "rain": {
             "sang": 0.0,
-            "chieu": 0.6,
+            "chieu": 5.4,
             "toi": 0.0
           }
         },
         {
           "date": "2026-11-15",
           "t_min": 22,
-          "t_max": 30,
-          "rain_mm": 3.6,
+          "t_max": 29,
+          "rain_mm": 2.1,
           "rain": {
             "sang": 0.1,
-            "chieu": 3.5,
+            "chieu": 2.0,
             "toi": 0.0
           }
         }
@@ -46,23 +46,23 @@
       "days": [
         {
           "date": "2026-11-13",
-          "t_min": 20,
-          "t_max": 28,
-          "rain_mm": 13.0,
+          "t_min": 21,
+          "t_max": 29,
+          "rain_mm": 3.7,
           "rain": {
             "sang": 0.0,
-            "chieu": 12.7,
-            "toi": 0.3
+            "chieu": 3.7,
+            "toi": 0.0
           }
         },
         {
           "date": "2026-11-14",
           "t_min": 20,
-          "t_max": 30,
-          "rain_mm": 2.6,
+          "t_max": 29,
+          "rain_mm": 10.8,
           "rain": {
             "sang": 0.0,
-            "chieu": 2.6,
+            "chieu": 10.8,
             "toi": 0.0
           }
         },
@@ -70,11 +70,11 @@
           "date": "2026-11-15",
           "t_min": 21,
           "t_max": 29,
-          "rain_mm": 6.3,
+          "rain_mm": 11.2,
           "rain": {
-            "sang": 0.1,
-            "chieu": 6.1,
-            "toi": 0.1
+            "sang": 0.0,
+            "chieu": 9.0,
+            "toi": 2.2
           }
         }
       ]
@@ -84,34 +84,34 @@
       "days": [
         {
           "date": "2026-11-13",
-          "t_min": 20,
+          "t_min": 21,
           "t_max": 27,
-          "rain_mm": 9.6,
+          "rain_mm": 4.5,
           "rain": {
-            "sang": 0.8,
-            "chieu": 6.4,
-            "toi": 2.4
+            "sang": 0.4,
+            "chieu": 3.3,
+            "toi": 0.8
           }
         },
         {
           "date": "2026-11-14",
           "t_min": 20,
-          "t_max": 28,
-          "rain_mm": 1.8,
+          "t_max": 29,
+          "rain_mm": 2.4,
           "rain": {
             "sang": 0.0,
-            "chieu": 1.8,
-            "toi": 0.0
+            "chieu": 2.3,
+            "toi": 0.1
           }
         },
         {
           "date": "2026-11-15",
           "t_min": 20,
           "t_max": 29,
-          "rain_mm": 6.2,
+          "rain_mm": 1.7,
           "rain": {
             "sang": 0.0,
-            "chieu": 6.2,
+            "chieu": 1.7,
             "toi": 0.0
           }
         }
@@ -124,10 +124,10 @@
           "date": "2026-11-13",
           "t_min": 20,
           "t_max": 27,
-          "rain_mm": 6.4,
+          "rain_mm": 7.9,
           "rain": {
-            "sang": 0.6,
-            "chieu": 5.8,
+            "sang": 0.0,
+            "chieu": 7.9,
             "toi": 0.0
           }
         },
@@ -135,22 +135,22 @@
           "date": "2026-11-14",
           "t_min": 19,
           "t_max": 28,
-          "rain_mm": 1.4,
+          "rain_mm": 9.2,
           "rain": {
             "sang": 0.0,
-            "chieu": 1.4,
+            "chieu": 9.2,
             "toi": 0.0
           }
         },
         {
           "date": "2026-11-15",
-          "t_min": 20,
-          "t_max": 27,
-          "rain_mm": 7.3,
+          "t_min": 19,
+          "t_max": 29,
+          "rain_mm": 7.8,
           "rain": {
-            "sang": 0.3,
-            "chieu": 6.8,
-            "toi": 0.2
+            "sang": 0.1,
+            "chieu": 7.6,
+            "toi": 0.1
           }
         }
       ]
