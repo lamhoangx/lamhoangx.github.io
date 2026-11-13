@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T05:45:19+07:00",
-  "model": "tv-close-gemini-v7",
+  "generated_at": "2026-11-13T07:35:20+07:00",
+  "model": "tv-close-gemini-v8",
   "horizon_days": 7,
   "trained_days": 77,
   "anchor": {
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-13",
-      "price": 83212,
-      "low": 81956,
-      "high": 84468
+      "price": 83210,
+      "low": 82205,
+      "high": 84215
     },
     {
       "date": "2026-11-14",
-      "price": 83152,
-      "low": 81376,
-      "high": 84928
+      "price": 83150,
+      "low": 81374,
+      "high": 84926
     },
     {
       "date": "2026-11-15",
-      "price": 83107,
-      "low": 80931,
-      "high": 85282
+      "price": 83105,
+      "low": 80929,
+      "high": 85280
     },
     {
       "date": "2026-11-16",
-      "price": 83073,
-      "low": 80561,
-      "high": 85585
+      "price": 83071,
+      "low": 80559,
+      "high": 85583
     },
     {
       "date": "2026-11-17",
-      "price": 83047,
-      "low": 80239,
-      "high": 85856
+      "price": 83045,
+      "low": 80237,
+      "high": 85854
     },
     {
       "date": "2026-11-18",
-      "price": 83028,
-      "low": 79952,
-      "high": 86105
+      "price": 83026,
+      "low": 79950,
+      "high": 86103
     },
     {
       "date": "2026-11-19",
-      "price": 83014,
-      "low": 79691,
-      "high": 86337
+      "price": 83012,
+      "low": 79689,
+      "high": 86335
     }
   ],
   "accuracy_30d": {
     "samples": 25,
-    "mae": 462,
-    "direction_hit_rate": 0.76
+    "mae": 426,
+    "direction_hit_rate": 0.88
   },
   "stats": {
     "window_days": 30,
@@ -73,31 +73,31 @@
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "region": "average",
   "technical": {
-    "symbol": "ICEEUR:RCX2026",
-    "month": "11/26",
+    "symbol": "ICEEUR:RCF2027",
+    "month": "01/27",
     "rating": -0.5121212121212121,
     "rating_ma": -0.9333333333333333,
     "rating_other": -0.09090909090909091,
-    "rsi": 40.52033817834995,
-    "close": 3222.0,
+    "rsi": 39.73042559212694,
+    "close": 3207.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-13T05:45:19+07:00"
+    "fetched_at": "2026-11-13T07:35:20+07:00"
   },
   "truyen_dan": {
-    "r": -0.011656,
+    "r": -0.01171,
     "beta": 0.5
   },
   "tin_hieu_san": {
     "san": "London",
     "phan_tram": -1.2,
     "tu_ngay": "2026-11-12",
-    "luc": "2026-11-13T05:45:19+07:00"
+    "luc": "2026-11-13T07:35:20+07:00"
   },
   "de_xuat_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-11-13T05:45:19+07:00",
-      "model": "tv-close-gemini-v7",
+      "generated_at": "2026-11-13T07:35:20+07:00",
+      "model": "tv-close-gemini-v8",
       "horizon_days": 7,
       "trained_days": 77,
       "anchor": {
@@ -107,51 +107,51 @@
       "predictions": [
         {
           "date": "2026-11-13",
-          "price": 83212,
-          "low": 81956,
-          "high": 84468
+          "price": 83210,
+          "low": 82205,
+          "high": 84215
         },
         {
           "date": "2026-11-14",
-          "price": 83153,
-          "low": 81377,
-          "high": 84930
+          "price": 83151,
+          "low": 81375,
+          "high": 84928
         },
         {
           "date": "2026-11-15",
-          "price": 83109,
-          "low": 80934,
-          "high": 85285
+          "price": 83107,
+          "low": 80932,
+          "high": 85283
         },
         {
           "date": "2026-11-16",
-          "price": 83077,
-          "low": 80565,
-          "high": 85588
+          "price": 83075,
+          "low": 80563,
+          "high": 85586
         },
         {
           "date": "2026-11-17",
-          "price": 83052,
-          "low": 80243,
-          "high": 85860
+          "price": 83050,
+          "low": 80241,
+          "high": 85858
         },
         {
           "date": "2026-11-18",
-          "price": 83033,
-          "low": 79957,
-          "high": 86110
+          "price": 83031,
+          "low": 79955,
+          "high": 86108
         },
         {
           "date": "2026-11-19",
-          "price": 83019,
-          "low": 79696,
-          "high": 86342
+          "price": 83017,
+          "low": 79694,
+          "high": 86340
         }
       ],
       "accuracy_30d": {
         "samples": 25,
-        "mae": 449,
-        "direction_hit_rate": 0.76
+        "mae": 410,
+        "direction_hit_rate": 0.88
       },
       "stats": {
         "window_days": 30,
@@ -173,12 +173,12 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 13/11",
         "target_date": "2026-11-13",
-        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.000 – 84.500 đ/⁠kg.\n\nTính ra giảm 488đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | — đi ngang |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n| 12/11 | 84.036 | 83.700 | 336đ |\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.000 – 84.500 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.300đ, ngày 19/11 tới 3.300đ. Mức lệch trung bình 462đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (05:45 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg; đoán đúng chiều 8 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.200 – 84.200 đ/⁠kg.\n\nTính ra giảm 490đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | ▼ giảm |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg. Đoán đúng chiều 9 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.200 – 84.200 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.000đ, ngày 19/11 tới 3.300đ. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n### Dự đoán cho ngày xa lệch bao nhiêu\n\nĐo trên các lần dự đoán trước (mỗi dòng ít nhất 41 lần), tính bằng đ/⁠kg. Cột giữa: dự đoán đưa ra sớm chừng ấy ngày đã lệch giá thật trung bình bao nhiêu. Cột cuối: nếu khi đó chỉ đoán giá đứng yên thì lệch bao nhiêu.\n\n| Ngày | Dự đoán thường lệch | Đoán đứng yên lệch |\n|---|---:|---:|\n| 14/11 | 721 | 747 |\n| 15/11 | 884 | 1.010 |\n| 16/11 | 1.167 | 1.151 |\n| 17/11 | 1.111 | 1.227 |\n| 18/11 | 1.206 | 1.432 |\n| 19/11 | 1.449 | 1.611 |\n\nỞ các ngày này dự đoán chỉ lệch ít hơn cách đoán giá đứng yên một chút — nên xem con số của các ngày xa là tham khảo.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (07:35 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg; đoán đúng chiều 9 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "lamdong": {
-      "generated_at": "2026-11-13T05:45:19+07:00",
-      "model": "tv-close-gemini-v7",
+      "generated_at": "2026-11-13T07:35:20+07:00",
+      "model": "tv-close-gemini-v8",
       "horizon_days": 7,
       "trained_days": 77,
       "anchor": {
@@ -188,51 +188,51 @@
       "predictions": [
         {
           "date": "2026-11-13",
-          "price": 82715,
-          "low": 81463,
-          "high": 83967
+          "price": 82713,
+          "low": 81712,
+          "high": 83714
         },
         {
           "date": "2026-11-14",
-          "price": 82663,
-          "low": 80893,
-          "high": 84434
+          "price": 82661,
+          "low": 80891,
+          "high": 84432
         },
         {
           "date": "2026-11-15",
-          "price": 82625,
-          "low": 80457,
-          "high": 84793
+          "price": 82623,
+          "low": 80455,
+          "high": 84791
         },
         {
           "date": "2026-11-16",
-          "price": 82596,
-          "low": 80092,
-          "high": 85099
+          "price": 82594,
+          "low": 80090,
+          "high": 85097
         },
         {
           "date": "2026-11-17",
-          "price": 82574,
-          "low": 79775,
-          "high": 85373
+          "price": 82572,
+          "low": 79773,
+          "high": 85371
         },
         {
           "date": "2026-11-18",
-          "price": 82558,
-          "low": 79492,
-          "high": 85624
+          "price": 82556,
+          "low": 79490,
+          "high": 85622
         },
         {
           "date": "2026-11-19",
-          "price": 82545,
-          "low": 79234,
-          "high": 85857
+          "price": 82543,
+          "low": 79232,
+          "high": 85855
         }
       ],
       "accuracy_30d": {
         "samples": 25,
-        "mae": 452,
-        "direction_hit_rate": 0.76
+        "mae": 407,
+        "direction_hit_rate": 0.88
       },
       "stats": {
         "window_days": 30,
@@ -254,12 +254,12 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 13/11",
         "target_date": "2026-11-13",
-        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.000 – 84.500 đ/⁠kg.\n\nTính ra giảm 488đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | — đi ngang |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n| 12/11 | 84.036 | 83.700 | 336đ |\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.000 – 84.500 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.300đ, ngày 19/11 tới 3.300đ. Mức lệch trung bình 462đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (05:45 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg; đoán đúng chiều 8 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.200 – 84.200 đ/⁠kg.\n\nTính ra giảm 490đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | ▼ giảm |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg. Đoán đúng chiều 9 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.200 – 84.200 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.000đ, ngày 19/11 tới 3.300đ. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n### Dự đoán cho ngày xa lệch bao nhiêu\n\nĐo trên các lần dự đoán trước (mỗi dòng ít nhất 41 lần), tính bằng đ/⁠kg. Cột giữa: dự đoán đưa ra sớm chừng ấy ngày đã lệch giá thật trung bình bao nhiêu. Cột cuối: nếu khi đó chỉ đoán giá đứng yên thì lệch bao nhiêu.\n\n| Ngày | Dự đoán thường lệch | Đoán đứng yên lệch |\n|---|---:|---:|\n| 14/11 | 721 | 747 |\n| 15/11 | 884 | 1.010 |\n| 16/11 | 1.167 | 1.151 |\n| 17/11 | 1.111 | 1.227 |\n| 18/11 | 1.206 | 1.432 |\n| 19/11 | 1.449 | 1.611 |\n\nỞ các ngày này dự đoán chỉ lệch ít hơn cách đoán giá đứng yên một chút — nên xem con số của các ngày xa là tham khảo.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (07:35 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg; đoán đúng chiều 9 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "gialai": {
-      "generated_at": "2026-11-13T05:45:19+07:00",
-      "model": "tv-close-gemini-v7",
+      "generated_at": "2026-11-13T07:35:20+07:00",
+      "model": "tv-close-gemini-v8",
       "horizon_days": 7,
       "trained_days": 77,
       "anchor": {
@@ -269,50 +269,50 @@
       "predictions": [
         {
           "date": "2026-11-13",
-          "price": 83212,
-          "low": 81960,
-          "high": 84463
+          "price": 83210,
+          "low": 82209,
+          "high": 84211
         },
         {
           "date": "2026-11-14",
-          "price": 83152,
-          "low": 81382,
-          "high": 84922
+          "price": 83150,
+          "low": 81380,
+          "high": 84920
         },
         {
           "date": "2026-11-15",
-          "price": 83108,
-          "low": 80940,
-          "high": 85276
+          "price": 83106,
+          "low": 80938,
+          "high": 85274
         },
         {
           "date": "2026-11-16",
-          "price": 83074,
-          "low": 80571,
-          "high": 85578
+          "price": 83072,
+          "low": 80569,
+          "high": 85576
         },
         {
           "date": "2026-11-17",
-          "price": 83049,
-          "low": 80250,
-          "high": 85848
+          "price": 83047,
+          "low": 80248,
+          "high": 85846
         },
         {
           "date": "2026-11-18",
-          "price": 83031,
-          "low": 79965,
-          "high": 86096
+          "price": 83029,
+          "low": 79963,
+          "high": 86094
         },
         {
           "date": "2026-11-19",
-          "price": 83016,
-          "low": 79705,
-          "high": 86328
+          "price": 83014,
+          "low": 79703,
+          "high": 86326
         }
       ],
       "accuracy_30d": {
         "samples": 25,
-        "mae": 432,
+        "mae": 419,
         "direction_hit_rate": 0.8
       },
       "stats": {
@@ -335,12 +335,12 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 13/11",
         "target_date": "2026-11-13",
-        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.000 – 84.500 đ/⁠kg.\n\nTính ra giảm 488đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | — đi ngang |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n| 12/11 | 84.036 | 83.700 | 336đ |\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.000 – 84.500 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.300đ, ngày 19/11 tới 3.300đ. Mức lệch trung bình 462đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (05:45 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg; đoán đúng chiều 8 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.200 – 84.200 đ/⁠kg.\n\nTính ra giảm 490đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | ▼ giảm |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg. Đoán đúng chiều 9 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.200 – 84.200 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.000đ, ngày 19/11 tới 3.300đ. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n### Dự đoán cho ngày xa lệch bao nhiêu\n\nĐo trên các lần dự đoán trước (mỗi dòng ít nhất 41 lần), tính bằng đ/⁠kg. Cột giữa: dự đoán đưa ra sớm chừng ấy ngày đã lệch giá thật trung bình bao nhiêu. Cột cuối: nếu khi đó chỉ đoán giá đứng yên thì lệch bao nhiêu.\n\n| Ngày | Dự đoán thường lệch | Đoán đứng yên lệch |\n|---|---:|---:|\n| 14/11 | 721 | 747 |\n| 15/11 | 884 | 1.010 |\n| 16/11 | 1.167 | 1.151 |\n| 17/11 | 1.111 | 1.227 |\n| 18/11 | 1.206 | 1.432 |\n| 19/11 | 1.449 | 1.611 |\n\nỞ các ngày này dự đoán chỉ lệch ít hơn cách đoán giá đứng yên một chút — nên xem con số của các ngày xa là tham khảo.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (07:35 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg; đoán đúng chiều 9 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "daknong": {
-      "generated_at": "2026-11-13T05:45:19+07:00",
-      "model": "tv-close-gemini-v7",
+      "generated_at": "2026-11-13T07:35:20+07:00",
+      "model": "tv-close-gemini-v8",
       "horizon_days": 7,
       "trained_days": 77,
       "anchor": {
@@ -350,51 +350,51 @@
       "predictions": [
         {
           "date": "2026-11-13",
-          "price": 83312,
-          "low": 82021,
-          "high": 84604
+          "price": 83309,
+          "low": 82276,
+          "high": 84342
         },
         {
           "date": "2026-11-14",
-          "price": 83247,
-          "low": 81420,
-          "high": 85074
+          "price": 83244,
+          "low": 81417,
+          "high": 85071
         },
         {
           "date": "2026-11-15",
-          "price": 83197,
-          "low": 80960,
-          "high": 85435
+          "price": 83194,
+          "low": 80957,
+          "high": 85432
         },
         {
           "date": "2026-11-16",
-          "price": 83161,
-          "low": 80577,
-          "high": 85744
+          "price": 83158,
+          "low": 80574,
+          "high": 85741
         },
         {
           "date": "2026-11-17",
-          "price": 83133,
-          "low": 80244,
-          "high": 86021
+          "price": 83130,
+          "low": 80241,
+          "high": 86018
         },
         {
           "date": "2026-11-18",
-          "price": 83112,
-          "low": 79948,
-          "high": 86276
+          "price": 83109,
+          "low": 79945,
+          "high": 86273
         },
         {
           "date": "2026-11-19",
-          "price": 83096,
-          "low": 79679,
-          "high": 86514
+          "price": 83093,
+          "low": 79676,
+          "high": 86511
         }
       ],
       "accuracy_30d": {
         "samples": 25,
-        "mae": 506,
-        "direction_hit_rate": 0.76
+        "mae": 451,
+        "direction_hit_rate": 0.88
       },
       "stats": {
         "window_days": 30,
@@ -416,7 +416,7 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 13/11",
         "target_date": "2026-11-13",
-        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.000 – 84.500 đ/⁠kg.\n\nTính ra giảm 488đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | — đi ngang |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n| 12/11 | 84.036 | 83.700 | 336đ |\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.000 – 84.500 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.300đ, ngày 19/11 tới 3.300đ. Mức lệch trung bình 462đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (05:45 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg; đoán đúng chiều 8 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.200 – 84.200 đ/⁠kg.\n\nTính ra giảm 490đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | ▼ giảm |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg. Đoán đúng chiều 9 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.200 – 84.200 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.000đ, ngày 19/11 tới 3.300đ. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n### Dự đoán cho ngày xa lệch bao nhiêu\n\nĐo trên các lần dự đoán trước (mỗi dòng ít nhất 41 lần), tính bằng đ/⁠kg. Cột giữa: dự đoán đưa ra sớm chừng ấy ngày đã lệch giá thật trung bình bao nhiêu. Cột cuối: nếu khi đó chỉ đoán giá đứng yên thì lệch bao nhiêu.\n\n| Ngày | Dự đoán thường lệch | Đoán đứng yên lệch |\n|---|---:|---:|\n| 14/11 | 721 | 747 |\n| 15/11 | 884 | 1.010 |\n| 16/11 | 1.167 | 1.151 |\n| 17/11 | 1.111 | 1.227 |\n| 18/11 | 1.206 | 1.432 |\n| 19/11 | 1.449 | 1.611 |\n\nỞ các ngày này dự đoán chỉ lệch ít hơn cách đoán giá đứng yên một chút — nên xem con số của các ngày xa là tham khảo.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (07:35 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg; đoán đúng chiều 9 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     }
   },
@@ -424,6 +424,6 @@
     "title": "Phân tích",
     "subtitle": "Chung 4 tỉnh · dự đoán ngày 13/11",
     "target_date": "2026-11-13",
-    "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.000 – 84.500 đ/⁠kg.\n\nTính ra giảm 488đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | — đi ngang |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n| Ngày | Dự đoán | Giá thật | Lệch |\n|---|---:|---:|---:|\n| 10/11 | 85.061 | 84.900 | 161đ |\n| 11/11 | 84.680 | 84.100 | 580đ |\n| 12/11 | 84.036 | 83.700 | 336đ |\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg. Đoán đúng chiều 8 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.000 – 84.500 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.300đ, ngày 19/11 tới 3.300đ. Mức lệch trung bình 462đ/⁠kg ở trên là đo cho dự đoán của ngày kế tiếp; các ngày xa hơn thường lệch nhiều hơn. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (05:45 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 462đ/⁠kg; đoán đúng chiều 8 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+    "markdown": "Giá trong nước nhiều khả năng giảm. Trước đó, giá trong nước đã giảm mạnh trong những ngày gần đây do sàn London giảm khá mạnh kể từ lần cập nhật gần nhất mà giá trong nước chưa đi theo, trong khi giá trong nước thường đi theo sàn. Dự đoán này chỉ đúng nếu sàn London không đổi chiều mạnh sau lúc tính và không có tin bất ngờ. Tính tiếp cho khoảng một tuần tới, giá có thể thấp dần nhưng càng xa càng khó đoán.\n\n---\n\n## Nhận định\n\n**▼ Nhiều khả năng giảm** so với giá trung bình 4 tỉnh ngày 12/11 (83.700 đ/⁠kg). Giá trung bình dự đoán ngày 13/11: **khoảng 83.200 đ/⁠kg**, có thể trong khoảng 82.200 – 84.200 đ/⁠kg.\n\nTính ra giảm 490đ so với giá ngày 12/11.\n\nBản phân tích này dùng chung cho cả bốn tỉnh: giá các tỉnh đi gần như cùng nhau, chỉ khác mức giá. Dự đoán của từng tỉnh (đ/⁠kg, làm tròn tới trăm đồng):\n\n| Tỉnh | Dự đoán 13/11 | So với 12/11 |\n|---|---:|---|\n| Đắk Lắk | 83.200 | ▼ giảm |\n| Lâm Đồng | 82.700 | ▼ giảm |\n| Gia Lai | 83.200 | ▼ giảm |\n| Đắk Nông | 83.300 | ▼ giảm |\n\n---\n\n## Điều gì đang tác động lúc này\n\nMô hình bắt đầu từ giá ngày 12/11 (83.700 đ/⁠kg) rồi cộng từng yếu tố dưới đây.\n\n### Sàn London\n\n**▼ Kéo xuống khoảng 490đ**\n\nSàn London đã giảm 1,2% từ khi giá trong nước cập nhật ngày 12/11, mà giá trong nước chưa đi theo. Giá trong nước thường đi theo khoảng một nửa mức đó.\n\nNgoài ra: tin tức hôm nay chưa được đánh giá.\n\n---\n\n## Nhìn lại: giá đã đi thế nào\n\n- Chuỗi giá đã ghi của Trung bình 4 tỉnh: **77 ngày có giá**, từ ngày 14/08 tới ngày 12/11.\n- Trong 30 ngày có giá gần nhất: cao nhất 93.900 đ/⁠kg (ngày 20/10), thấp nhất 83.700 đ/⁠kg (ngày 12/11).\n- ▼ Từ mức 89.100 đ/⁠kg ngày 28/10, giá đã giảm 5.400đ (6,1%) sau 13 ngày có giá.\n- Từ chuỗi giá này, mô hình tính mỗi ngày giá thường dao động nhiều hay ít (30 ngày có giá gần nhất) và mấy hôm nay đang nghiêng lên hay xuống (7 ngày có giá gần nhất).\n\n### Các lần dự đoán trước đúng tới đâu\n\n25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg. Đoán đúng chiều 9 trong 10 lần. Nếu chỉ đoán giá đứng yên (ngày mai bằng hôm nay) thì lệch trung bình 676đ/⁠kg — dự đoán của app lệch ít hơn.\n\n---\n\n## Những ngày tới\n\n| Ngày | Giá dự đoán | Khoảng có thể |\n|---|---:|---:|\n| 13/11 | 83.200 | 82.200 – 84.200 |\n| 14/11 | 83.200 | 81.400 – 84.900 |\n| 15/11 | 83.100 | 80.900 – 85.300 |\n| 16/11 | 83.100 | 80.600 – 85.600 |\n| 17/11 | 83.000 | 80.200 – 85.900 |\n| 18/11 | 83.000 | 80.000 – 86.100 |\n| 19/11 | 83.000 | 79.700 – 86.300 |\n\nGiá trong bảng tính bằng đ/⁠kg, làm tròn tới trăm đồng. Hướng chung tới ngày 19/11: **▼ thấp hơn** giá ngày 12/11 khoảng 700đ.\n\nCàng xa càng khó đoán nên khoảng có thể rộng dần: ngày 13/11 giá có thể cao hoặc thấp hơn con số trong bảng tới 1.000đ, ngày 19/11 tới 3.300đ. Dự đoán được tính lại nhiều lần mỗi ngày khi có giá mới, nên con số của các ngày xa còn thay đổi.\n\n### Dự đoán cho ngày xa lệch bao nhiêu\n\nĐo trên các lần dự đoán trước (mỗi dòng ít nhất 41 lần), tính bằng đ/⁠kg. Cột giữa: dự đoán đưa ra sớm chừng ấy ngày đã lệch giá thật trung bình bao nhiêu. Cột cuối: nếu khi đó chỉ đoán giá đứng yên thì lệch bao nhiêu.\n\n| Ngày | Dự đoán thường lệch | Đoán đứng yên lệch |\n|---|---:|---:|\n| 14/11 | 721 | 747 |\n| 15/11 | 884 | 1.010 |\n| 16/11 | 1.167 | 1.151 |\n| 17/11 | 1.111 | 1.227 |\n| 18/11 | 1.206 | 1.432 |\n| 19/11 | 1.449 | 1.611 |\n\nỞ các ngày này dự đoán chỉ lệch ít hơn cách đoán giá đứng yên một chút — nên xem con số của các ngày xa là tham khảo.\n\n---\n\n## Giả thiết: dự đoán đúng khi nào\n\nDự đoán chỉ dùng giá đã có, sàn London và tin tức đã đăng tới lúc tính (07:35 ngày 13/11). Con số trên đúng khi những điều sau còn đúng:\n\n- Giá trong nước tiếp tục đi theo khoảng một nửa mức sàn London đã đi, như các lần trước.\n- Sàn London không đổi chiều mạnh từ lúc tính tới khi giá trong nước cập nhật.\n- Không có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá đại lý trả thực tế gần với giá niêm yết mà app ghi nhận.\n\nĐiều nào không còn đúng thì giá thật có thể lệch nhiều hơn mức thường gặp. App tính lại dự đoán mỗi khi có giá mới.\n\n---\n\n## Kết luận\n\n- **Ngày 13/11:** giá trung bình 4 tỉnh nhiều khả năng giảm, quanh 83.200 đ/⁠kg.\n- **Tới ngày 19/11:** hướng chung thấp hơn giá ngày 12/11; càng xa càng khó đoán.\n- **Mức tin cậy:** 25 lần dự đoán gần nhất lệch giá thật trung bình 426đ/⁠kg; đoán đúng chiều 9 trong 10 lần; lệch ít hơn cách đoán giá đứng yên.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
   }
 }

@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-13T05:45:19+07:00",
-  "model": "tv-drift-v4",
+  "generated_at": "2026-11-13T07:35:20+07:00",
+  "model": "tv-drift-v5",
   "horizon_days": 7,
   "trained_days": 75,
   "anchor": {
     "date": "2026-11-12",
-    "price": 5930
+    "price": 5835
   },
   "predictions": [
     {
       "date": "2026-11-13",
-      "price": 5912,
-      "low": 5717,
-      "high": 6107
+      "price": 5814,
+      "low": 5621,
+      "high": 6006
     },
     {
       "date": "2026-11-14",
-      "price": 5899,
-      "low": 5622,
-      "high": 6175
+      "price": 5798,
+      "low": 5526,
+      "high": 6070
     },
     {
       "date": "2026-11-15",
-      "price": 5889,
-      "low": 5550,
-      "high": 6227
+      "price": 5786,
+      "low": 5452,
+      "high": 6119
     },
     {
       "date": "2026-11-16",
-      "price": 5881,
-      "low": 5490,
-      "high": 6272
+      "price": 5777,
+      "low": 5392,
+      "high": 6162
     },
     {
       "date": "2026-11-17",
-      "price": 5875,
-      "low": 5438,
-      "high": 6312
+      "price": 5770,
+      "low": 5340,
+      "high": 6200
     },
     {
       "date": "2026-11-18",
-      "price": 5871,
-      "low": 5392,
-      "high": 6350
+      "price": 5765,
+      "low": 5294,
+      "high": 6236
     },
     {
       "date": "2026-11-19",
-      "price": 5868,
-      "low": 5351,
-      "high": 6385
+      "price": 5761,
+      "low": 5252,
+      "high": 6270
     }
   ],
   "accuracy_30d": {
     "samples": 25,
-    "mae": 98,
+    "mae": 115,
     "direction_hit_rate": 0.56
   },
   "stats": {
@@ -64,25 +64,25 @@
     },
     "low": {
       "date": "2026-11-12",
-      "price": 5930
+      "price": 5835
     },
-    "average": 6433,
-    "ma7": 6081,
-    "ma30": 6433
+    "average": 6430,
+    "ma7": 6068,
+    "ma30": 6430
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
   "name": "Arabica New York",
   "unit": "USD/tấn",
   "technical": {
-    "symbol": "ICEUS:KCZ2026",
-    "month": "12/26",
-    "rating": -0.2212121212121212,
+    "symbol": "ICEUS:KCH2027",
+    "month": "03/27",
+    "rating": -0.26666666666666666,
     "rating_ma": -0.5333333333333333,
-    "rating_other": 0.09090909090909091,
-    "rsi": 44.871738816290964,
-    "close": 6186.0,
+    "rating_other": 0,
+    "rsi": 46.89514319244422,
+    "close": 6065.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-13T05:45:19+07:00"
+    "fetched_at": "2026-11-13T07:35:20+07:00"
   }
 }

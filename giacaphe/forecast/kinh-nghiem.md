@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 13/11/2026 05:45. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 13/11/2026 07:35. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -58,7 +58,7 @@ Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 0
 - ngược chiều: 2 lần
 - bỏ lỡ cú đi lớn: 1 lần
 
-Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 32 ngày sàn đi ≥ +0,50%): **0,41**.
+Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 33 ngày sàn đi ≥ +0,50%): **0,42**.
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
@@ -103,7 +103,7 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 | Gia Lai | 53 | 334 đ | 549 đ | 70% | 98% |
 | Đắk Nông | 53 | 343 đ | 564 đ | 72% | 98% |
 | Robusta London | 48 | 37 USD | 38 USD | 48% | 96% |
-| Arabica New York | 48 | 97 USD | 98 USD | 58% | 94% |
+| Arabica New York | 48 | 99 USD | 100 USD | 58% | 94% |
 
 ## Cách đọc
 
