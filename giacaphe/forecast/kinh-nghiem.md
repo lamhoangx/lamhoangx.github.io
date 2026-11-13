@@ -1,35 +1,35 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 13/11/2026 09:36. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 13/11/2026 10:35. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
 ## Trung bình 4 tỉnh
 
-Đã ghi 54 mốc dự đoán, 53 mốc đã có giá thật để chấm.
+Đã ghi 55 mốc dự đoán, 54 mốc đã có giá thật để chấm.
 
 ### Sai số theo tầm dự đoán
 
 | Tầm (ngày) | Số lần | Sai số TB | Đứng yên | Dải 90% phủ |
 |---|---|---|---|---|
-| 1 | 45 | 325 đ | 596 đ | 98% |
-| 2 | 43 | 721 đ | 747 đ | 93% |
-| 3 | 42 | 884 đ | 1.010 đ | 93% |
-| 4 | 41 | 1.167 đ | 1.151 đ | 85% |
+| 1 | 46 | 325 đ | 600 đ | 98% |
+| 2 | 44 | 730 đ | 757 đ | 93% |
+| 3 | 43 | 903 đ | 1.033 đ | 93% |
+| 4 | 42 | 1.186 đ | 1.176 đ | 86% |
 | 5 | 41 | 1.111 đ | 1.227 đ | 90% |
-| 6 | 41 | 1.206 đ | 1.432 đ | 93% |
-| 7 | 44 | 1.449 đ | 1.611 đ | 86% |
+| 6 | 42 | 1.209 đ | 1.438 đ | 93% |
+| 7 | 45 | 1.442 đ | 1.604 đ | 87% |
 
 ### Ngày-1: mô hình so với đứng yên
 
-Trên 53 lần đo: sai số TB **333 đ**, đứng yên **553 đ**, đúng chiều 74%, dải 90% phủ 98%.
-→ Mô hình **đang thắng** mốc đứng yên (−220 đ).
+Trên 54 lần đo: sai số TB **333 đ**, đứng yên **557 đ**, đúng chiều 74%, dải 90% phủ 98%.
+→ Mô hình **đang thắng** mốc đứng yên (−224 đ).
 
 ### Từng lớp giúp hay hại (ngày-1)
 
 | Lớp | Có tiếng nói | Đúng chiều | Nếu bỏ lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| truyền dẫn London | 43 | 86% | 547 đ | giúp (+214 đ) |
+| truyền dẫn London | 44 | 86% | 552 đ | giúp (+219 đ) |
 | tín hiệu sàn | 0 | — | 333 đ | chưa có tiếng nói |
 | xu hướng gần | 0 | — | 333 đ | chưa có tiếng nói |
 | AI điều tiết | 27 | 48% | 327 đ | hại (−6 đ) |
@@ -38,18 +38,18 @@ Trên 53 lần đo: sai số TB **333 đ**, đứng yên **553 đ**, đúng chi�
 
 | Lớp AI | Có tiếng nói | Đúng chiều | Nếu bỏ riêng lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| tâm lý bản tin | 21 | 62% | 328 đ | hại (−5 đ) |
+| tâm lý bản tin | 21 | 62% | 327 đ | hại (−6 đ) |
 | đề xuất lệch sàn | 5 | 0% | 332 đ | hại (−1 đ) |
 
 ### Lớp đang đo BÓNG (chưa áp vào dự đoán)
 
 **kỳ vọng của giới phân tích** — chỉ ĐO, dự đoán không dùng nhãn này; sổ tính "nếu áp thêm lớp này" bằng đúng hàm của bước ngày-1.
-Chưa có mốc nào có nhãn của hôm đó và giá thật để so.
-Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 0) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
+Trên 1 lần có nhãn (1 lần khác "đi ngang"): đúng chiều 100%; sai số TB thật **310 đ**, nếu áp thêm lớp này **272 đ**.
+Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 1) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
 
 ### Phân loại lỗi ngày-1
 
-- đúng chiều, vừa: 18 lần
+- đúng chiều, vừa: 19 lần
 - bỏ lỡ cú đi: 7 lần
 - đứng yên, đoán đứng yên: 7 lần
 - đúng chiều, quá tay: 6 lần
@@ -58,20 +58,20 @@ Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 0
 - ngược chiều: 2 lần
 - bỏ lỡ cú đi lớn: 1 lần
 
-Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 33 ngày sàn đi ≥ +0,50%): **0,42**.
+Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 34 ngày sàn đi ≥ +0,50%): **0,45**.
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
-Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 358 so với 358) nhưng chưa vượt ngưỡng cải thiện 3%.
+Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 356 so với 356) nhưng chưa vượt ngưỡng cải thiện 3%.
 
 | beta | Sai số TB nếu dùng |
 |---|---|
-| 0,3 | 407 đ |
-| 0,4 | 370 đ |
-| 0,5 | 358 đ |
-| 0,6 | 411 đ |
-| 0,7 | 487 đ |
-| 0,8 | 574 đ |
+| 0,3 | 410 đ |
+| 0,4 | 371 đ |
+| 0,5 | 356 đ |
+| 0,6 | 406 đ |
+| 0,7 | 477 đ |
+| 0,8 | 560 đ |
 
 ### Năm lỗi lớn nhất và lý do
 
@@ -98,12 +98,12 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 
 | Chuỗi | Số lần | Sai số TB | Đứng yên | Đúng chiều | Dải 90% phủ |
 |---|---|---|---|---|---|
-| Đắk Lắk | 53 | 329 đ | 549 đ | 74% | 98% |
-| Lâm Đồng | 53 | 321 đ | 557 đ | 74% | 98% |
-| Gia Lai | 53 | 334 đ | 549 đ | 70% | 98% |
-| Đắk Nông | 53 | 343 đ | 564 đ | 72% | 98% |
-| Robusta London | 48 | 37 USD | 38 USD | 48% | 96% |
-| Arabica New York | 48 | 99 USD | 100 USD | 58% | 94% |
+| Đắk Lắk | 54 | 327 đ | 552 đ | 74% | 98% |
+| Lâm Đồng | 54 | 322 đ | 563 đ | 74% | 98% |
+| Gia Lai | 54 | 335 đ | 556 đ | 70% | 98% |
+| Đắk Nông | 54 | 342 đ | 569 đ | 72% | 98% |
+| Robusta London | 49 | 37 USD | 38 USD | 49% | 96% |
+| Arabica New York | 49 | 102 USD | 103 USD | 57% | 92% |
 
 ## Cách đọc
 
