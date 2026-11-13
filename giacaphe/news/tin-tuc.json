@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T09:50:33+07:00",
+  "generated_at": "2026-11-13T11:45:09+07:00",
   "date": "2026-11-13",
   "groups": [
     {
@@ -8,6 +8,15 @@
       "label": "Giá cà phê ngày 13/11",
       "important": true,
       "items": [
+        {
+          "id": "tcct-565883",
+          "title": "Giá cà phê hôm nay 13/11: Arabica bật tăng, Robusta tiếp tục giảm",
+          "url": "https://tapchicongthuong.vn/gia-ca-phe-hom-nay-13-11--arabica-bat-tang--robusta-tiep-tuc-giam-565883.htm",
+          "source": "Tạp chí Công Thương",
+          "published_at": "2026-11-13T11:23:00+07:00",
+          "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/13/ca-phertrn1-176_6af68786b13a1.jpeg",
+          "image_small": "news/anh/5a1cd440e721b2c073d3.jpg"
+        },
         {
           "id": "bm-56500962",
           "title": "Giá nông sản hôm nay (13/11): Giá cà phê tiếp đà giảm, hồ tiêu đi ngang",
@@ -128,8 +137,17 @@
         {
           "id": "gia-ho-tieu-2026-11-13",
           "label": "Giá hồ tiêu ngày 13/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "tcct-565879",
+              "title": "Giá tiêu hôm nay 13/11: Tiếp tục đi ngang, thị trường chờ động lực mới",
+              "url": "https://tapchicongthuong.vn/gia-tieu-hom-nay-13-11--tiep-tuc-di-ngang--thi-truong-cho-dong-luc-moi-565879.htm",
+              "source": "Tạp chí Công Thương",
+              "published_at": "2026-11-13T11:11:00+07:00",
+              "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/13/1695-1676338532_860x0_6af68683d750b.jpg",
+              "image_small": "news/anh/b418e5825080468cb0b1.jpg"
+            },
             {
               "id": "vnbiz-202611137415805",
               "title": "Giá tiêu hôm nay 13/11: Kim ngạch xuất khẩu hồ tiêu có thể đạt kỷ lục 1,75 tỷ USD trong năm nay",
@@ -137,7 +155,7 @@
               "source": "VietnamBiz",
               "published_at": "2026-11-13T07:40:59+07:00",
               "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/13/gia-tieu-13-11-20261113073834495-avatar-15x10-20261113074105312.jpg",
-              "image_small": "news/anh/1350976cab72269d9af1.jpg"
+              "image_small": "news/anh/500bec51980eebd2f729.jpg"
             },
             {
               "id": "bvh-gia-ho-tieu-hom-nay-13-11-2026-gia-xuat-khau-chua-tao-dot-pha",
