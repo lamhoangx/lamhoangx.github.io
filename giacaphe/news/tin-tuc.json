@@ -1,29 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T08:20:37+07:00",
+  "generated_at": "2026-11-13T09:10:28+07:00",
   "date": "2026-11-13",
   "groups": [
-    {
-      "id": "vnb-ap-luc-nguon-cung-ca-phe-keo-gia-noi-dia-lui-nhe-ve-moc-83700-dongkg",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "vnb-ap-luc-nguon-cung-ca-phe-keo-gia-noi-dia-lui-nhe-ve-moc-83700-dongkg",
-          "title": "Áp lực nguồn cung cà phê kéo giá nội địa lùi nhẹ về mốc 83.700 đồng/kg",
-          "url": "https://vnbusiness.vn//ap-luc-nguon-cung-ca-phe-keo-gia-noi-dia-lui-nhe-ve-moc-83700-dongkg.html",
-          "source": "VnBusiness",
-          "published_at": "2026-11-13T08:15:08+07:00",
-          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/13/bf3a639260f148bdb10449545b8a0b65-20188.jpg?w=1200&h=630&mode=crop&anchor=top-center",
-          "image_small": "news/anh/5743468c72a339232136.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-13",
       "label": "Giá cà phê ngày 13/11",
       "important": true,
       "items": [
+        {
+          "id": "vov-1349693",
+          "title": "Giá cà phê hôm nay 13/11: Cà phê đồng loạt giảm trên 2 sàn quốc tế",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-1311-ca-phe-dong-loat-giam-tren-2-san-quoc-te-post1349693.vov",
+          "source": "VOV",
+          "published_at": "2026-11-13T08:58:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/2aobor6bwlbgsv8ovbbgei3nns5fxi56qua1l3ak.jpg",
+          "image_small": "news/anh/90c3cb6a1feae8ee5e7d.jpg"
+        },
         {
           "id": "bm-56500270",
           "title": "Bản tin nông sản hôm nay (13-11): Giá cà phê giảm",
@@ -82,15 +75,22 @@
           "published_at": "2026-11-13T06:05:59+07:00",
           "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/12/01a1d036-0a1d-754e-8f9f-9d59fed5bce8.jpg",
           "image_small": "news/anh/5cd3f20b39dc07345af1.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "id": "vnb-ap-luc-nguon-cung-ca-phe-keo-gia-noi-dia-lui-nhe-ve-moc-83700-dongkg",
+      "label": "",
+      "important": true,
+      "items": [
         {
-          "id": "vov-1349693",
-          "title": "Giá cà phê hôm nay 13/11: Giá cà phê trong nước giảm",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-1311-gia-ca-phe-trong-nuoc-giam-post1349693.vov",
-          "source": "VOV",
-          "published_at": "2026-11-13T01:00:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/2aobor6bwlbgsv8ovbbgei3nns5fxi56qua1l3ak.jpg",
-          "image_small": "news/anh/41a76dd15faed79456ef.jpg"
+          "id": "vnb-ap-luc-nguon-cung-ca-phe-keo-gia-noi-dia-lui-nhe-ve-moc-83700-dongkg",
+          "title": "Áp lực nguồn cung cà phê kéo giá nội địa lùi nhẹ về mốc 83.700 đồng/kg",
+          "url": "https://vnbusiness.vn//ap-luc-nguon-cung-ca-phe-keo-gia-noi-dia-lui-nhe-ve-moc-83700-dongkg.html",
+          "source": "VnBusiness",
+          "published_at": "2026-11-13T08:15:08+07:00",
+          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/13/bf3a639260f148bdb10449545b8a0b65-20188.jpg?w=1200&h=630&mode=crop&anchor=top-center",
+          "image_small": "news/anh/5743468c72a339232136.jpg"
         }
       ]
     }
