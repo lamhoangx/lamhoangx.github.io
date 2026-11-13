@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T10:35:32+07:00",
-  "model": "tv-drift-v5",
+  "generated_at": "2026-11-13T13:38:01+07:00",
+  "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 76,
   "anchor": {
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-14",
-      "price": 3200,
-      "low": 3107,
-      "high": 3293
+      "price": 3201,
+      "low": 3102,
+      "high": 3299
     },
     {
       "date": "2026-11-15",
-      "price": 3194,
-      "low": 3063,
-      "high": 3326
+      "price": 3201,
+      "low": 3102,
+      "high": 3299
     },
     {
       "date": "2026-11-16",
-      "price": 3190,
-      "low": 3029,
-      "high": 3351
+      "price": 3201,
+      "low": 3102,
+      "high": 3299
     },
     {
       "date": "2026-11-17",
-      "price": 3187,
-      "low": 3001,
-      "high": 3373
+      "price": 3196,
+      "low": 3056,
+      "high": 3335
     },
     {
       "date": "2026-11-18",
-      "price": 3185,
-      "low": 2977,
-      "high": 3393
+      "price": 3192,
+      "low": 3021,
+      "high": 3363
     },
     {
       "date": "2026-11-19",
-      "price": 3183,
-      "low": 2955,
-      "high": 3411
+      "price": 3189,
+      "low": 2992,
+      "high": 3387
     },
     {
       "date": "2026-11-20",
-      "price": 3182,
-      "low": 2936,
-      "high": 3428
+      "price": 3187,
+      "low": 2967,
+      "high": 3408
     }
   ],
   "accuracy_30d": {
-    "samples": 26,
-    "mae": 37,
-    "direction_hit_rate": 0.5
+    "samples": 23,
+    "mae": 39,
+    "direction_hit_rate": null
   },
   "stats": {
     "window_days": 30,
@@ -83,6 +83,28 @@
     "rsi": 39.73042559212694,
     "close": 3207.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-13T10:35:32+07:00"
+    "fetched_at": "2026-11-13T13:38:01+07:00"
+  },
+  "pre_session": {
+    "anchor_date": "2026-11-13",
+    "anchor_price": 3207,
+    "predictions": [
+      {
+        "date": "2026-11-14",
+        "price": 3201
+      },
+      {
+        "date": "2026-11-15",
+        "price": 3201
+      },
+      {
+        "date": "2026-11-16",
+        "price": 3201
+      },
+      {
+        "date": "2026-11-17",
+        "price": 3196
+      }
+    ]
   }
 }

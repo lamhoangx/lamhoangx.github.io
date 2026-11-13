@@ -156,10 +156,7 @@
         "date": "2026-11-13",
         "absolute_error": 310,
         "direction_hit": true,
-        "sai_so_khong_doi": 800,
-        "gia_du_doan": 83210,
-        "gia_neo": 83700,
-        "gia_thuc": 82900
+        "sai_so_khong_doi": 800
       }
     ],
     "latest.json#daklak": [
@@ -317,10 +314,7 @@
         "date": "2026-11-13",
         "absolute_error": 210,
         "direction_hit": true,
-        "sai_so_khong_doi": 700,
-        "gia_du_doan": 83210,
-        "gia_neo": 83700,
-        "gia_thuc": 83000
+        "sai_so_khong_doi": 700
       }
     ],
     "latest.json#lamdong": [
@@ -478,10 +472,7 @@
         "date": "2026-11-13",
         "absolute_error": 413,
         "direction_hit": true,
-        "sai_so_khong_doi": 900,
-        "gia_du_doan": 82713,
-        "gia_neo": 83200,
-        "gia_thuc": 82300
+        "sai_so_khong_doi": 900
       }
     ],
     "latest.json#gialai": [
@@ -639,10 +630,7 @@
         "date": "2026-11-13",
         "absolute_error": 410,
         "direction_hit": true,
-        "sai_so_khong_doi": 900,
-        "gia_du_doan": 83210,
-        "gia_neo": 83700,
-        "gia_thuc": 82800
+        "sai_so_khong_doi": 900
       }
     ],
     "latest.json#daknong": [
@@ -800,332 +788,287 @@
         "date": "2026-11-13",
         "absolute_error": 309,
         "direction_hit": true,
-        "sai_so_khong_doi": 800,
-        "gia_du_doan": 83309,
-        "gia_neo": 83800,
-        "gia_thuc": 83000
+        "sai_so_khong_doi": 800
       }
     ],
     "world.json": [
       {
         "date": "2026-10-14",
-        "absolute_error": 11,
-        "direction_hit": true,
+        "absolute_error": 19,
+        "direction_hit": null,
         "sai_so_khong_doi": 19
       },
       {
         "date": "2026-10-15",
-        "absolute_error": 36,
-        "direction_hit": false,
+        "absolute_error": 24,
+        "direction_hit": null,
         "sai_so_khong_doi": 24
       },
       {
         "date": "2026-10-16",
-        "absolute_error": 99,
-        "direction_hit": true,
+        "absolute_error": 108,
+        "direction_hit": null,
         "sai_so_khong_doi": 108
       },
       {
         "date": "2026-10-17",
-        "absolute_error": 45,
-        "direction_hit": false,
+        "absolute_error": 39,
+        "direction_hit": null,
         "sai_so_khong_doi": 39
       },
       {
-        "date": "2026-10-19",
-        "absolute_error": 11,
-        "direction_hit": false,
-        "sai_so_khong_doi": 0
-      },
-      {
         "date": "2026-10-20",
-        "absolute_error": 81,
-        "direction_hit": false,
+        "absolute_error": 70,
+        "direction_hit": null,
         "sai_so_khong_doi": 70
       },
       {
         "date": "2026-10-21",
-        "absolute_error": 68,
-        "direction_hit": true,
+        "absolute_error": 74,
+        "direction_hit": null,
         "sai_so_khong_doi": 74
       },
       {
         "date": "2026-10-22",
-        "absolute_error": 52,
-        "direction_hit": true,
+        "absolute_error": 58,
+        "direction_hit": null,
         "sai_so_khong_doi": 58
       },
       {
         "date": "2026-10-23",
-        "absolute_error": 55,
-        "direction_hit": true,
+        "absolute_error": 64,
+        "direction_hit": null,
         "sai_so_khong_doi": 64
       },
       {
         "date": "2026-10-24",
-        "absolute_error": 43,
-        "direction_hit": true,
+        "absolute_error": 60,
+        "direction_hit": null,
         "sai_so_khong_doi": 60
       },
       {
         "date": "2026-10-27",
-        "absolute_error": 19,
-        "direction_hit": true,
+        "absolute_error": 34,
+        "direction_hit": null,
         "sai_so_khong_doi": 34
       },
       {
         "date": "2026-10-28",
-        "absolute_error": 83,
-        "direction_hit": false,
+        "absolute_error": 46,
+        "direction_hit": null,
         "sai_so_khong_doi": 46
       },
       {
         "date": "2026-10-29",
-        "absolute_error": 1,
-        "direction_hit": true,
+        "absolute_error": 40,
+        "direction_hit": null,
         "sai_so_khong_doi": 40
       },
       {
         "date": "2026-10-30",
-        "absolute_error": 17,
-        "direction_hit": true,
+        "absolute_error": 23,
+        "direction_hit": null,
         "sai_so_khong_doi": 23
       },
       {
         "date": "2026-10-31",
-        "absolute_error": 73,
-        "direction_hit": false,
+        "absolute_error": 42,
+        "direction_hit": null,
         "sai_so_khong_doi": 42
       },
       {
-        "date": "2026-11-02",
-        "absolute_error": 32,
-        "direction_hit": false,
-        "sai_so_khong_doi": 0
-      },
-      {
         "date": "2026-11-03",
-        "absolute_error": 44,
-        "direction_hit": false,
+        "absolute_error": 37,
+        "direction_hit": null,
         "sai_so_khong_doi": 37
       },
       {
         "date": "2026-11-04",
-        "absolute_error": 6,
-        "direction_hit": true,
+        "absolute_error": 9,
+        "direction_hit": null,
         "sai_so_khong_doi": 9
       },
       {
         "date": "2026-11-05",
-        "absolute_error": 30,
-        "direction_hit": false,
+        "absolute_error": 22,
+        "direction_hit": null,
         "sai_so_khong_doi": 22
       },
       {
         "date": "2026-11-06",
-        "absolute_error": 7,
-        "direction_hit": false,
+        "absolute_error": 0,
+        "direction_hit": null,
         "sai_so_khong_doi": 0
       },
       {
         "date": "2026-11-07",
-        "absolute_error": 32,
-        "direction_hit": true,
+        "absolute_error": 42,
+        "direction_hit": null,
         "sai_so_khong_doi": 42
       },
       {
-        "date": "2026-11-09",
-        "absolute_error": 20,
-        "direction_hit": false,
-        "sai_so_khong_doi": 0
-      },
-      {
         "date": "2026-11-10",
-        "absolute_error": 38,
-        "direction_hit": false,
+        "absolute_error": 29,
+        "direction_hit": null,
         "sai_so_khong_doi": 29
       },
       {
         "date": "2026-11-11",
-        "absolute_error": 3,
-        "direction_hit": true,
+        "absolute_error": 9,
+        "direction_hit": null,
         "sai_so_khong_doi": 9
       },
       {
         "date": "2026-11-12",
-        "absolute_error": 22,
-        "direction_hit": false,
+        "absolute_error": 20,
+        "direction_hit": null,
         "sai_so_khong_doi": 20
       },
       {
         "date": "2026-11-13",
-        "absolute_error": 32,
-        "direction_hit": true,
-        "sai_so_khong_doi": 38,
-        "gia_du_doan": 3239,
-        "gia_neo": 3245,
-        "gia_thuc": 3207
+        "absolute_error": 38,
+        "direction_hit": null,
+        "sai_so_khong_doi": 38
       }
     ],
     "world-arabica.json": [
       {
         "date": "2026-10-14",
-        "absolute_error": 32,
-        "direction_hit": true,
+        "absolute_error": 46,
+        "direction_hit": null,
         "sai_so_khong_doi": 46
       },
       {
         "date": "2026-10-15",
-        "absolute_error": 115,
-        "direction_hit": true,
+        "absolute_error": 118,
+        "direction_hit": null,
         "sai_so_khong_doi": 118
       },
       {
         "date": "2026-10-16",
-        "absolute_error": 77,
-        "direction_hit": false,
+        "absolute_error": 72,
+        "direction_hit": null,
         "sai_so_khong_doi": 72
       },
       {
         "date": "2026-10-17",
-        "absolute_error": 217,
-        "direction_hit": true,
+        "absolute_error": 238,
+        "direction_hit": null,
         "sai_so_khong_doi": 238
       },
       {
-        "date": "2026-10-19",
-        "absolute_error": 88,
-        "direction_hit": false,
-        "sai_so_khong_doi": 0
-      },
-      {
         "date": "2026-10-20",
-        "absolute_error": 160,
-        "direction_hit": true,
+        "absolute_error": 223,
+        "direction_hit": null,
         "sai_so_khong_doi": 223
       },
       {
         "date": "2026-10-21",
-        "absolute_error": 179,
-        "direction_hit": false,
+        "absolute_error": 97,
+        "direction_hit": null,
         "sai_so_khong_doi": 97
       },
       {
         "date": "2026-10-22",
-        "absolute_error": 30,
-        "direction_hit": true,
+        "absolute_error": 107,
+        "direction_hit": null,
         "sai_so_khong_doi": 107
       },
       {
         "date": "2026-10-23",
-        "absolute_error": 159,
-        "direction_hit": false,
+        "absolute_error": 82,
+        "direction_hit": null,
         "sai_so_khong_doi": 82
       },
       {
         "date": "2026-10-24",
-        "absolute_error": 172,
-        "direction_hit": false,
+        "absolute_error": 110,
+        "direction_hit": null,
         "sai_so_khong_doi": 110
       },
       {
         "date": "2026-10-27",
-        "absolute_error": 234,
-        "direction_hit": false,
+        "absolute_error": 143,
+        "direction_hit": null,
         "sai_so_khong_doi": 143
       },
       {
         "date": "2026-10-28",
-        "absolute_error": 152,
-        "direction_hit": true,
+        "absolute_error": 159,
+        "direction_hit": null,
         "sai_so_khong_doi": 159
       },
       {
         "date": "2026-10-29",
-        "absolute_error": 109,
-        "direction_hit": true,
+        "absolute_error": 154,
+        "direction_hit": null,
         "sai_so_khong_doi": 154
       },
       {
         "date": "2026-10-30",
-        "absolute_error": 60,
-        "direction_hit": true,
+        "absolute_error": 29,
+        "direction_hit": null,
         "sai_so_khong_doi": 29
       },
       {
         "date": "2026-10-31",
-        "absolute_error": 141,
-        "direction_hit": false,
+        "absolute_error": 39,
+        "direction_hit": null,
         "sai_so_khong_doi": 39
       },
       {
-        "date": "2026-11-02",
-        "absolute_error": 187,
-        "direction_hit": false,
-        "sai_so_khong_doi": 0
-      },
-      {
         "date": "2026-11-03",
-        "absolute_error": 195,
-        "direction_hit": false,
+        "absolute_error": 108,
+        "direction_hit": null,
         "sai_so_khong_doi": 108
       },
       {
         "date": "2026-11-04",
-        "absolute_error": 128,
-        "direction_hit": true,
+        "absolute_error": 180,
+        "direction_hit": null,
         "sai_so_khong_doi": 180
       },
       {
         "date": "2026-11-05",
-        "absolute_error": 60,
-        "direction_hit": true,
+        "absolute_error": 93,
+        "direction_hit": null,
         "sai_so_khong_doi": 93
       },
       {
         "date": "2026-11-06",
-        "absolute_error": 33,
-        "direction_hit": true,
+        "absolute_error": 57,
+        "direction_hit": null,
         "sai_so_khong_doi": 57
       },
       {
         "date": "2026-11-07",
-        "absolute_error": 89,
-        "direction_hit": false,
+        "absolute_error": 63,
+        "direction_hit": null,
         "sai_so_khong_doi": 63
       },
       {
-        "date": "2026-11-09",
-        "absolute_error": 55,
-        "direction_hit": false,
-        "sai_so_khong_doi": 0
-      },
-      {
         "date": "2026-11-10",
-        "absolute_error": 105,
-        "direction_hit": true,
+        "absolute_error": 141,
+        "direction_hit": null,
         "sai_so_khong_doi": 141
       },
       {
         "date": "2026-11-11",
-        "absolute_error": 4,
-        "direction_hit": true,
+        "absolute_error": 49,
+        "direction_hit": null,
         "sai_so_khong_doi": 49
       },
       {
         "date": "2026-11-12",
-        "absolute_error": 97,
-        "direction_hit": true,
+        "absolute_error": 148,
+        "direction_hit": null,
         "sai_so_khong_doi": 148
       },
       {
         "date": "2026-11-13",
-        "absolute_error": 239,
-        "direction_hit": false,
-        "sai_so_khong_doi": 218,
-        "gia_du_doan": 5814,
-        "gia_neo": 5835,
-        "gia_thuc": 6053
+        "absolute_error": 218,
+        "direction_hit": null,
+        "sai_so_khong_doi": 218
       }
     ]
   }
