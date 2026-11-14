@@ -1,30 +1,24 @@
 {
-  "generated_at": "2026-11-14T19:31:04+07:00",
+  "generated_at": "2026-11-15T05:40:19+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 76,
+  "trained_days": 77,
   "anchor": {
-    "date": "2026-11-13",
-    "price": 6053
+    "date": "2026-11-14",
+    "price": 6030
   },
   "predictions": [
     {
-      "date": "2026-11-14",
-      "price": 6030,
-      "low": 5980,
-      "high": 6080
-    },
-    {
       "date": "2026-11-15",
       "price": 6030,
-      "low": 5980,
-      "high": 6080
+      "low": 5981,
+      "high": 6079
     },
     {
       "date": "2026-11-16",
       "price": 6030,
-      "low": 5980,
-      "high": 6080
+      "low": 5981,
+      "high": 6079
     },
     {
       "date": "2026-11-17",
@@ -49,11 +43,17 @@
       "price": 6004,
       "low": 5588,
       "high": 6420
+    },
+    {
+      "date": "2026-11-21",
+      "price": 6001,
+      "low": 5536,
+      "high": 6466
     }
   ],
   "accuracy_30d": {
     "samples": 22,
-    "mae": 119,
+    "mae": 115,
     "direction_hit_rate": null
   },
   "stats": {
@@ -66,9 +66,9 @@
       "date": "2026-11-12",
       "price": 5835
     },
-    "average": 6417,
-    "ma7": 6051,
-    "ma30": 6417
+    "average": 6405,
+    "ma7": 6040,
+    "ma30": 6405
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -83,27 +83,27 @@
     "rsi": 45.46007331103934,
     "close": 6030.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-14T19:31:04+07:00"
+    "fetched_at": "2026-11-15T05:40:19+07:00"
   },
   "pre_session": {
-    "anchor_date": "2026-11-13",
-    "anchor_price": 6053,
+    "anchor_date": "2026-11-14",
+    "anchor_price": 6030,
     "predictions": [
       {
-        "date": "2026-11-14",
-        "price": 6046
-      },
-      {
         "date": "2026-11-15",
-        "price": 6046
+        "price": 6030
       },
       {
         "date": "2026-11-16",
-        "price": 6046
+        "price": 6030
       },
       {
         "date": "2026-11-17",
-        "price": 6041
+        "price": 6020
+      },
+      {
+        "date": "2026-11-18",
+        "price": 6013
       }
     ]
   }
