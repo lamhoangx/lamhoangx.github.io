@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T08:40:15+07:00",
+  "generated_at": "2026-11-15T11:40:16+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
@@ -84,23 +84,23 @@
       "days": [
         {
           "date": "2026-11-15",
-          "t_min": 22,
+          "t_min": 21,
           "t_max": 28,
-          "rain_mm": 0.7,
+          "rain_mm": 2.2,
           "rain": {
-            "sang": 0.2,
-            "chieu": 0.5,
+            "sang": 0.1,
+            "chieu": 2.1,
             "toi": 0.0
           }
         },
         {
           "date": "2026-11-16",
           "t_min": 20,
-          "t_max": 28,
-          "rain_mm": 0.1,
+          "t_max": 29,
+          "rain_mm": 0.2,
           "rain": {
             "sang": 0.0,
-            "chieu": 0.1,
+            "chieu": 0.2,
             "toi": 0.0
           }
         },
@@ -108,10 +108,10 @@
           "date": "2026-11-17",
           "t_min": 19,
           "t_max": 28,
-          "rain_mm": 0.1,
+          "rain_mm": 0.4,
           "rain": {
             "sang": 0.0,
-            "chieu": 0.1,
+            "chieu": 0.4,
             "toi": 0.0
           }
         }
