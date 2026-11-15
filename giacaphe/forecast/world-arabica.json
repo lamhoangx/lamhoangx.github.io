@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:30:27+07:00",
+  "generated_at": "2026-11-16T06:15:09+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 77,
@@ -52,8 +52,8 @@
     }
   ],
   "accuracy_30d": {
-    "samples": 22,
-    "mae": 115,
+    "samples": 21,
+    "mae": 117,
     "direction_hit_rate": null
   },
   "stats": {
@@ -83,7 +83,7 @@
     "rsi": 45.46007331103934,
     "close": 6030.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-15T19:30:27+07:00"
+    "fetched_at": "2026-11-16T06:15:09+07:00"
   },
   "pre_session": {
     "anchor_date": "2026-11-14",
