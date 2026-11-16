@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T12:07:35+07:00",
+  "generated_at": "2026-11-16T12:30:27+07:00",
   "date": "2026-11-16",
   "groups": [
     {
@@ -160,7 +160,7 @@
         {
           "id": "gia-ho-tieu-2026-11-16",
           "label": "Giá hồ tiêu ngày 16/11",
-          "important": false,
+          "important": true,
           "items": [
             {
               "id": "vnbiz-2026111673438433",
@@ -179,6 +179,15 @@
               "published_at": "2026-11-16T06:11:40+07:00",
               "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/15/01a1dfd5-2e46-7987-bf2d-68b32c2b5f5a.jpg",
               "image_small": "news/anh/3848dafb9f759594e29e.jpg"
+            },
+            {
+              "id": "ct-481318",
+              "title": "Giá tiêu hôm nay 16/11/2026: Đi ngang phiên đầu tuần",
+              "url": "https://congthuong.vn/gia-tieu-hom-nay-16-11-2026-di-ngang-phien-dau-tuan-481318.html",
+              "source": "Báo Công Thương",
+              "published_at": "2026-11-16T05:42:00+07:00",
+              "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/16/2b2c0fdc-7617-4fb2-b526-233cc78314a1-11451221.JPEG",
+              "image_small": "news/anh/08be210ae457d172054a.jpg"
             }
           ]
         }
