@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T09:10:28+07:00",
+  "generated_at": "2026-11-16T09:30:30+07:00",
   "date": "2026-11-16",
   "groups": [
     {
@@ -156,20 +156,21 @@
       "id": "sau-rieng",
       "label": "Sầu riêng",
       "title": "Tin tức sầu riêng",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "groups": [
         {
-          "id": "bm-56519029",
-          "label": "",
-          "important": true,
+          "id": "gia-sau-rieng-2026-11-16",
+          "label": "Giá sầu riêng ngày 16/11",
+          "important": false,
           "items": [
             {
-              "id": "bm-56519029",
-              "title": "Đồng Nai đào tạo kỹ thuật canh tác sầu riêng thúc đẩy sinh kế bền vững",
-              "url": "https://baomoi.com/dong-nai-dao-tao-ky-thuat-canh-tac-sau-rieng-thuc-day-sinh-ke-ben-vung-c56519029.epi",
-              "source": "Báo VietnamPlus",
-              "published_at": "2026-11-15T19:58:00+07:00",
-              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_15_293_56519029/05206c81ceca27947edb.jpg"
+              "id": "vnbiz-202611169642347",
+              "title": "Giá sầu riêng hôm nay 16/11: Không có biến động, vùng trồng sầu riêng chuyển mình theo quy định mới",
+              "url": "https://vietnambiz.vn/gia-sau-rieng-hom-nay-1611-khong-co-bien-dong-vung-trong-sau-rieng-chuyen-minh-theo-quy-dinh-moi-202611169642347.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-16T09:00:00+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/16/lich-cup-dien-quang-tri-10-20261116090459216-avatar-15x10-20261116090641965.jpg",
+              "image_small": "news/anh/0c49dcbbd36c7e811ffb.jpg"
             }
           ]
         }
