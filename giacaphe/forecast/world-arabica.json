@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-11-16T06:15:09+07:00",
+  "generated_at": "2026-11-16T10:28:30+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 77,
+  "trained_days": 78,
   "anchor": {
-    "date": "2026-11-14",
+    "date": "2026-11-16",
     "price": 6030
   },
   "predictions": [
-    {
-      "date": "2026-11-15",
-      "price": 6030,
-      "low": 5981,
-      "high": 6079
-    },
-    {
-      "date": "2026-11-16",
-      "price": 6030,
-      "low": 5981,
-      "high": 6079
-    },
     {
       "date": "2026-11-17",
       "price": 6020,
@@ -49,6 +37,18 @@
       "price": 6001,
       "low": 5536,
       "high": 6466
+    },
+    {
+      "date": "2026-11-22",
+      "price": 6001,
+      "low": 5536,
+      "high": 6466
+    },
+    {
+      "date": "2026-11-23",
+      "price": 6001,
+      "low": 5536,
+      "high": 6466
     }
   ],
   "accuracy_30d": {
@@ -66,9 +66,9 @@
       "date": "2026-11-12",
       "price": 5835
     },
-    "average": 6405,
-    "ma7": 6040,
-    "ma30": 6405
+    "average": 6396,
+    "ma7": 6019,
+    "ma30": 6396
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -83,20 +83,12 @@
     "rsi": 45.46007331103934,
     "close": 6030.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-16T06:15:09+07:00"
+    "fetched_at": "2026-11-16T10:28:30+07:00"
   },
   "pre_session": {
-    "anchor_date": "2026-11-14",
+    "anchor_date": "2026-11-16",
     "anchor_price": 6030,
     "predictions": [
-      {
-        "date": "2026-11-15",
-        "price": 6030
-      },
-      {
-        "date": "2026-11-16",
-        "price": 6030
-      },
       {
         "date": "2026-11-17",
         "price": 6020
@@ -104,6 +96,14 @@
       {
         "date": "2026-11-18",
         "price": 6013
+      },
+      {
+        "date": "2026-11-19",
+        "price": 6008
+      },
+      {
+        "date": "2026-11-20",
+        "price": 6004
       }
     ]
   }

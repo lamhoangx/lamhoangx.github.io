@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-16T06:15:09+07:00",
+  "generated_at": "2026-11-16T10:28:30+07:00",
   "model": "tv-close-gemini-v9",
   "horizon_days": 7,
-  "trained_days": 79,
+  "trained_days": 80,
   "anchor": {
-    "date": "2026-11-14",
-    "price": 82900
+    "date": "2026-11-16",
+    "price": 81900
   },
   "predictions": [
     {
-      "date": "2026-11-15",
-      "price": 83082,
-      "low": 82114,
-      "high": 84050
-    },
-    {
-      "date": "2026-11-16",
-      "price": 82975,
-      "low": 81265,
-      "high": 84686
-    },
-    {
       "date": "2026-11-17",
-      "price": 82895,
-      "low": 80800,
-      "high": 84990
+      "price": 81801,
+      "low": 80652,
+      "high": 82949
     },
     {
       "date": "2026-11-18",
-      "price": 82835,
-      "low": 80416,
-      "high": 85254
+      "price": 81633,
+      "low": 80009,
+      "high": 83257
     },
     {
       "date": "2026-11-19",
-      "price": 82790,
-      "low": 80085,
-      "high": 85495
+      "price": 81507,
+      "low": 79519,
+      "high": 83496
     },
     {
       "date": "2026-11-20",
-      "price": 82756,
-      "low": 79793,
-      "high": 85719
+      "price": 81413,
+      "low": 79117,
+      "high": 83709
     },
     {
       "date": "2026-11-21",
-      "price": 82730,
-      "low": 79530,
-      "high": 85931
+      "price": 81342,
+      "low": 78775,
+      "high": 83910
+    },
+    {
+      "date": "2026-11-22",
+      "price": 81289,
+      "low": 78477,
+      "high": 84102
+    },
+    {
+      "date": "2026-11-23",
+      "price": 81249,
+      "low": 78212,
+      "high": 84287
     }
   ],
   "accuracy_30d": {
-    "samples": 24,
-    "mae": 456,
-    "direction_hit_rate": 0.833
+    "samples": 25,
+    "mae": 481,
+    "direction_hit_rate": 0.8
   },
   "stats": {
     "window_days": 30,
@@ -63,12 +63,12 @@
       "price": 93900
     },
     "low": {
-      "date": "2026-11-13",
-      "price": 82900
+      "date": "2026-11-16",
+      "price": 81900
     },
-    "average": 88417,
-    "ma7": 84029,
-    "ma30": 88417
+    "average": 88047,
+    "ma7": 83643,
+    "ma30": 88047
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "region": "average",
@@ -81,77 +81,79 @@
     "rsi": 40.76499972153385,
     "close": 3210.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-16T06:15:09+07:00"
+    "fetched_at": "2026-11-16T10:28:30+07:00"
   },
+  "tam_ly": -0.5,
   "truyen_dan": {
-    "r": 0.00438,
-    "beta": 0.5
+    "r": 0.0,
+    "beta": 0.5,
+    "r_du_doan": -0.001564
   },
   "tin_hieu_san": {
     "san": "London",
-    "phan_tram": 0.4,
-    "tu_ngay": "2026-11-14",
-    "luc": "2026-11-16T06:15:09+07:00"
+    "phan_tram": 0.0,
+    "tu_ngay": "2026-11-16",
+    "luc": "2026-11-16T10:28:30+07:00"
   },
   "de_xuat_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-11-16T06:15:09+07:00",
+      "generated_at": "2026-11-16T10:28:30+07:00",
       "model": "tv-close-gemini-v9",
       "horizon_days": 7,
-      "trained_days": 79,
+      "trained_days": 80,
       "anchor": {
-        "date": "2026-11-14",
-        "price": 83000
+        "date": "2026-11-16",
+        "price": 82000
       },
       "predictions": [
         {
-          "date": "2026-11-15",
-          "price": 83182,
-          "low": 82205,
-          "high": 84159
-        },
-        {
-          "date": "2026-11-16",
-          "price": 83081,
-          "low": 81353,
-          "high": 84808
-        },
-        {
           "date": "2026-11-17",
-          "price": 83005,
-          "low": 80889,
-          "high": 85120
+          "price": 81899,
+          "low": 80692,
+          "high": 83105
         },
         {
           "date": "2026-11-18",
-          "price": 82948,
-          "low": 80505,
-          "high": 85390
+          "price": 81735,
+          "low": 80029,
+          "high": 83441
         },
         {
           "date": "2026-11-19",
-          "price": 82905,
-          "low": 80174,
-          "high": 85636
+          "price": 81612,
+          "low": 79522,
+          "high": 83702
         },
         {
           "date": "2026-11-20",
-          "price": 82873,
-          "low": 79881,
-          "high": 85865
+          "price": 81520,
+          "low": 79107,
+          "high": 83933
         },
         {
           "date": "2026-11-21",
-          "price": 82849,
-          "low": 79618,
-          "high": 86080
+          "price": 81451,
+          "low": 78753,
+          "high": 84149
+        },
+        {
+          "date": "2026-11-22",
+          "price": 81399,
+          "low": 78444,
+          "high": 84355
+        },
+        {
+          "date": "2026-11-23",
+          "price": 81361,
+          "low": 78168,
+          "high": 84553
         }
       ],
       "accuracy_30d": {
-        "samples": 24,
-        "mae": 438,
-        "direction_hit_rate": 0.833
+        "samples": 25,
+        "mae": 464,
+        "direction_hit_rate": 0.8
       },
       "stats": {
         "window_days": 30,
@@ -160,79 +162,79 @@
           "price": 93800
         },
         "low": {
-          "date": "2026-11-13",
-          "price": 83000
+          "date": "2026-11-16",
+          "price": 82000
         },
-        "average": 88403,
-        "ma7": 84043,
-        "ma30": 88403
+        "average": 88037,
+        "ma7": 83686,
+        "ma30": 88037
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "region": "daklak",
       "reason": {
         "title": "Phân tích",
-        "subtitle": "Chung 4 tỉnh · dự đoán ngày 16/11",
-        "target_date": "2026-11-16",
-        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 16/11: **khoảng 83.000 đ/⁠kg** (ngày 14/11: 82.900). Có thể trong khoảng 81.300 – 84.700. Tính lúc 06:15 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 16/11 | So với 14/11 |\n|---|---:|---|\n| Đắk Lắk | 83.100 | đi ngang |\n| Lâm Đồng | 82.400 | đi ngang |\n| Gia Lai | 82.900 | đi ngang |\n| Đắk Nông | 83.100 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 88.400 (ngày 29/10) xuống 82.900 đ/⁠kg (ngày 14/11) — giảm 5.500đ (6,2%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 14/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng tăng):** tăng nhẹ từ ngày 14/11; app tính ra **đẩy giá lên khoảng 180đ**.\n- Tính tiếp từ ngày 15/11 tới ngày 16/11 theo tín hiệu mua bán trên thị trường thế giới và đà giá trong nước: app tính ra **kéo giá xuống khoảng 110đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 13%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n\n**App cân nhắc:** Giá thế giới nghiêng tăng, chu kỳ giá và kinh tế nghiêng giảm: các căn cứ kéo ngược nhau, khớp với nhận định đi ngang. **Cộng lại: tăng 75đ**, ít hơn mức lệch trung bình của dự đoán (456đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 21/11:** khoảng 82.700 đ/⁠kg, gần như đi ngang so với ngày 14/11; có thể trong khoảng 79.500 – 85.900.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 16/11 – 21/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới đổi chiều hoặc biến động mạnh.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù giá thế giới vừa tăng nhẹ. Các căn cứ khác cho thấy chu kỳ giá và kinh tế nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 14/11) app dự đoán 82.721, giá thật 82.900 — lệch 179đ; lệch nhiều nhất (ngày 11/11) app dự đoán 84.680, giá thật 84.100 — lệch 580đ.\n- **Tính chung:** 24 lần dự đoán gần nhất lệch giá thật trung bình 456đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 650đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 49 trong 50 lần.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "subtitle": "Chung 4 tỉnh · dự đoán ngày 17/11",
+        "target_date": "2026-11-17",
+        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 17/11: **khoảng 81.800 đ/⁠kg** (ngày 16/11: 81.900). Có thể trong khoảng 80.700 – 82.900. Tính lúc 10:28 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 17/11 | So với 16/11 |\n|---|---:|---|\n| Đắk Lắk | 81.900 | đi ngang |\n| Lâm Đồng | 81.200 | đi ngang |\n| Gia Lai | 81.700 | đi ngang |\n| Đắk Nông | 81.900 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 87.400 (ngày 30/10) xuống 81.900 đ/⁠kg (ngày 16/11) — giảm 5.500đ (6,3%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 16/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng giảm):** app dự đoán sắp tới giảm nhẹ; tính ra **kéo giá xuống khoảng 60đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 14%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n- **Giới phân tích (chưa nghiêng rõ):** các bài báo hôm nay cho thấy giới phân tích kỳ vọng giá đi ngang.\n\n**App cân nhắc:** Giá thế giới, chu kỳ giá và kinh tế nghiêng giảm nhưng chưa đủ để đổi nhận định đi ngang; nếu lệch thì dễ lệch về phía giảm. **Cộng lại: giảm 99đ**, ít hơn mức lệch trung bình của dự đoán (481đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 23/11:** khoảng 81.200 đ/⁠kg, thấp hơn ngày 16/11 khoảng 700đ; có thể trong khoảng 78.200 – 84.300.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 18/11 – 23/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới sắp tới đi khác mức app dự đoán.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì dự đoán của app về giá thế giới sắp tới giảm nhẹ nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong các căn cứ khác, chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 16/11) app dự đoán 82.975, giá thật 81.900 — lệch 1.075đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 25 lần dự đoán gần nhất lệch giá thật trung bình 481đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 664đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 48 trong 49 lần. Mức lệch này đo trên bản dự đoán buổi sáng, ngay trước khi có giá; bản dựng sớm hơn như bản này thường lệch nhiều hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "lamdong": {
-      "generated_at": "2026-11-16T06:15:09+07:00",
+      "generated_at": "2026-11-16T10:28:30+07:00",
       "model": "tv-close-gemini-v9",
       "horizon_days": 7,
-      "trained_days": 79,
+      "trained_days": 80,
       "anchor": {
-        "date": "2026-11-14",
-        "price": 82300
+        "date": "2026-11-16",
+        "price": 81300
       },
       "predictions": [
         {
-          "date": "2026-11-15",
-          "price": 82480,
-          "low": 81513,
-          "high": 83447
-        },
-        {
-          "date": "2026-11-16",
-          "price": 82375,
-          "low": 80666,
-          "high": 84084
-        },
-        {
           "date": "2026-11-17",
-          "price": 82295,
-          "low": 80202,
-          "high": 84388
+          "price": 81201,
+          "low": 80042,
+          "high": 82359
         },
         {
           "date": "2026-11-18",
-          "price": 82236,
-          "low": 79819,
-          "high": 84653
+          "price": 81031,
+          "low": 79393,
+          "high": 82670
         },
         {
           "date": "2026-11-19",
-          "price": 82191,
-          "low": 79489,
-          "high": 84894
+          "price": 80904,
+          "low": 78898,
+          "high": 82911
         },
         {
           "date": "2026-11-20",
-          "price": 82158,
-          "low": 79198,
-          "high": 85118
+          "price": 80809,
+          "low": 78492,
+          "high": 83126
         },
         {
           "date": "2026-11-21",
-          "price": 82133,
-          "low": 78936,
-          "high": 85330
+          "price": 80737,
+          "low": 78147,
+          "high": 83328
+        },
+        {
+          "date": "2026-11-22",
+          "price": 80684,
+          "low": 77846,
+          "high": 83521
+        },
+        {
+          "date": "2026-11-23",
+          "price": 80643,
+          "low": 77578,
+          "high": 83708
         }
       ],
       "accuracy_30d": {
-        "samples": 24,
-        "mae": 443,
-        "direction_hit_rate": 0.833
+        "samples": 25,
+        "mae": 469,
+        "direction_hit_rate": 0.8
       },
       "stats": {
         "window_days": 30,
@@ -241,79 +243,79 @@
           "price": 93200
         },
         "low": {
-          "date": "2026-11-13",
-          "price": 82300
+          "date": "2026-11-16",
+          "price": 81300
         },
-        "average": 87803,
-        "ma7": 83500,
-        "ma30": 87803
+        "average": 87440,
+        "ma7": 83114,
+        "ma30": 87440
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "region": "lamdong",
       "reason": {
         "title": "Phân tích",
-        "subtitle": "Chung 4 tỉnh · dự đoán ngày 16/11",
-        "target_date": "2026-11-16",
-        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 16/11: **khoảng 83.000 đ/⁠kg** (ngày 14/11: 82.900). Có thể trong khoảng 81.300 – 84.700. Tính lúc 06:15 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 16/11 | So với 14/11 |\n|---|---:|---|\n| Đắk Lắk | 83.100 | đi ngang |\n| Lâm Đồng | 82.400 | đi ngang |\n| Gia Lai | 82.900 | đi ngang |\n| Đắk Nông | 83.100 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 88.400 (ngày 29/10) xuống 82.900 đ/⁠kg (ngày 14/11) — giảm 5.500đ (6,2%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 14/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng tăng):** tăng nhẹ từ ngày 14/11; app tính ra **đẩy giá lên khoảng 180đ**.\n- Tính tiếp từ ngày 15/11 tới ngày 16/11 theo tín hiệu mua bán trên thị trường thế giới và đà giá trong nước: app tính ra **kéo giá xuống khoảng 110đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 13%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n\n**App cân nhắc:** Giá thế giới nghiêng tăng, chu kỳ giá và kinh tế nghiêng giảm: các căn cứ kéo ngược nhau, khớp với nhận định đi ngang. **Cộng lại: tăng 75đ**, ít hơn mức lệch trung bình của dự đoán (456đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 21/11:** khoảng 82.700 đ/⁠kg, gần như đi ngang so với ngày 14/11; có thể trong khoảng 79.500 – 85.900.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 16/11 – 21/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới đổi chiều hoặc biến động mạnh.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù giá thế giới vừa tăng nhẹ. Các căn cứ khác cho thấy chu kỳ giá và kinh tế nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 14/11) app dự đoán 82.721, giá thật 82.900 — lệch 179đ; lệch nhiều nhất (ngày 11/11) app dự đoán 84.680, giá thật 84.100 — lệch 580đ.\n- **Tính chung:** 24 lần dự đoán gần nhất lệch giá thật trung bình 456đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 650đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 49 trong 50 lần.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "subtitle": "Chung 4 tỉnh · dự đoán ngày 17/11",
+        "target_date": "2026-11-17",
+        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 17/11: **khoảng 81.800 đ/⁠kg** (ngày 16/11: 81.900). Có thể trong khoảng 80.700 – 82.900. Tính lúc 10:28 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 17/11 | So với 16/11 |\n|---|---:|---|\n| Đắk Lắk | 81.900 | đi ngang |\n| Lâm Đồng | 81.200 | đi ngang |\n| Gia Lai | 81.700 | đi ngang |\n| Đắk Nông | 81.900 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 87.400 (ngày 30/10) xuống 81.900 đ/⁠kg (ngày 16/11) — giảm 5.500đ (6,3%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 16/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng giảm):** app dự đoán sắp tới giảm nhẹ; tính ra **kéo giá xuống khoảng 60đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 14%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n- **Giới phân tích (chưa nghiêng rõ):** các bài báo hôm nay cho thấy giới phân tích kỳ vọng giá đi ngang.\n\n**App cân nhắc:** Giá thế giới, chu kỳ giá và kinh tế nghiêng giảm nhưng chưa đủ để đổi nhận định đi ngang; nếu lệch thì dễ lệch về phía giảm. **Cộng lại: giảm 99đ**, ít hơn mức lệch trung bình của dự đoán (481đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 23/11:** khoảng 81.200 đ/⁠kg, thấp hơn ngày 16/11 khoảng 700đ; có thể trong khoảng 78.200 – 84.300.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 18/11 – 23/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới sắp tới đi khác mức app dự đoán.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì dự đoán của app về giá thế giới sắp tới giảm nhẹ nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong các căn cứ khác, chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 16/11) app dự đoán 82.975, giá thật 81.900 — lệch 1.075đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 25 lần dự đoán gần nhất lệch giá thật trung bình 481đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 664đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 48 trong 49 lần. Mức lệch này đo trên bản dự đoán buổi sáng, ngay trước khi có giá; bản dựng sớm hơn như bản này thường lệch nhiều hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "gialai": {
-      "generated_at": "2026-11-16T06:15:09+07:00",
+      "generated_at": "2026-11-16T10:28:30+07:00",
       "model": "tv-close-gemini-v9",
       "horizon_days": 7,
-      "trained_days": 79,
+      "trained_days": 80,
       "anchor": {
-        "date": "2026-11-14",
-        "price": 82800
+        "date": "2026-11-16",
+        "price": 81800
       },
       "predictions": [
         {
-          "date": "2026-11-15",
-          "price": 82981,
-          "low": 82014,
-          "high": 83948
-        },
-        {
-          "date": "2026-11-16",
-          "price": 82877,
-          "low": 81167,
-          "high": 84586
-        },
-        {
           "date": "2026-11-17",
-          "price": 82798,
-          "low": 80705,
-          "high": 84892
+          "price": 81701,
+          "low": 80566,
+          "high": 82836
         },
         {
           "date": "2026-11-18",
-          "price": 82740,
-          "low": 80322,
-          "high": 85157
+          "price": 81534,
+          "low": 79929,
+          "high": 83140
         },
         {
           "date": "2026-11-19",
-          "price": 82696,
-          "low": 79993,
-          "high": 85399
+          "price": 81409,
+          "low": 79443,
+          "high": 83376
         },
         {
           "date": "2026-11-20",
-          "price": 82663,
-          "low": 79702,
-          "high": 85624
+          "price": 81316,
+          "low": 79045,
+          "high": 83587
         },
         {
           "date": "2026-11-21",
-          "price": 82638,
-          "low": 79440,
-          "high": 85836
+          "price": 81246,
+          "low": 78707,
+          "high": 83784
+        },
+        {
+          "date": "2026-11-22",
+          "price": 81193,
+          "low": 78412,
+          "high": 83974
+        },
+        {
+          "date": "2026-11-23",
+          "price": 81153,
+          "low": 78149,
+          "high": 84157
         }
       ],
       "accuracy_30d": {
-        "samples": 24,
-        "mae": 456,
-        "direction_hit_rate": 0.75
+        "samples": 25,
+        "mae": 480,
+        "direction_hit_rate": 0.72
       },
       "stats": {
         "window_days": 30,
@@ -322,79 +324,79 @@
           "price": 93800
         },
         "low": {
-          "date": "2026-11-13",
-          "price": 82800
+          "date": "2026-11-16",
+          "price": 81800
         },
-        "average": 88347,
-        "ma7": 83943,
-        "ma30": 88347
+        "average": 87973,
+        "ma7": 83557,
+        "ma30": 87973
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "region": "gialai",
       "reason": {
         "title": "Phân tích",
-        "subtitle": "Chung 4 tỉnh · dự đoán ngày 16/11",
-        "target_date": "2026-11-16",
-        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 16/11: **khoảng 83.000 đ/⁠kg** (ngày 14/11: 82.900). Có thể trong khoảng 81.300 – 84.700. Tính lúc 06:15 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 16/11 | So với 14/11 |\n|---|---:|---|\n| Đắk Lắk | 83.100 | đi ngang |\n| Lâm Đồng | 82.400 | đi ngang |\n| Gia Lai | 82.900 | đi ngang |\n| Đắk Nông | 83.100 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 88.400 (ngày 29/10) xuống 82.900 đ/⁠kg (ngày 14/11) — giảm 5.500đ (6,2%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 14/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng tăng):** tăng nhẹ từ ngày 14/11; app tính ra **đẩy giá lên khoảng 180đ**.\n- Tính tiếp từ ngày 15/11 tới ngày 16/11 theo tín hiệu mua bán trên thị trường thế giới và đà giá trong nước: app tính ra **kéo giá xuống khoảng 110đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 13%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n\n**App cân nhắc:** Giá thế giới nghiêng tăng, chu kỳ giá và kinh tế nghiêng giảm: các căn cứ kéo ngược nhau, khớp với nhận định đi ngang. **Cộng lại: tăng 75đ**, ít hơn mức lệch trung bình của dự đoán (456đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 21/11:** khoảng 82.700 đ/⁠kg, gần như đi ngang so với ngày 14/11; có thể trong khoảng 79.500 – 85.900.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 16/11 – 21/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới đổi chiều hoặc biến động mạnh.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù giá thế giới vừa tăng nhẹ. Các căn cứ khác cho thấy chu kỳ giá và kinh tế nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 14/11) app dự đoán 82.721, giá thật 82.900 — lệch 179đ; lệch nhiều nhất (ngày 11/11) app dự đoán 84.680, giá thật 84.100 — lệch 580đ.\n- **Tính chung:** 24 lần dự đoán gần nhất lệch giá thật trung bình 456đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 650đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 49 trong 50 lần.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "subtitle": "Chung 4 tỉnh · dự đoán ngày 17/11",
+        "target_date": "2026-11-17",
+        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 17/11: **khoảng 81.800 đ/⁠kg** (ngày 16/11: 81.900). Có thể trong khoảng 80.700 – 82.900. Tính lúc 10:28 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 17/11 | So với 16/11 |\n|---|---:|---|\n| Đắk Lắk | 81.900 | đi ngang |\n| Lâm Đồng | 81.200 | đi ngang |\n| Gia Lai | 81.700 | đi ngang |\n| Đắk Nông | 81.900 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 87.400 (ngày 30/10) xuống 81.900 đ/⁠kg (ngày 16/11) — giảm 5.500đ (6,3%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 16/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng giảm):** app dự đoán sắp tới giảm nhẹ; tính ra **kéo giá xuống khoảng 60đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 14%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n- **Giới phân tích (chưa nghiêng rõ):** các bài báo hôm nay cho thấy giới phân tích kỳ vọng giá đi ngang.\n\n**App cân nhắc:** Giá thế giới, chu kỳ giá và kinh tế nghiêng giảm nhưng chưa đủ để đổi nhận định đi ngang; nếu lệch thì dễ lệch về phía giảm. **Cộng lại: giảm 99đ**, ít hơn mức lệch trung bình của dự đoán (481đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 23/11:** khoảng 81.200 đ/⁠kg, thấp hơn ngày 16/11 khoảng 700đ; có thể trong khoảng 78.200 – 84.300.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 18/11 – 23/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới sắp tới đi khác mức app dự đoán.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì dự đoán của app về giá thế giới sắp tới giảm nhẹ nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong các căn cứ khác, chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 16/11) app dự đoán 82.975, giá thật 81.900 — lệch 1.075đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 25 lần dự đoán gần nhất lệch giá thật trung bình 481đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 664đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 48 trong 49 lần. Mức lệch này đo trên bản dự đoán buổi sáng, ngay trước khi có giá; bản dựng sớm hơn như bản này thường lệch nhiều hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     },
     "daknong": {
-      "generated_at": "2026-11-16T06:15:09+07:00",
+      "generated_at": "2026-11-16T10:28:30+07:00",
       "model": "tv-close-gemini-v9",
       "horizon_days": 7,
-      "trained_days": 79,
+      "trained_days": 80,
       "anchor": {
-        "date": "2026-11-14",
-        "price": 83000
+        "date": "2026-11-16",
+        "price": 82000
       },
       "predictions": [
         {
-          "date": "2026-11-15",
-          "price": 83182,
-          "low": 82185,
-          "high": 84179
-        },
-        {
-          "date": "2026-11-16",
-          "price": 83068,
-          "low": 81305,
-          "high": 84831
-        },
-        {
           "date": "2026-11-17",
-          "price": 82983,
-          "low": 80823,
-          "high": 85143
+          "price": 81899,
+          "low": 80701,
+          "high": 83097
         },
         {
           "date": "2026-11-18",
-          "price": 82919,
-          "low": 80425,
-          "high": 85413
+          "price": 81728,
+          "low": 80034,
+          "high": 83422
         },
         {
           "date": "2026-11-19",
-          "price": 82871,
-          "low": 80083,
-          "high": 85659
+          "price": 81599,
+          "low": 79524,
+          "high": 83674
         },
         {
           "date": "2026-11-20",
-          "price": 82835,
-          "low": 79781,
-          "high": 85889
+          "price": 81503,
+          "low": 79107,
+          "high": 83899
         },
         {
           "date": "2026-11-21",
-          "price": 82808,
-          "low": 79510,
-          "high": 86107
+          "price": 81431,
+          "low": 78752,
+          "high": 84109
+        },
+        {
+          "date": "2026-11-22",
+          "price": 81376,
+          "low": 78442,
+          "high": 84311
+        },
+        {
+          "date": "2026-11-23",
+          "price": 81336,
+          "low": 78166,
+          "high": 84505
         }
       ],
       "accuracy_30d": {
-        "samples": 24,
-        "mae": 478,
-        "direction_hit_rate": 0.833
+        "samples": 25,
+        "mae": 502,
+        "direction_hit_rate": 0.8
       },
       "stats": {
         "window_days": 30,
@@ -403,27 +405,27 @@
           "price": 94000
         },
         "low": {
-          "date": "2026-11-13",
-          "price": 83000
+          "date": "2026-11-16",
+          "price": 82000
         },
-        "average": 88493,
-        "ma7": 84114,
-        "ma30": 88493
+        "average": 88127,
+        "ma7": 83729,
+        "ma30": 88127
       },
       "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
       "region": "daknong",
       "reason": {
         "title": "Phân tích",
-        "subtitle": "Chung 4 tỉnh · dự đoán ngày 16/11",
-        "target_date": "2026-11-16",
-        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 16/11: **khoảng 83.000 đ/⁠kg** (ngày 14/11: 82.900). Có thể trong khoảng 81.300 – 84.700. Tính lúc 06:15 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 16/11 | So với 14/11 |\n|---|---:|---|\n| Đắk Lắk | 83.100 | đi ngang |\n| Lâm Đồng | 82.400 | đi ngang |\n| Gia Lai | 82.900 | đi ngang |\n| Đắk Nông | 83.100 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 88.400 (ngày 29/10) xuống 82.900 đ/⁠kg (ngày 14/11) — giảm 5.500đ (6,2%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 14/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng tăng):** tăng nhẹ từ ngày 14/11; app tính ra **đẩy giá lên khoảng 180đ**.\n- Tính tiếp từ ngày 15/11 tới ngày 16/11 theo tín hiệu mua bán trên thị trường thế giới và đà giá trong nước: app tính ra **kéo giá xuống khoảng 110đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 13%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n\n**App cân nhắc:** Giá thế giới nghiêng tăng, chu kỳ giá và kinh tế nghiêng giảm: các căn cứ kéo ngược nhau, khớp với nhận định đi ngang. **Cộng lại: tăng 75đ**, ít hơn mức lệch trung bình của dự đoán (456đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 21/11:** khoảng 82.700 đ/⁠kg, gần như đi ngang so với ngày 14/11; có thể trong khoảng 79.500 – 85.900.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 16/11 – 21/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới đổi chiều hoặc biến động mạnh.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù giá thế giới vừa tăng nhẹ. Các căn cứ khác cho thấy chu kỳ giá và kinh tế nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 14/11) app dự đoán 82.721, giá thật 82.900 — lệch 179đ; lệch nhiều nhất (ngày 11/11) app dự đoán 84.680, giá thật 84.100 — lệch 580đ.\n- **Tính chung:** 24 lần dự đoán gần nhất lệch giá thật trung bình 456đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 650đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 49 trong 50 lần.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+        "subtitle": "Chung 4 tỉnh · dự đoán ngày 17/11",
+        "target_date": "2026-11-17",
+        "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 17/11: **khoảng 81.800 đ/⁠kg** (ngày 16/11: 81.900). Có thể trong khoảng 80.700 – 82.900. Tính lúc 10:28 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 17/11 | So với 16/11 |\n|---|---:|---|\n| Đắk Lắk | 81.900 | đi ngang |\n| Lâm Đồng | 81.200 | đi ngang |\n| Gia Lai | 81.700 | đi ngang |\n| Đắk Nông | 81.900 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 87.400 (ngày 30/10) xuống 81.900 đ/⁠kg (ngày 16/11) — giảm 5.500đ (6,3%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 16/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng giảm):** app dự đoán sắp tới giảm nhẹ; tính ra **kéo giá xuống khoảng 60đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 14%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n- **Giới phân tích (chưa nghiêng rõ):** các bài báo hôm nay cho thấy giới phân tích kỳ vọng giá đi ngang.\n\n**App cân nhắc:** Giá thế giới, chu kỳ giá và kinh tế nghiêng giảm nhưng chưa đủ để đổi nhận định đi ngang; nếu lệch thì dễ lệch về phía giảm. **Cộng lại: giảm 99đ**, ít hơn mức lệch trung bình của dự đoán (481đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 23/11:** khoảng 81.200 đ/⁠kg, thấp hơn ngày 16/11 khoảng 700đ; có thể trong khoảng 78.200 – 84.300.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 18/11 – 23/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới sắp tới đi khác mức app dự đoán.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì dự đoán của app về giá thế giới sắp tới giảm nhẹ nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong các căn cứ khác, chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 16/11) app dự đoán 82.975, giá thật 81.900 — lệch 1.075đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 25 lần dự đoán gần nhất lệch giá thật trung bình 481đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 664đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 48 trong 49 lần. Mức lệch này đo trên bản dự đoán buổi sáng, ngay trước khi có giá; bản dựng sớm hơn như bản này thường lệch nhiều hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
       }
     }
   },
   "reason": {
     "title": "Phân tích",
-    "subtitle": "Chung 4 tỉnh · dự đoán ngày 16/11",
-    "target_date": "2026-11-16",
-    "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 16/11: **khoảng 83.000 đ/⁠kg** (ngày 14/11: 82.900). Có thể trong khoảng 81.300 – 84.700. Tính lúc 06:15 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 16/11 | So với 14/11 |\n|---|---:|---|\n| Đắk Lắk | 83.100 | đi ngang |\n| Lâm Đồng | 82.400 | đi ngang |\n| Gia Lai | 82.900 | đi ngang |\n| Đắk Nông | 83.100 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 88.400 (ngày 29/10) xuống 82.900 đ/⁠kg (ngày 14/11) — giảm 5.500đ (6,2%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 14/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng tăng):** tăng nhẹ từ ngày 14/11; app tính ra **đẩy giá lên khoảng 180đ**.\n- Tính tiếp từ ngày 15/11 tới ngày 16/11 theo tín hiệu mua bán trên thị trường thế giới và đà giá trong nước: app tính ra **kéo giá xuống khoảng 110đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 13%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n\n**App cân nhắc:** Giá thế giới nghiêng tăng, chu kỳ giá và kinh tế nghiêng giảm: các căn cứ kéo ngược nhau, khớp với nhận định đi ngang. **Cộng lại: tăng 75đ**, ít hơn mức lệch trung bình của dự đoán (456đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 21/11:** khoảng 82.700 đ/⁠kg, gần như đi ngang so với ngày 14/11; có thể trong khoảng 79.500 – 85.900.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 16/11 – 21/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới đổi chiều hoặc biến động mạnh.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù giá thế giới vừa tăng nhẹ. Các căn cứ khác cho thấy chu kỳ giá và kinh tế nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 14/11) app dự đoán 82.721, giá thật 82.900 — lệch 179đ; lệch nhiều nhất (ngày 11/11) app dự đoán 84.680, giá thật 84.100 — lệch 580đ.\n- **Tính chung:** 24 lần dự đoán gần nhất lệch giá thật trung bình 456đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 650đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 49 trong 50 lần.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
+    "subtitle": "Chung 4 tỉnh · dự đoán ngày 17/11",
+    "target_date": "2026-11-17",
+    "markdown": "## Dự đoán\n\n**Nhiều khả năng đi ngang.** Giá trung bình 4 tỉnh ngày 17/11: **khoảng 81.800 đ/⁠kg** (ngày 16/11: 81.900). Có thể trong khoảng 80.700 – 82.900. Tính lúc 10:28 ngày 16/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 17/11 | So với 16/11 |\n|---|---:|---|\n| Đắk Lắk | 81.900 | đi ngang |\n| Lâm Đồng | 81.200 | đi ngang |\n| Gia Lai | 81.700 | đi ngang |\n| Đắk Nông | 81.900 | đi ngang |\n\n## Nhận định\n\n- **Giá trong nước:** đang trong đợt giảm, từ 87.400 (ngày 30/10) xuống 81.900 đ/⁠kg (ngày 16/11) — giảm 5.500đ (6,3%) sau 14 ngày có giá. 30 ngày có giá gần nhất: giá ngày 16/11 là mức thấp nhất; cao nhất 93.900 đ/⁠kg (ngày 20/10).\n- **Giá thế giới (nghiêng giảm):** app dự đoán sắp tới giảm nhẹ; tính ra **kéo giá xuống khoảng 60đ**.\n- **Chu kỳ giá (nghiêng giảm):** xu hướng từng năm: 2021 tăng 26%, 2022 đi ngang, 2023–2024 tăng (67% và 81%), 2025 giảm 23%; từ đầu năm nay giá giảm tiếp 14%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n- **Kinh tế (nghiêng giảm):** một tuần qua đồng real Brazil mất giá 2,9% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới); chỉ số đô la Mỹ tăng 1,2% (hàng hoá định giá bằng đô la thường chịu sức ép); tỷ giá USD/VND gần như đứng yên.\n- **Thời vụ (chưa nghiêng rõ):** Tây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều; cùng kỳ 6 năm 2020–2025, một tuần sau ngày này giá thấp hơn ở 3 năm, cao hơn ở 3 năm.\n- **Giới phân tích (chưa nghiêng rõ):** các bài báo hôm nay cho thấy giới phân tích kỳ vọng giá đi ngang.\n\n**App cân nhắc:** Giá thế giới, chu kỳ giá và kinh tế nghiêng giảm nhưng chưa đủ để đổi nhận định đi ngang; nếu lệch thì dễ lệch về phía giảm. **Cộng lại: giảm 99đ**, ít hơn mức lệch trung bình của dự đoán (481đ) nên coi là **gần như đi ngang**.\n\n## Những ngày tới\n\n- **Tới ngày 23/11:** khoảng 81.200 đ/⁠kg, thấp hơn ngày 16/11 khoảng 700đ; có thể trong khoảng 78.200 – 84.300.\n- **Ngày càng xa càng kém chắc:** dự đoán cho ngày 18/11 – 23/11 thường lệch 700 – 1.400đ; chỉ đoán giá đứng yên thì lệch 800 – 1.600đ: dự đoán chỉ hơn một chút.\n\n## Dự đoán sai khi nào\n\n- Có tin bất ngờ sau lúc tính: thời tiết, chính sách, nguồn cung.\n- Giá thế giới sắp tới đi khác mức app dự đoán.\n- Giá đại lý trả thực tế khác giá niêm yết mà app ghi nhận.\n\n## Tóm lại\n\nGiá cà phê trong nước nhiều khả năng đi ngang vì dự đoán của app về giá thế giới sắp tới giảm nhẹ nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong các căn cứ khác, chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.\n\n## Đối soát\n\n- **5 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 16/11) app dự đoán 82.975, giá thật 81.900 — lệch 1.075đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 25 lần dự đoán gần nhất lệch giá thật trung bình 481đ/⁠kg; đoán đúng chiều 8 trong 10 lần; chỉ đoán giá đứng yên thì lệch 664đ — dự đoán lệch ít hơn. Giá thật nằm trong khoảng app đưa ra 48 trong 49 lần. Mức lệch này đo trên bản dự đoán buổi sáng, ngay trước khi có giá; bản dựng sớm hơn như bản này thường lệch nhiều hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**"
   }
 }

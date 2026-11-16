@@ -1,7 +1,7 @@
 {
   "calls": {
     "date": "2026-11-16",
-    "count": 1
+    "count": 2
   },
   "entries": {
     "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
@@ -67,6 +67,11 @@
     "Kết quả của dự đoán: giá nhiều khả năng đi ngang — cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán.\nGiá cà phê thế giới vừa tăng nhẹ.\nCác căn cứ khác: chu kỳ giá và kinh tế nghiêng về giảm; thời vụ chưa nghiêng rõ.": {
       "text": "Giá cà phê trong nước nhiều khả năng đi ngang vì cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, dù giá thế giới vừa tăng nhẹ. Các căn cứ khác cho thấy chu kỳ giá và kinh tế nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ.",
       "at": "2026-11-16T06:15:09+07:00",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "Kết quả của dự đoán: giá nhiều khả năng đi ngang — cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán.\nApp dự đoán giá cà phê thế giới sắp tới giảm nhẹ.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nYếu tố tác động lớn nhất: dự đoán của app về giá thế giới.\nCác căn cứ khác: chu kỳ giá và kinh tế nghiêng về giảm; thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.": {
+      "text": "Giá cà phê trong nước nhiều khả năng đi ngang vì dự đoán của app về giá thế giới sắp tới giảm nhẹ nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Trong các căn cứ khác, chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ và kỳ vọng của giới phân tích chưa nghiêng rõ.",
+      "at": "2026-11-16T10:28:30+07:00",
       "model": "gemini-3.5-flash-lite"
     }
   }
