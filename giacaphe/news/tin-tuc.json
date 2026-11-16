@@ -1,237 +1,54 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T19:30:24+07:00",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-17T06:47:56+07:00",
+  "date": "2026-11-17",
   "groups": [
     {
-      "id": "tt-100261116175403969",
-      "label": "",
+      "id": "gia-2026-11-17",
+      "label": "Giá cà phê ngày 17/11",
       "important": true,
       "items": [
         {
-          "id": "tt-100261116175403969",
-          "title": "Cà phê Việt có lợi thế trước sức ép tiêu chuẩn mới từ thị trường châu Âu",
-          "url": "https://tuoitre.vn/ca-phe-viet-co-loi-the-truoc-suc-ep-tieu-chuan-moi-tu-thi-truong-chau-au-100261116175403969.htm",
-          "source": "Tuổi Trẻ",
-          "published_at": "2026-11-16T19:27:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/16/179482544701322918119480227639604507408151383110651d58c5b587244c3b48d020c5efb4929fc-1794825900088991600419-147-99-956-1394-crop-17948262667941214615741.jpg",
-          "image_small": "news/anh/faeff2d0cbc905cea64e.jpg"
-        }
-      ]
-    },
-    {
-      "id": "gia-2026-11-16",
-      "label": "Giá cà phê ngày 16/11",
-      "important": true,
-      "items": [
-        {
-          "id": "tcct-566648",
-          "title": "Giá cà phê hôm nay 16/11: Xuống thấp nhất trong 2,7 năm, áp lực nguồn cung vụ mới gia tăng",
-          "url": "https://tapchicongthuong.vn/gia-ca-phe-hom-nay-16-11--xuong-thap-nhat-trong-2-7-nam--ap-luc-nguon-cung-vu-moi-gia-tang-566648.htm",
-          "source": "Tạp chí Công Thương",
-          "published_at": "2026-11-16T15:31:00+07:00",
-          "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/16/gia-ca-phe1_6afa8115c917c.jpeg",
-          "image_small": "news/anh/d22cabefe1137b251622.jpg"
-        },
-        {
-          "id": "bm-56523476",
-          "title": "Thị trường nông sản 16/11/2026: Cà phê, hồ tiêu đi ngang, lúa gạo giao dịch chậm",
-          "url": "https://baomoi.com/thi-truong-nong-san-16-11-2026-ca-phe-ho-tieu-di-ngang-lua-gao-giao-dich-cham-c56523476.epi",
-          "source": "Tạp chí Nông nghiệp Hữu cơ Việt Nam",
-          "published_at": "2026-11-16T13:32:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_632_56523476/7eefa676043ded63b42c.jpg"
-        },
-        {
-          "id": "bm-56522046",
-          "title": "Giá nông sản hôm nay (16/11): Giá thịt lợn hơi tiếp đà tăng, cà phê duy trì ở vùng thấp",
-          "url": "https://baomoi.com/gia-nong-san-hom-nay-16-11-gia-thit-lon-hoi-tiep-da-tang-ca-phe-duy-tri-o-vung-thap-c56522046.epi",
-          "source": "Tạp chí Thương Gia",
-          "published_at": "2026-11-16T10:57:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_341_56522046/0683b20b1040f91ea051.jpg"
-        },
-        {
-          "id": "vov-1350421",
-          "title": "Giá cà phê hôm nay 16/11: Giá cà phê Robusta và Arabia đồng loạt giảm",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-1611-gia-ca-phe-robusta-va-arabia-dong-loat-giam-post1350421.vov",
-          "source": "VOV",
-          "published_at": "2026-11-16T08:54:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-08/ca-phe_1.jpg",
-          "image_small": "news/anh/cc3840a20c622eaaf5c8.jpg"
-        },
-        {
-          "id": "vnbiz-2026111681927435",
-          "title": "Giá cà phê hôm nay 16/11: Tiếp tục lao dốc, giá nội địa lùi về mốc 82.000 đồng/kg",
-          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-1611-tiep-tuc-lao-doc-gia-noi-dia-lui-ve-moc-82000-dongkg-2026111681927435.htm",
-          "source": "VietnamBiz",
-          "published_at": "2026-11-16T08:19:21+07:00",
-          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/16/gia-ca-phe-16-11-20261116081653686-avatar-15x10-20261116081926953.jpg",
-          "image_small": "news/anh/06ac701a60754fab4c37.jpg"
-        },
-        {
-          "id": "bgl-605063",
-          "title": "Giá nông sản hôm nay (16-11): Cà phê giảm tuần thứ 6 liên tiếp, hồ tiêu cao nhất 136.000 đồng/kg",
-          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-16-11-ca-phe-giam-tuan-thu-6-lien-tiep-ho-tieu-cao-nhat-136000-dongkg-post605063.html",
-          "source": "Báo Gia Lai",
-          "published_at": "2026-11-16T08:00:00+07:00",
-          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgOwKmGqF8ZKybce0UVeHt5qlzKcmyDNgO99j5g7W39-EnLyeXAApN0cdoxGG1o9HeQ/gia-nong-san-hom-nay-16.png.avif",
-          "image_small": "news/anh/24c04d4bcefac5ff2f49.jpg"
-        },
-        {
-          "id": "bm-56520467",
-          "title": "Bản tin nông sản hôm nay (16-11): Giá cà phê, hồ tiêu đi ngang",
-          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-16-11-gia-ca-phe-ho-tieu-di-ngang-c56520467.epi",
-          "source": "Báo Quân Đội Nhân Dân",
-          "published_at": "2026-11-16T07:17:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_16_56520467/8662239666dd8f83d6cc.jpg"
-        },
-        {
-          "id": "tbtc-207008",
-          "title": "Ngày 16/11: Giá cà phê giảm tuần thứ 6 liên tiếp, hồ tiêu ở mức 136.000 đồng/kg",
-          "url": "https://thoibaotaichinhvietnam.vn/ngay-16-11-gia-ca-phe-giam-tuan-thu-6-lien-tiep-ho-tieu-o-muc-136-000-dong-kg-207008.html",
-          "source": "Thời báo Tài chính Việt Nam",
-          "published_at": "2026-11-16T06:31:04+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_578_56520344/6addaa660f2de673bf3c.jpg"
-        },
-        {
-          "id": "bm-56520499",
-          "title": "Giá cà phê hôm nay 16/11: Chờ tín hiệu mới sau chuỗi giảm sâu",
-          "url": "https://baomoi.com/gia-ca-phe-hom-nay-16-11-cho-tin-hieu-moi-sau-chuoi-giam-sau-c56520499.epi",
+          "id": "bm-56528526",
+          "title": "Giá cà phê hôm nay 17/11: Trong nước đồng loạt giảm, thế giới tăng nhẹ",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-17-11-trong-nuoc-dong-loat-giam-the-gioi-tang-nhe-c56528526.epi",
           "source": "Báo Lào Cai",
-          "published_at": "2026-11-16T06:26:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_438_56520499/f432e28c40c7a999f0d6.jpg"
+          "published_at": "2026-11-17T06:42:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_17_438_56528526/04284973eb3802665b29.jpg"
         },
         {
-          "id": "bvh-gia-ca-phe-hom-nay-16-11-robusta-duoi-3-200-usd-tan-cho-phien-moi",
-          "title": "Giá cà phê hôm nay 16.11: Robusta dưới 3.200 USD/tấn, chờ phiên mới",
-          "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-16-11-robusta-duoi-3-200-usd-tan-cho-phien-moi.html",
+          "id": "bm-56528504",
+          "title": "Giá cà phê hôm nay 17/11: Robusta tiếp tục giảm, chạm đáy 2 tuần",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-17-11-robusta-tiep-tuc-giam-cham-day-2-tuan-c56528504.epi",
+          "source": "Báo Ninh Bình",
+          "published_at": "2026-11-17T06:41:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_17_442_56528504/c0f0fe8db2c65b9802d7.jpg"
+        },
+        {
+          "id": "tbtc-207064",
+          "title": "Ngày 17 11 Giá cà phê kéo dài đà giảm hồ tiêu neo ở mức cao",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-17-11-gia-ca-phe-keo-dai-da-giam-ho-tieu-neo-o-muc-cao-207064.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-17T06:25:43+07:00",
+          "image": ""
+        },
+        {
+          "id": "bvh-gia-ca-phe-hom-nay-17-11-2026-suc-ep-nguon-cung-con-hien-huu",
+          "title": "Giá cà phê hôm nay 17.11.2026: Sức ép nguồn cung còn hiện hữu",
+          "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-17-11-2026-suc-ep-nguon-cung-con-hien-huu.html",
           "source": "Báo Văn hóa",
-          "published_at": "2026-11-16T06:12:52+07:00",
-          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/15/01a1dfd7-a2a3-7668-8b89-1581c0967431.jpg",
-          "image_small": "news/anh/80dfd859c46ad6d70351.jpg"
+          "published_at": "2026-11-17T05:51:33+07:00",
+          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/16/01a1e50e-54af-7e73-b091-ffa259ad38c7.jpg",
+          "image_small": "news/anh/5edc388d614fb53fd5fd.jpg"
         },
         {
-          "id": "ct-481317",
-          "title": "Giá cà phê hôm nay 16/11/2026: Giảm mạnh đồng loạt 1.000 đồng/kg",
-          "url": "https://congthuong.vn/gia-ca-phe-hom-nay-16-11-2026-giam-manh-dong-loat-1-000-dong-kg-481317.html",
-          "source": "Báo Công Thương",
-          "published_at": "2026-11-16T05:27:00+07:00",
-          "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/16/4bb945e1-c69a-4815-8f51-b4951670592f-11371519.JPEG",
-          "image_small": "news/anh/bb9949fc8b8cb4b6ffd8.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56524915",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56524915",
-          "title": "Canh tác cà phê thông minh tại Lâm Đồng: Năng suất tăng 10%, lợi nhuận tăng hơn 25 triệu đồng/ha",
-          "url": "https://baomoi.com/canh-tac-ca-phe-thong-minh-tai-lam-dong-nang-suat-tang-10-loi-nhuan-tang-hon-25-trieu-dong-ha-c56524915.epi",
-          "source": "Đại Biểu Nhân Dân",
-          "published_at": "2026-11-16T16:14:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_592_56524915/c9d480a022ebcbb592fa.jpg"
-        },
-        {
-          "id": "bm-56524431",
-          "title": "Canh tác cà phê thông minh ở Bom Bo: Nền tảng vững cho nông dân tái canh, mở rộng cà phê",
-          "url": "https://baomoi.com/canh-tac-ca-phe-thong-minh-o-bom-bo-nen-tang-vung-cho-nong-dan-tai-canh-mo-rong-ca-phe-c56524431.epi",
-          "source": "Đại Biểu Nhân Dân",
-          "published_at": "2026-11-16T15:37:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_592_56524431/3bfab19413dffa81a3ce.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bgl-604783",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bgl-604783",
-          "title": "Sản xuất cà phê bền vững trước thời tiết cực đoan",
-          "url": "https://baogialai.com.vn/san-xuat-ca-phe-ben-vung-truoc-thoi-tiet-cuc-doan-post604783.html",
-          "source": "Báo Gia Lai",
-          "published_at": "2026-11-16T13:36:53+07:00",
-          "image": "https://cdn.baogialai.com.vn/images/Hm6Vc9PXmDilwOcNebGOLDMv_trDEXmb6RzjpuqisF8a7oii594DiGJZy6ryKm_dVWjrl_XXH6JnNByW94z_idoo2ELSu8S0vR0b6-HW2LU/san-xuat-ca-phe-ben-vung-truoc-thoi-tiet-cuc-doan.jpg.avif"
-        }
-      ]
-    },
-    {
-      "id": "bm-56523450",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56523450",
-          "title": "VICO 2026: Thúc đẩy phát triển bền vững ngành cà phê Việt Nam",
-          "url": "https://baomoi.com/vico-2026-thuc-day-phat-trien-ben-vung-nganh-ca-phe-viet-nam-c56523450.epi",
-          "source": "Báo Công Thương",
-          "published_at": "2026-11-16T13:33:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_35_56523450/cee2bf7b1d30f46ead21.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56522589",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56522589",
-          "title": "Công an Gia Lai chủ động bảo đảm an toàn mùa thu hoạch nông sản",
-          "url": "https://baomoi.com/cong-an-gia-lai-chu-dong-bao-dam-an-toan-mua-thu-hoach-nong-san-c56522589.epi",
-          "source": "Báo Công An Nhân Dân",
-          "published_at": "2026-11-16T12:03:18+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_5_56522589/cd65d9f27bb992e7cba8.jpg"
-        }
-      ]
-    },
-    {
-      "id": "tt-100261116082323242",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "tt-100261116082323242",
-          "title": "Robusta trong tuần: Giá quanh 83.000 đồng/kg, nông dân nên ưu tiên phơi nắng tự nhiên",
-          "url": "https://tuoitre.vn/robusta-trong-tuan-gia-quanh-83000-dong-kg-nong-dan-nen-uu-tien-phoi-nang-tu-nhien-100261116082323242.htm",
-          "source": "Tuổi Trẻ",
-          "published_at": "2026-11-16T09:01:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/16/hinh-robusta-1511-17947919379081496720782-0-0-1441-2306-crop-17947920976181646261702.jpg",
-          "image_small": "news/anh/bb5e9fb5d8af72e80c2b.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56520835",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56520835",
-          "title": "Xuất khẩu nông sản: Rau quả bứt tốc, cà phê và gạo giảm kim ngạch",
-          "url": "https://baomoi.com/xuat-khau-nong-san-rau-qua-but-toc-ca-phe-va-gao-giam-kim-ngach-c56520835.epi",
-          "source": "Chuyên Trang Doanh nhân & Công lý - Báo Công Lý",
-          "published_at": "2026-11-16T08:23:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_16_628_56520835/b9eb9d513f1ad6448f0b.jpg"
-        }
-      ]
-    },
-    {
-      "id": "vnb-ca-phe-tay-nguyen-giam-dong-loat-gia-cao-nhat-con-83000-dongkg",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "vnb-ca-phe-tay-nguyen-giam-dong-loat-gia-cao-nhat-con-83000-dongkg",
-          "title": "Cà phê Tây Nguyên giảm đồng loạt, giá cao nhất còn 83.000 đồng/kg",
-          "url": "https://vnbusiness.vn//ca-phe-tay-nguyen-giam-dong-loat-gia-cao-nhat-con-83000-dongkg.html",
-          "source": "VnBusiness",
-          "published_at": "2026-11-16T08:00:48+07:00",
-          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/16/2bea024d3d14460e864b4571cc3efe16-20243.jpg?w=1200&h=630&mode=crop&anchor=top-center",
-          "image_small": "news/anh/a9fd950d4a83addcaba5.jpg"
+          "id": "vov-1350689",
+          "title": "Giá cà phê hôm nay 17/11: Giá cà phê trong nước giảm 1.000 đồng/kg",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-1711-gia-ca-phe-trong-nuoc-giam-1000-dongkg-post1350689.vov",
+          "source": "VOV",
+          "published_at": "2026-11-17T01:30:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-10/ca_phe_1_2.jpg",
+          "image_small": "news/anh/140c266527d8292776a4.jpg"
         }
       ]
     }
@@ -241,48 +58,21 @@
       "id": "ho-tieu",
       "label": "Hồ tiêu",
       "title": "Tin tức hồ tiêu",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "groups": [
         {
-          "id": "gia-ho-tieu-2026-11-16",
-          "label": "Giá hồ tiêu ngày 16/11",
-          "important": true,
+          "id": "gia-ho-tieu-2026-11-17",
+          "label": "Giá hồ tiêu ngày 17/11",
+          "important": false,
           "items": [
             {
-              "id": "tcct-566642",
-              "title": "Giá tiêu hôm nay 16/11: Giảm mạnh trong tuần qua",
-              "url": "https://tapchicongthuong.vn/gia-tieu-hom-nay-16-11--giam-manh-trong-tuan-qua-566642.htm",
-              "source": "Tạp chí Công Thương",
-              "published_at": "2026-11-16T15:34:00+07:00",
-              "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/16/kinhtechungkhoan-vn-stores-news_dataimages-2024-122024-07-04-_hhh-220241207045615_6afa7b429bb07.jpg",
-              "image_small": "news/anh/262139e8614c279f9b87.jpg"
-            },
-            {
-              "id": "vnbiz-2026111673438433",
-              "title": "Giá tiêu hôm nay 16/11: Thiếu hụt nguồn cung, giá tiêu Ấn Độ tăng lên mức kỷ lục",
-              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-1611-thieu-hut-nguon-cung-gia-tieu-an-do-tang-len-muc-ky-luc-2026111673438433.htm",
-              "source": "VietnamBiz",
-              "published_at": "2026-11-16T07:34:31+07:00",
-              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/16/gia-tieu-16-11-20261116073220683-avatar-15x10-20261116073437952.jpg",
-              "image_small": "news/anh/43a1baf1ada0d5333fcc.jpg"
-            },
-            {
-              "id": "bvh-gia-ho-tieu-hom-nay-16-11-2026-sau-tuan-giam-cho-luc-mua-moi",
-              "title": "Giá hồ tiêu hôm nay 16.11.2026: Sau tuần giảm, chờ lực mua mới",
-              "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-16-11-2026-sau-tuan-giam-cho-luc-mua-moi.html",
+              "id": "bvh-gia-ho-tieu-hom-nay-17-11-2026-theo-doi-suc-mua-sau-tuan-giam",
+              "title": "Giá hồ tiêu hôm nay 17.11.2026: Theo dõi sức mua sau tuần giảm",
+              "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-17-11-2026-theo-doi-suc-mua-sau-tuan-giam.html",
               "source": "Báo Văn hóa",
-              "published_at": "2026-11-16T06:11:40+07:00",
-              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/15/01a1dfd5-2e46-7987-bf2d-68b32c2b5f5a.jpg",
-              "image_small": "news/anh/3848dafb9f759594e29e.jpg"
-            },
-            {
-              "id": "ct-481318",
-              "title": "Giá tiêu hôm nay 16/11/2026: Đi ngang phiên đầu tuần",
-              "url": "https://congthuong.vn/gia-tieu-hom-nay-16-11-2026-di-ngang-phien-dau-tuan-481318.html",
-              "source": "Báo Công Thương",
-              "published_at": "2026-11-16T05:42:00+07:00",
-              "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/16/2b2c0fdc-7617-4fb2-b526-233cc78314a1-11451221.JPEG",
-              "image_small": "news/anh/08be210ae457d172054a.jpg"
+              "published_at": "2026-11-17T05:53:27+07:00",
+              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/16/01a1e50b-ded2-7407-a7e1-5e0eaee88437.jpg",
+              "image_small": "news/anh/5a2e4d4ac69836dd56d4.jpg"
             }
           ]
         }
@@ -307,6 +97,30 @@
               "published_at": "2026-11-16T09:00:00+07:00",
               "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/16/lich-cup-dien-quang-tri-10-20261116090459216-avatar-15x10-20261116090641965.jpg",
               "image_small": "news/anh/0c49dcbbd36c7e811ffb.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mac-ca",
+      "label": "Mắc ca",
+      "title": "Tin tức mắc ca",
+      "date": "2026-11-16",
+      "groups": [
+        {
+          "id": "bld-474462",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bld-474462",
+              "title": "Mắc ca Lâm Đồng: Từ vùng nguyên liệu đến khát vọng nâng tầm thương hiệu",
+              "url": "https://baolamdong.vn/mac-ca-lam-dong-tu-vung-nguyen-lieu-den-khat-vong-nang-tam-thuong-hieu-474462.html",
+              "source": "Báo Lâm Đồng",
+              "published_at": "2026-11-16T11:00:01+07:00",
+              "image": "https://daknong.1cdn.vn/2026/11/14/img_9338.jpg",
+              "image_small": "news/anh/ee46c8249e745ad81c4d.jpg"
             }
           ]
         }
