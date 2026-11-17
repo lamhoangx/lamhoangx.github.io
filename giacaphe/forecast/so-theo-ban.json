@@ -1,0 +1,3135 @@
+{
+  "schema_version": 1,
+  "chuoi": {
+    "average": {
+      "cho": {
+        "2026-11-12": {
+          "truoc_phien": {
+            "luc": "2026-11-12T10:32:35+07:00",
+            "neo": 83700,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83700,
+                82444,
+                84956
+              ],
+              [
+                "2026-11-14",
+                83664,
+                81888,
+                85440
+              ],
+              [
+                "2026-11-15",
+                83637,
+                81462,
+                85813
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-12T20:30:17+07:00",
+            "neo": 83700,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83700,
+                82444,
+                84956
+              ],
+              [
+                "2026-11-14",
+                83664,
+                81888,
+                85440
+              ],
+              [
+                "2026-11-15",
+                83637,
+                81462,
+                85813
+              ]
+            ]
+          }
+        },
+        "2026-11-13": {
+          "truoc_phien": {
+            "luc": "2026-11-13T13:38:01+07:00",
+            "neo": 82900,
+            "du_doan": [
+              [
+                "2026-11-14",
+                82822,
+                81599,
+                84045
+              ],
+              [
+                "2026-11-15",
+                82728,
+                80998,
+                84458
+              ],
+              [
+                "2026-11-16",
+                82657,
+                80539,
+                84776
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-13T19:30:37+07:00",
+            "neo": 82900,
+            "du_doan": [
+              [
+                "2026-11-14",
+                83546,
+                82568,
+                84524
+              ],
+              [
+                "2026-11-15",
+                83492,
+                81762,
+                85222
+              ],
+              [
+                "2026-11-16",
+                83451,
+                81333,
+                85570
+              ]
+            ]
+          }
+        },
+        "2026-11-16": {
+          "truoc_phien": {
+            "luc": "2026-11-16T10:28:30+07:00",
+            "neo": 81900,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81801,
+                80652,
+                82949
+              ],
+              [
+                "2026-11-18",
+                81633,
+                80009,
+                83257
+              ],
+              [
+                "2026-11-19",
+                81507,
+                79519,
+                83496
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-16T19:30:59+07:00",
+            "neo": 81900,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81419,
+                80501,
+                82337
+              ],
+              [
+                "2026-11-18",
+                81244,
+                79620,
+                82867
+              ],
+              [
+                "2026-11-19",
+                81113,
+                79124,
+                83101
+              ]
+            ]
+          }
+        },
+        "2026-11-17": {
+          "truoc_phien": {
+            "luc": "2026-11-17T12:03:44+07:00",
+            "neo": 79900,
+            "du_doan": [
+              [
+                "2026-11-18",
+                79811,
+                78574,
+                81049
+              ],
+              [
+                "2026-11-19",
+                79376,
+                77625,
+                81126
+              ],
+              [
+                "2026-11-20",
+                78994,
+                76850,
+                81138
+              ]
+            ]
+          }
+        }
+      },
+      "da_cham": {
+        "truoc_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 834,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 93066,
+            "gia_neo": 93100,
+            "gia_thuc": 93900,
+            "thap": 91955,
+            "cao": 94178
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 2000,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93900,
+            "gia_neo": 93900,
+            "gia_thuc": 91900,
+            "thap": 92776,
+            "cao": 95025
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 500,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 91900,
+            "gia_neo": 91900,
+            "gia_thuc": 91400,
+            "thap": 90619,
+            "cao": 93181
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 382,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 91282,
+            "gia_neo": 91400,
+            "gia_thuc": 90900,
+            "thap": 89997,
+            "cao": 92567
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1322,
+            "sai_so_khong_doi": 1400,
+            "gia_du_doan": 90822,
+            "gia_neo": 90900,
+            "gia_thuc": 89500,
+            "thap": 89540,
+            "cao": 92105
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 88900,
+            "gia_neo": 88900,
+            "gia_thuc": 89100,
+            "thap": 87556,
+            "cao": 90244
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 659,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 89059,
+            "gia_neo": 89100,
+            "gia_thuc": 88400,
+            "thap": 87725,
+            "cao": 90392
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 960,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88360,
+            "gia_neo": 88400,
+            "gia_thuc": 87400,
+            "thap": 87041,
+            "cao": 89679
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 421,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 87321,
+            "gia_neo": 87400,
+            "gia_thuc": 86900,
+            "thap": 86023,
+            "cao": 88619
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1084,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 85584,
+            "gia_neo": 85700,
+            "gia_thuc": 84500,
+            "thap": 84312,
+            "cao": 86857
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 460,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84460,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83162,
+            "cao": 85759
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84100,
+            "thap": 82709,
+            "cao": 85290
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84100,
+            "gia_neo": 84100,
+            "gia_thuc": 84200,
+            "thap": 82803,
+            "cao": 85396
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 84200,
+            "gia_neo": 84200,
+            "gia_thuc": 84600,
+            "thap": 82960,
+            "cao": 85441
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 85100,
+            "gia_neo": 85100,
+            "gia_thuc": 84900,
+            "thap": 83831,
+            "cao": 86369
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 84900,
+            "gia_neo": 84900,
+            "gia_thuc": 84100,
+            "thap": 83634,
+            "cao": 86166
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 84100,
+            "gia_neo": 84100,
+            "gia_thuc": 83700,
+            "thap": 82830,
+            "cao": 85370
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 83700,
+            "gia_neo": 83700,
+            "gia_thuc": 82900,
+            "thap": 82444,
+            "cao": 84956
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 78,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 82822,
+            "gia_neo": 82900,
+            "gia_thuc": 82900,
+            "thap": 81599,
+            "cao": 84045
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1901,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81801,
+            "gia_neo": 81900,
+            "gia_thuc": 79900,
+            "thap": 80652,
+            "cao": 82949
+          }
+        ],
+        "dau_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 473,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 93427,
+            "gia_neo": 93100,
+            "gia_thuc": 93900,
+            "thap": 92316,
+            "cao": 94538
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 1657,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93557,
+            "gia_neo": 93900,
+            "gia_thuc": 91900,
+            "thap": 92433,
+            "cao": 94681
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 30,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 91430,
+            "gia_neo": 91900,
+            "gia_thuc": 91400,
+            "thap": 90149,
+            "cao": 92711
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 776,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 90124,
+            "gia_neo": 91400,
+            "gia_thuc": 90900,
+            "thap": 88839,
+            "cao": 91409
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1128,
+            "sai_so_khong_doi": 1400,
+            "gia_du_doan": 90628,
+            "gia_neo": 90900,
+            "gia_thuc": 89500,
+            "thap": 89346,
+            "cao": 91911
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 525,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 89625,
+            "gia_neo": 88900,
+            "gia_thuc": 89100,
+            "thap": 88281,
+            "cao": 90970
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 619,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 89019,
+            "gia_neo": 89100,
+            "gia_thuc": 88400,
+            "thap": 87685,
+            "cao": 90352
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 1360,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88760,
+            "gia_neo": 88400,
+            "gia_thuc": 87400,
+            "thap": 87441,
+            "cao": 90079
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 1028,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 87928,
+            "gia_neo": 87400,
+            "gia_thuc": 86900,
+            "thap": 86630,
+            "cao": 89227
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1084,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 85584,
+            "gia_neo": 85700,
+            "gia_thuc": 84500,
+            "thap": 84312,
+            "cao": 86857
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 538,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84538,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83239,
+            "cao": 85837
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84100,
+            "thap": 82709,
+            "cao": 85290
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84100,
+            "gia_neo": 84100,
+            "gia_thuc": 84200,
+            "thap": 82803,
+            "cao": 85396
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 84200,
+            "gia_neo": 84200,
+            "gia_thuc": 84600,
+            "thap": 82960,
+            "cao": 85440
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 85100,
+            "gia_neo": 85100,
+            "gia_thuc": 84900,
+            "thap": 83831,
+            "cao": 86369
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 84900,
+            "gia_neo": 84900,
+            "gia_thuc": 84100,
+            "thap": 83634,
+            "cao": 86166
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 361,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 84061,
+            "gia_neo": 84100,
+            "gia_thuc": 83700,
+            "thap": 82791,
+            "cao": 85332
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 83700,
+            "gia_neo": 83700,
+            "gia_thuc": 82900,
+            "thap": 82444,
+            "cao": 84956
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 646,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 83546,
+            "gia_neo": 82900,
+            "gia_thuc": 82900,
+            "thap": 82568,
+            "cao": 84524
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1519,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81419,
+            "gia_neo": 81900,
+            "gia_thuc": 79900,
+            "thap": 80501,
+            "cao": 82337
+          }
+        ]
+      }
+    },
+    "daklak": {
+      "cho": {
+        "2026-11-12": {
+          "truoc_phien": {
+            "luc": "2026-11-12T10:32:35+07:00",
+            "neo": 83700,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83700,
+                82444,
+                84956
+              ],
+              [
+                "2026-11-14",
+                83666,
+                81889,
+                85442
+              ],
+              [
+                "2026-11-15",
+                83640,
+                81465,
+                85815
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-12T20:30:17+07:00",
+            "neo": 83700,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83700,
+                82444,
+                84956
+              ],
+              [
+                "2026-11-14",
+                83666,
+                81889,
+                85442
+              ],
+              [
+                "2026-11-15",
+                83640,
+                81465,
+                85815
+              ]
+            ]
+          }
+        },
+        "2026-11-13": {
+          "truoc_phien": {
+            "luc": "2026-11-13T13:38:01+07:00",
+            "neo": 83000,
+            "du_doan": [
+              [
+                "2026-11-14",
+                82922,
+                81700,
+                84143
+              ],
+              [
+                "2026-11-15",
+                82832,
+                81105,
+                84559
+              ],
+              [
+                "2026-11-16",
+                82765,
+                80650,
+                84880
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-13T19:30:37+07:00",
+            "neo": 83000,
+            "du_doan": [
+              [
+                "2026-11-14",
+                83647,
+                82670,
+                84624
+              ],
+              [
+                "2026-11-15",
+                83597,
+                81870,
+                85324
+              ],
+              [
+                "2026-11-16",
+                83560,
+                81444,
+                85675
+              ]
+            ]
+          }
+        },
+        "2026-11-16": {
+          "truoc_phien": {
+            "luc": "2026-11-16T10:28:30+07:00",
+            "neo": 82000,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81899,
+                80692,
+                83105
+              ],
+              [
+                "2026-11-18",
+                81735,
+                80029,
+                83441
+              ],
+              [
+                "2026-11-19",
+                81612,
+                79522,
+                83702
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-16T19:30:59+07:00",
+            "neo": 82000,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81516,
+                80551,
+                82481
+              ],
+              [
+                "2026-11-18",
+                81345,
+                79639,
+                83051
+              ],
+              [
+                "2026-11-19",
+                81217,
+                79127,
+                83306
+              ]
+            ]
+          }
+        },
+        "2026-11-17": {
+          "truoc_phien": {
+            "luc": "2026-11-17T12:03:44+07:00",
+            "neo": 80000,
+            "du_doan": [
+              [
+                "2026-11-18",
+                79911,
+                78687,
+                81136
+              ],
+              [
+                "2026-11-19",
+                79486,
+                77754,
+                81218
+              ],
+              [
+                "2026-11-20",
+                79113,
+                76992,
+                81234
+              ]
+            ]
+          }
+        }
+      },
+      "da_cham": {
+        "truoc_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 834,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 92966,
+            "gia_neo": 93000,
+            "gia_thuc": 93800,
+            "thap": 91849,
+            "cao": 94083
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 2000,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93800,
+            "gia_neo": 93800,
+            "gia_thuc": 91800,
+            "thap": 92670,
+            "cao": 94930
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 91800,
+            "gia_neo": 91800,
+            "gia_thuc": 91400,
+            "thap": 90514,
+            "cao": 93086
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 482,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 91282,
+            "gia_neo": 91400,
+            "gia_thuc": 90800,
+            "thap": 89994,
+            "cao": 92569
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1221,
+            "sai_so_khong_doi": 1300,
+            "gia_du_doan": 90721,
+            "gia_neo": 90800,
+            "gia_thuc": 89500,
+            "thap": 89433,
+            "cao": 92008
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 88800,
+            "gia_neo": 88800,
+            "gia_thuc": 89000,
+            "thap": 87455,
+            "cao": 90145
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 559,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 88959,
+            "gia_neo": 89000,
+            "gia_thuc": 88400,
+            "thap": 87625,
+            "cao": 90294
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 960,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88360,
+            "gia_neo": 88400,
+            "gia_thuc": 87400,
+            "thap": 87044,
+            "cao": 89676
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 321,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 87321,
+            "gia_neo": 87400,
+            "gia_thuc": 87000,
+            "thap": 86026,
+            "cao": 88617
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1385,
+            "sai_so_khong_doi": 1500,
+            "gia_du_doan": 85885,
+            "gia_neo": 86000,
+            "gia_thuc": 84500,
+            "thap": 84628,
+            "cao": 87143
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 460,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84460,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83153,
+            "cao": 85767
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84100,
+            "thap": 82701,
+            "cao": 85299
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84100,
+            "gia_neo": 84100,
+            "gia_thuc": 84200,
+            "thap": 82795,
+            "cao": 85404
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 84200,
+            "gia_neo": 84200,
+            "gia_thuc": 84500,
+            "thap": 82951,
+            "cao": 85449
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 85000,
+            "gia_neo": 85000,
+            "gia_thuc": 84800,
+            "thap": 83731,
+            "cao": 86269
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 500,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84800,
+            "gia_neo": 84800,
+            "gia_thuc": 84300,
+            "thap": 83534,
+            "cao": 86066
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 600,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 84300,
+            "gia_neo": 84300,
+            "gia_thuc": 83700,
+            "thap": 83036,
+            "cao": 85564
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 700,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 83700,
+            "gia_neo": 83700,
+            "gia_thuc": 83000,
+            "thap": 82444,
+            "cao": 84956
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 78,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 82922,
+            "gia_neo": 83000,
+            "gia_thuc": 83000,
+            "thap": 81700,
+            "cao": 84143
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1899,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81899,
+            "gia_neo": 82000,
+            "gia_thuc": 80000,
+            "thap": 80692,
+            "cao": 83105
+          }
+        ],
+        "dau_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 473,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 93327,
+            "gia_neo": 93000,
+            "gia_thuc": 93800,
+            "thap": 92210,
+            "cao": 94444
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 1658,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93458,
+            "gia_neo": 93800,
+            "gia_thuc": 91800,
+            "thap": 92328,
+            "cao": 94588
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 70,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 91330,
+            "gia_neo": 91800,
+            "gia_thuc": 91400,
+            "thap": 90044,
+            "cao": 92616
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 677,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 90123,
+            "gia_neo": 91400,
+            "gia_thuc": 90800,
+            "thap": 88835,
+            "cao": 91410
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1028,
+            "sai_so_khong_doi": 1300,
+            "gia_du_doan": 90528,
+            "gia_neo": 90800,
+            "gia_thuc": 89500,
+            "thap": 89240,
+            "cao": 91815
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 524,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 89524,
+            "gia_neo": 88800,
+            "gia_thuc": 89000,
+            "thap": 88179,
+            "cao": 90868
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 519,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 88919,
+            "gia_neo": 89000,
+            "gia_thuc": 88400,
+            "thap": 87585,
+            "cao": 90254
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 1360,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88760,
+            "gia_neo": 88400,
+            "gia_thuc": 87400,
+            "thap": 87444,
+            "cao": 90076
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 928,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 87928,
+            "gia_neo": 87400,
+            "gia_thuc": 87000,
+            "thap": 86632,
+            "cao": 89224
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1385,
+            "sai_so_khong_doi": 1500,
+            "gia_du_doan": 85885,
+            "gia_neo": 86000,
+            "gia_thuc": 84500,
+            "thap": 84628,
+            "cao": 87143
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 537,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84537,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83230,
+            "cao": 85844
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84100,
+            "thap": 82701,
+            "cao": 85299
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84100,
+            "gia_neo": 84100,
+            "gia_thuc": 84200,
+            "thap": 82796,
+            "cao": 85405
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 84200,
+            "gia_neo": 84200,
+            "gia_thuc": 84500,
+            "thap": 82951,
+            "cao": 85449
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 85000,
+            "gia_neo": 85000,
+            "gia_thuc": 84800,
+            "thap": 83731,
+            "cao": 86269
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 500,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84800,
+            "gia_neo": 84800,
+            "gia_thuc": 84300,
+            "thap": 83534,
+            "cao": 86066
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 561,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 84261,
+            "gia_neo": 84300,
+            "gia_thuc": 83700,
+            "thap": 82997,
+            "cao": 85524
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 700,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 83700,
+            "gia_neo": 83700,
+            "gia_thuc": 83000,
+            "thap": 82444,
+            "cao": 84956
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 647,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 83647,
+            "gia_neo": 83000,
+            "gia_thuc": 83000,
+            "thap": 82670,
+            "cao": 84624
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1516,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81516,
+            "gia_neo": 82000,
+            "gia_thuc": 80000,
+            "thap": 80551,
+            "cao": 82481
+          }
+        ]
+      }
+    },
+    "lamdong": {
+      "cho": {
+        "2026-11-12": {
+          "truoc_phien": {
+            "luc": "2026-11-12T10:32:35+07:00",
+            "neo": 83200,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83200,
+                81948,
+                84451
+              ],
+              [
+                "2026-11-14",
+                83172,
+                81402,
+                84943
+              ],
+              [
+                "2026-11-15",
+                83152,
+                80984,
+                85320
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-12T20:30:17+07:00",
+            "neo": 83200,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83200,
+                81948,
+                84451
+              ],
+              [
+                "2026-11-14",
+                83172,
+                81402,
+                84943
+              ],
+              [
+                "2026-11-15",
+                83152,
+                80984,
+                85320
+              ]
+            ]
+          }
+        },
+        "2026-11-13": {
+          "truoc_phien": {
+            "luc": "2026-11-13T13:38:01+07:00",
+            "neo": 82300,
+            "du_doan": [
+              [
+                "2026-11-14",
+                82223,
+                81001,
+                83445
+              ],
+              [
+                "2026-11-15",
+                82133,
+                80405,
+                83862
+              ],
+              [
+                "2026-11-16",
+                82066,
+                79949,
+                84183
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-13T19:30:37+07:00",
+            "neo": 82300,
+            "du_doan": [
+              [
+                "2026-11-14",
+                82942,
+                81964,
+                83920
+              ],
+              [
+                "2026-11-15",
+                82891,
+                81163,
+                84620
+              ],
+              [
+                "2026-11-16",
+                82854,
+                80737,
+                84971
+              ]
+            ]
+          }
+        },
+        "2026-11-16": {
+          "truoc_phien": {
+            "luc": "2026-11-16T10:28:30+07:00",
+            "neo": 81300,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81201,
+                80042,
+                82359
+              ],
+              [
+                "2026-11-18",
+                81031,
+                79393,
+                82670
+              ],
+              [
+                "2026-11-19",
+                80904,
+                78898,
+                82911
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-16T19:30:59+07:00",
+            "neo": 81300,
+            "du_doan": [
+              [
+                "2026-11-17",
+                80821,
+                79894,
+                81748
+              ],
+              [
+                "2026-11-18",
+                80644,
+                79006,
+                82282
+              ],
+              [
+                "2026-11-19",
+                80511,
+                78505,
+                82518
+              ]
+            ]
+          }
+        },
+        "2026-11-17": {
+          "truoc_phien": {
+            "luc": "2026-11-17T12:03:44+07:00",
+            "neo": 79300,
+            "du_doan": [
+              [
+                "2026-11-18",
+                79212,
+                77964,
+                80461
+              ],
+              [
+                "2026-11-19",
+                78774,
+                77008,
+                80539
+              ],
+              [
+                "2026-11-20",
+                78391,
+                76228,
+                80553
+              ]
+            ]
+          }
+        }
+      },
+      "da_cham": {
+        "truoc_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 933,
+            "sai_so_khong_doi": 900,
+            "gia_du_doan": 92267,
+            "gia_neo": 92300,
+            "gia_thuc": 93200,
+            "thap": 91178,
+            "cao": 93355
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 2000,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93200,
+            "gia_neo": 93200,
+            "gia_thuc": 91200,
+            "thap": 92087,
+            "cao": 94313
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 91200,
+            "gia_neo": 91200,
+            "gia_thuc": 90800,
+            "thap": 89928,
+            "cao": 92472
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 484,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 90684,
+            "gia_neo": 90800,
+            "gia_thuc": 90200,
+            "thap": 89414,
+            "cao": 91954
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1122,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 90122,
+            "gia_neo": 90200,
+            "gia_thuc": 89000,
+            "thap": 88849,
+            "cao": 91395
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 88300,
+            "gia_neo": 88300,
+            "gia_thuc": 88500,
+            "thap": 86976,
+            "cao": 89623
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 460,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 88460,
+            "gia_neo": 88500,
+            "gia_thuc": 88000,
+            "thap": 87148,
+            "cao": 89773
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 961,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 87961,
+            "gia_neo": 88000,
+            "gia_thuc": 87000,
+            "thap": 86671,
+            "cao": 89252
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 423,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 86923,
+            "gia_neo": 87000,
+            "gia_thuc": 86500,
+            "thap": 85653,
+            "cao": 88194
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1084,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 85084,
+            "gia_neo": 85200,
+            "gia_thuc": 84000,
+            "thap": 83821,
+            "cao": 86347
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 661,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 83961,
+            "gia_neo": 84000,
+            "gia_thuc": 83300,
+            "thap": 82671,
+            "cao": 85251
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 83300,
+            "gia_neo": 83300,
+            "gia_thuc": 83500,
+            "thap": 82014,
+            "cao": 84586
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 83500,
+            "gia_neo": 83500,
+            "gia_thuc": 83600,
+            "thap": 82205,
+            "cao": 84795
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 83600,
+            "gia_neo": 83600,
+            "gia_thuc": 84000,
+            "thap": 82361,
+            "cao": 84838
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84500,
+            "gia_neo": 84500,
+            "gia_thuc": 84400,
+            "thap": 83240,
+            "cao": 85759
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 600,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 84400,
+            "gia_neo": 84400,
+            "gia_thuc": 83800,
+            "thap": 83142,
+            "cao": 85658
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 600,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 83800,
+            "gia_neo": 83800,
+            "gia_thuc": 83200,
+            "thap": 82541,
+            "cao": 85059
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 900,
+            "sai_so_khong_doi": 900,
+            "gia_du_doan": 83200,
+            "gia_neo": 83200,
+            "gia_thuc": 82300,
+            "thap": 81948,
+            "cao": 84451
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 77,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 82223,
+            "gia_neo": 82300,
+            "gia_thuc": 82300,
+            "thap": 81001,
+            "cao": 83445
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1901,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81201,
+            "gia_neo": 81300,
+            "gia_thuc": 79300,
+            "thap": 80042,
+            "cao": 82359
+          }
+        ],
+        "dau_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 576,
+            "sai_so_khong_doi": 900,
+            "gia_du_doan": 92624,
+            "gia_neo": 92300,
+            "gia_thuc": 93200,
+            "thap": 91536,
+            "cao": 93713
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 1659,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 92859,
+            "gia_neo": 93200,
+            "gia_thuc": 91200,
+            "thap": 91746,
+            "cao": 93972
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 67,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 90733,
+            "gia_neo": 91200,
+            "gia_thuc": 90800,
+            "thap": 89460,
+            "cao": 92005
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 667,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 89533,
+            "gia_neo": 90800,
+            "gia_thuc": 90200,
+            "thap": 88263,
+            "cao": 90803
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 930,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 89930,
+            "gia_neo": 90200,
+            "gia_thuc": 89000,
+            "thap": 88657,
+            "cao": 91203
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 521,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 89021,
+            "gia_neo": 88300,
+            "gia_thuc": 88500,
+            "thap": 87698,
+            "cao": 90344
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 420,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 88420,
+            "gia_neo": 88500,
+            "gia_thuc": 88000,
+            "thap": 87107,
+            "cao": 89732
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 1359,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88359,
+            "gia_neo": 88000,
+            "gia_thuc": 87000,
+            "thap": 87068,
+            "cao": 89649
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 1027,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 87527,
+            "gia_neo": 87000,
+            "gia_thuc": 86500,
+            "thap": 86256,
+            "cao": 88798
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1084,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 85084,
+            "gia_neo": 85200,
+            "gia_thuc": 84000,
+            "thap": 83821,
+            "cao": 86347
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 737,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 84037,
+            "gia_neo": 84000,
+            "gia_thuc": 83300,
+            "thap": 82747,
+            "cao": 85327
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 83300,
+            "gia_neo": 83300,
+            "gia_thuc": 83500,
+            "thap": 82014,
+            "cao": 84586
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 83500,
+            "gia_neo": 83500,
+            "gia_thuc": 83600,
+            "thap": 82205,
+            "cao": 84795
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 83600,
+            "gia_neo": 83600,
+            "gia_thuc": 84000,
+            "thap": 82362,
+            "cao": 84839
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 100,
+            "sai_so_khong_doi": 100,
+            "gia_du_doan": 84500,
+            "gia_neo": 84500,
+            "gia_thuc": 84400,
+            "thap": 83240,
+            "cao": 85759
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 600,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 84400,
+            "gia_neo": 84400,
+            "gia_thuc": 83800,
+            "thap": 83142,
+            "cao": 85658
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 562,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 83762,
+            "gia_neo": 83800,
+            "gia_thuc": 83200,
+            "thap": 82502,
+            "cao": 85021
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 900,
+            "sai_so_khong_doi": 900,
+            "gia_du_doan": 83200,
+            "gia_neo": 83200,
+            "gia_thuc": 82300,
+            "thap": 81948,
+            "cao": 84451
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 642,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 82942,
+            "gia_neo": 82300,
+            "gia_thuc": 82300,
+            "thap": 81964,
+            "cao": 83920
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1521,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 80821,
+            "gia_neo": 81300,
+            "gia_thuc": 79300,
+            "thap": 79894,
+            "cao": 81748
+          }
+        ]
+      }
+    },
+    "gialai": {
+      "cho": {
+        "2026-11-12": {
+          "truoc_phien": {
+            "luc": "2026-11-12T10:32:35+07:00",
+            "neo": 83700,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83700,
+                82449,
+                84952
+              ],
+              [
+                "2026-11-14",
+                83665,
+                81895,
+                85435
+              ],
+              [
+                "2026-11-15",
+                83639,
+                81471,
+                85807
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-12T20:30:17+07:00",
+            "neo": 83700,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83700,
+                82449,
+                84952
+              ],
+              [
+                "2026-11-14",
+                83665,
+                81895,
+                85435
+              ],
+              [
+                "2026-11-15",
+                83639,
+                81471,
+                85807
+              ]
+            ]
+          }
+        },
+        "2026-11-13": {
+          "truoc_phien": {
+            "luc": "2026-11-13T13:38:01+07:00",
+            "neo": 82800,
+            "du_doan": [
+              [
+                "2026-11-14",
+                82723,
+                81501,
+                83946
+              ],
+              [
+                "2026-11-15",
+                82632,
+                80904,
+                84361
+              ],
+              [
+                "2026-11-16",
+                82564,
+                80447,
+                84681
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-13T19:30:37+07:00",
+            "neo": 82800,
+            "du_doan": [
+              [
+                "2026-11-14",
+                83445,
+                82467,
+                84423
+              ],
+              [
+                "2026-11-15",
+                83393,
+                81665,
+                85122
+              ],
+              [
+                "2026-11-16",
+                83355,
+                81237,
+                85472
+              ]
+            ]
+          }
+        },
+        "2026-11-16": {
+          "truoc_phien": {
+            "luc": "2026-11-16T10:28:30+07:00",
+            "neo": 81800,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81701,
+                80566,
+                82836
+              ],
+              [
+                "2026-11-18",
+                81534,
+                79929,
+                83140
+              ],
+              [
+                "2026-11-19",
+                81409,
+                79443,
+                83376
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-16T19:30:59+07:00",
+            "neo": 81800,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81319,
+                80411,
+                82227
+              ],
+              [
+                "2026-11-18",
+                81145,
+                79540,
+                82751
+              ],
+              [
+                "2026-11-19",
+                81015,
+                79049,
+                82982
+              ]
+            ]
+          }
+        },
+        "2026-11-17": {
+          "truoc_phien": {
+            "luc": "2026-11-17T12:03:44+07:00",
+            "neo": 79800,
+            "du_doan": [
+              [
+                "2026-11-18",
+                79711,
+                78485,
+                80936
+              ],
+              [
+                "2026-11-19",
+                79276,
+                77542,
+                81009
+              ],
+              [
+                "2026-11-20",
+                78894,
+                76771,
+                81017
+              ]
+            ]
+          }
+        }
+      },
+      "da_cham": {
+        "truoc_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 834,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 92966,
+            "gia_neo": 93000,
+            "gia_thuc": 93800,
+            "thap": 91849,
+            "cao": 94083
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 2000,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93800,
+            "gia_neo": 93800,
+            "gia_thuc": 91800,
+            "thap": 92670,
+            "cao": 94930
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 400,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 91800,
+            "gia_neo": 91800,
+            "gia_thuc": 91400,
+            "thap": 90514,
+            "cao": 93086
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 482,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 91282,
+            "gia_neo": 91400,
+            "gia_thuc": 90800,
+            "thap": 89994,
+            "cao": 92569
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1221,
+            "sai_so_khong_doi": 1300,
+            "gia_du_doan": 90721,
+            "gia_neo": 90800,
+            "gia_thuc": 89500,
+            "thap": 89433,
+            "cao": 92008
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 88800,
+            "gia_neo": 88800,
+            "gia_thuc": 89000,
+            "thap": 87455,
+            "cao": 90145
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 659,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 88959,
+            "gia_neo": 89000,
+            "gia_thuc": 88300,
+            "thap": 87625,
+            "cao": 90294
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 960,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88260,
+            "gia_neo": 88300,
+            "gia_thuc": 87300,
+            "thap": 86941,
+            "cao": 89580
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 421,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 87221,
+            "gia_neo": 87300,
+            "gia_thuc": 86800,
+            "thap": 85922,
+            "cao": 88520
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1084,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 85584,
+            "gia_neo": 85700,
+            "gia_thuc": 84500,
+            "thap": 84317,
+            "cao": 86851
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 461,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84461,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83167,
+            "cao": 85754
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 0,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84000,
+            "thap": 82714,
+            "cao": 85286
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 0,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84000,
+            "thap": 82711,
+            "cao": 85289
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 500,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84500,
+            "thap": 82771,
+            "cao": 85230
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 85000,
+            "gia_neo": 85000,
+            "gia_thuc": 84800,
+            "thap": 83739,
+            "cao": 86260
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 84800,
+            "gia_neo": 84800,
+            "gia_thuc": 84000,
+            "thap": 83543,
+            "cao": 86058
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 83700,
+            "thap": 82738,
+            "cao": 85262
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 900,
+            "sai_so_khong_doi": 900,
+            "gia_du_doan": 83700,
+            "gia_neo": 83700,
+            "gia_thuc": 82800,
+            "thap": 82449,
+            "cao": 84952
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 77,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 82723,
+            "gia_neo": 82800,
+            "gia_thuc": 82800,
+            "thap": 81501,
+            "cao": 83946
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1901,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81701,
+            "gia_neo": 81800,
+            "gia_thuc": 79800,
+            "thap": 80566,
+            "cao": 82836
+          }
+        ],
+        "dau_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 473,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 93327,
+            "gia_neo": 93000,
+            "gia_thuc": 93800,
+            "thap": 92210,
+            "cao": 94444
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 1658,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93458,
+            "gia_neo": 93800,
+            "gia_thuc": 91800,
+            "thap": 92328,
+            "cao": 94588
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 70,
+            "sai_so_khong_doi": 400,
+            "gia_du_doan": 91330,
+            "gia_neo": 91800,
+            "gia_thuc": 91400,
+            "thap": 90044,
+            "cao": 92616
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 677,
+            "sai_so_khong_doi": 600,
+            "gia_du_doan": 90123,
+            "gia_neo": 91400,
+            "gia_thuc": 90800,
+            "thap": 88835,
+            "cao": 91410
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1028,
+            "sai_so_khong_doi": 1300,
+            "gia_du_doan": 90528,
+            "gia_neo": 90800,
+            "gia_thuc": 89500,
+            "thap": 89240,
+            "cao": 91815
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 524,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 89524,
+            "gia_neo": 88800,
+            "gia_thuc": 89000,
+            "thap": 88179,
+            "cao": 90868
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 619,
+            "sai_so_khong_doi": 700,
+            "gia_du_doan": 88919,
+            "gia_neo": 89000,
+            "gia_thuc": 88300,
+            "thap": 87585,
+            "cao": 90254
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 1360,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88660,
+            "gia_neo": 88300,
+            "gia_thuc": 87300,
+            "thap": 87340,
+            "cao": 89979
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 1027,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 87827,
+            "gia_neo": 87300,
+            "gia_thuc": 86800,
+            "thap": 86528,
+            "cao": 89126
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 1084,
+            "sai_so_khong_doi": 1200,
+            "gia_du_doan": 85584,
+            "gia_neo": 85700,
+            "gia_thuc": 84500,
+            "thap": 84317,
+            "cao": 86851
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 538,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84538,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83245,
+            "cao": 85832
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 0,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84000,
+            "thap": 82714,
+            "cao": 85286
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 0,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84000,
+            "thap": 82711,
+            "cao": 85289
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 500,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84500,
+            "thap": 82771,
+            "cao": 85229
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 85000,
+            "gia_neo": 85000,
+            "gia_thuc": 84800,
+            "thap": 83739,
+            "cao": 86260
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 84800,
+            "gia_neo": 84800,
+            "gia_thuc": 84000,
+            "thap": 83542,
+            "cao": 86057
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 262,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 83962,
+            "gia_neo": 84000,
+            "gia_thuc": 83700,
+            "thap": 82700,
+            "cao": 85224
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 900,
+            "sai_so_khong_doi": 900,
+            "gia_du_doan": 83700,
+            "gia_neo": 83700,
+            "gia_thuc": 82800,
+            "thap": 82449,
+            "cao": 84952
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 645,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 83445,
+            "gia_neo": 82800,
+            "gia_thuc": 82800,
+            "thap": 82467,
+            "cao": 84423
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1519,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81319,
+            "gia_neo": 81800,
+            "gia_thuc": 79800,
+            "thap": 80411,
+            "cao": 82227
+          }
+        ]
+      }
+    },
+    "daknong": {
+      "cho": {
+        "2026-11-12": {
+          "truoc_phien": {
+            "luc": "2026-11-12T10:32:35+07:00",
+            "neo": 83800,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83800,
+                82508,
+                85092
+              ],
+              [
+                "2026-11-14",
+                83760,
+                81933,
+                85586
+              ],
+              [
+                "2026-11-15",
+                83729,
+                81492,
+                85967
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-12T20:30:17+07:00",
+            "neo": 83800,
+            "du_doan": [
+              [
+                "2026-11-13",
+                83800,
+                82508,
+                85092
+              ],
+              [
+                "2026-11-14",
+                83760,
+                81933,
+                85586
+              ],
+              [
+                "2026-11-15",
+                83729,
+                81492,
+                85967
+              ]
+            ]
+          }
+        },
+        "2026-11-13": {
+          "truoc_phien": {
+            "luc": "2026-11-13T13:38:01+07:00",
+            "neo": 83000,
+            "du_doan": [
+              [
+                "2026-11-14",
+                82922,
+                81662,
+                84182
+              ],
+              [
+                "2026-11-15",
+                82820,
+                81038,
+                84601
+              ],
+              [
+                "2026-11-16",
+                82743,
+                80561,
+                84925
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-13T19:30:37+07:00",
+            "neo": 83000,
+            "du_doan": [
+              [
+                "2026-11-14",
+                83647,
+                82639,
+                84655
+              ],
+              [
+                "2026-11-15",
+                83586,
+                81804,
+                85367
+              ],
+              [
+                "2026-11-16",
+                83540,
+                81357,
+                85722
+              ]
+            ]
+          }
+        },
+        "2026-11-16": {
+          "truoc_phien": {
+            "luc": "2026-11-16T10:28:30+07:00",
+            "neo": 82000,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81899,
+                80701,
+                83097
+              ],
+              [
+                "2026-11-18",
+                81728,
+                80034,
+                83422
+              ],
+              [
+                "2026-11-19",
+                81599,
+                79524,
+                83674
+              ]
+            ]
+          },
+          "dau_phien": {
+            "luc": "2026-11-16T19:30:59+07:00",
+            "neo": 82000,
+            "du_doan": [
+              [
+                "2026-11-17",
+                81516,
+                80558,
+                82474
+              ],
+              [
+                "2026-11-18",
+                81337,
+                79643,
+                83031
+              ],
+              [
+                "2026-11-19",
+                81203,
+                79128,
+                83278
+              ]
+            ]
+          }
+        },
+        "2026-11-17": {
+          "truoc_phien": {
+            "luc": "2026-11-17T12:03:44+07:00",
+            "neo": 80000,
+            "du_doan": [
+              [
+                "2026-11-18",
+                79911,
+                78626,
+                81195
+              ],
+              [
+                "2026-11-19",
+                79472,
+                77655,
+                81289
+              ],
+              [
+                "2026-11-20",
+                79088,
+                76863,
+                81313
+              ]
+            ]
+          }
+        }
+      },
+      "da_cham": {
+        "truoc_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 834,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 93166,
+            "gia_neo": 93200,
+            "gia_thuc": 94000,
+            "thap": 92057,
+            "cao": 94275
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 2000,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 94000,
+            "gia_neo": 94000,
+            "gia_thuc": 92000,
+            "thap": 92878,
+            "cao": 95122
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 500,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 92000,
+            "gia_neo": 92000,
+            "gia_thuc": 91500,
+            "thap": 90721,
+            "cao": 93279
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 383,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 91383,
+            "gia_neo": 91500,
+            "gia_thuc": 91000,
+            "thap": 90100,
+            "cao": 92666
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1422,
+            "sai_so_khong_doi": 1500,
+            "gia_du_doan": 90922,
+            "gia_neo": 91000,
+            "gia_thuc": 89500,
+            "thap": 89642,
+            "cao": 92202
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 89000,
+            "gia_neo": 89000,
+            "gia_thuc": 89300,
+            "thap": 87651,
+            "cao": 90348
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 759,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 89259,
+            "gia_neo": 89300,
+            "gia_thuc": 88500,
+            "thap": 87918,
+            "cao": 90599
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 959,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88459,
+            "gia_neo": 88500,
+            "gia_thuc": 87500,
+            "thap": 87130,
+            "cao": 89789
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 420,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 87420,
+            "gia_neo": 87500,
+            "gia_thuc": 87000,
+            "thap": 86111,
+            "cao": 88730
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 881,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 85381,
+            "gia_neo": 85500,
+            "gia_thuc": 84500,
+            "thap": 84074,
+            "cao": 86687
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 460,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84460,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83140,
+            "cao": 85780
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84300,
+            "thap": 82688,
+            "cao": 85312
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 84300,
+            "gia_neo": 84300,
+            "gia_thuc": 84500,
+            "thap": 82975,
+            "cao": 85625
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 84500,
+            "gia_neo": 84500,
+            "gia_thuc": 84700,
+            "thap": 83226,
+            "cao": 85773
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 85300,
+            "gia_neo": 85300,
+            "gia_thuc": 85000,
+            "thap": 83999,
+            "cao": 86601
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 1000,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 85000,
+            "gia_neo": 85000,
+            "gia_thuc": 84000,
+            "thap": 83703,
+            "cao": 86298
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 83800,
+            "thap": 82690,
+            "cao": 85310
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 83800,
+            "gia_neo": 83800,
+            "gia_thuc": 83000,
+            "thap": 82508,
+            "cao": 85092
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 78,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 82922,
+            "gia_neo": 83000,
+            "gia_thuc": 83000,
+            "thap": 81662,
+            "cao": 84182
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1899,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81899,
+            "gia_neo": 82000,
+            "gia_thuc": 80000,
+            "thap": 80701,
+            "cao": 83097
+          }
+        ],
+        "dau_phien": [
+          {
+            "date": "2026-10-20",
+            "moc": "2026-10-19",
+            "absolute_error": 472,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 93528,
+            "gia_neo": 93200,
+            "gia_thuc": 94000,
+            "thap": 92419,
+            "cao": 94637
+          },
+          {
+            "date": "2026-10-21",
+            "moc": "2026-10-20",
+            "absolute_error": 1656,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 93656,
+            "gia_neo": 94000,
+            "gia_thuc": 92000,
+            "thap": 92534,
+            "cao": 94778
+          },
+          {
+            "date": "2026-10-22",
+            "moc": "2026-10-21",
+            "absolute_error": 29,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 91529,
+            "gia_neo": 92000,
+            "gia_thuc": 91500,
+            "thap": 90250,
+            "cao": 92808
+          },
+          {
+            "date": "2026-10-23",
+            "moc": "2026-10-22",
+            "absolute_error": 778,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 90222,
+            "gia_neo": 91500,
+            "gia_thuc": 91000,
+            "thap": 88939,
+            "cao": 91505
+          },
+          {
+            "date": "2026-10-24",
+            "moc": "2026-10-23",
+            "absolute_error": 1228,
+            "sai_so_khong_doi": 1500,
+            "gia_du_doan": 90728,
+            "gia_neo": 91000,
+            "gia_thuc": 89500,
+            "thap": 89448,
+            "cao": 92008
+          },
+          {
+            "date": "2026-10-28",
+            "moc": "2026-10-27",
+            "absolute_error": 426,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 89726,
+            "gia_neo": 89000,
+            "gia_thuc": 89300,
+            "thap": 88378,
+            "cao": 91074
+          },
+          {
+            "date": "2026-10-29",
+            "moc": "2026-10-28",
+            "absolute_error": 718,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 89218,
+            "gia_neo": 89300,
+            "gia_thuc": 88500,
+            "thap": 87878,
+            "cao": 90558
+          },
+          {
+            "date": "2026-10-30",
+            "moc": "2026-10-29",
+            "absolute_error": 1360,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 88860,
+            "gia_neo": 88500,
+            "gia_thuc": 87500,
+            "thap": 87531,
+            "cao": 90190
+          },
+          {
+            "date": "2026-10-31",
+            "moc": "2026-10-30",
+            "absolute_error": 1027,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 88027,
+            "gia_neo": 87500,
+            "gia_thuc": 87000,
+            "thap": 86718,
+            "cao": 89337
+          },
+          {
+            "date": "2026-11-03",
+            "moc": "2026-11-02",
+            "absolute_error": 881,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 85381,
+            "gia_neo": 85500,
+            "gia_thuc": 84500,
+            "thap": 84074,
+            "cao": 86687
+          },
+          {
+            "date": "2026-11-04",
+            "moc": "2026-11-03",
+            "absolute_error": 536,
+            "sai_so_khong_doi": 500,
+            "gia_du_doan": 84536,
+            "gia_neo": 84500,
+            "gia_thuc": 84000,
+            "thap": 83215,
+            "cao": 85856
+          },
+          {
+            "date": "2026-11-05",
+            "moc": "2026-11-04",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 84000,
+            "gia_neo": 84000,
+            "gia_thuc": 84300,
+            "thap": 82688,
+            "cao": 85312
+          },
+          {
+            "date": "2026-11-06",
+            "moc": "2026-11-05",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 84300,
+            "gia_neo": 84300,
+            "gia_thuc": 84500,
+            "thap": 82975,
+            "cao": 85625
+          },
+          {
+            "date": "2026-11-07",
+            "moc": "2026-11-06",
+            "absolute_error": 200,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 84500,
+            "gia_neo": 84500,
+            "gia_thuc": 84700,
+            "thap": 83226,
+            "cao": 85773
+          },
+          {
+            "date": "2026-11-10",
+            "moc": "2026-11-09",
+            "absolute_error": 300,
+            "sai_so_khong_doi": 300,
+            "gia_du_doan": 85300,
+            "gia_neo": 85300,
+            "gia_thuc": 85000,
+            "thap": 83999,
+            "cao": 86601
+          },
+          {
+            "date": "2026-11-11",
+            "moc": "2026-11-10",
+            "absolute_error": 1000,
+            "sai_so_khong_doi": 1000,
+            "gia_du_doan": 85000,
+            "gia_neo": 85000,
+            "gia_thuc": 84000,
+            "thap": 83702,
+            "cao": 86298
+          },
+          {
+            "date": "2026-11-12",
+            "moc": "2026-11-11",
+            "absolute_error": 160,
+            "sai_so_khong_doi": 200,
+            "gia_du_doan": 83960,
+            "gia_neo": 84000,
+            "gia_thuc": 83800,
+            "thap": 82650,
+            "cao": 85270
+          },
+          {
+            "date": "2026-11-13",
+            "moc": "2026-11-12",
+            "absolute_error": 800,
+            "sai_so_khong_doi": 800,
+            "gia_du_doan": 83800,
+            "gia_neo": 83800,
+            "gia_thuc": 83000,
+            "thap": 82508,
+            "cao": 85092
+          },
+          {
+            "date": "2026-11-14",
+            "moc": "2026-11-13",
+            "absolute_error": 647,
+            "sai_so_khong_doi": 0,
+            "gia_du_doan": 83647,
+            "gia_neo": 83000,
+            "gia_thuc": 83000,
+            "thap": 82639,
+            "cao": 84655
+          },
+          {
+            "date": "2026-11-17",
+            "moc": "2026-11-16",
+            "absolute_error": 1516,
+            "sai_so_khong_doi": 2000,
+            "gia_du_doan": 81516,
+            "gia_neo": 82000,
+            "gia_thuc": 80000,
+            "thap": 80558,
+            "cao": 82474
+          }
+        ]
+      }
+    }
+  }
+}

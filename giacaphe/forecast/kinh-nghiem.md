@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 17/11/2026 10:23. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 17/11/2026 12:03. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -48,6 +48,12 @@ Trên 53 lần đo: sai số TB **369 đ**, đứng yên **589 đ**, đúng chi�
 **kỳ vọng của giới phân tích** — chỉ ĐO, dự đoán không dùng nhãn này; sổ tính "nếu áp thêm lớp này" bằng đúng hàm của bước ngày-1.
 Trên 2 lần có nhãn (2 lần khác "đi ngang"): đúng chiều 50%; sai số TB thật **244 đ**, nếu áp thêm lớp này **244 đ**.
 Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 2) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
+
+### Lớp đang đo BÓNG: đà riêng trong nước (ngày đầu)
+
+Chỉ ĐO, dự đoán không dùng: cộng 0,5 × trung bình phần lệch (giá thật − giá dự đoán) của 20 mốc đã chấm liền trước vào dự đoán ngày đầu.
+Cả sổ (33 mốc, gồm những mốc đã dùng lúc chọn lớp — không dùng để kết luận): 448 đ so với 434 đ nếu áp.
+Luật chốt trước: cần ≥ 20 mốc từ ngày 17/11/2026 (hiện 0) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
 
 ### Lời đầu: dự đoán lúc giá vừa về, sàn London chưa có phiên mới
 
