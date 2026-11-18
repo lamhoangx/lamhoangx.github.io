@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T07:39:17+07:00",
+  "generated_at": "2026-11-18T09:10:12+07:00",
   "title": "Bản tin cà phê ngày 18/11 · 07:39",
   "lead": "Giá trung bình ngày 17/11/2026: 79.900 đ/kg, ▼ giảm 2.000đ so với hôm qua.",
   "markdown": "## Tin thị trường\n\nGiá cà phê trong nước tiếp tục giảm mạnh theo đà đi xuống của sàn Robusta quốc tế trong bối cảnh nguồn cung vụ mới từ nước ta bắt đầu ra thị trường.\n\n### Diễn biến giá và nguồn cung\n- Sàn London giảm sâu: Giá cà phê Robusta giao kỳ hạn giảm mạnh xuống mức thấp nhất trong hai năm rưỡi do áp lực từ lượng hàng vụ mới của Việt Nam bắt đầu đổ ra thị trường.\n- Vụ thu hoạch tại Việt Nam: Giới kinh doanh cho biết vụ thu hoạch cà phê tại nước ta sẽ đẩy nhanh tốc độ vào cuối tháng 11 và đầu tháng 12, với sản lượng dự kiến tương đương mùa trước.\n- Áp lực từ Brazil: Bộ Nông nghiệp Mỹ đã nâng dự báo vụ cà phê hiện tại của Brazil lên 72,5 triệu bao, trong khi xuất khẩu mạnh và lượng tồn kho chờ kiểm định tăng có thể tiếp tục gây áp lực giảm giá.\n- Sàn New York trái chiều: Ngược lại với Robusta, giá cà phê Arabica trên sàn New York tăng nhờ lượng tồn kho trên sàn giảm xuống mức thấp nhất trong 27 năm.\n\n### Canh tác và chính sách chống mất rừng\n- Ứng dụng công nghệ tại Lâm Đồng: Tỉnh Lâm Đồng đang thử nghiệm dùng thiết bị bay không người lái để định danh vùng trồng cà phê nhằm đáp ứng quy định chống mất rừng của Liên minh châu Âu.\n- Vướng mắc bản đồ xuất khẩu: Nhiều doanh nghiệp gặp khó khăn khi dữ liệu bản đồ rừng giữa Việt Nam và Liên minh châu Âu có sự chênh lệch, khiến việc xác minh vùng nguyên liệu đáp ứng quy định chống phá rừng trở nên phức tạp.\n- Đầu tư sức khỏe đất: Đại diện Nestlé Việt Nam nhấn mạnh tại hội nghị rằng để nâng cao giá trị cà phê, việc cải thiện sức khỏe đất và sinh kế nông dân ngay từ nông trại là nền tảng quan trọng.\n- Ứng dụng hạn hán Đắk Lắk: Tỉnh Đắk Lắk đã xây dựng ba kịch bản nhằm chủ động ứng phó với nguy cơ hạn hán và thiếu nước do ảnh hưởng của hiện tượng El Nino trong mùa khô sắp tới.\n\n> Để nâng cao giá trị của cà phê Việt Nam, giá trị phải được tạo dựng ngay từ nông trại thông qua việc giữ gìn sức khỏe của đất, bảo tồn đa dạng sinh học và đảm bảo sinh kế tốt hơn cho người nông dân, theo bà Lê Thị Hoài Thương.\n\n_Bản tin tổng hợp để tham khảo — không phải khuyến nghị mua bán. Phần tin thị trường do máy tóm tắt tự động._\n",
@@ -20,10 +20,9 @@
   "news_model": "gemini-3.5-flash-lite",
   "news_generated_at": "2026-11-18T07:39:17+07:00",
   "market_mood": {
-    "gia_tri": -0.5,
-    "nhan": "hơi tiêu cực",
-    "generated_at": "2026-11-16T06:46:15+07:00",
-    "thu_lai_cho": "2026-11-17T11:40:12+07:00"
+    "gia_tri": -1.0,
+    "nhan": "rất tiêu cực",
+    "generated_at": "2026-11-18T09:10:12+07:00"
   },
   "news_gia_hien_tai": {
     "average": 79900,
