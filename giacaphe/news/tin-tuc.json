@@ -1,336 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T20:20:26+07:00",
-  "date": "2026-11-18",
+  "generated_at": "2026-11-19T06:47:44+07:00",
+  "date": "2026-11-19",
   "groups": [
     {
-      "id": "bld-474824",
-      "label": "",
+      "id": "gia-2026-11-19",
+      "label": "Giá cà phê ngày 19/11",
       "important": true,
       "items": [
         {
-          "id": "bld-474824",
-          "title": "Tái định vị cà phê Robusta từ gốc",
-          "url": "https://baolamdong.vn/tai-dinh-vi-ca-phe-robusta-tu-goc-474824.html",
-          "source": "Báo Lâm Đồng",
-          "published_at": "2026-11-18T20:04:01+07:00",
-          "image": "https://daknong.1cdn.vn/2026/11/13/2825f7041ee09ebec7f1.jpg",
-          "image_small": "news/anh/d5af7d317ab5ee326ae8.jpg"
-        }
-      ]
-    },
-    {
-      "id": "gia-2026-11-18",
-      "label": "Giá cà phê ngày 18/11",
-      "important": true,
-      "items": [
-        {
-          "id": "dt-20261118152626164",
-          "title": "Giá cà phê rơi khỏi mốc 80.000 đồng/kg, nông dân giữ hàng chờ giá",
-          "url": "https://dantri.com.vn/kinh-doanh/gia-ca-phe-roi-khoi-moc-80000-dongkg-nong-dan-giu-hang-cho-gia-20261118152626164.htm",
-          "source": "Dân trí",
-          "published_at": "2026-11-18T15:46:45+07:00",
-          "image": "https://cdnphoto.dantri.com.vn/k8esh6xu_9mLEskKzmuR-io2ZEQ=/2026/11/18/gia-ca-phe-roi-khoi-moc-80-cropped-1794991550852.jpg",
-          "image_small": "news/anh/c6c7e113e017712e99d4.jpg"
-        },
-        {
-          "id": "bm-56541866",
-          "title": "Giá nông sản hôm nay 18/11/2026: Giá cà phê trong nước xuống thấp nhất, nguồn cung 'tăng tốc'; Hungary muốn gia hạn miễn trừ trừng phạt với dầu Nga",
-          "url": "https://baomoi.com/gia-nong-san-hom-nay-18-11-2026-gia-ca-phe-trong-nuoc-xuong-thap-nhat-nguon-cung-tang-toc-hungary-muon-gia-han-mien-tru-trung-phat-voi-dau-nga-c56541866.epi",
-          "source": "Báo Thế Giới & Việt Nam",
-          "published_at": "2026-11-18T13:45:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_194_56541866/a5cefa04554fbc11e55e.jpg"
-        },
-        {
-          "id": "bm-56541850",
-          "title": "Thị trường nông sản 18/11/2026: Cà phê giảm sâu 2.000 đồng/kg, hồ tiêu và lúa gạo đi ngang",
-          "url": "https://baomoi.com/thi-truong-nong-san-18-11-2026-ca-phe-giam-sau-2-000-dong-kg-ho-tieu-va-lua-gao-di-ngang-c56541850.epi",
-          "source": "Tạp chí Nông nghiệp Hữu cơ Việt Nam",
-          "published_at": "2026-11-18T13:44:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_632_56541850/17c5934a3001d95f8010.jpg"
-        },
-        {
-          "id": "bm-56541700",
-          "title": "Giá nông sản hôm nay (18/11): Giá lợn hơi dao động trong khoảng 50.000 - 53.000 đồng/kg, cà phê tiếp tục lao dốc",
-          "url": "https://baomoi.com/gia-nong-san-hom-nay-18-11-gia-lon-hoi-dao-dong-trong-khoang-50-000-53-000-dong-kg-ca-phe-tiep-tuc-lao-doc-c56541700.epi",
-          "source": "Tạp chí Thương Gia",
-          "published_at": "2026-11-18T13:14:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_341_56541700/6cf5fa785933b06de922.jpg"
-        },
-        {
-          "id": "tcct-567190",
-          "title": "Giá cà phê hôm nay 18/11: Giá Robusta xuống thấp nhất 2,5 năm",
-          "url": "https://tapchicongthuong.vn/gia-ca-phe-hom-nay-18-11--gia-robusta-xuong-thap-nhat-2-5-nam-567190.htm",
-          "source": "Tạp chí Công Thương",
-          "published_at": "2026-11-18T13:00:00+07:00",
-          "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/18/gia-ca-phe9_6afd21ff3c476.jpeg",
-          "image_small": "news/anh/7698f89cbe93ac31d9a2.jpg"
-        },
-        {
-          "id": "ct-481686",
-          "title": "Giá cà phê Robusta giảm 2,32% xuống còn 3.071 USD/tấn",
-          "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-2-32-xuong-con-3-071-usd-tan-481686.html",
-          "source": "Báo Công Thương",
-          "published_at": "2026-11-18T11:58:07+07:00",
-          "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/18/anh-2-dien-bien-gia-ca-phe-ky-han-11303883.png",
-          "image_small": "news/anh/f2e705c7aa3bc9149b97.jpg"
-        },
-        {
-          "id": "vov-1351023",
-          "title": "Giá cà phê hôm nay 18/11: Giá cà phê trong nước giảm về 79.900 đồng/kg",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-1811-gia-ca-phe-trong-nuoc-giam-ve-79900-dongkg-post1351023.vov",
-          "source": "VOV",
-          "published_at": "2026-11-18T10:12:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/cafe6.jpg",
-          "image_small": "news/anh/2597043089a31e9309f7.jpg"
-        },
-        {
-          "id": "vnb-gia-ca-phe-trong-nuoc-giam-sau-cao-nhat-con-80000-dongkg",
-          "title": "Giá cà phê trong nước giảm sâu, cao nhất còn 80.000 đồng/kg",
-          "url": "https://vnbusiness.vn//gia-ca-phe-trong-nuoc-giam-sau-cao-nhat-con-80000-dongkg.html",
-          "source": "VnBusiness",
-          "published_at": "2026-11-18T09:50:36+07:00",
-          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/18/47d6ca9f04f04f19b4df45e1a52a8f54-20390.png?w=1200&h=630&mode=crop&anchor=top-center",
-          "image_small": "news/anh/e5424a2fae469b352c25.jpg"
-        },
-        {
-          "id": "gdm-100933",
-          "title": "Giá cà phê hôm nay 18/11/2026: Robusta lao dốc, Arabica tăng",
-          "url": "https://giadinhmoi.vn/gia-ca-phe-hom-nay-18-11-2026-robusta-lao-doc-arabica-tang-d100933.html",
-          "source": "Gia đình Mới",
-          "published_at": "2026-11-18T08:39:36+07:00",
-          "image": ""
-        },
-        {
-          "id": "vnbiz-2026111875721751",
-          "title": "ICO: Giá cà phê robusta giảm do áp lực nguồn cung, trong khi arabica tăng nhẹ",
-          "url": "https://vietnambiz.vn/ico-gia-ca-phe-robusta-giam-do-ap-luc-nguon-cung-trong-khi-arabica-tang-nhe-2026111875721751.htm",
-          "source": "VietnamBiz",
-          "published_at": "2026-11-18T08:07:00+07:00",
-          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/gia-ca-phe-ngay-36-111455-20261118075519693-avatar-15x10-20261118075721271.png",
-          "image_small": "news/anh/ed2030007c62597deee0.jpg"
-        },
-        {
-          "id": "bgl-605272",
-          "title": "Giá nông sản hôm nay (18-11): Cà phê Gia Lai rơi xuống dưới 80.000 đồng/kg, hồ tiêu neo cao",
-          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-18-11-ca-phe-gia-lai-roi-xuong-duoi-80000-dongkg-ho-tieu-neo-cao-post605272.html",
-          "source": "Báo Gia Lai",
-          "published_at": "2026-11-18T08:00:00+07:00",
-          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgMHDuKFVE81DrKN6jnivckGlzKcmyDNgO99j5g7W39-E0cd9b1T3Wv59c1ka1A8klQ/gia-nong-san-hom-nay-8.png",
-          "image_small": "news/anh/bb3b04332f27019c67a8.jpg"
-        },
-        {
-          "id": "bm-56538534",
-          "title": "Giá cà phê hôm nay 18/11: Robusta lao dốc, trong nước chưa giảm thêm",
-          "url": "https://baomoi.com/gia-ca-phe-hom-nay-18-11-robusta-lao-doc-trong-nuoc-chua-giam-them-c56538534.epi",
-          "source": "Báo Lào Cai",
-          "published_at": "2026-11-18T07:44:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_438_56538534/4b0c58abfbe012be4bf1.jpg"
-        },
-        {
-          "id": "dnhn-154521",
-          "title": "Giá cà phê hôm nay 18 11 2026 Robusta lao dốc cà phê Tây Nguyên giảm mạnh",
-          "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-18112026-robusta-lao-doc-ca-phe-tay-nguyen-giam-manh-154521.html",
-          "source": "Doanh nghiệp và Hội nhập",
-          "published_at": "2026-11-18T07:30:00+07:00",
-          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/18/06/in_social/2020261118063355.jpg",
-          "image_small": "news/anh/dd06d1986efc6050bdd9.jpg"
-        },
-        {
-          "id": "bvh-gia-ca-phe-hom-nay-18-11-2026-robusta-va-arabica-trai-chieu",
-          "title": "Giá cà phê hôm nay 18.11.2026: Robusta và Arabica trái chiều",
-          "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-18-11-2026-robusta-va-arabica-trai-chieu.html",
-          "source": "Báo Văn hóa",
-          "published_at": "2026-11-18T07:28:55+07:00",
-          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ec07-9c05-7dbb-8ddc-6f912c0a1c1b.jpg",
-          "image_small": "news/anh/cb57adfdd916cb8d0e4d.jpg"
-        },
-        {
-          "id": "bm-56538256",
-          "title": "Bản tin nông sản hôm nay (18-11): Giá cà phê giảm mạnh",
-          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-18-11-gia-ca-phe-giam-manh-c56538256.epi",
-          "source": "Báo Quân Đội Nhân Dân",
-          "published_at": "2026-11-18T07:24:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_16_56538256/b8b1d9af6ae483badaf5.jpg"
-        },
-        {
-          "id": "vnbiz-2026111871755631",
-          "title": "Giá cà phê hôm nay 18/11: Tiếp đà lao dốc, giá cà phê trong nước xuống đáy trong gần 3 năm",
-          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-1811-tiep-da-lao-doc-gia-ca-phe-trong-nuoc-xuong-day-trong-gan-3-nam-2026111871755631.htm",
-          "source": "VietnamBiz",
-          "published_at": "2026-11-18T07:17:48+07:00",
-          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/gia-ca-phe-18-11-20261118071613313-avatar-15x10-20261118071755352.jpg",
-          "image_small": "news/anh/80df3450d36b241e1872.jpg"
-        },
-        {
-          "id": "bm-56538020",
-          "title": "Giá cà phê hôm nay 18/11: Robusta tiếp tục giảm mạnh, thấp nhất gần 3 năm",
-          "url": "https://baomoi.com/gia-ca-phe-hom-nay-18-11-robusta-tiep-tuc-giam-manh-thap-nhat-gan-3-nam-c56538020.epi",
+          "id": "bm-56547520",
+          "title": "Giá cà phê hôm nay 19/11: Robusta chưa dứt đà giảm, chạm đáy gần 3 năm",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-19-11-robusta-chua-dut-da-giam-cham-day-gan-3-nam-c56547520.epi",
           "source": "Báo Ninh Bình",
-          "published_at": "2026-11-18T06:38:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_442_56538020/5bd72f4b7c00955ecc11.jpg"
+          "published_at": "2026-11-19T06:38:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_19_442_56547520/358d40391272fb2ca263.jpg"
         },
         {
-          "id": "tbtc-207120",
-          "title": "Ngày 18/11: Giá cà phê tiếp đà lao dốc, hồ tiêu cao nhất ở mức 136.000 đồng/kg",
-          "url": "https://thoibaotaichinhvietnam.vn/ngay-18-11-gia-ca-phe-tiep-da-lao-doc-ho-tieu-cao-nhat-o-muc-136-000-dong-kg-207120.html",
+          "id": "bm-56547488",
+          "title": "Giá cà phê 19/11/2026: Trong nước giảm mạnh, London vẫn chịu áp lực",
+          "url": "https://baomoi.com/gia-ca-phe-19-11-2026-trong-nuoc-giam-manh-london-van-chiu-ap-luc-c56547488.epi",
+          "source": "Báo Lào Cai",
+          "published_at": "2026-11-19T06:32:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_19_438_56547488/1c4eaf1c0c57e509bc46.jpg"
+        },
+        {
+          "id": "tbtc-207171",
+          "title": "Ngày 19 11 Giá cà phê và hồ tiêu đồng loạt giảm mạnh",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-19-11-gia-ca-phe-va-ho-tieu-dong-loat-giam-manh-207171.html",
           "source": "Thời báo Tài chính Việt Nam",
-          "published_at": "2026-11-18T06:26:50+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_578_56538291/90f7b9531a18f346aa09.jpg"
-        },
-        {
-          "id": "thcl-295426",
-          "title": "Giá cà phê hôm nay 18/11: Giảm mạnh",
-          "url": "https://hangthat.thuonghieucongluan.com.vn/gia-ca-phe-hom-nay-18-11-giam-manh-a295426.html",
-          "source": "Thương hiệu và Công luận",
-          "published_at": "2026-11-18T05:54:00+07:00",
+          "published_at": "2026-11-19T06:30:25+07:00",
           "image": ""
         },
         {
-          "id": "ct-481619",
-          "title": "Giá cà phê hôm nay 18/11/2026: Lao dốc từ 2.800 - 3.000 đồng/kg",
-          "url": "https://congthuong.vn/gia-ca-phe-hom-nay-18-11-2026-lao-doc-tu-2-800-3-000-dong-kg-481619.html",
-          "source": "Báo Công Thương",
-          "published_at": "2026-11-18T05:31:00+07:00",
-          "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/18/b233df6d-fd11-4a32-ad92-a1c160824c0c-17005130.JPEG",
-          "image_small": "news/anh/8e7eb56146c29803aced.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56543024",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "bm-56543024",
-          "title": "MXV-Index đi ngang, diễn biến giằng co trên thị trường hàng hóa thế giới",
-          "url": "https://baomoi.com/mxv-index-di-ngang-dien-bien-giang-co-tren-thi-truong-hang-hoa-the-gioi-c56543024.epi",
-          "source": "Báo Thừa Thiên Huế",
-          "published_at": "2026-11-18T15:37:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_459_56543024/32d683492002c95c9013.jpg"
+          "id": "bm-56547398",
+          "title": "Giá cà phê Robusta giảm 7 phiên liên tiếp, chịu sức ép từ vụ thu hoạch mới",
+          "url": "https://baomoi.com/gia-ca-phe-robusta-giam-7-phien-lien-tiep-chiu-suc-ep-tu-vu-thu-hoach-moi-c56547398.epi",
+          "source": "Chuyên Trang Doanh nhân & Công lý - Báo Công Lý",
+          "published_at": "2026-11-19T06:12:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_19_628_56547398/6221e270413ba865f12a.jpg"
         },
         {
-          "id": "bm-56541805",
-          "title": "Thị trường hàng hóa diễn biến trái chiều",
-          "url": "https://baomoi.com/thi-truong-hang-hoa-dien-bien-trai-chieu-c56541805.epi",
-          "source": "Báo Hà Nội Mới",
-          "published_at": "2026-11-18T13:35:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_8_56541805/2d97341897537e0d2742.jpg"
+          "id": "bvh-gia-ca-phe-hom-nay-19-11-2026-bon-vung-tay-nguyen-cung-giam",
+          "title": "Giá cà phê hôm nay 19.11.2026: Bốn vùng Tây Nguyên cùng giảm",
+          "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-19-11-2026-bon-vung-tay-nguyen-cung-giam.html",
+          "source": "Báo Văn hóa",
+          "published_at": "2026-11-19T06:01:24+07:00",
+          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ef3d-6171-7988-8aa8-535776ff0d1b.jpg",
+          "image_small": "news/anh/d1bd189077064d0f524d.jpg"
         },
         {
-          "id": "bm-56541811",
-          "title": "Thị trường hàng hóa: MXV-Index đi ngang",
-          "url": "https://baomoi.com/thi-truong-hang-hoa-mxv-index-di-ngang-c56541811.epi",
-          "source": "Báo Thời Báo Ngân Hàng",
-          "published_at": "2026-11-18T11:00:24+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_59_56541811/716446ebe5a00cfe55b1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56545525",
-      "label": "",
-      "important": false,
-      "items": [
+          "id": "thcl-295448",
+          "title": "Giá cà phê hôm nay 19/11: Giảm gần 3.000 đồng/kg",
+          "url": "https://hangthat.thuonghieucongluan.com.vn/gia-ca-phe-hom-nay-19-11-giam-gan-3-000-dong-kg-a295448.html",
+          "source": "Thương hiệu và Công luận",
+          "published_at": "2026-11-19T05:50:00+07:00",
+          "image": ""
+        },
         {
-          "id": "bm-56545525",
-          "title": "Xuất khẩu cà phê vượt mốc 1,3 tỷ USD, Đắk Lắk đẩy mạnh chế biến sâu",
-          "url": "https://baomoi.com/xuat-khau-ca-phe-vuot-moc-1-3-ty-usd-dak-lak-day-manh-che-bien-sau-c56545525.epi",
-          "source": "Báo Công Thương",
-          "published_at": "2026-11-18T19:11:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_35_56545525/c6f3148bb7c05e9e07d1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56543111",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56543111",
-          "title": "Quảng Ngãi: Tu Mơ Rông phát triển theo hướng xanh, bền vững, lấy nông, lâm nghiệp sinh thái làm nền tảng",
-          "url": "https://baomoi.com/quang-ngai-tu-mo-rong-phat-trien-theo-huong-xanh-ben-vung-lay-nong-lam-nghiep-sinh-thai-lam-nen-tang-c56543111.epi",
-          "source": "Tạp chí Văn Hóa & Phát Triển",
-          "published_at": "2026-11-18T15:45:31+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_585_56543111/b13941a1e2ea0bb452fb.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56542345",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56542345",
-          "title": "Hỗ trợ 1,75 triệu Euro phát triển chuỗi cà phê Arabica tuần hoàn tại Sơn La",
-          "url": "https://baomoi.com/ho-tro-1-75-trieu-euro-phat-trien-chuoi-ca-phe-arabica-tuan-hoan-tai-son-la-c56542345.epi",
-          "source": "Bnews",
-          "published_at": "2026-11-18T14:38:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_324_56542345/b5779fe03cabd5f58cba.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56543380",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56543380",
-          "title": "Mường Ảng hướng tới chuỗi giá trị cà phê bền vững",
-          "url": "https://baomoi.com/muong-ang-huong-toi-chuoi-gia-tri-ca-phe-ben-vung-c56543380.epi",
-          "source": "Bnews",
-          "published_at": "2026-11-18T12:12:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_324_56543380/6e70be141d5ff401ad4e.jpg"
-        }
-      ]
-    },
-    {
-      "id": "vnbiz-20261118112151336",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "vnbiz-20261118112151336",
-          "title": "Xuất khẩu cà phê tăng mạnh về lượng nhưng lao dốc về giá bán",
-          "url": "https://vietnambiz.vn/xuat-khau-ca-phe-tang-manh-ve-luong-nhung-lao-doc-ve-gia-ban-20261118112151336.htm",
-          "source": "VietnamBiz",
-          "published_at": "2026-11-18T11:31:09+07:00",
-          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/xuat-khau-ca-phe-20261118111838951-avatar-15x10-2026111811215124.jpg"
-        }
-      ]
-    },
-    {
-      "id": "dnhn-154534",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "dnhn-154534",
-          "title": "Nâng giá trị cà phê Việt Nam từ đất khỏe và sinh kế bền vững",
-          "url": "https://doanhnghiephoinhap.vn/nang-gia-tri-ca-phe-viet-nam-tu-dat-khoe-va-sinh-ke-ben-vung-154534.html",
-          "source": "Doanh nghiệp và Hội nhập",
-          "published_at": "2026-11-18T10:06:17+07:00",
-          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/18/08/in_social/thngqu-120261118085420.jpg",
-          "image_small": "news/anh/b2d84310cc1ab9f149f2.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56539740",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56539740",
-          "title": "Đắk Lắk chọn 20 - 30 quán để thí điểm chứng nhận cà phê 'đích thực'",
-          "url": "https://baomoi.com/dak-lak-chon-20-30-quan-de-thi-diem-chung-nhan-ca-phe-dich-thuc-c56539740.epi",
-          "source": "Báo Công Thương",
-          "published_at": "2026-11-18T09:50:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_18_35_56539740/bf5630e293a97af723b8.jpg"
+          "id": "vov-1351297",
+          "title": "Giá cà phê hôm nay 19/11: Giá cà phê thế giới và trong nước đồng loạt lao dốc",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-1911-gia-ca-phe-the-gioi-va-trong-nuoc-dong-loat-lao-doc-post1351297.vov",
+          "source": "VOV",
+          "published_at": "2026-11-19T01:00:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-09/ca_phe_3.jpg",
+          "image_small": "news/anh/2dfb020f1711e85d2bc7.jpg"
         }
       ]
     }
@@ -340,89 +74,29 @@
       "id": "ho-tieu",
       "label": "Hồ tiêu",
       "title": "Tin tức hồ tiêu",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "groups": [
         {
-          "id": "vnbiz-20261118143618486",
-          "label": "",
-          "important": true,
+          "id": "gia-ho-tieu-2026-11-19",
+          "label": "Giá hồ tiêu ngày 19/11",
+          "important": false,
           "items": [
             {
-              "id": "vnbiz-20261118143618486",
-              "title": "[Báo cáo] Thị trường hồ tiêu quý III/2026: Xu hướng giảm giá vẫn chi phối thị trường",
-              "url": "https://vietnambiz.vn/bao-cao-thi-truong-ho-tieu-quy-iii2026-xu-huong-giam-gia-van-chi-phoi-thi-truong-20261118143618486.htm",
-              "source": "VietnamBiz",
-              "published_at": "2026-11-18T16:17:14+07:00",
-              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/avatar-20261118142222179-avatar-15x10-20261118143618132.jpg",
-              "image_small": "news/anh/431489b9873ea1d5f47e.jpg"
-            }
-          ]
-        },
-        {
-          "id": "gia-ho-tieu-2026-11-18",
-          "label": "Giá hồ tiêu ngày 18/11",
-          "important": true,
-          "items": [
-            {
-              "id": "tcct-567189",
-              "title": "Giá tiêu hôm nay 18/11: Xuất khẩu tiêu của Việt Nam sang UAE và châu Âu ghi nhận tăng trưởng tích cực",
-              "url": "https://tapchicongthuong.vn/gia-tieu-hom-nay-18-11--xuat-khau-tieu-cua-viet-nam-sang-uae-va-chau-au-ghi-nhan-tang-truong-tich-cuc-567189.htm",
-              "source": "Tạp chí Công Thương",
-              "published_at": "2026-11-18T14:14:00+07:00",
-              "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/18/gia-tieu-hom-nay-14-1-2025--1_6afd1eacc150e.jpg",
-              "image_small": "news/anh/4f5fcd93ee2d849f9378.jpg"
-            },
-            {
-              "id": "gdm-100932",
-              "title": "Giá tiêu hôm nay 18/11/2026: Hồ tiêu trong nước đồng loạt giảm",
-              "url": "https://giadinhmoi.vn/gia-tieu-hom-nay-18-11-2026-ho-tieu-trong-nuoc-dong-loat-giam-d100932.html",
-              "source": "Gia đình Mới",
-              "published_at": "2026-11-18T08:29:25+07:00",
-              "image": ""
-            },
-            {
-              "id": "dnhn-154485",
-              "title": "Giá tiêu hôm nay 18 11 2026 Hồ tiêu trong nước đồng loạt giảm mạnh",
-              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-18112026-ho-tieu-trong-nuoc-dong-loat-giam-manh-154485.html",
-              "source": "Doanh nghiệp và Hội nhập",
-              "published_at": "2026-11-18T08:10:30+07:00",
-              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/5420261115225831.jpg",
-              "image_small": "news/anh/bb942e258946f4fa1432.jpg"
-            },
-            {
-              "id": "vnbiz-202611187431692",
-              "title": "Giá tiêu hôm nay 18/11: Đồng loạt giảm, thấp nhất 133.000 đồng/kg",
-              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-1811-dong-loat-giam-thap-nhat-133000-dongkg-202611187431692.htm",
-              "source": "VietnamBiz",
-              "published_at": "2026-11-18T07:43:09+07:00",
-              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/gia-tieu-18-11-20261118074111409-avatar-15x10-20261118074315608.jpg",
-              "image_small": "news/anh/85356e1e33bc7fea8ebb.jpg"
-            },
-            {
-              "id": "bvh-gia-ho-tieu-hom-nay-18-11-2026-theo-doi-suc-mua-sau-phien-giam",
-              "title": "Giá hồ tiêu hôm nay 18.11.2026: Theo dõi sức mua sau phiên giảm",
-              "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-18-11-2026-theo-doi-suc-mua-sau-phien-giam.html",
+              "id": "bvh-gia-ho-tieu-hom-nay-19-11-2026-bon-vung-giam-gia-trong-bang-phien-truoc",
+              "title": "Giá hồ tiêu hôm nay 19.11.2026: Bốn vùng giảm giá trong bảng phiên trước",
+              "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-19-11-2026-bon-vung-giam-gia-trong-bang-phien-truoc.html",
               "source": "Báo Văn hóa",
-              "published_at": "2026-11-18T07:28:36+07:00",
-              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ec05-7bf4-79f9-9d52-8d214ac72424.jpg",
-              "image_small": "news/anh/84f985bc0cea203af485.jpg"
+              "published_at": "2026-11-19T06:03:30+07:00",
+              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ef3d-61ed-78a9-8470-b35d2282a5ab.jpg",
+              "image_small": "news/anh/1830a50f9d11fe946251.jpg"
             },
             {
-              "id": "thcl-295424",
-              "title": "Giá tiêu hôm nay 18/11: Thị trường trong nước đi ngang",
-              "url": "https://hangthat.thuonghieucongluan.com.vn/gia-tieu-hom-nay-18-11-thi-truong-trong-nuoc-di-ngang-a295424.html",
+              "id": "thcl-295449",
+              "title": "Giá tiêu hôm nay 19/11: Giảm tới 2.000 đồng/kg",
+              "url": "https://hangthat.thuonghieucongluan.com.vn/gia-tieu-hom-nay-19-11-giam-toi-2-000-dong-kg-a295449.html",
               "source": "Thương hiệu và Công luận",
-              "published_at": "2026-11-18T05:51:00+07:00",
+              "published_at": "2026-11-19T05:53:00+07:00",
               "image": ""
-            },
-            {
-              "id": "ct-481618",
-              "title": "Giá tiêu hôm nay 18/11/2026: Giảm mạnh 1.000 - 2.000 đồng/kg",
-              "url": "https://congthuong.vn/gia-tieu-hom-nay-18-11-2026-giam-manh-1-000-2-000-dong-kg-481618.html",
-              "source": "Báo Công Thương",
-              "published_at": "2026-11-18T05:45:00+07:00",
-              "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/18/e4227844-c912-410f-80cb-139dd543e2d1-17260665.JPEG",
-              "image_small": "news/anh/5c5254ed7fb1aa54d427.jpg"
             }
           ]
         }
