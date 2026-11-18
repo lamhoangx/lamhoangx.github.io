@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-18T04:10:02+07:00",
+  "generated_at": "2026-11-18T10:16:40+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 79,
+  "trained_days": 80,
   "anchor": {
-    "date": "2026-11-17",
-    "price": 6061
+    "date": "2026-11-18",
+    "price": 6204
   },
   "predictions": [
     {
-      "date": "2026-11-18",
-      "price": 6172,
-      "low": 6122,
-      "high": 6222
-    },
-    {
       "date": "2026-11-19",
-      "price": 6178,
-      "low": 5971,
-      "high": 6385
+      "price": 6213,
+      "low": 6006,
+      "high": 6420
     },
     {
       "date": "2026-11-20",
-      "price": 6182,
-      "low": 5889,
-      "high": 6476
+      "price": 6220,
+      "low": 5927,
+      "high": 6513
     },
     {
       "date": "2026-11-21",
-      "price": 6186,
-      "low": 5827,
-      "high": 6545
+      "price": 6225,
+      "low": 5866,
+      "high": 6584
     },
     {
       "date": "2026-11-22",
-      "price": 6186,
-      "low": 5827,
-      "high": 6545
+      "price": 6225,
+      "low": 5866,
+      "high": 6584
     },
     {
       "date": "2026-11-23",
-      "price": 6186,
-      "low": 5827,
-      "high": 6545
+      "price": 6225,
+      "low": 5866,
+      "high": 6584
     },
     {
       "date": "2026-11-24",
-      "price": 6188,
-      "low": 5774,
-      "high": 6603
+      "price": 6228,
+      "low": 5814,
+      "high": 6643
+    },
+    {
+      "date": "2026-11-25",
+      "price": 6231,
+      "low": 5768,
+      "high": 6695
     }
   ],
   "accuracy_30d": {
-    "samples": 21,
-    "mae": 107,
+    "samples": 22,
+    "mae": 110,
     "direction_hit_rate": null
   },
   "stats": {
@@ -66,9 +66,9 @@
       "date": "2026-11-12",
       "price": 5835
     },
-    "average": 6387,
-    "ma7": 6003,
-    "ma30": 6387
+    "average": 6380,
+    "ma7": 6028,
+    "ma30": 6380
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -77,33 +77,33 @@
   "technical": {
     "symbol": "ICEUS:KCH2027",
     "month": "03/27",
-    "rating": 0.22424242424242424,
-    "rating_ma": 0.26666666666666666,
-    "rating_other": 0.18181818181818182,
-    "rsi": 52.090807604153106,
-    "close": 6172.0,
+    "rating": 0.33636363636363636,
+    "rating_ma": 0.4,
+    "rating_other": 0.2727272727272727,
+    "rsi": 53.384907791088736,
+    "close": 6204.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-18T04:10:02+07:00"
+    "fetched_at": "2026-11-18T10:16:40+07:00"
   },
   "pre_session": {
-    "anchor_date": "2026-11-17",
-    "anchor_price": 6061,
+    "anchor_date": "2026-11-18",
+    "anchor_price": 6204,
     "predictions": [
       {
-        "date": "2026-11-18",
-        "price": 6050
-      },
-      {
         "date": "2026-11-19",
-        "price": 6042
+        "price": 6213
       },
       {
         "date": "2026-11-20",
-        "price": 6036
+        "price": 6220
       },
       {
         "date": "2026-11-21",
-        "price": 6032
+        "price": 6225
+      },
+      {
+        "date": "2026-11-22",
+        "price": 6225
       }
     ]
   }

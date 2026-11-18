@@ -1,47 +1,52 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 18/11/2026 04:10. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 18/11/2026 10:16. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
 ## Trung bình 4 tỉnh
 
-Đã ghi 53 mốc dự đoán, 52 mốc đã có giá thật để chấm.
+Đã ghi 54 mốc dự đoán, 53 mốc đã có giá thật để chấm.
 
 ### Sai số theo tầm dự đoán
 
 | Tầm (ngày) | Số lần | Sai số TB | Đứng yên | Dải 90% phủ |
 |---|---|---|---|---|
-| 1 | 43 | 358 đ | 644 đ | 95% |
-| 2 | 42 | 769 đ | 760 đ | 93% |
+| 1 | 44 | 393 đ | 693 đ | 93% |
+| 2 | 43 | 835 đ | 853 đ | 91% |
 | 3 | 42 | 984 đ | 1.098 đ | 90% |
-| 4 | 41 | 1.273 đ | 1.259 đ | 83% |
-| 5 | 40 | 1.242 đ | 1.322 đ | 88% |
-| 6 | 40 | 1.368 đ | 1.525 đ | 90% |
-| 7 | 43 | 1.598 đ | 1.695 đ | 84% |
+| 4 | 42 | 1.379 đ | 1.367 đ | 81% |
+| 5 | 41 | 1.341 đ | 1.432 đ | 85% |
+| 6 | 41 | 1.479 đ | 1.649 đ | 88% |
+| 7 | 44 | 1.717 đ | 1.816 đ | 82% |
+
+### Lớp xu hướng chậm (ngày 2–7)
+
+Từ `tv-close-gemini-v12` các ngày 2–7 cộng thêm 0,5 × mức đổi trung bình mỗi ngày trên 20 phiên của chính chuỗi giá. Trên 1 mốc lớp có lên tiếng (1 lần chấm ngày 2–7): sai số TB **3.610 đ**, nếu bỏ lớp **3.800 đ**.
+Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 1) rồi mới kết luận.
 
 ### Ngày-1: mô hình so với đứng yên
 
-Trên 52 lần đo: sai số TB **375 đ**, đứng yên **600 đ**, đúng chiều 71%, dải 90% phủ 96%.
-→ Mô hình **đang thắng** mốc đứng yên (−225 đ).
+Trên 53 lần đo: sai số TB **403 đ**, đứng yên **642 đ**, đúng chiều 72%, dải 90% phủ 94%.
+→ Mô hình **đang thắng** mốc đứng yên (−239 đ).
 
 ### Từng lớp giúp hay hại (ngày-1)
 
 | Lớp | Có tiếng nói | Đúng chiều | Nếu bỏ lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| truyền dẫn London | 43 | 81% | 594 đ | giúp (+219 đ) |
-| dự đoán sàn London | 0 | — | 375 đ | chưa có tiếng nói |
-| giá sàn đã chạy | 0 | — | 375 đ | chưa có tiếng nói |
-| tín hiệu sàn | 0 | — | 375 đ | chưa có tiếng nói |
-| xu hướng gần | 0 | — | 375 đ | chưa có tiếng nói |
-| AI điều tiết | 24 | 46% | 374 đ | hại (−1 đ) |
+| truyền dẫn London | 44 | 82% | 635 đ | giúp (+232 đ) |
+| dự đoán sàn London | 0 | — | 403 đ | chưa có tiếng nói |
+| giá sàn đã chạy | 0 | — | 403 đ | chưa có tiếng nói |
+| tín hiệu sàn | 0 | — | 403 đ | chưa có tiếng nói |
+| xu hướng gần | 0 | — | 403 đ | chưa có tiếng nói |
+| AI điều tiết | 24 | 46% | 402 đ | hại (−1 đ) |
 
 ### Từng lớp AI riêng (ngày-1)
 
 | Lớp AI | Có tiếng nói | Đúng chiều | Nếu bỏ riêng lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| tâm lý bản tin | 18 | 61% | 371 đ | hại (−4 đ) |
-| đề xuất lệch sàn | 3 | 0% | 375 đ | không đổi |
+| tâm lý bản tin | 18 | 61% | 400 đ | hại (−3 đ) |
+| đề xuất lệch sàn | 3 | 0% | 403 đ | không đổi |
 
 ### Lớp đang đo BÓNG (chưa áp vào dự đoán)
 
@@ -52,42 +57,47 @@ Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 2
 ### Lớp đang đo BÓNG: đà riêng trong nước (ngày đầu)
 
 Chỉ ĐO, dự đoán không dùng: cộng 0,5 × trung bình phần lệch (giá thật − giá dự đoán) của 20 mốc đã chấm liền trước vào dự đoán ngày đầu.
-Cả sổ (32 mốc, gồm những mốc đã dùng lúc chọn lớp — không dùng để kết luận): 460 đ so với 447 đ nếu áp.
-Luật chốt trước: cần ≥ 20 mốc từ ngày 17/11/2026 (hiện 0) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
+Trên 1 mốc từ ngày 17/11/2026: sai số TB thật **1.872 đ**, nếu áp thêm lớp này **1.672 đ**.
+Cả sổ (33 mốc, gồm những mốc đã dùng lúc chọn lớp — không dùng để kết luận): 503 đ so với 484 đ nếu áp.
+Luật chốt trước: cần ≥ 20 mốc từ ngày 17/11/2026 (hiện 1) rồi mới xét. Chưa đủ cơ sở để bàn đưa vào dự đoán.
 
 ### Lời đầu: dự đoán lúc giá vừa về, sàn London chưa có phiên mới
 
-Từ `tv-close-gemini-v9` bản này lấy mức sàn DỰ ĐOÁN thay cho "đứng yên vì sàn chưa đi thêm". Trên 2 mốc: sai số TB **990 đ**, đoán đứng yên **1.000 đ**, đúng chiều 50%; lời cuối (sáng hôm sau, sàn đã đi thật) của chính các mốc đó **668 đ**.
-Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 2) rồi mới kết luận.
+Từ `tv-close-gemini-v9` bản này lấy mức sàn DỰ ĐOÁN thay cho "đứng yên vì sàn chưa đi thêm". Trên 3 mốc: sai số TB **1.563 đ**, đoán đứng yên **1.600 đ**, đúng chiều 67%; lời cuối (sáng hôm sau, sàn đã đi thật) của chính các mốc đó **1.070 đ**.
+Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 3) rồi mới kết luận.
 
 ### Phân loại lỗi ngày-1
 
 - đúng chiều, vừa: 17 lần
+- đúng chiều, non tay: 8 lần
 - đứng yên, đoán đứng yên: 7 lần
-- đúng chiều, non tay: 7 lần
 - đoán cú đi không xảy ra: 6 lần
 - bỏ lỡ cú đi: 6 lần
 - đúng chiều, quá tay: 5 lần
 - bỏ lỡ cú đi lớn: 2 lần
 - ngược chiều: 2 lần
 
-Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 33 ngày sàn đi ≥ +0,50%): **0,49**.
+Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 34 ngày sàn đi ≥ +0,50%): **0,50**.
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
-Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 408 so với 408) nhưng chưa vượt ngưỡng cải thiện 3%.
+Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 445 so với 445) nhưng chưa vượt ngưỡng cải thiện 3%.
 
 | beta | Sai số TB nếu dùng |
 |---|---|
-| 0,3 | 464 đ |
-| 0,4 | 424 đ |
-| 0,5 | 408 đ |
-| 0,6 | 450 đ |
-| 0,7 | 510 đ |
-| 0,8 | 583 đ |
+| 0,3 | 510 đ |
+| 0,4 | 466 đ |
+| 0,5 | 445 đ |
+| 0,6 | 482 đ |
+| 0,7 | 536 đ |
+| 0,8 | 602 đ |
 
 ### Năm lỗi lớn nhất và lý do
 
+- **18/11/2026** (mốc 17/11/2026), sai 1.872 đ:
+  - Đúng chiều, non tay: giá đi −2.800 đ, dự đoán −928 đ.
+  - Lớp truyền dẫn London đúng chiều (−928 đ), bớt được 928 đ sai số.
+  - Giá trong nước chép 1,51 lần cú đi −2,32% của sàn (hệ số truyền dẫn đang dùng 0,5).
 - **03/11/2026** (mốc 02/11/2026), sai 1.654 đ:
   - Ngược chiều: giá đi −1.200 đ, dự đoán +454 đ.
   - Lớp truyền dẫn London kéo sai chiều (+492 đ), làm sai số tăng 492 đ.
@@ -104,21 +114,17 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
   - Đúng chiều, non tay: giá đi −2.000 đ, dự đoán −997 đ.
   - Lớp truyền dẫn London đúng chiều (−997 đ), bớt được 997 đ sai số.
   - Giá trong nước chép 1,00 lần cú đi −2,12% của sàn (hệ số truyền dẫn đang dùng 0,5).
-- **31/10/2026** (mốc 30/10/2026), sai 999 đ:
-  - Ngược chiều: giá đi −500 đ, dự đoán +499 đ.
-  - Lớp truyền dẫn London kéo sai chiều (+578 đ), làm sai số tăng 578 đ.
-  - Giá trong nước chép -0,43 lần cú đi +1,32% của sàn (hệ số truyền dẫn đang dùng 0,5).
 
 ## Các chuỗi khác — ngày-1
 
 | Chuỗi | Số lần | Sai số TB | Đứng yên | Đúng chiều | Dải 90% phủ |
 |---|---|---|---|---|---|
-| Đắk Lắk | 52 | 367 đ | 592 đ | 71% | 96% |
-| Lâm Đồng | 52 | 364 đ | 602 đ | 71% | 96% |
-| Gia Lai | 52 | 375 đ | 596 đ | 67% | 96% |
-| Đắk Nông | 52 | 385 đ | 612 đ | 69% | 96% |
-| Robusta London | 47 | 40 USD | 43 USD | 53% | 96% |
-| Arabica New York | 47 | 105 USD | 106 USD | 60% | 94% |
+| Đắk Lắk | 53 | 399 đ | 638 đ | 72% | 94% |
+| Lâm Đồng | 53 | 393 đ | 643 đ | 72% | 94% |
+| Gia Lai | 53 | 404 đ | 638 đ | 68% | 94% |
+| Đắk Nông | 53 | 413 đ | 653 đ | 70% | 94% |
+| Robusta London | 48 | 39 USD | 43 USD | 54% | 96% |
+| Arabica New York | 48 | 104 USD | 107 USD | 60% | 94% |
 
 ## Dự đoán sàn TRƯỚC PHIÊN (lời đầu của hai chuỗi sàn)
 
@@ -126,11 +132,11 @@ Bản dựng lúc bảng sàn vừa sang ngày, phiên tối nay chưa mở: ch�
 
 | Chuỗi | Số mốc | Trước phiên: sai số TB | Đứng yên | Đúng chiều | Lời cuối |
 |---|---|---|---|---|---|
-| Robusta London | 3 | 33 USD | 38 USD | 100% | 16 USD |
-| Arabica New York | 3 | 33 USD | 28 USD | 33% | 14 USD |
+| Robusta London | 4 | 41 USD | 47 USD | 100% | 12 USD |
+| Arabica New York | 4 | 63 USD | 57 USD | 25% | 18 USD |
 
-- Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 3) rồi mới kết luận.
-- Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 3) rồi mới kết luận.
+- Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 4) rồi mới kết luận.
+- Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 4) rồi mới kết luận.
 
 ## Cách đọc
 

@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-18T04:10:02+07:00",
+  "generated_at": "2026-11-18T10:16:40+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 79,
+  "trained_days": 80,
   "anchor": {
-    "date": "2026-11-17",
-    "price": 3144
+    "date": "2026-11-18",
+    "price": 3071
   },
   "predictions": [
     {
-      "date": "2026-11-18",
-      "price": 3071,
-      "low": 3045,
-      "high": 3097
-    },
-    {
       "date": "2026-11-19",
       "price": 3065,
-      "low": 2970,
-      "high": 3160
+      "low": 2972,
+      "high": 3158
     },
     {
       "date": "2026-11-20",
       "price": 3060,
-      "low": 2926,
-      "high": 3195
+      "low": 2928,
+      "high": 3192
     },
     {
       "date": "2026-11-21",
       "price": 3057,
-      "low": 2892,
-      "high": 3221
+      "low": 2895,
+      "high": 3219
     },
     {
       "date": "2026-11-22",
       "price": 3057,
-      "low": 2892,
-      "high": 3221
+      "low": 2895,
+      "high": 3219
     },
     {
       "date": "2026-11-23",
       "price": 3057,
-      "low": 2892,
-      "high": 3221
+      "low": 2895,
+      "high": 3219
     },
     {
       "date": "2026-11-24",
       "price": 3054,
-      "low": 2864,
-      "high": 3244
+      "low": 2868,
+      "high": 3241
+    },
+    {
+      "date": "2026-11-25",
+      "price": 3052,
+      "low": 2844,
+      "high": 3261
     }
   ],
   "accuracy_30d": {
-    "samples": 21,
-    "mae": 37,
+    "samples": 22,
+    "mae": 38,
     "direction_hit_rate": null
   },
   "stats": {
@@ -63,12 +63,12 @@
       "price": 3484
     },
     "low": {
-      "date": "2026-11-17",
-      "price": 3144
+      "date": "2026-11-18",
+      "price": 3071
     },
-    "average": 3291,
-    "ma7": 3216,
-    "ma30": 3291
+    "average": 3277,
+    "ma7": 3189,
+    "ma30": 3277
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "robusta",
@@ -83,27 +83,27 @@
     "rsi": 29.36766577442644,
     "close": 3071.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-18T04:10:02+07:00"
+    "fetched_at": "2026-11-18T10:16:40+07:00"
   },
   "pre_session": {
-    "anchor_date": "2026-11-17",
-    "anchor_price": 3144,
+    "anchor_date": "2026-11-18",
+    "anchor_price": 3071,
     "predictions": [
       {
-        "date": "2026-11-18",
-        "price": 3137
-      },
-      {
         "date": "2026-11-19",
-        "price": 3132
+        "price": 3065
       },
       {
         "date": "2026-11-20",
-        "price": 3128
+        "price": 3060
       },
       {
         "date": "2026-11-21",
-        "price": 3125
+        "price": 3057
+      },
+      {
+        "date": "2026-11-22",
+        "price": 3057
       }
     ]
   }
