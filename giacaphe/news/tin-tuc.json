@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T09:12:09+07:00",
+  "generated_at": "2026-11-18T09:30:22+07:00",
   "date": "2026-11-18",
   "groups": [
     {
@@ -48,7 +48,8 @@
           "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-18112026-robusta-lao-doc-ca-phe-tay-nguyen-giam-manh-154521.html",
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-18T07:30:00+07:00",
-          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/18/06/in_social/2020261118063355.jpg"
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/18/06/in_social/2020261118063355.jpg",
+          "image_small": "news/anh/dd06d1986efc6050bdd9.jpg"
         },
         {
           "id": "bvh-gia-ca-phe-hom-nay-18-11-2026-robusta-va-arabica-trai-chieu",
@@ -56,7 +57,8 @@
           "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-18-11-2026-robusta-va-arabica-trai-chieu.html",
           "source": "Báo Văn hóa",
           "published_at": "2026-11-18T07:28:55+07:00",
-          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ec07-9c05-7dbb-8ddc-6f912c0a1c1b.jpg"
+          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ec07-9c05-7dbb-8ddc-6f912c0a1c1b.jpg",
+          "image_small": "news/anh/cb57adfdd916cb8d0e4d.jpg"
         },
         {
           "id": "bm-56538256",
@@ -72,7 +74,8 @@
           "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-1811-arabica-va-robusta-tiep-tuc-dien-bien-trai-chieu-2026111871755631.htm",
           "source": "VietnamBiz",
           "published_at": "2026-11-18T07:17:48+07:00",
-          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/gia-ca-phe-18-11-20261118071613313-avatar-15x10-20261118071755352.jpg"
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/gia-ca-phe-18-11-20261118071613313-avatar-15x10-20261118071755352.jpg",
+          "image_small": "news/anh/80df3450d36b241e1872.jpg"
         },
         {
           "id": "bm-56538020",
@@ -175,16 +178,24 @@
         {
           "id": "gia-sau-rieng-2026-11-18",
           "label": "Giá sầu riêng ngày 18/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "vnbiz-2026111891115842",
+              "title": "Giá sầu riêng hôm nay 18/11: Thị trường lặng sóng, mô hình nông nghiệp xanh hái quả ngọt nhờ kiên trì canh tác hữu cơ",
+              "url": "https://vietnambiz.vn/gia-sau-rieng-hom-nay-1811-thi-truong-lang-song-mo-hinh-nong-nghiep-xanh-hai-qua-ngot-nho-kien-tri-canh-tac-huu-co-2026111891115842.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-18T09:00:00+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/18/lich-cup-dien-quang-tri-11-20261118090951845-avatar-15x10-20261118091115492.jpg",
+              "image_small": "news/anh/9ca021e4d1280aa05fc4.jpg"
+            },
             {
               "id": "dnhn-154517",
               "title": "Giá sầu riêng hôm nay 18 11 Sầu riêng Thái miền Tây tăng giá mạnh",
               "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-1811-sau-rieng-thai-mien-tay-tang-gia-manh-154517.html",
               "source": "Doanh nghiệp và Hội nhập",
               "published_at": "2026-11-18T07:30:42+07:00",
-              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/17/22/in_social/anh-sau-rieng-lua-gao-heo-hoi20261117224348.png",
-              "image_small": "news/anh/da8e7a221d1a67a0d838.jpg"
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/17/22/in_social/anh-sau-rieng-lua-gao-heo-hoi20261117224348.png"
             },
             {
               "id": "thcl-295422",
