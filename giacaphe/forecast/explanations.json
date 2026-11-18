@@ -1,7 +1,7 @@
 {
   "calls": {
-    "date": "2026-11-18",
-    "count": 3
+    "date": "2026-11-19",
+    "count": 1
   },
   "entries": {
     "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
@@ -107,6 +107,11 @@
     "Kết quả của dự đoán: giá có thể đi ngang — cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán.\nGiá cà phê thế giới vừa giảm khá mạnh.\nTin tức trong nước hôm nay: không khí rất tiêu cực, bi quan rõ.\nTin tức chỉ được tính để điều chỉnh nhẹ, không đổi chiều chung của nhận định.\nYếu tố tác động lớn nhất: giá thế giới.\nCác căn cứ khác: chu kỳ giá, kinh tế và kỳ vọng của giới phân tích nghiêng về giảm; thời vụ chưa nghiêng rõ.": {
       "text": "Giá cà phê trong nước có thể đi ngang vì giá cà phê thế giới vừa giảm khá mạnh nhưng cộng lại giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán. Các căn cứ khác gồm chu kỳ giá, kinh tế và kỳ vọng của giới phân tích nghiêng về giảm, trong khi thời vụ chưa nghiêng rõ và tin tức trong nước bi quan.",
       "at": "2026-11-18T22:00:15+07:00",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "Kết quả của dự đoán: giá nhiều khả năng giảm — cộng lại các yếu tố đang kéo giá xuống.\nGiá cà phê thế giới vừa giảm khá mạnh.\nCác căn cứ khác: chu kỳ giá và kinh tế cũng nghiêng về giảm; thời vụ chưa nghiêng rõ.": {
+      "text": "Giá cà phê trong nước nhiều khả năng giảm vì giá thế giới vừa giảm khá mạnh. Các căn cứ khác gồm chu kỳ giá và kinh tế nghiêng về giảm, còn thời vụ chưa nghiêng rõ.",
+      "at": "2026-11-19T06:15:14+07:00",
       "model": "gemini-3.5-flash-lite"
     }
   }
