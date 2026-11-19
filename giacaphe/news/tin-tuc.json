@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T07:50:30+07:00",
+  "generated_at": "2026-11-19T08:35:28+07:00",
   "date": "2026-11-19",
   "groups": [
     {
@@ -9,13 +9,30 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56548332",
+          "title": "Bản tin nông sản hôm nay (19-11): Giá cà phê tiếp tục giảm mạnh",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-19-11-gia-ca-phe-tiep-tuc-giam-manh-c56548332.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-19T08:29:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_19_16_56548332/5de7c5c266898fd7d698.jpg"
+        },
+        {
           "id": "dnhn-154614",
           "title": "Giá cà phê hôm nay 19 11 2026 Giá cà phê trong nước giảm sâu",
           "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-19112026-gia-ca-phe-trong-nuoc-giam-sau-154614.html",
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-19T07:30:13+07:00",
           "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/19/02/in_social/2120261119023041.jpg",
-          "image_small": "news/anh/5f3660b753a226f863bf.jpg"
+          "image_small": "news/anh/8d782fba6e8698568ff2.jpg"
+        },
+        {
+          "id": "vnbiz-202611197457380",
+          "title": "Giá cà phê hôm nay 19/11: Robusta giảm 8 phiên liên tiếp, arabica cũng đi xuống",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-1911-robusta-giam-8-phien-lien-tiep-arabica-cung-di-xuong-202611197457380.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-19T07:04:50+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/19/gia-ca-phe-19-11-20261119070232608-avatar-15x10-2026111907045719.jpg",
+          "image_small": "news/anh/b694de61300ab9b714a6.jpg"
         },
         {
           "id": "bm-56547520",
@@ -76,6 +93,22 @@
           "image_small": "news/anh/2dfb020f1711e85d2bc7.jpg"
         }
       ]
+    },
+    {
+      "id": "dnhn-154611",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "dnhn-154611",
+          "title": "Cà phê thế giới trái chiều Arabica tăng giá Robusta giảm phiên thứ 8 liên tiếp",
+          "url": "https://doanhnghiephoinhap.vn/ca-phe-the-gioi-trai-chieu-arabica-tang-gia-robusta-giam-phien-thu-8-lien-tiep-154611.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-19T08:21:14+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/19/02/in_social/cfff20261119021014.jpg",
+          "image_small": "news/anh/4e95f896f08262fc931e.jpg"
+        }
+      ]
     }
   ],
   "topics": [
@@ -88,16 +121,33 @@
         {
           "id": "gia-ho-tieu-2026-11-19",
           "label": "Giá hồ tiêu ngày 19/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "dnhn-154570",
+              "title": "Giá tiêu hôm nay 19 11 2026 Giảm phiên thứ hai lùi về vùng 132 000 đồng kg",
+              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-19112026-giam-phien-thu-hai-lui-ve-vung-132000-dongkg-154570.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-19T08:10:22+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/5520261115225833.jpg",
+              "image_small": "news/anh/f0dbc8b4b11aa759f248.jpg"
+            },
+            {
+              "id": "vnbiz-2026111975537869",
+              "title": "Giá tiêu hôm nay 19/11: Giảm ngày thứ hai liên tiếp, xuống còn 132.000 đồng/kg",
+              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-1911-giam-ngay-thu-hai-lien-tiep-xuong-con-132000-dongkg-2026111975537869.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-19T07:55:31+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/19/gia-tieu-19-11-20261119075331827-avatar-15x10-20261119075537375.jpg",
+              "image_small": "news/anh/d4db175cfd84b90e23a7.jpg"
+            },
             {
               "id": "bvh-gia-ho-tieu-hom-nay-19-11-2026-bon-vung-giam-gia-trong-bang-phien-truoc",
               "title": "Giá hồ tiêu hôm nay 19.11.2026: Bốn vùng giảm giá trong bảng phiên trước",
               "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-19-11-2026-bon-vung-giam-gia-trong-bang-phien-truoc.html",
               "source": "Báo Văn hóa",
               "published_at": "2026-11-19T06:03:30+07:00",
-              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ef3d-61ed-78a9-8470-b35d2282a5ab.jpg",
-              "image_small": "news/anh/1830a50f9d11fe946251.jpg"
+              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/18/01a1ef3d-61ed-78a9-8470-b35d2282a5ab.jpg"
             },
             {
               "id": "thcl-295449",
