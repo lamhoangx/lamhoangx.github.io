@@ -1,22 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T17:50:18+07:00",
+  "generated_at": "2026-11-20T05:40:17+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
       "place": "Buôn Ma Thuột",
       "days": [
-        {
-          "date": "2026-11-19",
-          "t_min": 22,
-          "t_max": 24,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
         {
           "date": "2026-11-20",
           "t_min": 21,
@@ -30,13 +19,24 @@
         },
         {
           "date": "2026-11-21",
-          "t_min": 21,
+          "t_min": 22,
           "t_max": 27,
-          "rain_mm": 0.3,
+          "rain_mm": 1.2,
           "rain": {
-            "sang": 0.2,
-            "chieu": 0.1,
+            "sang": 0.8,
+            "chieu": 0.4,
             "toi": 0.0
+          }
+        },
+        {
+          "date": "2026-11-22",
+          "t_min": 21,
+          "t_max": 28,
+          "rain_mm": 0.2,
+          "rain": {
+            "sang": 0.0,
+            "chieu": 0.0,
+            "toi": 0.2
           }
         }
       ]
@@ -45,17 +45,6 @@
       "place": "Gia Nghĩa",
       "days": [
         {
-          "date": "2026-11-19",
-          "t_min": 22,
-          "t_max": 25,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
-        {
           "date": "2026-11-20",
           "t_min": 21,
           "t_max": 28,
@@ -69,11 +58,22 @@
         {
           "date": "2026-11-21",
           "t_min": 21,
-          "t_max": 29,
-          "rain_mm": 1.5,
+          "t_max": 28,
+          "rain_mm": 2.7,
           "rain": {
             "sang": 0.0,
-            "chieu": 1.5,
+            "chieu": 2.7,
+            "toi": 0.0
+          }
+        },
+        {
+          "date": "2026-11-22",
+          "t_min": 21,
+          "t_max": 29,
+          "rain_mm": 0.0,
+          "rain": {
+            "sang": 0.0,
+            "chieu": 0.0,
             "toi": 0.0
           }
         }
@@ -83,24 +83,13 @@
       "place": "Pleiku",
       "days": [
         {
-          "date": "2026-11-19",
-          "t_min": 20,
-          "t_max": 24,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
-        {
           "date": "2026-11-20",
-          "t_min": 20,
+          "t_min": 19,
           "t_max": 28,
-          "rain_mm": 0.0,
+          "rain_mm": 0.6,
           "rain": {
             "sang": 0.0,
-            "chieu": 0.0,
+            "chieu": 0.6,
             "toi": 0.0
           }
         },
@@ -110,8 +99,19 @@
           "t_max": 27,
           "rain_mm": 0.6,
           "rain": {
-            "sang": 0.2,
-            "chieu": 0.4,
+            "sang": 0.3,
+            "chieu": 0.3,
+            "toi": 0.0
+          }
+        },
+        {
+          "date": "2026-11-22",
+          "t_min": 20,
+          "t_max": 28,
+          "rain_mm": 0.0,
+          "rain": {
+            "sang": 0.0,
+            "chieu": 0.0,
             "toi": 0.0
           }
         }
@@ -121,24 +121,13 @@
       "place": "Bảo Lộc",
       "days": [
         {
-          "date": "2026-11-19",
-          "t_min": 19,
-          "t_max": 25,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
-        {
           "date": "2026-11-20",
           "t_min": 19,
           "t_max": 28,
-          "rain_mm": 1.7,
+          "rain_mm": 2.0,
           "rain": {
             "sang": 0.0,
-            "chieu": 1.7,
+            "chieu": 2.0,
             "toi": 0.0
           }
         },
@@ -146,10 +135,21 @@
           "date": "2026-11-21",
           "t_min": 18,
           "t_max": 28,
-          "rain_mm": 5.1,
+          "rain_mm": 3.5,
           "rain": {
-            "sang": 0.9,
-            "chieu": 4.2,
+            "sang": 0.0,
+            "chieu": 3.5,
+            "toi": 0.0
+          }
+        },
+        {
+          "date": "2026-11-22",
+          "t_min": 19,
+          "t_max": 28,
+          "rain_mm": 2.2,
+          "rain": {
+            "sang": 0.3,
+            "chieu": 1.9,
             "toi": 0.0
           }
         }
