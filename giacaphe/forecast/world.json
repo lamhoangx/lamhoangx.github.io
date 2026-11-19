@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:00:16+07:00",
+  "generated_at": "2026-11-20T06:15:15+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 81,
@@ -10,50 +10,50 @@
   "predictions": [
     {
       "date": "2026-11-20",
-      "price": 2973,
-      "low": 2925,
-      "high": 3021
+      "price": 2978,
+      "low": 2953,
+      "high": 3003
     },
     {
       "date": "2026-11-21",
-      "price": 2968,
-      "low": 2868,
-      "high": 3068
+      "price": 2973,
+      "low": 2885,
+      "high": 3061
     },
     {
       "date": "2026-11-22",
-      "price": 2968,
-      "low": 2868,
-      "high": 3068
+      "price": 2973,
+      "low": 2885,
+      "high": 3061
     },
     {
       "date": "2026-11-23",
-      "price": 2968,
-      "low": 2868,
-      "high": 3068
+      "price": 2973,
+      "low": 2885,
+      "high": 3061
     },
     {
       "date": "2026-11-24",
-      "price": 2964,
-      "low": 2831,
-      "high": 3097
+      "price": 2969,
+      "low": 2845,
+      "high": 3093
     },
     {
       "date": "2026-11-25",
-      "price": 2961,
-      "low": 2802,
-      "high": 3120
+      "price": 2966,
+      "low": 2814,
+      "high": 3118
     },
     {
       "date": "2026-11-26",
-      "price": 2959,
-      "low": 2777,
-      "high": 3141
+      "price": 2964,
+      "low": 2788,
+      "high": 3139
     }
   ],
   "accuracy_30d": {
-    "samples": 23,
-    "mae": 38,
+    "samples": 22,
+    "mae": 37,
     "direction_hit_rate": null
   },
   "stats": {
@@ -80,10 +80,10 @@
     "rating": -0.4666666666666667,
     "rating_ma": -0.9333333333333333,
     "rating_other": 0,
-    "rsi": 24.109381439943846,
-    "close": 2973.0,
+    "rsi": 24.340496463879305,
+    "close": 2978.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-19T22:00:16+07:00"
+    "fetched_at": "2026-11-20T06:15:15+07:00"
   },
   "pre_session": {
     "anchor_date": "2026-11-19",
