@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:54:25+07:00",
+  "generated_at": "2026-11-19T19:30:30+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 81,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-20",
-      "price": 3013,
-      "low": 2925,
-      "high": 3101
+      "price": 3005,
+      "low": 2938,
+      "high": 3072
     },
     {
       "date": "2026-11-21",
-      "price": 3008,
-      "low": 2884,
-      "high": 3132
+      "price": 3001,
+      "low": 2890,
+      "high": 3111
     },
     {
       "date": "2026-11-22",
-      "price": 3008,
-      "low": 2884,
-      "high": 3132
+      "price": 3001,
+      "low": 2890,
+      "high": 3111
     },
     {
       "date": "2026-11-23",
-      "price": 3008,
-      "low": 2884,
-      "high": 3132
+      "price": 3001,
+      "low": 2890,
+      "high": 3111
     },
     {
       "date": "2026-11-24",
-      "price": 3005,
-      "low": 2852,
-      "high": 3157
+      "price": 2997,
+      "low": 2856,
+      "high": 3138
     },
     {
       "date": "2026-11-25",
-      "price": 3002,
-      "low": 2826,
-      "high": 3177
+      "price": 2995,
+      "low": 2828,
+      "high": 3161
     },
     {
       "date": "2026-11-26",
-      "price": 3000,
-      "low": 2804,
-      "high": 3196
+      "price": 2993,
+      "low": 2805,
+      "high": 3181
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.5575757575757576,
-    "rating_ma": -0.9333333333333333,
-    "rating_other": -0.18181818181818182,
-    "rsi": 26.417035202744685,
-    "close": 3019.0,
+    "rating": -0.4,
+    "rating_ma": -0.8,
+    "rating_other": 0,
+    "rsi": 25.669264895440392,
+    "close": 3005.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-19T11:54:25+07:00"
+    "fetched_at": "2026-11-19T19:30:30+07:00"
   },
   "pre_session": {
     "anchor_date": "2026-11-19",
