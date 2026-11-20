@@ -1,13 +1,36 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T09:40:31+07:00",
+  "generated_at": "2026-11-20T11:41:42+07:00",
   "date": "2026-11-20",
   "groups": [
+    {
+      "id": "vtv-100261119122402588",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "vtv-100261119122402588",
+          "title": "Mở rộng thị trường cho cà phê Việt Nam",
+          "url": "https://vtv.vn/mo-rong-thi-truong-cho-ca-phe-viet-nam-100261119122402588.htm",
+          "source": "VTV",
+          "published_at": "2026-11-20T11:32:00+07:00",
+          "image": "https://cdn-images.vtv.vn/zoom/600_315/66349b6076cb4dee98746cf1/2026/10/26/gia-ca-phe-thuonghieucongluanvn-78030827586499137876413-42787694530419152714179.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-20",
       "label": "Giá cà phê ngày 20/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56558649",
+          "title": "Giá nông sản hôm nay (20/11): Giá cà phê chưa dứt đà giảm, thịt lợn hơi tiếp tục tăng",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-20-11-gia-ca-phe-chua-dut-da-giam-thit-lon-hoi-tiep-tuc-tang-c56558649.epi",
+          "source": "Tạp chí Thương Gia",
+          "published_at": "2026-11-20T11:03:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_20_341_56558649/b01c5dbec1f528ab71e4.jpg"
+        },
         {
           "id": "vtc-1052577",
           "title": "Giá cà phê hôm nay trực tuyến 20/11/2026",
@@ -15,7 +38,7 @@
           "source": "VTC News",
           "published_at": "2026-11-20T09:32:21+07:00",
           "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/20/ca-phe2-08413900.jpg",
-          "image_small": "news/anh/5dd6e31a4a5f5e7fd6bf.jpg"
+          "image_small": "news/anh/123032948c86f8e3238f.jpg"
         },
         {
           "id": "vov-1351577",
@@ -114,9 +137,40 @@
       ]
     },
     {
+      "id": "bm-56558946",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "bm-56558946",
+          "title": "Quảng Ngãi: Xã Măng Đen kiểm tra tiến độ phát triển vườn ươm cà phê, chỉnh trang hồ Đắk Ke",
+          "url": "https://baomoi.com/quang-ngai-xa-mang-den-kiem-tra-tien-do-phat-trien-vuon-uom-ca-phe-chinh-trang-ho-dak-ke-c56558946.epi",
+          "source": "Tạp chí Nông nghiệp Hữu cơ Việt Nam",
+          "published_at": "2026-11-20T11:17:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_20_632_56558946/b2abce05524ebb10e25f.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dnhn-154664",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "dnhn-154664",
+          "title": "Thị trường nguyên liệu công nghiệp 20 11 2026 Cà phê cao su và dầu cọ đồng loạt giảm",
+          "url": "https://doanhnghiephoinhap.vn/thi-truong-nguyen-lieu-cong-nghiep-20112026-ca-phe-cao-su-va-dau-co-dong-loat-giam-154664.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-20T10:39:10+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/8920261115225906.jpg",
+          "image_small": "news/anh/43baa25d2ef508dbc2ab.jpg"
+        }
+      ]
+    },
+    {
       "id": "bm-56557542",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "bm-56557542",
@@ -217,6 +271,22 @@
       "title": "Tin tức sầu riêng",
       "date": "2026-11-20",
       "groups": [
+        {
+          "id": "vov-1351817",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "vov-1351817",
+              "title": "Sầu riêng Ri6 giảm giá mạnh khi vào mùa thu hoạch rộ tại Đồng Tháp",
+              "url": "https://vov.vn/thi-truong/sau-rieng-ri6-giam-gia-manh-khi-vao-mua-thu-hoach-ro-tai-dong-thap-post1351817.vov",
+              "source": "VOV",
+              "published_at": "2026-11-20T11:24:57+07:00",
+              "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/trai-sau-rieng-luon-dao-dong-boi-yeu-to-cung-cau-khien-nha-vuon-lo-lang.jpg",
+              "image_small": "news/anh/63814fa968a26e3ce4cd.jpg"
+            }
+          ]
+        },
         {
           "id": "gia-sau-rieng-2026-11-20",
           "label": "Giá sầu riêng ngày 20/11",
