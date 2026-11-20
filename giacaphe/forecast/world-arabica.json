@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:30:19+07:00",
+  "generated_at": "2026-11-20T19:30:31+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 82,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-21",
-      "price": 6082,
-      "low": 5881,
-      "high": 6283
+      "price": 6020,
+      "low": 5858,
+      "high": 6182
     },
     {
       "date": "2026-11-22",
-      "price": 6082,
-      "low": 5881,
-      "high": 6283
+      "price": 6020,
+      "low": 5858,
+      "high": 6182
     },
     {
       "date": "2026-11-23",
-      "price": 6082,
-      "low": 5881,
-      "high": 6283
+      "price": 6020,
+      "low": 5858,
+      "high": 6182
     },
     {
       "date": "2026-11-24",
-      "price": 6080,
-      "low": 5796,
-      "high": 6364
+      "price": 6009,
+      "low": 5751,
+      "high": 6267
     },
     {
       "date": "2026-11-25",
-      "price": 6079,
-      "low": 5730,
-      "high": 6427
+      "price": 6000,
+      "low": 5673,
+      "high": 6327
     },
     {
       "date": "2026-11-26",
-      "price": 6077,
-      "low": 5675,
-      "high": 6479
+      "price": 5993,
+      "low": 5610,
+      "high": 6377
     },
     {
       "date": "2026-11-27",
-      "price": 6076,
-      "low": 5627,
-      "high": 6526
+      "price": 5989,
+      "low": 5555,
+      "high": 6422
     }
   ],
   "accuracy_30d": {
@@ -77,13 +77,13 @@
   "technical": {
     "symbol": "ICEUS:KCH2027",
     "month": "03/27",
-    "rating": -0.1090909090909091,
-    "rating_ma": -0.4,
-    "rating_other": 0.18181818181818182,
-    "rsi": 48.241511929656504,
-    "close": 6085.0,
+    "rating": -0.4454545454545455,
+    "rating_ma": -0.8,
+    "rating_other": -0.09090909090909091,
+    "rsi": 45.481963439743396,
+    "close": 6020.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-20T15:30:19+07:00"
+    "fetched_at": "2026-11-20T19:30:31+07:00"
   },
   "the": {
     "schema": 1,
