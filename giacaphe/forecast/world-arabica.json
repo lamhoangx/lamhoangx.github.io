@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:00:16+07:00",
+  "generated_at": "2026-11-21T05:50:19+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 82,
@@ -10,49 +10,49 @@
   "predictions": [
     {
       "date": "2026-11-21",
-      "price": 6013,
-      "low": 5889,
-      "high": 6137
+      "price": 5924,
+      "low": 5874,
+      "high": 5974
     },
     {
       "date": "2026-11-22",
-      "price": 6013,
-      "low": 5889,
-      "high": 6137
+      "price": 5924,
+      "low": 5874,
+      "high": 5974
     },
     {
       "date": "2026-11-23",
-      "price": 6013,
-      "low": 5889,
-      "high": 6137
+      "price": 5924,
+      "low": 5874,
+      "high": 5974
     },
     {
       "date": "2026-11-24",
-      "price": 6002,
-      "low": 5766,
-      "high": 6237
+      "price": 5910,
+      "low": 5709,
+      "high": 6111
     },
     {
       "date": "2026-11-25",
-      "price": 5993,
-      "low": 5683,
-      "high": 6303
+      "price": 5899,
+      "low": 5615,
+      "high": 6183
     },
     {
       "date": "2026-11-26",
-      "price": 5986,
-      "low": 5617,
-      "high": 6356
+      "price": 5891,
+      "low": 5543,
+      "high": 6239
     },
     {
       "date": "2026-11-27",
-      "price": 5982,
-      "low": 5561,
-      "high": 6402
+      "price": 5885,
+      "low": 5483,
+      "high": 6287
     }
   ],
   "accuracy_30d": {
-    "samples": 23,
+    "samples": 22,
     "mae": 102,
     "direction_hit_rate": null
   },
@@ -77,18 +77,18 @@
   "technical": {
     "symbol": "ICEUS:KCH2027",
     "month": "03/27",
-    "rating": -0.4454545454545455,
-    "rating_ma": -0.8,
-    "rating_other": -0.09090909090909091,
-    "rsi": 45.218914539113435,
-    "close": 6013.0,
+    "rating": -0.5575757575757576,
+    "rating_ma": -0.9333333333333333,
+    "rating_other": -0.18181818181818182,
+    "rsi": 41.9439935074081,
+    "close": 5924.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-20T22:00:16+07:00"
+    "fetched_at": "2026-11-21T05:50:19+07:00"
   },
   "the": {
     "schema": 1,
     "the": [],
-    "sai_so": "23 lần dự đoán Arabica gần nhất lệch giá thật trung bình 102 USD/tấn"
+    "sai_so": "22 lần dự đoán Arabica gần nhất lệch giá thật trung bình 102 USD/tấn"
   },
   "pre_session": {
     "anchor_date": "2026-11-20",
