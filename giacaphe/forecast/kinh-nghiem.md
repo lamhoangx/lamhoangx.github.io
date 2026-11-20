@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 20/11/2026 12:14. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 20/11/2026 14:24. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -22,7 +22,7 @@ Cập nhật: 20/11/2026 12:14. Sổ giữ 60 ngày mốc gần nhất; mọi co
 
 ### Lớp xu hướng chậm (ngày 2–7)
 
-Từ `tv-close-gemini-v12` các ngày 2–7 cộng thêm 0,5 × mức đổi trung bình mỗi ngày trên 20 phiên của chính chuỗi giá. Trên 3 mốc lớp có lên tiếng (6 lần chấm ngày 2–7): sai số TB **4.207 đ**, nếu bỏ lớp **4.548 đ**.
+Từ `tv-close-gemini-v12` các ngày 2–7 cộng thêm 0,5 × mức đổi trung bình mỗi ngày trên 20 phiên của chính chuỗi giá (từ `tv-close-gemini-v13`: 0,25 khi chuỗi vừa qua phiên sốc). Trên 3 mốc lớp có lên tiếng (6 lần chấm ngày 2–7): sai số TB **4.207 đ**, nếu bỏ lớp **4.548 đ**.
 Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 3) rồi mới kết luận.
 
 ### Ngày-1: mô hình so với đứng yên
