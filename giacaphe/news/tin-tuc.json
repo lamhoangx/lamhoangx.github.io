@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T09:20:30+07:00",
+  "generated_at": "2026-11-20T09:40:31+07:00",
   "date": "2026-11-20",
   "groups": [
     {
@@ -9,13 +9,22 @@
       "important": true,
       "items": [
         {
+          "id": "vtc-1052577",
+          "title": "Giá cà phê hôm nay trực tuyến 20/11/2026",
+          "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-20-11-2026-ar1052577.html",
+          "source": "VTC News",
+          "published_at": "2026-11-20T09:32:21+07:00",
+          "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/20/ca-phe2-08413900.jpg",
+          "image_small": "news/anh/5dd6e31a4a5f5e7fd6bf.jpg"
+        },
+        {
           "id": "vov-1351577",
           "title": "Giá cà phê hôm nay 20/11: Giá cà phê trong nước cao nhất 75.000 đồng/kg",
           "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2011-gia-ca-phe-trong-nuoc-cao-nhat-75000-dongkg-post1351577.vov",
           "source": "VOV",
           "published_at": "2026-11-20T09:08:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-05/-4535-1745025743_860x0.jpg",
-          "image_small": "news/anh/67d52ea63254f5328fd5.jpg"
+          "image_small": "news/anh/580a5142c735b22ea77c.jpg"
         },
         {
           "id": "bgl-605473",
@@ -158,6 +167,15 @@
               "image_small": "news/anh/3980ca26107a4c4a82cd.jpg"
             },
             {
+              "id": "vnbiz-2026112075619780",
+              "title": "Giá tiêu hôm nay 20/11: Giảm ngày thứ ba liên tiếp",
+              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2011-giam-ngay-thu-ba-lien-tiep-2026112075619780.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-20T07:56:10+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/20/gia-tieu-20-11-20261120075309690-avatar-15x10-20261120075619315.jpg",
+              "image_small": "news/anh/f4b7718e8d5e33d5aeee.jpg"
+            },
+            {
               "id": "bvh-gia-ho-tieu-hom-nay-20-11-gia-thu-mua-giam-xuat-khau-it-bien-dong",
               "title": "Giá hồ tiêu hôm nay 20.11: Giá thu mua giảm, xuất khẩu ít biến động",
               "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-20-11-gia-thu-mua-giam-xuat-khau-it-bien-dong.html",
@@ -202,8 +220,17 @@
         {
           "id": "gia-sau-rieng-2026-11-20",
           "label": "Giá sầu riêng ngày 20/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "vnbiz-2026112085713548",
+              "title": "Giá sầu riêng hôm nay 20/11: Tiếp tục đi ngang, gỡ khó trong quản lý mã số vùng trồng",
+              "url": "https://vietnambiz.vn/gia-sau-rieng-hom-nay-2011-tiep-tuc-di-ngang-go-kho-trong-quan-ly-ma-so-vung-trong-2026112085713548.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-20T09:00:00+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/20/lich-cup-dien-quang-tri-12-20261120085428174-avatar-15x10-2026112008571363.jpg",
+              "image_small": "news/anh/4409389ddb70074301ab.jpg"
+            },
             {
               "id": "dnhn-154695",
               "title": "Giá sầu riêng hôm nay 20 11 Sầu riêng Thái miền Tây đạt mốc 110 000 đồng kg",
@@ -211,7 +238,7 @@
               "source": "Doanh nghiệp và Hội nhập",
               "published_at": "2026-11-20T07:30:48+07:00",
               "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/19/23/in_social/anh-sau-rieng-lua-gao-heo-hoi20261119232838.png",
-              "image_small": "news/anh/579abf252582fb2cd6a8.jpg"
+              "image_small": "news/anh/508cdd3046f36457fb0d.jpg"
             },
             {
               "id": "thcl-295478",
