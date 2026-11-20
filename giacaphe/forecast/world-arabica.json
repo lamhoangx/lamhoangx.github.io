@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-20T06:15:15+07:00",
+  "generated_at": "2026-11-20T10:10:29+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 81,
+  "trained_days": 82,
   "anchor": {
-    "date": "2026-11-19",
-    "price": 6073
+    "date": "2026-11-20",
+    "price": 6085
   },
   "predictions": [
     {
-      "date": "2026-11-20",
-      "price": 6074,
-      "low": 6024,
-      "high": 6124
-    },
-    {
       "date": "2026-11-21",
-      "price": 6071,
-      "low": 5873,
-      "high": 6270
+      "price": 6082,
+      "low": 5881,
+      "high": 6283
     },
     {
       "date": "2026-11-22",
-      "price": 6071,
-      "low": 5873,
-      "high": 6270
+      "price": 6082,
+      "low": 5881,
+      "high": 6283
     },
     {
       "date": "2026-11-23",
-      "price": 6071,
-      "low": 5873,
-      "high": 6270
+      "price": 6082,
+      "low": 5881,
+      "high": 6283
     },
     {
       "date": "2026-11-24",
-      "price": 6069,
-      "low": 5788,
-      "high": 6350
+      "price": 6080,
+      "low": 5796,
+      "high": 6364
     },
     {
       "date": "2026-11-25",
-      "price": 6068,
-      "low": 5723,
-      "high": 6412
+      "price": 6079,
+      "low": 5730,
+      "high": 6427
     },
     {
       "date": "2026-11-26",
-      "price": 6066,
-      "low": 5669,
-      "high": 6464
+      "price": 6077,
+      "low": 5675,
+      "high": 6479
+    },
+    {
+      "date": "2026-11-27",
+      "price": 6076,
+      "low": 5627,
+      "high": 6526
     }
   ],
   "accuracy_30d": {
-    "samples": 22,
-    "mae": 106,
+    "samples": 23,
+    "mae": 102,
     "direction_hit_rate": null
   },
   "stats": {
@@ -66,9 +66,9 @@
       "date": "2026-11-12",
       "price": 5835
     },
-    "average": 6367,
-    "ma7": 6041,
-    "ma30": 6367
+    "average": 6351,
+    "ma7": 6077,
+    "ma30": 6351
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -80,30 +80,30 @@
     "rating": -0.1090909090909091,
     "rating_ma": -0.4,
     "rating_other": 0.18181818181818182,
-    "rsi": 47.74250019607567,
-    "close": 6074.0,
+    "rsi": 48.241511929656504,
+    "close": 6085.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-20T06:15:15+07:00"
+    "fetched_at": "2026-11-20T10:10:29+07:00"
   },
   "pre_session": {
-    "anchor_date": "2026-11-19",
-    "anchor_price": 6073,
+    "anchor_date": "2026-11-20",
+    "anchor_price": 6085,
     "predictions": [
       {
-        "date": "2026-11-20",
-        "price": 6065
-      },
-      {
         "date": "2026-11-21",
-        "price": 6059
+        "price": 6082
       },
       {
         "date": "2026-11-22",
-        "price": 6059
+        "price": 6082
       },
       {
         "date": "2026-11-23",
-        "price": 6059
+        "price": 6082
+      },
+      {
+        "date": "2026-11-24",
+        "price": 6080
       }
     ]
   }

@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-11-20T06:15:15+07:00",
+  "generated_at": "2026-11-20T10:10:29+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 81,
+  "trained_days": 82,
   "anchor": {
-    "date": "2026-11-19",
-    "price": 3019
+    "date": "2026-11-20",
+    "price": 2978
   },
   "predictions": [
     {
-      "date": "2026-11-20",
-      "price": 2978,
-      "low": 2953,
-      "high": 3003
-    },
-    {
       "date": "2026-11-21",
       "price": 2973,
-      "low": 2885,
-      "high": 3061
+      "low": 2887,
+      "high": 3059
     },
     {
       "date": "2026-11-22",
       "price": 2973,
-      "low": 2885,
-      "high": 3061
+      "low": 2887,
+      "high": 3059
     },
     {
       "date": "2026-11-23",
       "price": 2973,
-      "low": 2885,
-      "high": 3061
+      "low": 2887,
+      "high": 3059
     },
     {
       "date": "2026-11-24",
       "price": 2969,
-      "low": 2845,
-      "high": 3093
+      "low": 2847,
+      "high": 3091
     },
     {
       "date": "2026-11-25",
       "price": 2966,
-      "low": 2814,
-      "high": 3118
+      "low": 2817,
+      "high": 3115
     },
     {
       "date": "2026-11-26",
       "price": 2964,
-      "low": 2788,
-      "high": 3139
+      "low": 2792,
+      "high": 3136
+    },
+    {
+      "date": "2026-11-27",
+      "price": 2962,
+      "low": 2770,
+      "high": 3155
     }
   ],
   "accuracy_30d": {
-    "samples": 22,
+    "samples": 23,
     "mae": 37,
     "direction_hit_rate": null
   },
@@ -63,12 +63,12 @@
       "price": 3484
     },
     "low": {
-      "date": "2026-11-19",
-      "price": 3019
+      "date": "2026-11-20",
+      "price": 2978
     },
-    "average": 3262,
-    "ma7": 3154,
-    "ma30": 3262
+    "average": 3246,
+    "ma7": 3116,
+    "ma30": 3246
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "robusta",
@@ -83,27 +83,27 @@
     "rsi": 24.340496463879305,
     "close": 2978.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-20T06:15:15+07:00"
+    "fetched_at": "2026-11-20T10:10:29+07:00"
   },
   "pre_session": {
-    "anchor_date": "2026-11-19",
-    "anchor_price": 3019,
+    "anchor_date": "2026-11-20",
+    "anchor_price": 2978,
     "predictions": [
       {
-        "date": "2026-11-20",
-        "price": 3013
-      },
-      {
         "date": "2026-11-21",
-        "price": 3008
+        "price": 2973
       },
       {
         "date": "2026-11-22",
-        "price": 3008
+        "price": 2973
       },
       {
         "date": "2026-11-23",
-        "price": 3008
+        "price": 2973
+      },
+      {
+        "date": "2026-11-24",
+        "price": 2969
       }
     ]
   }
