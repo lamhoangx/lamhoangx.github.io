@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T14:10:29+07:00",
+  "generated_at": "2026-11-21T17:03:44+07:00",
   "date": "2026-11-21",
   "groups": [
+    {
+      "id": "bm-56569882",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56569882",
+          "title": "Chủ động chuẩn bị vụ trồng mới cà phê, mắc ca năm 2027",
+          "url": "https://baomoi.com/chu-dong-chuan-bi-vu-trong-moi-ca-phe-mac-ca-nam-2027-c56569882.epi",
+          "source": "Báo Điện Biên Phủ",
+          "published_at": "2026-11-21T16:58:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_422_56569882/e97e1b47870c6e52371d.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-21",
       "label": "Giá cà phê ngày 21/11",
@@ -14,7 +29,7 @@
           "url": "https://baomoi.com/gia-nong-san-hom-nay-21-11-2026-gia-ca-phe-trong-nuoc-mat-moc-72-000-dong-cham-day-brazil-dua-tranh-chap-thue-voi-my-len-wto-muon-dap-tra-c56568569.epi",
           "source": "Báo Thế Giới & Việt Nam",
           "published_at": "2026-11-21T13:45:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_194_56568569/0ada63f0ffbb16e54faa.jpg"
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_194_56568569/248c2ea3b2e85bb602f9.jpg"
         },
         {
           "id": "gdm-101042",
@@ -104,17 +119,18 @@
       ]
     },
     {
-      "id": "bm-56565691",
+      "id": "tt-100261116141539605",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
-          "id": "bm-56565691",
-          "title": "Học nghề trồng càphê, mở hướng sinh kế cho lao động miền núi Gia Lai",
-          "url": "https://baomoi.com/hoc-nghe-trong-caphe-mo-huong-sinh-ke-cho-lao-dong-mien-nui-gia-lai-c56565691.epi",
-          "source": "Báo VietnamPlus",
-          "published_at": "2026-11-21T08:00:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_293_56565691/2c5ad0184c53a50dfc42.jpg"
+          "id": "tt-100261116141539605",
+          "title": "Tận dụng bã cà phê sản xuất nhiên liệu, hóa chất",
+          "url": "https://tuoitre.vn/tan-dung-ba-ca-phe-san-xuat-nhien-lieu-hoa-chat-100261116141539605.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-21T16:25:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/16/ba-ca-phe-giup-san-xuat-nhien-lieu-va-hoa-chat-17948131008532074896274.jpg",
+          "image_small": "news/anh/c9b1c77990c8f9ab1d82.jpg"
         }
       ]
     },
@@ -130,6 +146,21 @@
           "source": "Đại Biểu Nhân Dân",
           "published_at": "2026-11-21T08:28:00+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_592_56565892/cf56d01b4c50a50efc41.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bm-56565691",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "bm-56565691",
+          "title": "Học nghề trồng càphê, mở hướng sinh kế cho lao động miền núi Gia Lai",
+          "url": "https://baomoi.com/hoc-nghe-trong-caphe-mo-huong-sinh-ke-cho-lao-dong-mien-nui-gia-lai-c56565691.epi",
+          "source": "Báo VietnamPlus",
+          "published_at": "2026-11-21T08:00:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_293_56565691/2c5ad0184c53a50dfc42.jpg"
         }
       ]
     },
@@ -276,6 +307,20 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56569882",
+        "the": null,
+        "dong_nguon": "Báo Điện Biên Phủ · 16:58",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "tt-100261116141539605",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 16:25",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56568569",
         "the": "Cà phê",
         "dong_nguon": "Báo Thế Giới & Việt Nam · 13:45",
@@ -363,14 +408,14 @@
         "id": "bm-56565691",
         "the": null,
         "dong_nguon": "Báo VietnamPlus · 08:00",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
         "id": "dnhn-154779",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
