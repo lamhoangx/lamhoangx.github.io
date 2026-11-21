@@ -1,28 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T08:35:27+07:00",
+  "generated_at": "2026-11-21T08:55:27+07:00",
   "date": "2026-11-21",
   "groups": [
-    {
-      "id": "bm-56565691",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "bm-56565691",
-          "title": "Học nghề trồng càphê, mở hướng sinh kế cho lao động miền núi Gia Lai",
-          "url": "https://baomoi.com/hoc-nghe-trong-caphe-mo-huong-sinh-ke-cho-lao-dong-mien-nui-gia-lai-c56565691.epi",
-          "source": "Báo VietnamPlus",
-          "published_at": "2026-11-21T08:00:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_293_56565691/2c5ad0184c53a50dfc42.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-21",
       "label": "Giá cà phê ngày 21/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56566091",
+          "title": "Giá cà phê hôm nay 21/11: Robusta giảm phiên thứ 10, áp lực vẫn lớn",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-21-11-robusta-giam-phien-thu-10-ap-luc-van-lon-c56566091.epi",
+          "source": "Báo Lào Cai",
+          "published_at": "2026-11-21T08:47:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_438_56566091/a22a7b65e72e0e70573f.jpg"
+        },
+        {
+          "id": "bgl-605590",
+          "title": "Giá nông sản hôm nay (21-11): Cà phê Robusta chạm đáy gần 3 năm, hồ tiêu Gia Lai thấp nhất cả nước",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-21-11-ca-phe-robusta-cham-day-gan-3-nam-ho-tieu-gia-lai-thap-nhat-ca-nuoc-post605590.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-21T08:30:00+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgAXZJkl-Db5U9jlcNMn3WlKlzKcmyDNgO99j5g7W39-ErDE6deIb8xOXV6Qsc6a93A/gia-nong-san-hom-nay-21.png",
+          "image_small": "news/anh/1988a335ba83f74eee51.jpg"
+        },
         {
           "id": "bm-56565295",
           "title": "Giá cà phê hôm nay 21/11: Robusta giảm phiên thứ 10 liên tiếp, mất mốc 2.900 USD",
@@ -55,6 +57,21 @@
           "published_at": "2026-11-21T01:00:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/ca_phe_1.jpg",
           "image_small": "news/anh/01ca460db2a540922438.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bm-56565691",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56565691",
+          "title": "Học nghề trồng càphê, mở hướng sinh kế cho lao động miền núi Gia Lai",
+          "url": "https://baomoi.com/hoc-nghe-trong-caphe-mo-huong-sinh-ke-cho-lao-dong-mien-nui-gia-lai-c56565691.epi",
+          "source": "Báo VietnamPlus",
+          "published_at": "2026-11-21T08:00:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_293_56565691/2c5ad0184c53a50dfc42.jpg"
         }
       ]
     },
@@ -198,6 +215,20 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56566091",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lào Cai · 08:47",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "bgl-605590",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Gia Lai · 08:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56565892",
         "the": null,
         "dong_nguon": "Đại Biểu Nhân Dân · 08:28",
@@ -215,7 +246,7 @@
         "id": "dnhn-154779",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -229,7 +260,7 @@
         "id": "bm-56565295",
         "the": "Cà phê",
         "dong_nguon": "Báo Ninh Bình · 06:45",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -243,7 +274,7 @@
         "id": "dt-20261120163144197",
         "the": null,
         "dong_nguon": "Dân trí · 06:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "ho-tieu",
