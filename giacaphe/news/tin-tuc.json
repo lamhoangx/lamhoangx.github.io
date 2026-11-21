@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T08:55:27+07:00",
+  "generated_at": "2026-11-21T09:15:26+07:00",
   "date": "2026-11-21",
   "groups": [
     {
@@ -8,6 +8,24 @@
       "label": "Giá cà phê ngày 21/11",
       "important": true,
       "items": [
+        {
+          "id": "vtc-1052812",
+          "title": "Giá cà phê hôm nay trực tuyến 21/11/2026",
+          "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-21-11-2026-ar1052812.html",
+          "source": "VTC News",
+          "published_at": "2026-11-21T09:04:23+07:00",
+          "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/21/gia-ca-phe-21-8-08275032.jpg",
+          "image_small": "news/anh/abd5fc32e2cee626f556.jpg"
+        },
+        {
+          "id": "dnhn-154784",
+          "title": "Giá cà phê hôm nay 21 11 2026 Robusta lao dốc 3 26 cà phê Tây Nguyên tiếp đà giảm",
+          "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-21112026-robusta-lao-doc-326-ca-phe-tay-nguyen-tiep-da-giam-154784.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-21T09:04:19+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/21/08/in_social/2320261121085050.jpg",
+          "image_small": "news/anh/46f5144910ca2620b514.jpg"
+        },
         {
           "id": "bm-56566091",
           "title": "Giá cà phê hôm nay 21/11: Robusta giảm phiên thứ 10, áp lực vẫn lớn",
@@ -215,10 +233,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "vtc-1052812",
+        "the": "Cà phê",
+        "dong_nguon": "VTC News · 09:04",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "dnhn-154784",
+        "the": "Cà phê",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 09:04",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56566091",
         "the": "Cà phê",
         "dong_nguon": "Báo Lào Cai · 08:47",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -239,14 +271,14 @@
         "id": "bm-56565691",
         "the": null,
         "dong_nguon": "Báo VietnamPlus · 08:00",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
         "id": "dnhn-154779",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
