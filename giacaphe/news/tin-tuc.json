@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T06:46:51+07:00",
+  "generated_at": "2026-11-21T07:30:58+07:00",
   "date": "2026-11-21",
   "groups": [
     {
@@ -40,6 +40,22 @@
           "published_at": "2026-11-21T01:00:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/ca_phe_1.jpg",
           "image_small": "news/anh/01ca460db2a540922438.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dt-20261120163144197",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "dt-20261120163144197",
+          "title": "Doanh nghiệp xuất khẩu cà phê đổ về sân nhà, cuộc đua mở quán thêm nóng",
+          "url": "https://dantri.com.vn/kinh-doanh/doanh-nghiep-xuat-khau-ca-phe-do-ve-san-nha-cuoc-dua-mo-quan-them-nong-20261120163144197.htm",
+          "source": "Dân trí",
+          "published_at": "2026-11-21T06:30:01+07:00",
+          "image": "https://cdnphoto.dantri.com.vn/rWDQXWxaBxNvW60hssDnb3F_dBk=/2026/11/20/ca-phe-7-cropped-1795166968875.jpg",
+          "image_small": "news/anh/35fa29e607c55df0962e.jpg"
         }
       ]
     }
@@ -137,6 +153,13 @@
         "id": "tbtc-207336",
         "the": "Cà phê",
         "dong_nguon": "Thời báo Tài chính Việt Nam · 06:34",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "dt-20261120163144197",
+        "the": null,
+        "dong_nguon": "Dân trí · 06:30",
         "noi_bat": false
       },
       {
