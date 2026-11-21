@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T07:30:58+07:00",
+  "generated_at": "2026-11-21T07:55:26+07:00",
   "date": "2026-11-21",
   "groups": [
+    {
+      "id": "tt-100261120194906842",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261120194906842",
+          "title": "Bán giá cao chưa đủ, Robusta Việt cần một chuỗi khỏe",
+          "url": "https://tuoitre.vn/ban-gia-cao-chua-du-robusta-viet-can-mot-chuoi-khoe-100261120194906842.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-21T07:30:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/golden-robusta-blao-1756-17951785281781056032885-250-0-4000-6000-crop-1795178542222416568567.jpg",
+          "image_small": "news/anh/5d142a0386b2aefb620c.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-21",
       "label": "Giá cà phê ngày 21/11",
@@ -18,11 +34,11 @@
         },
         {
           "id": "tbtc-207336",
-          "title": "Ngày 21 11 Giá cà phê và hồ tiêu tiếp tục lao dốc",
+          "title": "Ngày 21/11: Giá cà phê và hồ tiêu tiếp tục lao dốc",
           "url": "https://thoibaotaichinhvietnam.vn/ngay-21-11-gia-ca-phe-va-ho-tieu-tiep-tuc-lao-doc-207336.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-21T06:34:34+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_578_56565545/1888eeea58a1b1ffe8b0.jpg"
         },
         {
           "id": "thcl-295499",
@@ -46,7 +62,7 @@
     {
       "id": "dt-20261120163144197",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "dt-20261120163144197",
@@ -96,6 +112,15 @@
           "important": false,
           "items": [
             {
+              "id": "dnhn-154779",
+              "title": "Giá sầu riêng hôm nay 21 11 Sầu riêng miền Tây tăng giá đều",
+              "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2111-sau-rieng-mien-tay-tang-gia-deu-154779.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-21T07:30:51+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/20/22/in_social/anh-sau-rieng-lua-gao-heo-hoi20261120221325.png",
+              "image_small": "news/anh/533ff4a87d32e01704a8.jpg"
+            },
+            {
               "id": "thcl-295497",
               "title": "Giá sầu riêng hôm nay 21/11: Sầu Thái loại A chạm mốc 100.000 đồng/kg",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-21-11-sau-thai-loai-a-cham-moc-100-000-dong-kg-a295497.html",
@@ -141,6 +166,20 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "dnhn-154779",
+        "the": "Sầu riêng",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "tt-100261120194906842",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 07:30",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "bm-56565295",
