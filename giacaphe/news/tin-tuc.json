@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T12:40:27+07:00",
+  "generated_at": "2026-11-21T13:50:27+07:00",
   "date": "2026-11-21",
   "groups": [
     {
@@ -9,13 +9,12 @@
       "important": true,
       "items": [
         {
-          "id": "vtc-1052812",
-          "title": "Giá cà phê hôm nay trực tuyến 21/11/2026",
-          "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-21-11-2026-ar1052812.html",
-          "source": "VTC News",
-          "published_at": "2026-11-21T09:04:23+07:00",
-          "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/21/gia-ca-phe-21-8-08275032.jpg",
-          "image_small": "news/anh/abd5fc32e2cee626f556.jpg"
+          "id": "bm-56568569",
+          "title": "Giá nông sản hôm nay 21/11/2026: Giá cà phê trong nước mất mốc 72.000 đồng, chạm đáy?; Brazil đưa tranh chấp thuế với Mỹ lên WTO, muốn đáp trả",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-21-11-2026-gia-ca-phe-trong-nuoc-mat-moc-72-000-dong-cham-day-brazil-dua-tranh-chap-thue-voi-my-len-wto-muon-dap-tra-c56568569.epi",
+          "source": "Báo Thế Giới & Việt Nam",
+          "published_at": "2026-11-21T13:45:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_21_194_56568569/248c2ea3b2e85bb602f9.jpg"
         },
         {
           "id": "gdm-101042",
@@ -24,6 +23,15 @@
           "source": "Gia đình Mới",
           "published_at": "2026-11-21T09:28:47+07:00",
           "image": ""
+        },
+        {
+          "id": "vtc-1052812",
+          "title": "Giá cà phê hôm nay trực tuyến 21/11/2026",
+          "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-21-11-2026-ar1052812.html",
+          "source": "VTC News",
+          "published_at": "2026-11-21T09:04:23+07:00",
+          "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/21/gia-ca-phe-21-8-08275032.jpg",
+          "image_small": "news/anh/42a88f840f91e554dafb.jpg"
         },
         {
           "id": "dnhn-154784",
@@ -258,11 +266,18 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56568569",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Thế Giới & Việt Nam · 13:45",
+        "noi_bat": true
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "dt-20261121093504710",
         "the": null,
         "dong_nguon": "Dân trí · 11:10",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "ho-tieu",
@@ -290,7 +305,7 @@
         "id": "vtc-1052812",
         "the": "Cà phê",
         "dong_nguon": "VTC News · 09:04",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
