@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-21T06:15:12+07:00",
+  "generated_at": "2026-11-21T11:21:41+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 82,
+  "trained_days": 83,
   "anchor": {
-    "date": "2026-11-20",
-    "price": 6085
+    "date": "2026-11-21",
+    "price": 5919
   },
   "predictions": [
     {
-      "date": "2026-11-21",
-      "price": 5924,
-      "low": 5874,
-      "high": 5974
-    },
-    {
       "date": "2026-11-22",
-      "price": 5924,
-      "low": 5874,
-      "high": 5974
+      "price": 5919,
+      "low": 5870,
+      "high": 5968
     },
     {
       "date": "2026-11-23",
-      "price": 5924,
-      "low": 5874,
-      "high": 5974
+      "price": 5919,
+      "low": 5870,
+      "high": 5968
     },
     {
       "date": "2026-11-24",
-      "price": 5910,
-      "low": 5709,
-      "high": 6111
+      "price": 5905,
+      "low": 5702,
+      "high": 6107
     },
     {
       "date": "2026-11-25",
-      "price": 5899,
-      "low": 5615,
-      "high": 6183
+      "price": 5894,
+      "low": 5607,
+      "high": 6180
     },
     {
       "date": "2026-11-26",
-      "price": 5891,
-      "low": 5543,
-      "high": 6239
+      "price": 5886,
+      "low": 5534,
+      "high": 6237
     },
     {
       "date": "2026-11-27",
-      "price": 5885,
-      "low": 5483,
-      "high": 6287
+      "price": 5879,
+      "low": 5474,
+      "high": 6285
+    },
+    {
+      "date": "2026-11-28",
+      "price": 5875,
+      "low": 5421,
+      "high": 6328
     }
   ],
   "accuracy_30d": {
-    "samples": 22,
-    "mae": 102,
+    "samples": 23,
+    "mae": 105,
     "direction_hit_rate": null
   },
   "stats": {
@@ -66,9 +66,9 @@
       "date": "2026-11-12",
       "price": 5835
     },
-    "average": 6351,
-    "ma7": 6077,
-    "ma30": 6351
+    "average": 6332,
+    "ma7": 6057,
+    "ma30": 6332
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -80,35 +80,35 @@
     "rating": -0.5575757575757576,
     "rating_ma": -0.9333333333333333,
     "rating_other": -0.18181818181818182,
-    "rsi": 41.9439935074081,
-    "close": 5924.0,
+    "rsi": 41.7945163001879,
+    "close": 5919.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-21T06:15:12+07:00"
+    "fetched_at": "2026-11-21T11:21:41+07:00"
   },
   "the": {
     "schema": 1,
     "the": [],
-    "sai_so": "22 lần dự đoán Arabica gần nhất lệch giá thật trung bình 102 USD/tấn"
+    "sai_so": "23 lần dự đoán Arabica gần nhất lệch giá thật trung bình 105 USD/tấn"
   },
   "pre_session": {
-    "anchor_date": "2026-11-20",
-    "anchor_price": 6085,
+    "anchor_date": "2026-11-21",
+    "anchor_price": 5919,
     "predictions": [
       {
-        "date": "2026-11-21",
-        "price": 6082
-      },
-      {
         "date": "2026-11-22",
-        "price": 6082
+        "price": 5919
       },
       {
         "date": "2026-11-23",
-        "price": 6082
+        "price": 5919
       },
       {
         "date": "2026-11-24",
-        "price": 6080
+        "price": 5905
+      },
+      {
+        "date": "2026-11-25",
+        "price": 5894
       }
     ]
   }

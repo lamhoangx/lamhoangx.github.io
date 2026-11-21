@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T09:35:32+07:00",
+  "generated_at": "2026-11-21T11:21:38+07:00",
   "date": "2026-11-21",
   "groups": [
     {
@@ -16,6 +16,14 @@
           "published_at": "2026-11-21T09:04:23+07:00",
           "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/21/gia-ca-phe-21-8-08275032.jpg",
           "image_small": "news/anh/abd5fc32e2cee626f556.jpg"
+        },
+        {
+          "id": "gdm-101042",
+          "title": "Giá cà phê hôm nay 21/11/2026: Robusta rơi về mức thấp 3 năm",
+          "url": "https://giadinhmoi.vn/gia-ca-phe-hom-nay-21-11-2026-robusta-roi-ve-muc-thap-3-nam-d101042.html",
+          "source": "Gia đình Mới",
+          "published_at": "2026-11-21T09:28:47+07:00",
+          "image": ""
         },
         {
           "id": "dnhn-154784",
@@ -160,8 +168,25 @@
         {
           "id": "gia-ho-tieu-2026-11-21",
           "label": "Giá hồ tiêu ngày 21/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "dnhn-154748",
+              "title": "Giá tiêu hôm nay 21 11 2026 Giảm mạnh bốn phiên liên tiếp xuất khẩu sang Trung Quốc tăng 71",
+              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-21112026-giam-manh-bon-phien-lien-tiep-xuat-khau-sang-trung-quoc-tang-71-154748.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-21T09:44:55+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/5720261115225837.jpg",
+              "image_small": "news/anh/efaf608ac65d81bf4247.jpg"
+            },
+            {
+              "id": "gdm-101047",
+              "title": "Giá tiêu hôm nay 21/11/2026: Gia Lai còn 130.000 đồng/kg",
+              "url": "https://giadinhmoi.vn/gia-tieu-hom-nay-21-11-2026-gia-lai-con-130000-dong-kg-d101047.html",
+              "source": "Gia đình Mới",
+              "published_at": "2026-11-21T10:15:43+07:00",
+              "image": ""
+            },
             {
               "id": "thcl-295501",
               "title": "Giá tiêu hôm nay 21/11: Gia Lai chạm đáy 130.000 đồng/kg",
@@ -240,6 +265,27 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "ho-tieu",
+        "id": "gdm-101047",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Gia đình Mới · 10:15",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "dnhn-154748",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 09:44",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "gdm-101042",
+        "the": "Cà phê",
+        "dong_nguon": "Gia đình Mới · 09:28",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "vtc-1052812",
