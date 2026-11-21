@@ -1,7 +1,7 @@
 {
   "calls": {
-    "date": "2026-11-21",
-    "count": 2
+    "date": "2026-11-22",
+    "count": 1
   },
   "entries": {
     "Trước lần dự đoán này, giá trong nước đã giảm mạnh trong những phiên gần đây.\nSàn cà phê London gần như chưa đổi kể từ lần giá trong nước cập nhật gần nhất.\nTin tức trong nước hôm nay: không khí hơi tiêu cực.\nLần này tin tức gần như không làm thay đổi kết quả.\nCộng lại, giá chỉ đổi rất ít, nhỏ hơn mức sai lệch thường gặp của dự đoán, nên coi như gần như đi ngang.\nTính tiếp cho khoảng một tuần tới, giá gần như đi ngang; càng xa càng khó đoán.": {
@@ -157,6 +157,11 @@
     "Kết quả của dự đoán: giá có thể giảm nhẹ — cộng lại các yếu tố kéo giá xuống một chút, ít hơn mức sai lệch thường gặp của dự đoán.\nGiá cà phê thế giới gần như không biến động.\nTin tức trong nước hôm nay: không khí rất tiêu cực, bi quan rõ.\nTin tức chỉ được tính để điều chỉnh nhẹ, không đổi chiều chung của nhận định.\nYếu tố tác động lớn nhất: tin tức.\nCác căn cứ khác: chu kỳ giá, biểu đồ giá và kinh tế cũng nghiêng về giảm; thời vụ nghiêng về tăng, ngược với kết quả.": {
       "text": "Giá cà phê trong nước có thể giảm nhẹ vì tin tức trong nước hôm nay có không khí rất tiêu cực và bi quan rõ, đồng thời là yếu tố tác động lớn nhất. Các căn cứ khác gồm chu kỳ giá, biểu đồ giá và kinh tế cũng nghiêng về giảm, trong khi thời vụ nghiêng về tăng là ngược với kết quả, còn giá cà phê thế giới gần như không biến động.",
       "at": "2026-11-21T11:21:41+07:00",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "Kết quả của dự đoán: giá có thể đi ngang — cộng lại giá gần như đứng yên.\nGiá cà phê thế giới gần như không biến động.\nCác căn cứ khác: chu kỳ giá, biểu đồ giá và kinh tế nghiêng về giảm; thời vụ chưa nghiêng rõ.": {
+      "text": "Giá cà phê trong nước có thể đi ngang vì giá cà phê thế giới gần như không biến động. Trong đó, chu kỳ giá, biểu đồ giá và kinh tế nghiêng về giảm, còn thời vụ chưa nghiêng rõ.",
+      "at": "2026-11-22T05:50:12+07:00",
       "model": "gemini-3.5-flash-lite"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:00:14+07:00",
+  "generated_at": "2026-11-22T05:50:12+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 83,
@@ -52,7 +52,7 @@
     }
   ],
   "accuracy_30d": {
-    "samples": 23,
+    "samples": 22,
     "mae": 105,
     "direction_hit_rate": null
   },
@@ -83,12 +83,12 @@
     "rsi": 41.7945163001879,
     "close": 5919.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-21T22:00:14+07:00"
+    "fetched_at": "2026-11-22T05:50:12+07:00"
   },
   "the": {
     "schema": 1,
     "the": [],
-    "sai_so": "23 lần dự đoán Arabica gần nhất lệch giá thật trung bình 105 USD/tấn"
+    "sai_so": "22 lần dự đoán Arabica gần nhất lệch giá thật trung bình 105 USD/tấn"
   },
   "pre_session": {
     "anchor_date": "2026-11-21",
