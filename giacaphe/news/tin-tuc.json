@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T11:21:38+07:00",
+  "generated_at": "2026-11-21T12:03:15+07:00",
   "date": "2026-11-21",
   "groups": [
     {
@@ -206,6 +206,22 @@
       "date": "2026-11-21",
       "groups": [
         {
+          "id": "dt-20261121093504710",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "dt-20261121093504710",
+              "title": "Xuất khẩu rau quả vượt 9,2 tỷ USD, sầu riêng xuất sang Trung Quốc mang về 3,3 tỷ USD",
+              "url": "https://dantri.com.vn/kinh-doanh/xuat-khau-rau-qua-vuot-92-ty-usd-sau-rieng-xuat-sang-trung-quoc-mang-ve-33-ty-usd-20261121093504710.htm",
+              "source": "Dân trí",
+              "published_at": "2026-11-21T11:10:56+07:00",
+              "image": "https://cdnphoto.dantri.com.vn/25kUjasgiIg8Bs_8qg3F87aEmcM=/2026/11/21/sau-rieng-2904-5-cropped-1795228370938.jpg",
+              "image_small": "news/anh/7eb7b87ed89522b74fdf.jpg"
+            }
+          ]
+        },
+        {
           "id": "gia-sau-rieng-2026-11-21",
           "label": "Giá sầu riêng ngày 21/11",
           "important": false,
@@ -265,6 +281,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "dt-20261121093504710",
+        "the": null,
+        "dong_nguon": "Dân trí · 11:10",
+        "noi_bat": true
+      },
       {
         "chu_de": "ho-tieu",
         "id": "gdm-101047",
