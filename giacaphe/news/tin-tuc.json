@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T12:03:15+07:00",
+  "generated_at": "2026-11-21T12:40:27+07:00",
   "date": "2026-11-21",
   "groups": [
     {
@@ -246,30 +246,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "mac-ca",
-      "label": "Mắc ca",
-      "title": "Tin tức mắc ca",
-      "date": "2026-11-16",
-      "groups": [
-        {
-          "id": "bld-474462",
-          "label": "",
-          "important": true,
-          "items": [
-            {
-              "id": "bld-474462",
-              "title": "Mắc ca Lâm Đồng: Từ vùng nguyên liệu đến khát vọng nâng tầm thương hiệu",
-              "url": "https://baolamdong.vn/mac-ca-lam-dong-tu-vung-nguyen-lieu-den-khat-vong-nang-tam-thuong-hieu-474462.html",
-              "source": "Báo Lâm Đồng",
-              "published_at": "2026-11-16T11:00:01+07:00",
-              "image": "https://daknong.1cdn.vn/2026/11/14/img_9338.jpg",
-              "image_small": "news/anh/ee46c8249e745ad81c4d.jpg"
-            }
-          ]
-        }
-      ]
     }
   ],
   "hien_thi": {
@@ -420,13 +396,6 @@
         "the": "Cà phê",
         "dong_nguon": "VOV · 01:00",
         "noi_bat": false
-      },
-      {
-        "chu_de": "mac-ca",
-        "id": "bld-474462",
-        "the": null,
-        "dong_nguon": "Báo Lâm Đồng · 16/11 · 11:00",
-        "noi_bat": true
       }
     ]
   }
