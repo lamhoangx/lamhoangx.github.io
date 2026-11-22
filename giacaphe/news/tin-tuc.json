@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T17:31:47+07:00",
+  "generated_at": "2026-11-22T18:00:23+07:00",
   "date": "2026-11-22",
   "groups": [
+    {
+      "id": "bm-56576095",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56576095",
+          "title": "Hoàng Anh Gia Lai (HAG) dự kiến phát hành 400 tỷ đồng trái phiếu được TPBank bảo lãnh, rót 3.050 tỷ đồng trồng thêm 5.000 ha cà phê",
+          "url": "https://baomoi.com/hoang-anh-gia-lai-hag-du-kien-phat-hanh-400-ty-dong-trai-phieu-duoc-tpbank-bao-lanh-rot-3-050-ty-dong-trong-them-5-000-ha-ca-phe-c56576095.epi",
+          "source": "Chuyên trang Doanh nhân & Pháp luật - Báo Pháp luật Việt Nam",
+          "published_at": "2026-11-22T17:32:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_614_56576095/737838ce9c8575db2c94.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-22",
       "label": "Giá cà phê ngày 22/11",
@@ -104,21 +119,6 @@
       ]
     },
     {
-      "id": "bm-56572453",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "bm-56572453",
-          "title": "Các ông lớn cà phê đua săn mặt bằng đẹp, có nơi giá thuê gần 400 triệu đồng/tháng",
-          "url": "https://baomoi.com/cac-ong-lon-ca-phe-dua-san-mat-bang-dep-co-noi-gia-thue-gan-400-trieu-dong-thang-c56572453.epi",
-          "source": "Báo VietnamNet",
-          "published_at": "2026-11-22T06:30:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_23_56572453/924eaead33e6dab883f7.jpg"
-        }
-      ]
-    },
-    {
       "id": "bm-56574642",
       "label": "",
       "important": false,
@@ -160,6 +160,21 @@
           "source": "Báo Điện Biên Phủ",
           "published_at": "2026-11-22T07:59:00+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_422_56572882/2bbea456391dd043890c.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bm-56572453",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "bm-56572453",
+          "title": "Các ông lớn cà phê đua săn mặt bằng đẹp, có nơi giá thuê gần 400 triệu đồng/tháng",
+          "url": "https://baomoi.com/cac-ong-lon-ca-phe-dua-san-mat-bang-dep-co-noi-gia-thue-gan-400-trieu-dong-thang-c56572453.epi",
+          "source": "Báo VietnamNet",
+          "published_at": "2026-11-22T06:30:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_23_56572453/924eaead33e6dab883f7.jpg"
         }
       ]
     }
@@ -241,6 +256,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56576095",
+        "the": null,
+        "dong_nguon": "Chuyên trang Doanh nhân & Pháp luật - Báo Pháp luật Việt Nam · 17:32",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56575898",
         "the": "Cà phê",
         "dong_nguon": "Bnews · 17:11",
@@ -286,7 +308,7 @@
         "id": "bm-56572868",
         "the": null,
         "dong_nguon": "Báo VietnamPlus · 08:00",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -307,7 +329,7 @@
         "id": "dnhn-154842",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -328,7 +350,7 @@
         "id": "bm-56572453",
         "the": null,
         "dong_nguon": "Báo VietnamNet · 06:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
@@ -349,7 +371,7 @@
         "id": "bvh-gia-ho-tieu-hom-nay-22-11-gia-thu-mua-cho-tin-hieu-tu-don-hang-moi",
         "the": "Hồ tiêu",
         "dong_nguon": "Báo Văn hóa · 06:06",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
