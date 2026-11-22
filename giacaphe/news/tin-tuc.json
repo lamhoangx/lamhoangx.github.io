@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T06:50:37+07:00",
+  "generated_at": "2026-11-22T07:40:22+07:00",
   "date": "2026-11-22",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 22/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56572748",
+          "title": "Bản tin nông sản hôm nay (22-11): Giá cà phê tiếp đà giảm",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-22-11-gia-ca-phe-tiep-da-giam-c56572748.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-22T07:32:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_16_56572748/79a45d4bc000295e7011.jpg"
+        },
+        {
+          "id": "dnhn-154841",
+          "title": "Giá cà phê hôm nay 22 11 2026 Giá cà phê Tây Nguyên xuống đáy gần 3 năm robusta mất 10 trong tuần",
+          "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-22112026-gia-ca-phe-tay-nguyen-xuong-day-gan-3-nam-robusta-mat-10-trong-tuan-154841.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-22T07:30:08+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/22/06/in_social/2420261122065002.jpg",
+          "image_small": "news/anh/1f158b37ba19519b5144.jpg"
+        },
         {
           "id": "bm-56572514",
           "title": "Giá cà phê hôm nay 22/11: Trong nước và thế giới cùng giảm mạnh",
@@ -105,6 +122,15 @@
           "important": false,
           "items": [
             {
+              "id": "dnhn-154842",
+              "title": "Giá sầu riêng hôm nay 22 11 Sầu riêng Ri6 miền Tây tăng giá trở lại",
+              "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2211-sau-rieng-ri6-mien-tay-tang-gia-tro-lai-154842.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-22T07:30:27+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/22/06/in_social/anh-sau-rieng-lua-gao-heo-hoi20261122064243.png",
+              "image_small": "news/anh/088007216a4b7f387bb4.jpg"
+            },
+            {
               "id": "thcl-295528",
               "title": "Giá sầu riêng hôm nay 22/11: Giá sầu Musang King và Back Thorn đồng loạt giảm",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-22-11-gia-sau-musang-king-va-back-thorn-dong-loat-giam-a295528.html",
@@ -128,17 +154,38 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56572748",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 07:32",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "dnhn-154842",
+        "the": "Sầu riêng",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "dnhn-154841",
+        "the": "Cà phê",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56572514",
         "the": "Cà phê",
         "dong_nguon": "Báo Lào Cai · 06:40",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
         "id": "bm-56572453",
         "the": null,
         "dong_nguon": "Báo VietnamNet · 06:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
@@ -159,7 +206,7 @@
         "id": "bvh-gia-ho-tieu-hom-nay-22-11-gia-thu-mua-cho-tin-hieu-tu-don-hang-moi",
         "the": "Hồ tiêu",
         "dong_nguon": "Báo Văn hóa · 06:06",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
