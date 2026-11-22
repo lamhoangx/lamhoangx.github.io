@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T14:20:20+07:00",
+  "generated_at": "2026-11-22T17:31:47+07:00",
   "date": "2026-11-22",
   "groups": [
     {
@@ -8,6 +8,14 @@
       "label": "Giá cà phê ngày 22/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56575898",
+          "title": "Thị trường nông sản: Nguồn cung gia tăng đẩy giá cà phê giảm sâu",
+          "url": "https://baomoi.com/thi-truong-nong-san-nguon-cung-gia-tang-day-gia-ca-phe-giam-sau-c56575898.epi",
+          "source": "Bnews",
+          "published_at": "2026-11-22T17:11:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_324_56575898/bc7c0e19a5524c0c1543.jpg"
+        },
         {
           "id": "bm-56574922",
           "title": "Thị trường nông sản 21/11/2026: Cà phê, hồ tiêu tiếp đà giảm",
@@ -233,10 +241,17 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56575898",
+        "the": "Cà phê",
+        "dong_nguon": "Bnews · 17:11",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56574922",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 14:02",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
