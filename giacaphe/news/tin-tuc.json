@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T13:00:21+07:00",
+  "generated_at": "2026-11-22T14:20:20+07:00",
   "date": "2026-11-22",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56574922",
+          "title": "Thị trường nông sản 21/11/2026: Cà phê, hồ tiêu tiếp đà giảm",
+          "url": "https://baomoi.com/thi-truong-nong-san-21-11-2026-ca-phe-ho-tieu-tiep-da-giam-c56574922.epi",
+          "source": "Tạp chí Nông nghiệp Hữu cơ Việt Nam",
+          "published_at": "2026-11-22T14:02:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_22_632_56574922/e8d0de1d4356aa08f347.jpg"
+        },
+        {
           "id": "vnbiz-2026112294942762",
           "title": "Giá cà phê hôm nay 22/11: Cà phê Tây Nguyên giảm hơn 13% trong một tuần, thấp nhất gần 3 năm",
           "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2211-ca-phe-tay-nguyen-giam-hon-13-trong-mot-tuan-thap-nhat-gan-3-nam-2026112294942762.htm",
           "source": "VietnamBiz",
           "published_at": "2026-11-22T09:49:35+07:00",
           "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/22/gia-ca-phe-22-11-20261122094809244-avatar-15x10-20261122094942263.jpg",
-          "image_small": "news/anh/4e2bfd078663b4e5a973.jpg"
+          "image_small": "news/anh/ce0bed9a76f5c958b755.jpg"
         },
         {
           "id": "gdm-101071",
@@ -225,6 +233,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56574922",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 14:02",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56574642",
         "the": null,
         "dong_nguon": "Tạp chí Tri thức · 12:43",
@@ -235,7 +250,7 @@
         "id": "vnbiz-2026112294942762",
         "the": "Cà phê",
         "dong_nguon": "VietnamBiz · 09:49",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -256,14 +271,14 @@
         "id": "bm-56572868",
         "the": null,
         "dong_nguon": "Báo VietnamPlus · 08:00",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
         "id": "bm-56572882",
         "the": null,
         "dong_nguon": "Báo Điện Biên Phủ · 07:59",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
