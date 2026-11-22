@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T09:00:19+07:00",
+  "generated_at": "2026-11-22T11:50:20+07:00",
   "date": "2026-11-22",
   "groups": [
     {
@@ -9,13 +9,13 @@
       "important": true,
       "items": [
         {
-          "id": "bgl-605677",
-          "title": "Giá nông sản hôm nay (22-11): Robusta rơi sâu, hồ tiêu Gia Lai lùi về 128.000 đồng/kg",
-          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-22-11-robusta-roi-sau-ho-tieu-gia-lai-lui-ve-128000-dongkg-post605677.html",
-          "source": "Báo Gia Lai",
-          "published_at": "2026-11-22T08:30:00+07:00",
-          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgNlZM-cRlJqhtOVN65w_yAilzKcmyDNgO99j5g7W39-ExrTtLHpPwQd7NbRK3Eaz8w/gia-nong-san-hom-nay-22.png",
-          "image_small": "news/anh/20a4f610a9450785c9fe.jpg"
+          "id": "vnbiz-2026112294942762",
+          "title": "Giá cà phê hôm nay 22/11: Cà phê Tây Nguyên giảm hơn 13% trong một tuần, thấp nhất gần 3 năm",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2211-ca-phe-tay-nguyen-giam-hon-13-trong-mot-tuan-thap-nhat-gan-3-nam-2026112294942762.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-22T09:49:35+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/22/gia-ca-phe-22-11-20261122094809244-avatar-15x10-20261122094942263.jpg",
+          "image_small": "news/anh/4e2bfd078663b4e5a973.jpg"
         },
         {
           "id": "gdm-101071",
@@ -24,6 +24,15 @@
           "source": "Gia đình Mới",
           "published_at": "2026-11-22T08:44:52+07:00",
           "image": ""
+        },
+        {
+          "id": "bgl-605677",
+          "title": "Giá nông sản hôm nay (22-11): Robusta rơi sâu, hồ tiêu Gia Lai lùi về 128.000 đồng/kg",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-22-11-robusta-roi-sau-ho-tieu-gia-lai-lui-ve-128000-dongkg-post605677.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-22T08:30:00+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgNlZM-cRlJqhtOVN65w_yAilzKcmyDNgO99j5g7W39-ExrTtLHpPwQd7NbRK3Eaz8w/gia-nong-san-hom-nay-22.png",
+          "image_small": "news/anh/d57671fd225a913206dc.jpg"
         },
         {
           "id": "bm-56572748",
@@ -201,6 +210,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "vnbiz-2026112294942762",
+        "the": "Cà phê",
+        "dong_nguon": "VietnamBiz · 09:49",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "gdm-101071",
         "the": "Cà phê",
         "dong_nguon": "Gia đình Mới · 08:44",
@@ -211,7 +227,7 @@
         "id": "bgl-605677",
         "the": "Cà phê",
         "dong_nguon": "Báo Gia Lai · 08:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -225,7 +241,7 @@
         "id": "bm-56572882",
         "the": null,
         "dong_nguon": "Báo Điện Biên Phủ · 07:59",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
