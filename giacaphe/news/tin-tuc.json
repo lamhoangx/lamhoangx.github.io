@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T08:00:23+07:00",
+  "generated_at": "2026-11-22T09:00:19+07:00",
   "date": "2026-11-22",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 22/11",
       "important": true,
       "items": [
+        {
+          "id": "bgl-605677",
+          "title": "Giá nông sản hôm nay (22-11): Robusta rơi sâu, hồ tiêu Gia Lai lùi về 128.000 đồng/kg",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-22-11-robusta-roi-sau-ho-tieu-gia-lai-lui-ve-128000-dongkg-post605677.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-22T08:30:00+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgNlZM-cRlJqhtOVN65w_yAilzKcmyDNgO99j5g7W39-ExrTtLHpPwQd7NbRK3Eaz8w/gia-nong-san-hom-nay-22.png",
+          "image_small": "news/anh/20a4f610a9450785c9fe.jpg"
+        },
+        {
+          "id": "gdm-101071",
+          "title": "Giá cà phê hôm nay 22/11: Trong nước và thế giới đồng loạt giảm mạnh, Tây Nguyên thấp nhất 71.200 đồng/kg",
+          "url": "https://giadinhmoi.vn/gia-ca-phe-hom-nay-22-11-trong-nuoc-va-the-gioi-dong-loat-giam-manh-tay-nguyen-thap-nhat-71200-dong-kg-d101071.html",
+          "source": "Gia đình Mới",
+          "published_at": "2026-11-22T08:44:52+07:00",
+          "image": ""
+        },
         {
           "id": "bm-56572748",
           "title": "Bản tin nông sản hôm nay (22-11): Giá cà phê tiếp đà giảm",
@@ -52,8 +69,8 @@
         },
         {
           "id": "vov-1352207",
-          "title": "Giá cà phê hôm nay 22/11: Giá cà phê Robusta và Arabica tiếp tục lao dốc",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2211-gia-ca-phe-robusta-va-arabica-tiep-tuc-lao-doc-post1352207.vov",
+          "title": "Giá cà phê hôm nay 22/11: Giá cà phê trong nước giảm về 72.000 đồng/kg",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2211-gia-ca-phe-trong-nuoc-giam-ve-72000-dongkg-post1352207.vov",
           "source": "VOV",
           "published_at": "2026-11-22T01:00:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-09/ca_phe_5.jpg",
@@ -184,6 +201,20 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "gdm-101071",
+        "the": "Cà phê",
+        "dong_nguon": "Gia đình Mới · 08:44",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bgl-605677",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Gia Lai · 08:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56572868",
         "the": null,
         "dong_nguon": "Báo VietnamPlus · 08:00",
@@ -201,7 +232,7 @@
         "id": "bm-56572748",
         "the": "Cà phê",
         "dong_nguon": "Báo Quân Đội Nhân Dân · 07:32",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
