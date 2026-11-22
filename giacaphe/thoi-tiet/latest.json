@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T11:40:17+07:00",
+  "generated_at": "2026-11-22T14:40:23+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
@@ -19,7 +19,7 @@
         },
         {
           "date": "2026-11-23",
-          "t_min": 21,
+          "t_min": 20,
           "t_max": 28,
           "rain_mm": 0.0,
           "rain": {
@@ -30,12 +30,12 @@
         },
         {
           "date": "2026-11-24",
-          "t_min": 22,
+          "t_min": 21,
           "t_max": 28,
-          "rain_mm": 0.5,
+          "rain_mm": 0.2,
           "rain": {
             "sang": 0.1,
-            "chieu": 0.4,
+            "chieu": 0.1,
             "toi": 0.0
           }
         }
@@ -76,7 +76,7 @@
               "khac": "Thứ 2"
             },
             "ngay_thang": "23/11",
-            "nhiet_do": "21–28°C",
+            "nhiet_do": "20–28°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -95,7 +95,7 @@
               "khac": "Thứ 3"
             },
             "ngay_thang": "24/11",
-            "nhiet_do": "22–28°C",
+            "nhiet_do": "21–28°C",
             "mua_gon": "Có thể mưa nhỏ",
             "mua_mm": null,
             "mua_day_du": "Có thể mưa nhỏ (dưới 1 mm)",
@@ -122,21 +122,21 @@
           "date": "2026-11-23",
           "t_min": 19,
           "t_max": 30,
-          "rain_mm": 0.6,
+          "rain_mm": 0.8,
           "rain": {
             "sang": 0.0,
-            "chieu": 0.6,
+            "chieu": 0.8,
             "toi": 0.0
           }
         },
         {
           "date": "2026-11-24",
           "t_min": 20,
-          "t_max": 30,
-          "rain_mm": 0.4,
+          "t_max": 29,
+          "rain_mm": 0.6,
           "rain": {
-            "sang": 0.1,
-            "chieu": 0.3,
+            "sang": 0.2,
+            "chieu": 0.4,
             "toi": 0.0
           }
         }
@@ -196,7 +196,7 @@
               "khac": "Thứ 3"
             },
             "ngay_thang": "24/11",
-            "nhiet_do": "20–30°C",
+            "nhiet_do": "20–29°C",
             "mua_gon": "Có thể mưa nhỏ",
             "mua_mm": null,
             "mua_day_du": "Có thể mưa nhỏ (dưới 1 mm)",
@@ -210,8 +210,8 @@
       "days": [
         {
           "date": "2026-11-22",
-          "t_min": 19,
-          "t_max": 28,
+          "t_min": 20,
+          "t_max": 27,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -233,11 +233,11 @@
         {
           "date": "2026-11-24",
           "t_min": 19,
-          "t_max": 29,
-          "rain_mm": 0.2,
+          "t_max": 28,
+          "rain_mm": 0.0,
           "rain": {
-            "sang": 0.1,
-            "chieu": 0.1,
+            "sang": 0.0,
+            "chieu": 0.0,
             "toi": 0.0
           }
         }
@@ -259,7 +259,7 @@
               "khac": "Chủ Nhật"
             },
             "ngay_thang": "22/11",
-            "nhiet_do": "19–28°C",
+            "nhiet_do": "20–27°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -297,11 +297,11 @@
               "khac": "Thứ 3"
             },
             "ngay_thang": "24/11",
-            "nhiet_do": "19–29°C",
-            "mua_gon": "Có thể mưa nhỏ",
+            "nhiet_do": "19–28°C",
+            "mua_gon": "Không mưa",
             "mua_mm": null,
-            "mua_day_du": "Có thể mưa nhỏ (dưới 1 mm)",
-            "co_mua": true
+            "mua_day_du": "Không mưa",
+            "co_mua": false
           }
         ]
       }
@@ -313,10 +313,10 @@
           "date": "2026-11-22",
           "t_min": 20,
           "t_max": 29,
-          "rain_mm": 4.0,
+          "rain_mm": 1.7,
           "rain": {
             "sang": 0.0,
-            "chieu": 4.0,
+            "chieu": 1.7,
             "toi": 0.0
           }
         },
@@ -324,10 +324,10 @@
           "date": "2026-11-23",
           "t_min": 18,
           "t_max": 29,
-          "rain_mm": 1.9,
+          "rain_mm": 1.1,
           "rain": {
             "sang": 0.0,
-            "chieu": 1.9,
+            "chieu": 1.1,
             "toi": 0.0
           }
         },
@@ -335,10 +335,10 @@
           "date": "2026-11-24",
           "t_min": 19,
           "t_max": 28,
-          "rain_mm": 2.4,
+          "rain_mm": 2.0,
           "rain": {
             "sang": 0.2,
-            "chieu": 2.2,
+            "chieu": 1.8,
             "toi": 0.0
           }
         }
@@ -362,8 +362,8 @@
             "ngay_thang": "22/11",
             "nhiet_do": "20–29°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 4,0 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 4,0 mm)",
+            "mua_mm": "cả ngày 1,7 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 1,7 mm)",
             "co_mua": true
           },
           {
@@ -381,8 +381,8 @@
             "ngay_thang": "23/11",
             "nhiet_do": "18–29°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 1,9 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 1,9 mm)",
+            "mua_mm": "cả ngày 1,1 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 1,1 mm)",
             "co_mua": true
           },
           {
@@ -400,8 +400,8 @@
             "ngay_thang": "24/11",
             "nhiet_do": "19–28°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 2,4 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 2,4 mm)",
+            "mua_mm": "cả ngày 2,0 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 2,0 mm)",
             "co_mua": true
           }
         ]
