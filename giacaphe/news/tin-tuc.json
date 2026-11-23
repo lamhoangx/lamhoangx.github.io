@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T07:55:21+07:00",
+  "generated_at": "2026-11-23T08:40:21+07:00",
   "date": "2026-11-23",
   "groups": [
     {
@@ -9,13 +9,22 @@
       "important": true,
       "items": [
         {
+          "id": "vtc-1053097",
+          "title": "Giá cà phê hôm nay trực tuyến 23/11/2026",
+          "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-23-11-2026-ar1053097.html",
+          "source": "VTC News",
+          "published_at": "2026-11-23T08:24:36+07:00",
+          "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/23/gia-ca-phe-07315014.jpg",
+          "image_small": "news/anh/46deae62557c986fb82d.jpg"
+        },
+        {
           "id": "dnhn-154884",
           "title": "Giá cà phê hôm nay 23 11 2026 Tuần qua giá cà phê Tây Nguyên giảm hơn 11 000 đồng kg",
           "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-23112026-tuan-qua-gia-ca-phe-tay-nguyen-giam-hon-11000-dongkg-154884.html",
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-23T07:30:29+07:00",
           "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/06/in_social/2520261123064126.jpg",
-          "image_small": "news/anh/271d5db2d568cf005af0.jpg"
+          "image_small": "news/anh/d2536e6a291e46c0f648.jpg"
         },
         {
           "id": "bm-56578080",
@@ -114,13 +123,22 @@
           "important": true,
           "items": [
             {
+              "id": "dnhn-154879",
+              "title": "Giá tiêu hôm nay 23 11 2026 Thị trường đi ngang tiêu Ấn Độ lập đỉnh mới",
+              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-23112026-thi-truong-di-ngang-tieu-an-do-lap-dinh-moi-154879.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-23T08:00:05+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/5920261115225840.jpg",
+              "image_small": "news/anh/239110a96a156992d8e7.jpg"
+            },
+            {
               "id": "vnbiz-2026112363728860",
               "title": "Giá tiêu hôm nay 23/11: Ngược chiều thế giới, giá tiêu Ấn Độ tăng vọt",
               "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2311-nguoc-chieu-the-gioi-gia-tieu-an-do-tang-vot-2026112363728860.htm",
               "source": "VietnamBiz",
               "published_at": "2026-11-23T06:37:21+07:00",
               "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/23/gia-tieu-23-11-20261123063222562-avatar-15x10-20261123063728431.jpg",
-              "image_small": "news/anh/f38b240f1238a913faf0.jpg"
+              "image_small": "news/anh/266edfed139159d89855.jpg"
             },
             {
               "id": "thcl-295549",
@@ -187,10 +205,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "vtc-1053097",
+        "the": "Cà phê",
+        "dong_nguon": "VTC News · 08:24",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "dnhn-154879",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 08:00",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "dnhn-154884",
         "the": "Cà phê",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
@@ -211,7 +243,7 @@
         "id": "vnbiz-202611237238771",
         "the": null,
         "dong_nguon": "VietnamBiz · 07:23",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -232,7 +264,7 @@
         "id": "vnbiz-2026112363728860",
         "the": "Hồ tiêu",
         "dong_nguon": "VietnamBiz · 06:37",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
