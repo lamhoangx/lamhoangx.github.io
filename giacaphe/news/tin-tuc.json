@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T12:35:19+07:00",
+  "generated_at": "2026-11-23T13:00:20+07:00",
   "date": "2026-11-23",
   "groups": [
     {
@@ -8,6 +8,14 @@
       "label": "Giá cà phê ngày 23/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56580722",
+          "title": "Giá cà phê hôm nay 23/11/2026: Tây Nguyên đồng loạt giảm 2.000 đồng/kg, cà phê rang xay từ 148.100 đồng/kg",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-23-11-2026-tay-nguyen-dong-loat-giam-2-000-dong-kg-ca-phe-rang-xay-tu-148-100-dong-kg-c56580722.epi",
+          "source": "Báo Lâm Đồng",
+          "published_at": "2026-11-23T12:51:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_439_56580722/9e6492010f4ae614bf5b.jpg"
+        },
         {
           "id": "bm-56579892",
           "title": "Giá nông sản hôm nay (23/11): Giá lợn hơi tiến sát mốc 60.000 đồng/kg, cà phê tiếp tục lao dốc",
@@ -121,9 +129,47 @@
       ]
     },
     {
-      "id": "tt-100261123084837216",
+      "id": "bm-56580871",
       "label": "",
       "important": true,
+      "items": [
+        {
+          "id": "bm-56580871",
+          "title": "Sắc đỏ bao phủ thị trường hàng hóa thế giới, giá bạc và cà phê lao dốc mạnh",
+          "url": "https://baomoi.com/sac-do-bao-phu-thi-truong-hang-hoa-the-gioi-gia-bac-va-ca-phe-lao-doc-manh-c56580871.epi",
+          "source": "Báo Tin Tức TTXVN",
+          "published_at": "2026-11-23T12:50:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_294_56580871/64c615a188ea61b438fb.jpg"
+        },
+        {
+          "id": "bm-56580551",
+          "title": "Tuần giảm giá mạnh của thị trường hàng hóa",
+          "url": "https://baomoi.com/tuan-giam-gia-manh-cua-thi-truong-hang-hoa-c56580551.epi",
+          "source": "Báo Hà Nội Mới",
+          "published_at": "2026-11-23T12:26:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_8_56580551/d0254fbfd2f43baa62e5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tbtc-207404",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "tbtc-207404",
+          "title": "Cà phê Robusta giảm gần 10 xuống mức thấp nhất gần 3 năm",
+          "url": "https://thoibaotaichinhvietnam.vn/ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-207404.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-23T12:38:40+07:00",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "tt-100261123084837216",
+      "label": "",
+      "important": false,
       "items": [
         {
           "id": "tt-100261123084837216",
@@ -133,21 +179,6 @@
           "published_at": "2026-11-23T10:24:00+07:00",
           "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/hinh-robusta2211-17953977410041931792159-0-0-1441-2306-crop-17953982812272039291015.jpg",
           "image_small": "news/anh/87d852f60f20543091a1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56580551",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56580551",
-          "title": "Tuần giảm giá mạnh của thị trường hàng hóa",
-          "url": "https://baomoi.com/tuan-giam-gia-manh-cua-thi-truong-hang-hoa-c56580551.epi",
-          "source": "Báo Hà Nội Mới",
-          "published_at": "2026-11-23T12:26:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_8_56580551/d0254fbfd2f43baa62e5.jpg"
         }
       ]
     },
@@ -332,6 +363,27 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56580722",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lâm Đồng · 12:51",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56580871",
+        "the": null,
+        "dong_nguon": "Báo Tin Tức TTXVN · 12:50",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "tbtc-207404",
+        "the": null,
+        "dong_nguon": "Thời báo Tài chính Việt Nam · 12:38",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56580551",
         "the": null,
         "dong_nguon": "Báo Hà Nội Mới · 12:26",
@@ -342,14 +394,14 @@
         "id": "bm-56579892",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Thương Gia · 11:10",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
         "id": "tt-100261123084837216",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 10:24",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
