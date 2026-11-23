@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T14:50:20+07:00",
+  "generated_at": "2026-11-23T18:00:15+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
@@ -9,7 +9,7 @@
         {
           "date": "2026-11-23",
           "t_min": 22,
-          "t_max": 28,
+          "t_max": 24,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -57,7 +57,7 @@
               "khac": "Thứ 2"
             },
             "ngay_thang": "23/11",
-            "nhiet_do": "22–28°C",
+            "nhiet_do": "22–24°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -110,7 +110,7 @@
         {
           "date": "2026-11-23",
           "t_min": 22,
-          "t_max": 29,
+          "t_max": 24,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -158,7 +158,7 @@
               "khac": "Thứ 2"
             },
             "ngay_thang": "23/11",
-            "nhiet_do": "22–29°C",
+            "nhiet_do": "22–24°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -211,7 +211,7 @@
         {
           "date": "2026-11-23",
           "t_min": 20,
-          "t_max": 27,
+          "t_max": 24,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -259,7 +259,7 @@
               "khac": "Thứ 2"
             },
             "ngay_thang": "23/11",
-            "nhiet_do": "20–27°C",
+            "nhiet_do": "20–24°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -312,11 +312,11 @@
         {
           "date": "2026-11-23",
           "t_min": 21,
-          "t_max": 29,
-          "rain_mm": 1.7,
+          "t_max": 23,
+          "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
-            "chieu": 1.7,
+            "chieu": 0.0,
             "toi": 0.0
           }
         },
@@ -360,11 +360,11 @@
               "khac": "Thứ 2"
             },
             "ngay_thang": "23/11",
-            "nhiet_do": "21–29°C",
-            "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 1,7 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 1,7 mm)",
-            "co_mua": true
+            "nhiet_do": "21–23°C",
+            "mua_gon": "Không mưa",
+            "mua_mm": null,
+            "mua_day_du": "Không mưa",
+            "co_mua": false
           },
           {
             "ngay": "2026-11-24",
