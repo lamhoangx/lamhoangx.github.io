@@ -1,13 +1,45 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T09:00:23+07:00",
+  "generated_at": "2026-11-23T09:45:21+07:00",
   "date": "2026-11-23",
   "groups": [
+    {
+      "id": "bm-56579132",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56579132",
+          "title": "Ia Grai phối hợp giữ an ninh mùa thu hoạch cà phê",
+          "url": "https://baomoi.com/ia-grai-phoi-hop-giu-an-ninh-mua-thu-hoach-ca-phe-c56579132.epi",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-23T09:37:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_425_56579132/c64273cdee8607d85e97.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-23",
       "label": "Giá cà phê ngày 23/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56579144",
+          "title": "Giá nông sản hôm nay (23-11): Duy trì mặt bằng thấp sau 1 tuần giảm mạnh",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-23-11-duy-tri-mat-bang-thap-sau-1-tuan-giam-manh-c56579144.epi",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-23T09:30:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_425_56579144/b8812e0eb3455a1b0354.jpg"
+        },
+        {
+          "id": "vov-1352445",
+          "title": "Giá cà phê hôm nay 23/11: Cà phê trong nước giảm về 73.800 đồng/kg",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-ca-phe-trong-nuoc-giam-ve-73800-dongkg-post1352445.vov",
+          "source": "VOV",
+          "published_at": "2026-11-23T09:25:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/ca_phe_1.jpg",
+          "image_small": "news/anh/01ca460db2a540922438.jpg"
+        },
         {
           "id": "bm-56578803",
           "title": "Bản tin nông sản hôm nay (23-11): Giá lúa gạo ít biến động, giá cà phê và hồ tiêu giảm",
@@ -75,22 +107,13 @@
           "published_at": "2026-11-23T05:51:00+07:00",
           "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/22/01a203f2-f154-7961-90ee-e52da424fe17.jpg",
           "image_small": "news/anh/c774a465d0d0946c9c3e.jpg"
-        },
-        {
-          "id": "vov-1352445",
-          "title": "Giá cà phê hôm nay 23/11: Giá cà phê trong nước và thế giới ổn định",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
-          "source": "VOV",
-          "published_at": "2026-11-23T01:00:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-10/ca_phe_1.jpg",
-          "image_small": "news/anh/01ca460db2a540922438.jpg"
         }
       ]
     },
     {
       "id": "tt-100261120200406561",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "tt-100261120200406561",
@@ -237,6 +260,27 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56579132",
+        "the": null,
+        "dong_nguon": "Báo Gia Lai · 09:37",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56579144",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Gia Lai · 09:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "vov-1352445",
+        "the": "Cà phê",
+        "dong_nguon": "VOV · 09:25",
+        "noi_bat": false
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "vnbiz-2026112385725748",
         "the": "Sầu riêng",
@@ -248,7 +292,7 @@
         "id": "bm-56578803",
         "the": "Cà phê",
         "dong_nguon": "Báo Quân Đội Nhân Dân · 08:57",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -262,7 +306,7 @@
         "id": "dnhn-154879",
         "the": "Hồ tiêu",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 08:00",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -360,13 +404,6 @@
         "id": "bvh-gia-ca-phe-23-11-2026-tay-nguyen-cho-gia-mua-moi-giua-vu-thu-hoach",
         "the": "Cà phê",
         "dong_nguon": "Báo Văn hóa · 05:51",
-        "noi_bat": false
-      },
-      {
-        "chu_de": "",
-        "id": "vov-1352445",
-        "the": "Cà phê",
-        "dong_nguon": "VOV · 01:00",
         "noi_bat": false
       }
     ]
