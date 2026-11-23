@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T13:25:20+07:00",
+  "generated_at": "2026-11-23T13:50:21+07:00",
   "date": "2026-11-23",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56581081",
+          "title": "Giá nông sản hôm nay 23/11/2026: Giá cà phê trong nước thấp nhất 3 năm, nguy cơ dò đáy mới? Thêm một sản phẩm cà phê Việt Nam vượt qua Brazil",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-23-11-2026-gia-ca-phe-trong-nuoc-thap-nhat-3-nam-nguy-co-do-day-moi-them-mot-san-pham-ca-phe-viet-nam-vuot-qua-brazil-c56581081.epi",
+          "source": "Báo Thế Giới & Việt Nam",
+          "published_at": "2026-11-23T13:45:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_194_56581081/3de596870bcce292bbdd.jpg"
+        },
+        {
           "id": "ct-482329",
           "title": "Giá cà phê Robusta giảm gần 10%, xuống mức thấp nhất gần 3 năm",
           "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-482329.html",
           "source": "Báo Công Thương",
           "published_at": "2026-11-23T13:01:41+07:00",
           "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/23/anh-4-dien-bien-gia-ca-phe-11265420.png",
-          "image_small": "news/anh/8297b6949e58b37d85f3.jpg"
+          "image_small": "news/anh/5fa64007a2ed3b1faf05.jpg"
         },
         {
           "id": "bm-56580722",
@@ -138,10 +146,18 @@
       ]
     },
     {
-      "id": "bm-56580871",
+      "id": "bm-56581259",
       "label": "",
       "important": true,
       "items": [
+        {
+          "id": "bm-56581259",
+          "title": "THỊ TRƯỜNG HÀNG HÓA: Giá bạc và cà phê lao dốc mạnh",
+          "url": "https://baomoi.com/thi-truong-hang-hoa-gia-bac-va-ca-phe-lao-doc-manh-c56581259.epi",
+          "source": "Báo Chính Phủ",
+          "published_at": "2026-11-23T13:43:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_146_56581259/76f96794fadf13814ace.jpg"
+        },
         {
           "id": "bm-56580871",
           "title": "Sắc đỏ bao phủ thị trường hàng hóa thế giới, giá bạc và cà phê lao dốc mạnh",
@@ -167,11 +183,11 @@
       "items": [
         {
           "id": "tbtc-207404",
-          "title": "Cà phê Robusta giảm gần 10 xuống mức thấp nhất gần 3 năm",
+          "title": "Cà phê Robusta giảm gần 10%, xuống mức thấp nhất gần 3 năm",
           "url": "https://thoibaotaichinhvietnam.vn/ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-207404.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-23T12:38:40+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_578_56581046/b8b56fd4f29f1bc1428e.jpg"
         }
       ]
     },
@@ -372,10 +388,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56581081",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Thế Giới & Việt Nam · 13:45",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56581259",
+        "the": null,
+        "dong_nguon": "Báo Chính Phủ · 13:43",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "ct-482329",
         "the": "Cà phê",
         "dong_nguon": "Báo Công Thương · 13:01",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -396,7 +426,7 @@
         "id": "tbtc-207404",
         "the": null,
         "dong_nguon": "Thời báo Tài chính Việt Nam · 12:38",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -417,7 +447,7 @@
         "id": "tt-100261123084837216",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 10:24",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -431,7 +461,7 @@
         "id": "bm-56579132",
         "the": null,
         "dong_nguon": "Báo Gia Lai · 09:37",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
