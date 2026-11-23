@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T08:40:21+07:00",
+  "generated_at": "2026-11-23T09:00:23+07:00",
   "date": "2026-11-23",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56578803",
+          "title": "Bản tin nông sản hôm nay (23-11): Giá lúa gạo ít biến động, giá cà phê và hồ tiêu giảm",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-23-11-gia-lua-gao-it-bien-dong-gia-ca-phe-va-ho-tieu-giam-c56578803.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-23T08:57:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_16_56578803/b7f582761f3df663af2c.jpg"
+        },
+        {
           "id": "vtc-1053097",
           "title": "Giá cà phê hôm nay trực tuyến 23/11/2026",
           "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-23-11-2026-ar1053097.html",
           "source": "VTC News",
           "published_at": "2026-11-23T08:24:36+07:00",
           "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/23/gia-ca-phe-07315014.jpg",
-          "image_small": "news/anh/46deae62557c986fb82d.jpg"
+          "image_small": "news/anh/00d7365d4312e4ea71bc.jpg"
         },
         {
           "id": "dnhn-154884",
@@ -80,9 +88,25 @@
       ]
     },
     {
-      "id": "vnbiz-202611237238771",
+      "id": "tt-100261120200406561",
       "label": "",
       "important": true,
+      "items": [
+        {
+          "id": "tt-100261120200406561",
+          "title": "Thoát vai ‘trồng và bán’, hợp tác xã cà phê Lâm Đồng có cơ hội mới",
+          "url": "https://tuoitre.vn/thoat-vai-trong-va-ban-hop-tac-xa-ca-phe-lam-dong-co-co-hoi-moi-100261120200406561.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-23T07:58:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/20/2aobordcuqpp1lfjsuyopaqwpjt01lldcaza8hbc2-17951791809412077905174-0-54-861-1432-crop-1795179743601480014964.jpg",
+          "image_small": "news/anh/1d67be02870ddaa3498c.jpg"
+        }
+      ]
+    },
+    {
+      "id": "vnbiz-202611237238771",
+      "label": "",
+      "important": false,
       "items": [
         {
           "id": "vnbiz-202611237238771",
@@ -170,8 +194,17 @@
         {
           "id": "gia-sau-rieng-2026-11-23",
           "label": "Giá sầu riêng ngày 23/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "vnbiz-2026112385725748",
+              "title": "Giá sầu riêng hôm nay 23/11: Tiếp tục đứng giá, khuyến nông hỗ trợ nông dân đáp ứng yêu cầu mới về mã số vùng trồng",
+              "url": "https://vietnambiz.vn/gia-sau-rieng-hom-nay-2311-tiep-tuc-dung-gia-khuyen-nong-ho-tro-nong-dan-dap-ung-yeu-cau-moi-ve-ma-so-vung-trong-2026112385725748.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-23T09:00:00+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/23/lich-cup-dien-quang-tri-12-20261123085555596-avatar-15x10-20261123085725394.jpg",
+              "image_small": "news/anh/e2283d1d92ad336bbd12.jpg"
+            },
             {
               "id": "dnhn-154883",
               "title": "Giá sầu riêng hôm nay 23 11 Thị trường khu vực miền Tây tiếp đà tăng mạnh",
@@ -179,7 +212,7 @@
               "source": "Doanh nghiệp và Hội nhập",
               "published_at": "2026-11-23T07:30:01+07:00",
               "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/06/in_social/anh-sau-rieng-lua-gao-heo-hoi20261123061656.png",
-              "image_small": "news/anh/0b70eebba46fc6dddf7e.jpg"
+              "image_small": "news/anh/02d50ac3d495bab185f8.jpg"
             },
             {
               "id": "thcl-295560",
@@ -204,17 +237,38 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "sau-rieng",
+        "id": "vnbiz-2026112385725748",
+        "the": "Sầu riêng",
+        "dong_nguon": "VietnamBiz · 09:00",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56578803",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 08:57",
+        "noi_bat": true
+      },
+      {
         "chu_de": "",
         "id": "vtc-1053097",
         "the": "Cà phê",
         "dong_nguon": "VTC News · 08:24",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "ho-tieu",
         "id": "dnhn-154879",
         "the": "Hồ tiêu",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 08:00",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "tt-100261120200406561",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 07:58",
         "noi_bat": false
       },
       {
