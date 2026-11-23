@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T13:00:20+07:00",
+  "generated_at": "2026-11-23T13:25:20+07:00",
   "date": "2026-11-23",
   "groups": [
     {
@@ -8,6 +8,15 @@
       "label": "Giá cà phê ngày 23/11",
       "important": true,
       "items": [
+        {
+          "id": "ct-482329",
+          "title": "Giá cà phê Robusta giảm gần 10%, xuống mức thấp nhất gần 3 năm",
+          "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-482329.html",
+          "source": "Báo Công Thương",
+          "published_at": "2026-11-23T13:01:41+07:00",
+          "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/23/anh-4-dien-bien-gia-ca-phe-11265420.png",
+          "image_small": "news/anh/8297b6949e58b37d85f3.jpg"
+        },
         {
           "id": "bm-56580722",
           "title": "Giá cà phê hôm nay 23/11/2026: Tây Nguyên đồng loạt giảm 2.000 đồng/kg, cà phê rang xay từ 148.100 đồng/kg",
@@ -363,10 +372,17 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "ct-482329",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Công Thương · 13:01",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56580722",
         "the": "Cà phê",
         "dong_nguon": "Báo Lâm Đồng · 12:51",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
