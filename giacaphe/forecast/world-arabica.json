@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:00:13+07:00",
+  "generated_at": "2026-11-24T05:50:14+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 84,
@@ -10,49 +10,49 @@
   "predictions": [
     {
       "date": "2026-11-24",
-      "price": 5925,
-      "low": 5800,
-      "high": 6050
+      "price": 5894,
+      "low": 5845,
+      "high": 5943
     },
     {
       "date": "2026-11-25",
-      "price": 5915,
-      "low": 5677,
-      "high": 6153
+      "price": 5884,
+      "low": 5681,
+      "high": 6087
     },
     {
       "date": "2026-11-26",
-      "price": 5908,
-      "low": 5595,
-      "high": 6221
+      "price": 5877,
+      "low": 5590,
+      "high": 6164
     },
     {
       "date": "2026-11-27",
-      "price": 5902,
-      "low": 5530,
-      "high": 6275
+      "price": 5871,
+      "low": 5520,
+      "high": 6223
     },
     {
       "date": "2026-11-28",
-      "price": 5898,
-      "low": 5474,
-      "high": 6323
+      "price": 5867,
+      "low": 5462,
+      "high": 6273
     },
     {
       "date": "2026-11-29",
-      "price": 5898,
-      "low": 5474,
-      "high": 6323
+      "price": 5867,
+      "low": 5462,
+      "high": 6273
     },
     {
       "date": "2026-11-30",
-      "price": 5898,
-      "low": 5474,
-      "high": 6323
+      "price": 5867,
+      "low": 5462,
+      "high": 6273
     }
   ],
   "accuracy_30d": {
-    "samples": 21,
+    "samples": 20,
     "mae": 106,
     "direction_hit_rate": null
   },
@@ -80,15 +80,15 @@
     "rating": -0.37575757575757573,
     "rating_ma": -0.9333333333333333,
     "rating_other": 0.18181818181818182,
-    "rsi": 42.07241423721775,
-    "close": 5925.0,
+    "rsi": 40.892119906137374,
+    "close": 5894.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-23T22:00:13+07:00"
+    "fetched_at": "2026-11-24T05:50:14+07:00"
   },
   "the": {
     "schema": 1,
     "the": [],
-    "sai_so": "21 lần dự đoán Arabica gần nhất lệch giá thật trung bình 106 USD/tấn"
+    "sai_so": "20 lần dự đoán Arabica gần nhất lệch giá thật trung bình 106 USD/tấn"
   },
   "pre_session": {
     "anchor_date": "2026-11-23",
