@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-11-21",
-  "updated_at": "2026-11-23T05:50:14+07:00",
+  "updated_at": "2026-11-23T10:45:14+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
@@ -183,6 +183,7 @@
     "chuoi": {
       "average": {
         "ten": "Trung bình 4 tỉnh",
+        "don_vi": "đồng/kg · Trung bình 4 tỉnh",
         "doi": {
           "chu": "▼ Giảm 2.000đ so với hôm qua",
           "mau": "giam"
@@ -267,6 +268,7 @@
       },
       "daklak": {
         "ten": "Đắk Lắk",
+        "don_vi": "đồng/kg · Đắk Lắk",
         "doi": {
           "chu": "▼ Giảm 2.000đ so với hôm qua",
           "mau": "giam"
@@ -351,6 +353,7 @@
       },
       "lamdong": {
         "ten": "Lâm Đồng",
+        "don_vi": "đồng/kg · Lâm Đồng",
         "doi": {
           "chu": "▼ Giảm 2.000đ so với hôm qua",
           "mau": "giam"
@@ -435,6 +438,7 @@
       },
       "gialai": {
         "ten": "Gia Lai",
+        "don_vi": "đồng/kg · Gia Lai",
         "doi": {
           "chu": "▼ Giảm 2.000đ so với hôm qua",
           "mau": "giam"
@@ -519,6 +523,7 @@
       },
       "daknong": {
         "ten": "Đắk Nông",
+        "don_vi": "đồng/kg · Đắk Nông",
         "doi": {
           "chu": "▼ Giảm 2.000đ so với hôm qua",
           "mau": "giam"
@@ -638,6 +643,13 @@
         "bieu_do_the_gioi": false
       }
     ],
-    "chia_se_chung": "\n\nGiá các tỉnh:\n- Đắk Lắk: 71.800 đ/kg\n- Lâm Đồng: 71.200 đ/kg\n- Gia Lai: 71.800 đ/kg\n- Đắk Nông: 72.000 đ/kg\n\nThế giới: Robusta London 2.881 USD/tấn\n\n(Xem trên app Giá cà phê: https://play.google.com/store/apps/details?id=com.lamhoangx.giacaphe)"
+    "chia_se_chung": "\n\nGiá các tỉnh:\n- Đắk Lắk: 71.800 đ/kg\n- Lâm Đồng: 71.200 đ/kg\n- Gia Lai: 71.800 đ/kg\n- Đắk Nông: 72.000 đ/kg\n\nThế giới: Robusta London 2.881 USD/tấn\n\n(Xem trên app Giá cà phê: https://play.google.com/store/apps/details?id=com.lamhoangx.giacaphe)",
+    "gia_cu": {
+      "hom_nay": "Đang hiện giá ngày Thứ Bảy, 21/11/2026.",
+      "bieu_do": {
+        "2026-11-21": "Giá ngày 21/11/2026 — chưa cập nhật hôm nay"
+      }
+    },
+    "the_gioi_moi_nhat": "2.881 USD/tấn · Thứ Bảy, 21/11/2026"
   }
 }
