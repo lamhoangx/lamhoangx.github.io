@@ -1,21 +1,44 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T06:47:45+07:00",
+  "generated_at": "2026-11-23T07:31:24+07:00",
   "date": "2026-11-23",
   "groups": [
+    {
+      "id": "vnbiz-202611237238771",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "vnbiz-202611237238771",
+          "title": "Xuất khẩu cà phê robusta toàn cầu tăng mạnh, Việt Nam chiếm gần 60% thị phần",
+          "url": "https://vietnambiz.vn/xuat-khau-ca-phe-robusta-toan-cau-tang-manh-viet-nam-chiem-gan-60-thi-phan-202611237238771.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-23T07:23:30+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/23/xuat-khau-ca-phe-20261123072015497-avatar-15x10-20261123072308367.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-23",
       "label": "Giá cà phê ngày 23/11",
       "important": true,
       "items": [
         {
-          "id": "bvh-gia-ca-phe-23-11-2026-tay-nguyen-cho-gia-mua-moi-giua-vu-thu-hoach",
-          "title": "Giá cà phê 23.11.2026: Tây Nguyên chờ giá mua mới giữa vụ thu hoạch",
-          "url": "https://baovanhoa.vn/gia-ca-phe-23-11-2026-tay-nguyen-cho-gia-mua-moi-giua-vu-thu-hoach.html",
-          "source": "Báo Văn hóa",
-          "published_at": "2026-11-23T05:51:00+07:00",
-          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/22/01a203f2-f154-7961-90ee-e52da424fe17.jpg",
-          "image_small": "news/anh/fb519571dd2c63c0f9a1.jpg"
+          "id": "bm-56578080",
+          "title": "Giá cà phê hôm nay 23/11: Tây Nguyên bước vào tuần mới sau chuỗi giảm sâu",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-23-11-tay-nguyen-buoc-vao-tuan-moi-sau-chuoi-giam-sau-c56578080.epi",
+          "source": "Báo Lào Cai",
+          "published_at": "2026-11-23T06:56:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_438_56578080/be4d83f71ebcf7e2aead.jpg"
+        },
+        {
+          "id": "vnbiz-202611236535733",
+          "title": "Giá cà phê hôm nay 23/11: Nông dân giữ hàng chờ giá tăng",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2311-nong-dan-giu-hang-cho-gia-tang-202611236535733.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-23T06:52:57+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/23/gia-ca-phe-23-11-20261123065128719-avatar-15x10-20261123065305184.jpg",
+          "image_small": "news/anh/fe27f6bc178f24624c92.jpg"
         },
         {
           "id": "tbtc-207377",
@@ -34,6 +57,15 @@
           "image": ""
         },
         {
+          "id": "bvh-gia-ca-phe-23-11-2026-tay-nguyen-cho-gia-mua-moi-giua-vu-thu-hoach",
+          "title": "Giá cà phê 23.11.2026: Tây Nguyên chờ giá mua mới giữa vụ thu hoạch",
+          "url": "https://baovanhoa.vn/gia-ca-phe-23-11-2026-tay-nguyen-cho-gia-mua-moi-giua-vu-thu-hoach.html",
+          "source": "Báo Văn hóa",
+          "published_at": "2026-11-23T05:51:00+07:00",
+          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/22/01a203f2-f154-7961-90ee-e52da424fe17.jpg",
+          "image_small": "news/anh/c774a465d0d0946c9c3e.jpg"
+        },
+        {
           "id": "vov-1352445",
           "title": "Giá cà phê hôm nay 23/11: Giá cà phê trong nước và thế giới ổn định",
           "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2311-gia-ca-phe-trong-nuoc-va-the-gioi-on-dinh-post1352445.vov",
@@ -47,7 +79,7 @@
     {
       "id": "bm-56577832",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "bm-56577832",
@@ -101,6 +133,29 @@
           ]
         }
       ]
+    },
+    {
+      "id": "sau-rieng",
+      "label": "Sầu riêng",
+      "title": "Tin tức sầu riêng",
+      "date": "2026-11-23",
+      "groups": [
+        {
+          "id": "gia-sau-rieng-2026-11-23",
+          "label": "Giá sầu riêng ngày 23/11",
+          "important": false,
+          "items": [
+            {
+              "id": "thcl-295560",
+              "title": "Giá sầu riêng hôm nay 23/11: Tăng ở Đồng bằng sông Cửu Long",
+              "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-23-11-tang-o-dong-bang-song-cuu-long-a295560.html",
+              "source": "Thương hiệu và Công luận",
+              "published_at": "2026-11-23T07:26:00+07:00",
+              "image": ""
+            }
+          ]
+        }
+      ]
     }
   ],
   "hien_thi": {
@@ -113,11 +168,39 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "sau-rieng",
+        "id": "thcl-295560",
+        "the": "Sầu riêng",
+        "dong_nguon": "Thương hiệu và Công luận · 07:26",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-202611237238771",
+        "the": null,
+        "dong_nguon": "VietnamBiz · 07:23",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56578080",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lào Cai · 06:56",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-202611236535733",
+        "the": "Cà phê",
+        "dong_nguon": "VietnamBiz · 06:52",
+        "noi_bat": false
+      },
+      {
         "chu_de": "ho-tieu",
         "id": "vnbiz-2026112363728860",
         "the": "Hồ tiêu",
         "dong_nguon": "VietnamBiz · 06:37",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -145,7 +228,7 @@
         "id": "bm-56577832",
         "the": null,
         "dong_nguon": "Báo Lâm Đồng · 06:05",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "ho-tieu",
@@ -159,7 +242,7 @@
         "id": "bvh-gia-ca-phe-23-11-2026-tay-nguyen-cho-gia-mua-moi-giua-vu-thu-hoach",
         "the": "Cà phê",
         "dong_nguon": "Báo Văn hóa · 05:51",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
