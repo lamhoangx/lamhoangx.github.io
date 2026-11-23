@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T14:50:19+07:00",
+  "generated_at": "2026-11-23T17:00:48+07:00",
   "date": "2026-11-23",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 23/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56582634",
+          "title": "Giá cà phê Robusta chạm đáy, nông dân Việt Nam còn giữ được lợi thế?",
+          "url": "https://baomoi.com/gia-ca-phe-robusta-cham-day-nong-dan-viet-nam-con-giu-duoc-loi-the-c56582634.epi",
+          "source": "Tạp chí Mekong Asean",
+          "published_at": "2026-11-23T16:49:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_595_56582634/fd614419d952300c6943.jpg"
+        },
+        {
+          "id": "tcct-568612",
+          "title": "Giá cà phê hôm nay 23/11: Giá giảm sâu, nguồn cung vụ mới gây sức ép lên thị trường",
+          "url": "https://tapchicongthuong.vn/gia-ca-phe-hom-nay-23-11--gia-giam-sau--nguon-cung-vu-moi-gay-suc-ep-len-thi-truong-568612.htm",
+          "source": "Tạp chí Công Thương",
+          "published_at": "2026-11-23T16:39:00+07:00",
+          "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/23/98-1761091981-gia-ca-phe-hom-nay-22-10_6b03fdc99e7fc.jpg",
+          "image_small": "news/anh/cc129606560ff7a260b8.jpg"
+        },
         {
           "id": "bm-56581081",
           "title": "Giá nông sản hôm nay 23/11/2026: Giá cà phê trong nước thấp nhất 3 năm, nguy cơ dò đáy mới? Thêm một sản phẩm cà phê Việt Nam vượt qua Brazil",
@@ -146,16 +163,16 @@
       ]
     },
     {
-      "id": "bm-56581259",
+      "id": "thcl-295572",
       "label": "",
       "important": true,
       "items": [
         {
-          "id": "bm-56581259",
+          "id": "thcl-295572",
           "title": "THỊ TRƯỜNG HÀNG HÓA: Giá bạc và cà phê lao dốc mạnh",
-          "url": "https://baomoi.com/thi-truong-hang-hoa-gia-bac-va-ca-phe-lao-doc-manh-c56581259.epi",
-          "source": "Báo Chính Phủ",
-          "published_at": "2026-11-23T13:43:00+07:00",
+          "url": "https://hangthat.thuonghieucongluan.com.vn/thi-truong-hang-hoa-gia-bac-va-ca-phe-lao-doc-manh-a295572.html",
+          "source": "Thương hiệu và Công luận",
+          "published_at": "2026-11-23T16:35:00+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_23_146_56581259/76f96794fadf13814ace.jpg"
         },
         {
@@ -297,13 +314,22 @@
           "important": true,
           "items": [
             {
+              "id": "tcct-568610",
+              "title": "Giá tiêu hôm nay 23/11: Sản lượng hồ tiêu Việt Nam niên vụ 2026-2027 dự báo giảm hơn 50% so với mức đỉnh",
+              "url": "https://tapchicongthuong.vn/gia-tieu-hom-nay-23-11--san-luong-ho-tieu-viet-nam-nien-vu-2026-2027-du-bao-giam-hon-50--so-voi-muc-dinh-568610.htm",
+              "source": "Tạp chí Công Thương",
+              "published_at": "2026-11-23T16:43:00+07:00",
+              "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/23/20251204073809-51ho-tieu-1_6b03fc58bf970.jpg",
+              "image_small": "news/anh/3b4b91c899cb2253c207.jpg"
+            },
+            {
               "id": "dnhn-154879",
               "title": "Giá tiêu hôm nay 23 11 2026 Thị trường đi ngang tiêu Ấn Độ lập đỉnh mới",
               "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-23112026-thi-truong-di-ngang-tieu-an-do-lap-dinh-moi-154879.html",
               "source": "Doanh nghiệp và Hội nhập",
               "published_at": "2026-11-23T08:00:05+07:00",
               "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/5920261115225840.jpg",
-              "image_small": "news/anh/239110a96a156992d8e7.jpg"
+              "image_small": "news/anh/96440e54a3fc5b9ba3c7.jpg"
             },
             {
               "id": "vnbiz-2026112363728860",
@@ -388,16 +414,37 @@
     "muc": [
       {
         "chu_de": "",
-        "id": "bm-56581081",
+        "id": "bm-56582634",
         "the": "Cà phê",
-        "dong_nguon": "Báo Thế Giới & Việt Nam · 13:45",
+        "dong_nguon": "Tạp chí Mekong Asean · 16:49",
         "noi_bat": true
       },
       {
+        "chu_de": "ho-tieu",
+        "id": "tcct-568610",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Tạp chí Công Thương · 16:43",
+        "noi_bat": false
+      },
+      {
         "chu_de": "",
-        "id": "bm-56581259",
+        "id": "tcct-568612",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Công Thương · 16:39",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "thcl-295572",
         "the": null,
-        "dong_nguon": "Báo Chính Phủ · 13:43",
+        "dong_nguon": "Thương hiệu và Công luận · 16:35",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56581081",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Thế Giới & Việt Nam · 13:45",
         "noi_bat": false
       },
       {
@@ -517,14 +564,14 @@
         "id": "dnhn-154879",
         "the": "Hồ tiêu",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 08:00",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
         "id": "tt-100261120200406561",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 07:58",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
