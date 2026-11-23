@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-11-23T10:45:17+07:00",
+  "generated_at": "2026-11-23T12:35:20+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
-  "trained_days": 83,
+  "trained_days": 84,
   "anchor": {
-    "date": "2026-11-21",
+    "date": "2026-11-23",
     "price": 5919
   },
   "predictions": [
-    {
-      "date": "2026-11-22",
-      "price": 5919,
-      "low": 5870,
-      "high": 5968
-    },
-    {
-      "date": "2026-11-23",
-      "price": 5919,
-      "low": 5870,
-      "high": 5968
-    },
     {
       "date": "2026-11-24",
       "price": 5905,
@@ -49,6 +37,18 @@
       "price": 5875,
       "low": 5421,
       "high": 6328
+    },
+    {
+      "date": "2026-11-29",
+      "price": 5875,
+      "low": 5421,
+      "high": 6328
+    },
+    {
+      "date": "2026-11-30",
+      "price": 5875,
+      "low": 5421,
+      "high": 6328
     }
   ],
   "accuracy_30d": {
@@ -66,9 +66,9 @@
       "date": "2026-11-12",
       "price": 5835
     },
-    "average": 6332,
-    "ma7": 6057,
-    "ma30": 6332
+    "average": 6304,
+    "ma7": 6042,
+    "ma30": 6304
   },
   "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
   "series": "arabica",
@@ -83,7 +83,7 @@
     "rsi": 41.7945163001879,
     "close": 5919.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-23T10:45:17+07:00"
+    "fetched_at": "2026-11-23T12:35:20+07:00"
   },
   "the": {
     "schema": 1,
@@ -91,17 +91,9 @@
     "sai_so": "21 lần dự đoán Arabica gần nhất lệch giá thật trung bình 106 USD/tấn"
   },
   "pre_session": {
-    "anchor_date": "2026-11-21",
+    "anchor_date": "2026-11-23",
     "anchor_price": 5919,
     "predictions": [
-      {
-        "date": "2026-11-22",
-        "price": 5919
-      },
-      {
-        "date": "2026-11-23",
-        "price": 5919
-      },
       {
         "date": "2026-11-24",
         "price": 5905
@@ -109,6 +101,14 @@
       {
         "date": "2026-11-25",
         "price": 5894
+      },
+      {
+        "date": "2026-11-26",
+        "price": 5886
+      },
+      {
+        "date": "2026-11-27",
+        "price": 5879
       }
     ]
   }
