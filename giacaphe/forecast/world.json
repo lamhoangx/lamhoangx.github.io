@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T06:15:11+07:00",
-  "model": "tv-live-v1",
+  "model": "robusta-technical-v3",
+  "generated_at": "2026-11-24T09:56:57+07:00",
   "horizon_days": 7,
   "trained_days": 84,
   "anchor": {
@@ -16,61 +16,42 @@
     },
     {
       "date": "2026-11-25",
-      "price": 2849,
-      "low": 2764,
-      "high": 2935
+      "price": 2841,
+      "low": 2756,
+      "high": 2927
     },
     {
       "date": "2026-11-26",
-      "price": 2845,
-      "low": 2724,
-      "high": 2966
+      "price": 2832,
+      "low": 2711,
+      "high": 2953
     },
     {
       "date": "2026-11-27",
-      "price": 2843,
-      "low": 2694,
-      "high": 2991
+      "price": 2828,
+      "low": 2680,
+      "high": 2976
     },
     {
       "date": "2026-11-28",
-      "price": 2841,
-      "low": 2669,
-      "high": 3012
+      "price": 2828,
+      "low": 2657,
+      "high": 2999
     },
     {
       "date": "2026-11-29",
-      "price": 2841,
-      "low": 2669,
-      "high": 3012
+      "price": 2828,
+      "low": 2657,
+      "high": 2999
     },
     {
       "date": "2026-11-30",
-      "price": 2841,
-      "low": 2669,
-      "high": 3012
+      "price": 2828,
+      "low": 2657,
+      "high": 2999
     }
   ],
-  "accuracy_30d": {
-    "samples": 20,
-    "mae": 34,
-    "direction_hit_rate": null
-  },
-  "stats": {
-    "window_days": 30,
-    "high": {
-      "date": "2026-10-20",
-      "price": 3484
-    },
-    "low": {
-      "date": "2026-11-21",
-      "price": 2881
-    },
-    "average": 3211,
-    "ma7": 3024,
-    "ma30": 3211
-  },
-  "disclaimer": "Dự đoán tham khảo, không phải khuyến nghị mua bán.",
+  "accuracy_30d": null,
   "series": "robusta",
   "name": "Robusta London",
   "unit": "USD/tấn",
@@ -83,33 +64,11 @@
     "rsi": 19.31308857046571,
     "close": 2854.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-24T06:15:11+07:00"
+    "fetched_at": "2026-11-24T09:56:57+07:00",
+    "open": 2869.0,
+    "high": 2910.0,
+    "low": 2825.0,
+    "volume": 14625
   },
-  "the": {
-    "schema": 1,
-    "the": [],
-    "sai_so": "20 lần dự đoán Robusta gần nhất lệch giá thật trung bình 34 USD/tấn"
-  },
-  "pre_session": {
-    "anchor_date": "2026-11-23",
-    "anchor_price": 2881,
-    "predictions": [
-      {
-        "date": "2026-11-24",
-        "price": 2875
-      },
-      {
-        "date": "2026-11-25",
-        "price": 2871
-      },
-      {
-        "date": "2026-11-26",
-        "price": 2868
-      },
-      {
-        "date": "2026-11-27",
-        "price": 2866
-      }
-    ]
-  }
+  "the": null
 }
