@@ -1,6 +1,6 @@
 {
   "model": "robusta-technical-v3",
-  "generated_at": "2026-11-24T17:42:32+07:00",
+  "generated_at": "2026-11-24T19:30:53+07:00",
   "horizon_days": 7,
   "trained_days": 85,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-25",
-      "price": 2835,
-      "low": 2758,
-      "high": 2912
+      "price": 2825,
+      "low": 2759,
+      "high": 2891
     },
     {
       "date": "2026-11-26",
-      "price": 2822,
-      "low": 2707,
-      "high": 2937
+      "price": 2812,
+      "low": 2704,
+      "high": 2920
     },
     {
       "date": "2026-11-27",
-      "price": 2812,
-      "low": 2669,
-      "high": 2955
+      "price": 2802,
+      "low": 2664,
+      "high": 2940
     },
     {
       "date": "2026-11-28",
-      "price": 2808,
-      "low": 2641,
-      "high": 2975
+      "price": 2798,
+      "low": 2636,
+      "high": 2960
     },
     {
       "date": "2026-11-29",
-      "price": 2808,
-      "low": 2641,
-      "high": 2975
+      "price": 2798,
+      "low": 2636,
+      "high": 2960
     },
     {
       "date": "2026-11-30",
-      "price": 2808,
-      "low": 2641,
-      "high": 2975
+      "price": 2798,
+      "low": 2636,
+      "high": 2960
     },
     {
       "date": "2026-12-01",
-      "price": 2808,
-      "low": 2620,
-      "high": 2996
+      "price": 2798,
+      "low": 2615,
+      "high": 2981
     }
   ],
   "accuracy_30d": null,
@@ -109,14 +109,14 @@
     "rating": -0.49090909090909096,
     "rating_ma": -0.8,
     "rating_other": -0.18181818181818182,
-    "rsi": 18.640185833538993,
-    "close": 2835.0,
+    "rsi": 18.30452139004771,
+    "close": 2825.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-24T17:42:32+07:00",
+    "fetched_at": "2026-11-24T19:30:53+07:00",
     "open": 2854.0,
     "high": 2854.0,
     "low": 2811.0,
-    "volume": 4793
+    "volume": 5934
   },
   "the": null
 }
