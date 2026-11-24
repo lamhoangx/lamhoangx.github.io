@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T06:47:04+07:00",
+  "generated_at": "2026-11-24T07:30:42+07:00",
   "date": "2026-11-24",
   "groups": [
     {
@@ -9,12 +9,12 @@
       "important": true,
       "items": [
         {
-          "id": "bm-56586063",
-          "title": "Giá cà phê hôm nay 24/11: Robusta giảm phiên thứ 11 liên tiếp, chạm đáy 3 năm",
-          "url": "https://baomoi.com/gia-ca-phe-hom-nay-24-11-robusta-giam-phien-thu-11-lien-tiep-cham-day-3-nam-c56586063.epi",
-          "source": "Báo Ninh Bình",
-          "published_at": "2026-11-24T06:37:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_24_442_56586063/6ab60e305f7bb625ef6a.jpg"
+          "id": "bm-56586178",
+          "title": "Bản tin nông sản hôm nay (24-11): Giá cà phê giảm",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-24-11-gia-ca-phe-giam-c56586178.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-24T07:03:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_24_16_56586178/abad0d594812a14cf803.jpg"
         },
         {
           "id": "tbtc-207453",
@@ -23,6 +23,14 @@
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-24T06:37:41+07:00",
           "image": ""
+        },
+        {
+          "id": "bm-56586063",
+          "title": "Giá cà phê hôm nay 24/11: Robusta giảm phiên thứ 11 liên tiếp, chạm đáy 3 năm",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-24-11-robusta-giam-phien-thu-11-lien-tiep-cham-day-3-nam-c56586063.epi",
+          "source": "Báo Ninh Bình",
+          "published_at": "2026-11-24T06:37:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_24_442_56586063/6ab60e305f7bb625ef6a.jpg"
         },
         {
           "id": "bm-56585990",
@@ -144,6 +152,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56586178",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 07:03",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "tbtc-207453",
         "the": "Cà phê",
         "dong_nguon": "Thời báo Tài chính Việt Nam · 06:37",
@@ -154,7 +169,7 @@
         "id": "bm-56586063",
         "the": "Cà phê",
         "dong_nguon": "Báo Ninh Bình · 06:37",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
