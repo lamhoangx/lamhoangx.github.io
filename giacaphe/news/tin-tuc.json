@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T07:30:42+07:00",
+  "generated_at": "2026-11-24T07:55:20+07:00",
   "date": "2026-11-24",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 24/11",
       "important": true,
       "items": [
+        {
+          "id": "dnhn-155005",
+          "title": "Giá cà phê hôm nay 24 11 2026 tiếp tục mất giá Robusta arabica đồng loạt giảm Tây Nguyên về sát 71 000 đồng kg",
+          "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-24112026-tiep-tuc-mat-gia-robusta-arabica-dong-loat-giam-tay-nguyen-ve-sat-71000-dongkg-155005.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-24T07:30:12+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/24/01/in_social/2620261124011855.jpg",
+          "image_small": "news/anh/af123e4aae449d41d0e7.jpg"
+        },
+        {
+          "id": "gdm-101124",
+          "title": "Giá cà phê hôm nay 24/11: Trong nước giảm thêm 200 đồng/kg, Robusta London dưới 2.900 USD/tấn",
+          "url": "https://giadinhmoi.vn/gia-ca-phe-hom-nay-24-11-trong-nuoc-giam-them-200-dong-kg-robusta-london-duoi-2900-usd-tan-d101124.html",
+          "source": "Gia đình Mới",
+          "published_at": "2026-11-24T07:24:54+07:00",
+          "image": ""
+        },
         {
           "id": "bm-56586178",
           "title": "Bản tin nông sản hôm nay (24-11): Giá cà phê giảm",
@@ -18,11 +35,11 @@
         },
         {
           "id": "tbtc-207453",
-          "title": "Ngày 24 11 Giá cà phê tiếp tục đi xuống hồ tiêu ổn định",
+          "title": "Ngày 24/11: Giá cà phê tiếp tục đi xuống, hồ tiêu ổn định",
           "url": "https://thoibaotaichinhvietnam.vn/ngay-24-11-gia-ca-phe-tiep-tuc-di-xuong-ho-tieu-on-dinh-207453.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-24T06:37:41+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_24_578_56586372/0a721b44860f6f51361e.jpg"
         },
         {
           "id": "bm-56586063",
@@ -152,10 +169,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "dnhn-155005",
+        "the": "Cà phê",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "gdm-101124",
+        "the": "Cà phê",
+        "dong_nguon": "Gia đình Mới · 07:24",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56586178",
         "the": "Cà phê",
         "dong_nguon": "Báo Quân Đội Nhân Dân · 07:03",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
