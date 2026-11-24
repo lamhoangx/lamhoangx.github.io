@@ -1,6 +1,6 @@
 {
   "model": "robusta-technical-v3",
-  "generated_at": "2026-11-24T22:00:19+07:00",
+  "generated_at": "2026-11-24T22:41:11+07:00",
   "horizon_days": 7,
   "trained_days": 85,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-25",
-      "price": 2832,
-      "low": 2786,
-      "high": 2878
+      "price": 2844,
+      "low": 2804,
+      "high": 2884
     },
     {
       "date": "2026-11-26",
-      "price": 2819,
-      "low": 2721,
-      "high": 2916
+      "price": 2832,
+      "low": 2738,
+      "high": 2927
     },
     {
       "date": "2026-11-27",
-      "price": 2809,
-      "low": 2679,
-      "high": 2939
+      "price": 2824,
+      "low": 2696,
+      "high": 2951
     },
     {
       "date": "2026-11-28",
-      "price": 2805,
-      "low": 2650,
-      "high": 2960
+      "price": 2820,
+      "low": 2667,
+      "high": 2974
     },
     {
       "date": "2026-11-29",
-      "price": 2805,
-      "low": 2650,
-      "high": 2960
+      "price": 2820,
+      "low": 2667,
+      "high": 2974
     },
     {
       "date": "2026-11-30",
-      "price": 2805,
-      "low": 2650,
-      "high": 2960
+      "price": 2820,
+      "low": 2667,
+      "high": 2974
     },
     {
       "date": "2026-12-01",
-      "price": 2805,
-      "low": 2627,
-      "high": 2982
+      "price": 2821,
+      "low": 2645,
+      "high": 2997
     }
   ],
   "accuracy_30d": null,
@@ -106,17 +106,17 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.49090909090909096,
+    "rating": -0.35454545454545455,
     "rating_ma": -0.8,
-    "rating_other": -0.18181818181818182,
-    "rsi": 18.538200950577973,
-    "close": 2832.0,
+    "rating_other": 0.09090909090909091,
+    "rsi": 18.95298610057388,
+    "close": 2844.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-24T22:00:19+07:00",
+    "fetched_at": "2026-11-24T22:41:11+07:00",
     "open": 2854.0,
     "high": 2854.0,
     "low": 2811.0,
-    "volume": 8102
+    "volume": 8861
   },
   "the": null
 }
