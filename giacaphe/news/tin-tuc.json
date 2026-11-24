@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T12:45:21+07:00",
+  "generated_at": "2026-11-24T14:20:25+07:00",
   "date": "2026-11-24",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56589289",
+          "title": "Giá nông sản hôm nay 24/11/2026: Giá cà phê không ngừng lao dốc, áp lực vụ mới đè nặng; Thái Lan tăng xuất khẩu trái cây sang Trung Quốc qua Mekong",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-24-11-2026-gia-ca-phe-khong-ngung-lao-doc-ap-luc-vu-moi-de-nang-thai-lan-tang-xuat-khau-trai-cay-sang-trung-quoc-qua-mekong-c56589289.epi",
+          "source": "Báo Thế Giới & Việt Nam",
+          "published_at": "2026-11-24T13:59:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_24_194_56589289/3afeda7d9a3673682a27.jpg"
+        },
+        {
           "id": "vnbiz-2026112410355362",
           "title": "Giá cà phê hôm nay 24/11: Áp lực nguồn cung khiến giá tiếp tục đi xuống",
           "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2411-ap-luc-nguon-cung-khien-gia-tiep-tuc-di-xuong-2026112410355362.htm",
           "source": "VietnamBiz",
           "published_at": "2026-11-24T10:03:48+07:00",
           "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/24/gia-ca-phe-24-11-20261124095840611-avatar-15x10-20261124100354957.jpg",
-          "image_small": "news/anh/a67c4f972d634ee5e6e5.jpg"
+          "image_small": "news/anh/17a85e882575cb651d99.jpg"
         },
         {
           "id": "bgl-605851",
@@ -266,6 +274,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56589289",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Thế Giới & Việt Nam · 13:59",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56588778",
         "the": null,
         "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 12:38",
@@ -290,14 +305,14 @@
         "id": "vnbiz-2026112410355362",
         "the": "Cà phê",
         "dong_nguon": "VietnamBiz · 10:03",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
         "id": "tt-100261120175739417",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 08:42",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -318,7 +333,7 @@
         "id": "dnhn-155016",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
