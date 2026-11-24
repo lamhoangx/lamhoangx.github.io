@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T09:05:19+07:00",
+  "generated_at": "2026-11-24T11:40:35+07:00",
   "date": "2026-11-24",
   "groups": [
     {
@@ -134,6 +134,21 @@
       "date": "2026-11-24",
       "groups": [
         {
+          "id": "bm-56587537",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56587537",
+              "title": "Giá nông sản hôm nay (24/11): Giá thịt lợn hơi đi ngang, hồ tiêu ổn định",
+              "url": "https://baomoi.com/gia-nong-san-hom-nay-24-11-gia-thit-lon-hoi-di-ngang-ho-tieu-on-dinh-c56587537.epi",
+              "source": "Tạp chí Thương Gia",
+              "published_at": "2026-11-24T10:07:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_24_341_56587537/ff98729defd606885fc7.jpg"
+            }
+          ]
+        },
+        {
           "id": "gia-ho-tieu-2026-11-24",
           "label": "Giá hồ tiêu ngày 24/11",
           "important": false,
@@ -186,6 +201,15 @@
           "important": false,
           "items": [
             {
+              "id": "dnhn-155016",
+              "title": "Giá sầu riêng hôm nay 24 11 Sầu riêng miền Tây vẫn duy trì mức giá cao",
+              "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2411-sau-rieng-mien-tay-van-duy-tri-muc-gia-cao-155016.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-24T07:30:25+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/24/07/in_social/anh-sau-rieng-lua-gao-heo-hoi20261124070824.png",
+              "image_small": "news/anh/61b53c4afe606399bb7e.jpg"
+            },
+            {
               "id": "thcl-295582",
               "title": "Giá sầu riêng hôm nay 24/11: Duy trì mức cao",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-24-11-duy-tri-muc-cao-a295582.html",
@@ -208,6 +232,13 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "ho-tieu",
+        "id": "bm-56587537",
+        "the": null,
+        "dong_nguon": "Tạp chí Thương Gia · 10:07",
+        "noi_bat": false
+      },
+      {
         "chu_de": "",
         "id": "tt-100261120175739417",
         "the": null,
@@ -227,6 +258,13 @@
         "the": "Cà phê",
         "dong_nguon": "Báo Gia Lai · 08:30",
         "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "dnhn-155016",
+        "the": "Sầu riêng",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
       },
       {
         "chu_de": "",
