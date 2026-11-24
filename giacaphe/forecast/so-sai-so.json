@@ -1,11 +1,61 @@
 {
   "schema_version": 1,
   "so": {
-    "latest.json": [],
-    "latest.json#daklak": [],
-    "latest.json#lamdong": [],
-    "latest.json#gialai": [],
-    "latest.json#daknong": [],
+    "latest.json": [
+      {
+        "date": "2026-11-24",
+        "absolute_error": 264,
+        "direction_hit": true,
+        "sai_so_khong_doi": 600,
+        "gia_du_doan": 71364,
+        "gia_neo": 71700,
+        "gia_thuc": 71100
+      }
+    ],
+    "latest.json#daklak": [
+      {
+        "date": "2026-11-24",
+        "absolute_error": 264,
+        "direction_hit": true,
+        "sai_so_khong_doi": 600,
+        "gia_du_doan": 71264,
+        "gia_neo": 71600,
+        "gia_thuc": 71000
+      }
+    ],
+    "latest.json#lamdong": [
+      {
+        "date": "2026-11-24",
+        "absolute_error": 167,
+        "direction_hit": true,
+        "sai_so_khong_doi": 500,
+        "gia_du_doan": 70667,
+        "gia_neo": 71000,
+        "gia_thuc": 70500
+      }
+    ],
+    "latest.json#gialai": [
+      {
+        "date": "2026-11-24",
+        "absolute_error": 264,
+        "direction_hit": true,
+        "sai_so_khong_doi": 600,
+        "gia_du_doan": 71264,
+        "gia_neo": 71600,
+        "gia_thuc": 71000
+      }
+    ],
+    "latest.json#daknong": [
+      {
+        "date": "2026-11-24",
+        "absolute_error": 164,
+        "direction_hit": true,
+        "sai_so_khong_doi": 500,
+        "gia_du_doan": 71464,
+        "gia_neo": 71800,
+        "gia_thuc": 71300
+      }
+    ],
     "world.json": [],
     "world-arabica.json": [
       {
@@ -130,6 +180,15 @@
         "gia_du_doan": 6082,
         "gia_neo": 6085,
         "gia_thuc": 5919
+      },
+      {
+        "date": "2026-11-24",
+        "absolute_error": 2,
+        "direction_hit": true,
+        "sai_so_khong_doi": 16,
+        "gia_du_doan": 5905,
+        "gia_neo": 5919,
+        "gia_thuc": 5903
       }
     ]
   }
