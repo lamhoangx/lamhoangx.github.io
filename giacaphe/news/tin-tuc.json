@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T12:25:21+07:00",
+  "generated_at": "2026-11-25T12:45:19+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -217,10 +217,18 @@
       "date": "2026-11-25",
       "groups": [
         {
-          "id": "bm-56595812",
+          "id": "bm-56595988",
           "label": "",
           "important": true,
           "items": [
+            {
+              "id": "bm-56595988",
+              "title": "Chuyển đổi xanh cho ngành hàng sầu riêng",
+              "url": "https://baomoi.com/chuyen-doi-xanh-cho-nganh-hang-sau-rieng-c56595988.epi",
+              "source": "Báo Nhân Dân",
+              "published_at": "2026-11-25T12:34:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_14_56595988/3c31a98c37c7de9987d6.jpg"
+            },
             {
               "id": "bm-56595812",
               "title": "Sầu riêng Việt Nam trước yêu cầu chuyển đổi xanh để giữ thị trường xuất khẩu",
@@ -276,6 +284,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56595988",
+        "the": null,
+        "dong_nguon": "Báo Nhân Dân · 12:34",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "bm-56595905",
