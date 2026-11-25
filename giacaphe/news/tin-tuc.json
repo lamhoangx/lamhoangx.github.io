@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T17:50:17+07:00",
+  "generated_at": "2026-11-25T18:40:19+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -241,17 +241,17 @@
       "date": "2026-11-25",
       "groups": [
         {
-          "id": "bm-56598640",
+          "id": "bm-56598893",
           "label": "",
           "important": true,
           "items": [
             {
-              "id": "bm-56598640",
-              "title": "Sầu riêng bước vào cuộc đua mới",
-              "url": "https://baomoi.com/sau-rieng-buoc-vao-cuoc-dua-moi-c56598640.epi",
-              "source": "Báo Tin Tức TTXVN",
-              "published_at": "2026-11-25T17:50:00+07:00",
-              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_294_56598640/45622efbb0b059ee00a1.jpg"
+              "id": "bm-56598893",
+              "title": "Sầu riêng Việt hết thời tăng trưởng nóng",
+              "url": "https://baomoi.com/sau-rieng-viet-het-thoi-tang-truong-nong-c56598893.epi",
+              "source": "Báo Tiền Phong",
+              "published_at": "2026-11-25T18:32:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_20_56598893/b7312355bd1e54400d0f.jpg"
             }
           ]
         },
@@ -337,6 +337,21 @@
           ]
         },
         {
+          "id": "bm-56598640",
+          "label": "",
+          "important": false,
+          "items": [
+            {
+              "id": "bm-56598640",
+              "title": "Sầu riêng bước vào cuộc đua mới",
+              "url": "https://baomoi.com/sau-rieng-buoc-vao-cuoc-dua-moi-c56598640.epi",
+              "source": "Báo Tin Tức TTXVN",
+              "published_at": "2026-11-25T17:50:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_294_56598640/45622efbb0b059ee00a1.jpg"
+            }
+          ]
+        },
+        {
           "id": "bm-56598520",
           "label": "",
           "important": false,
@@ -389,10 +404,17 @@
     "muc": [
       {
         "chu_de": "sau-rieng",
+        "id": "bm-56598893",
+        "the": null,
+        "dong_nguon": "Báo Tiền Phong · 18:32",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
         "id": "bm-56598640",
         "the": null,
         "dong_nguon": "Báo Tin Tức TTXVN · 17:50",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
