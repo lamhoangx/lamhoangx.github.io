@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:59:23+07:00",
+  "generated_at": "2026-11-25T19:31:01+07:00",
   "model": "taynguyen-robusta-technical-v3",
   "horizon_days": 7,
   "trained_days": 88,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-26",
-      "price": 69651,
-      "low": 67575,
-      "high": 71729
+      "price": 69440,
+      "low": 68400,
+      "high": 70480
     },
     {
       "date": "2026-11-27",
-      "price": 69306,
-      "low": 66368,
-      "high": 72244
+      "price": 68920,
+      "low": 65982,
+      "high": 71856
     },
     {
       "date": "2026-11-28",
-      "price": 68778,
-      "low": 65180,
-      "high": 72376
+      "price": 68487,
+      "low": 64889,
+      "high": 72085
     },
     {
       "date": "2026-11-29",
-      "price": 68405,
-      "low": 64251,
-      "high": 72559
+      "price": 68120,
+      "low": 63966,
+      "high": 72274
     },
     {
       "date": "2026-11-30",
-      "price": 68083,
-      "low": 63438,
-      "high": 72728
+      "price": 67803,
+      "low": 63158,
+      "high": 72448
     },
     {
       "date": "2026-12-01",
-      "price": 67810,
-      "low": 62722,
-      "high": 72899
+      "price": 67522,
+      "low": 62434,
+      "high": 72611
     },
     {
       "date": "2026-12-02",
-      "price": 67630,
-      "low": 62135,
-      "high": 73127
+      "price": 67270,
+      "low": 61775,
+      "high": 72765
     }
   ],
   "accuracy_30d": {
@@ -75,33 +75,32 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.5363636363636364,
+    "rating": -0.4454545454545455,
     "rating_ma": -0.8,
-    "rating_other": -0.2727272727272727,
-    "rsi": 17.917344007242107,
-    "close": 2813.0,
+    "rating_other": -0.09090909090909091,
+    "rsi": 16.279501936079384,
+    "close": 2760.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-25T11:59:23+07:00",
-    "open": 2854.0,
-    "high": 2854.0,
-    "low": 2801.0,
-    "volume": 11608
+    "fetched_at": "2026-11-25T19:31:01+07:00",
+    "open": 2800.0,
+    "high": 2803.0,
+    "low": 2736.0,
+    "volume": 5870
   },
   "truyen_dan": {
-    "r": 0.0,
-    "beta": 0.5,
-    "r_du_doan": -0.012798
+    "r": -0.018841,
+    "beta": 0.5
   },
   "tin_hieu_san": {
     "san": "London",
-    "phan_tram": 0.0,
+    "phan_tram": -1.9,
     "tu_ngay": "2026-11-25",
-    "luc": "2026-11-25T11:59:23+07:00"
+    "luc": "2026-11-25T19:31:01+07:00"
   },
   "de_xuat_ai": null,
   "regions": {
     "daklak": {
-      "generated_at": "2026-11-25T11:59:23+07:00",
+      "generated_at": "2026-11-25T19:31:01+07:00",
       "model": "taynguyen-robusta-technical-v3",
       "horizon_days": 7,
       "trained_days": 88,
@@ -112,45 +111,45 @@
       "predictions": [
         {
           "date": "2026-11-26",
-          "price": 69552,
-          "low": 67441,
-          "high": 71665
+          "price": 69341,
+          "low": 68280,
+          "high": 70402
         },
         {
           "date": "2026-11-27",
-          "price": 69198,
-          "low": 66213,
-          "high": 72185
+          "price": 68811,
+          "low": 65826,
+          "high": 71798
         },
         {
           "date": "2026-11-28",
-          "price": 68662,
-          "low": 65005,
-          "high": 72319
+          "price": 68370,
+          "low": 64713,
+          "high": 72027
         },
         {
           "date": "2026-11-29",
-          "price": 68281,
-          "low": 64059,
-          "high": 72505
+          "price": 67996,
+          "low": 63774,
+          "high": 72220
         },
         {
           "date": "2026-11-30",
-          "price": 67952,
-          "low": 63231,
-          "high": 72674
+          "price": 67672,
+          "low": 62951,
+          "high": 72394
         },
         {
           "date": "2026-12-01",
-          "price": 67674,
-          "low": 62501,
-          "high": 72847
+          "price": 67386,
+          "low": 62213,
+          "high": 72557
         },
         {
           "date": "2026-12-02",
-          "price": 67489,
-          "low": 61902,
-          "high": 73076
+          "price": 67128,
+          "low": 61541,
+          "high": 72715
         }
       ],
       "accuracy_30d": {
@@ -178,7 +177,7 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 26/11",
         "target_date": "2026-11-26",
-        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.700 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 67.600 – 71.700.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.600 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.500đ.\n\nTính lúc 11:59 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.600 | giảm |\n| Lâm Đồng | 69.100 | giảm |\n| Gia Lai | 69.600 | giảm |\n| Đắk Nông | 69.900 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nTrong ngắn hạn, giá thế giới được dự đoán có thể giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 62.100 – 73.100.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
+        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.400 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 68.400 – 70.500.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.300 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.800đ.\n\nTính lúc 19:31 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.300 | giảm |\n| Lâm Đồng | 68.800 | giảm |\n| Gia Lai | 69.300 | giảm |\n| Đắk Nông | 69.600 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nỞ thị trường quốc tế, giá cà phê vừa giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 61.800 – 72.800.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
         "ad_before": 1
       },
       "the": {
@@ -195,11 +194,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.600 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 69.300 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.100 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -218,11 +217,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.200 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.800 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.100 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -241,11 +240,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 68.700 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.400 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.100 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -255,22 +254,22 @@
           }
         ],
         "gia_in": {
-          "2026-11-26": 69600,
-          "2026-11-27": 69200,
-          "2026-11-28": 68700,
-          "2026-11-29": 68300,
-          "2026-11-30": 68000,
-          "2026-12-01": 67700,
-          "2026-12-02": 67500
+          "2026-11-26": 69300,
+          "2026-11-27": 68800,
+          "2026-11-28": 68400,
+          "2026-11-29": 68000,
+          "2026-11-30": 67700,
+          "2026-12-01": 67400,
+          "2026-12-02": 67100
         },
         "doc_cham": {
-          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.600 đ/⁠kg",
-          "2026-11-27": "Dự đoán ngày 27/11: khoảng 69.200 đ/⁠kg",
-          "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.700 đ/⁠kg",
-          "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.300 đ/⁠kg",
-          "2026-11-30": "Dự đoán ngày 30/11: khoảng 68.000 đ/⁠kg",
-          "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.700 đ/⁠kg",
-          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.500 đ/⁠kg"
+          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.300 đ/⁠kg",
+          "2026-11-27": "Dự đoán ngày 27/11: khoảng 68.800 đ/⁠kg",
+          "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.400 đ/⁠kg",
+          "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.000 đ/⁠kg",
+          "2026-11-30": "Dự đoán ngày 30/11: khoảng 67.700 đ/⁠kg",
+          "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.400 đ/⁠kg",
+          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.100 đ/⁠kg"
         },
         "so_voi": {
           "ngay_moc": "2026-11-25",
@@ -283,7 +282,7 @@
       }
     },
     "lamdong": {
-      "generated_at": "2026-11-25T11:59:23+07:00",
+      "generated_at": "2026-11-25T19:31:01+07:00",
       "model": "taynguyen-robusta-technical-v3",
       "horizon_days": 7,
       "trained_days": 88,
@@ -294,45 +293,45 @@
       "predictions": [
         {
           "date": "2026-11-26",
-          "price": 69055,
-          "low": 66962,
-          "high": 71148
+          "price": 68845,
+          "low": 67792,
+          "high": 69898
         },
         {
           "date": "2026-11-27",
-          "price": 68706,
-          "low": 65748,
-          "high": 71665
+          "price": 68323,
+          "low": 65364,
+          "high": 71282
         },
         {
           "date": "2026-11-28",
-          "price": 68178,
-          "low": 64554,
-          "high": 71802
+          "price": 67889,
+          "low": 64266,
+          "high": 71513
         },
         {
           "date": "2026-11-29",
-          "price": 67803,
-          "low": 63618,
-          "high": 71987
+          "price": 67521,
+          "low": 63336,
+          "high": 71705
         },
         {
           "date": "2026-11-30",
-          "price": 67479,
-          "low": 62801,
-          "high": 72157
+          "price": 67201,
+          "low": 62523,
+          "high": 71879
         },
         {
           "date": "2026-12-01",
-          "price": 67206,
-          "low": 62081,
-          "high": 72330
+          "price": 66920,
+          "low": 61795,
+          "high": 72045
         },
         {
           "date": "2026-12-02",
-          "price": 67023,
-          "low": 61487,
-          "high": 72559
+          "price": 66666,
+          "low": 61130,
+          "high": 72202
         }
       ],
       "accuracy_30d": {
@@ -360,7 +359,7 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 26/11",
         "target_date": "2026-11-26",
-        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.700 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 67.600 – 71.700.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.600 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.500đ.\n\nTính lúc 11:59 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.600 | giảm |\n| Lâm Đồng | 69.100 | giảm |\n| Gia Lai | 69.600 | giảm |\n| Đắk Nông | 69.900 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nTrong ngắn hạn, giá thế giới được dự đoán có thể giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 62.100 – 73.100.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
+        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.400 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 68.400 – 70.500.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.300 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.800đ.\n\nTính lúc 19:31 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.300 | giảm |\n| Lâm Đồng | 68.800 | giảm |\n| Gia Lai | 69.300 | giảm |\n| Đắk Nông | 69.600 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nỞ thị trường quốc tế, giá cà phê vừa giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 61.800 – 72.800.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
         "ad_before": 1
       },
       "the": {
@@ -377,11 +376,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.100 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.800 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.000 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 66.700 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -400,11 +399,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 68.700 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.300 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.000 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 66.700 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -423,11 +422,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 68.200 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 67.900 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.000 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 66.700 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -437,22 +436,22 @@
           }
         ],
         "gia_in": {
-          "2026-11-26": 69100,
-          "2026-11-27": 68700,
-          "2026-11-28": 68200,
-          "2026-11-29": 67800,
-          "2026-11-30": 67500,
-          "2026-12-01": 67200,
-          "2026-12-02": 67000
+          "2026-11-26": 68800,
+          "2026-11-27": 68300,
+          "2026-11-28": 67900,
+          "2026-11-29": 67500,
+          "2026-11-30": 67200,
+          "2026-12-01": 66900,
+          "2026-12-02": 66700
         },
         "doc_cham": {
-          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.100 đ/⁠kg",
-          "2026-11-27": "Dự đoán ngày 27/11: khoảng 68.700 đ/⁠kg",
-          "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.200 đ/⁠kg",
-          "2026-11-29": "Dự đoán ngày 29/11: khoảng 67.800 đ/⁠kg",
-          "2026-11-30": "Dự đoán ngày 30/11: khoảng 67.500 đ/⁠kg",
-          "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.200 đ/⁠kg",
-          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.000 đ/⁠kg"
+          "2026-11-26": "Dự đoán ngày 26/11: khoảng 68.800 đ/⁠kg",
+          "2026-11-27": "Dự đoán ngày 27/11: khoảng 68.300 đ/⁠kg",
+          "2026-11-28": "Dự đoán ngày 28/11: khoảng 67.900 đ/⁠kg",
+          "2026-11-29": "Dự đoán ngày 29/11: khoảng 67.500 đ/⁠kg",
+          "2026-11-30": "Dự đoán ngày 30/11: khoảng 67.200 đ/⁠kg",
+          "2026-12-01": "Dự đoán ngày 01/12: khoảng 66.900 đ/⁠kg",
+          "2026-12-02": "Dự đoán ngày 02/12: khoảng 66.700 đ/⁠kg"
         },
         "so_voi": {
           "ngay_moc": "2026-11-25",
@@ -465,7 +464,7 @@
       }
     },
     "gialai": {
-      "generated_at": "2026-11-25T11:59:23+07:00",
+      "generated_at": "2026-11-25T19:31:01+07:00",
       "model": "taynguyen-robusta-technical-v3",
       "horizon_days": 7,
       "trained_days": 88,
@@ -476,45 +475,45 @@
       "predictions": [
         {
           "date": "2026-11-26",
-          "price": 69552,
-          "low": 67472,
-          "high": 71630
+          "price": 69341,
+          "low": 68306,
+          "high": 70376
         },
         {
           "date": "2026-11-27",
-          "price": 69206,
-          "low": 66267,
-          "high": 72145
+          "price": 68819,
+          "low": 65880,
+          "high": 71758
         },
         {
           "date": "2026-11-28",
-          "price": 68677,
-          "low": 65077,
-          "high": 72279
+          "price": 68386,
+          "low": 64786,
+          "high": 71986
         },
         {
           "date": "2026-11-29",
-          "price": 68303,
-          "low": 64145,
-          "high": 72461
+          "price": 68018,
+          "low": 63860,
+          "high": 72176
         },
         {
           "date": "2026-11-30",
-          "price": 67979,
-          "low": 63331,
-          "high": 72627
+          "price": 67699,
+          "low": 63051,
+          "high": 72347
         },
         {
           "date": "2026-12-01",
-          "price": 67707,
-          "low": 62616,
-          "high": 72798
+          "price": 67418,
+          "low": 62327,
+          "high": 72509
         },
         {
           "date": "2026-12-02",
-          "price": 67525,
-          "low": 62025,
-          "high": 73025
+          "price": 67164,
+          "low": 61664,
+          "high": 72664
         }
       ],
       "accuracy_30d": {
@@ -542,7 +541,7 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 26/11",
         "target_date": "2026-11-26",
-        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.700 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 67.600 – 71.700.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.600 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.500đ.\n\nTính lúc 11:59 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.600 | giảm |\n| Lâm Đồng | 69.100 | giảm |\n| Gia Lai | 69.600 | giảm |\n| Đắk Nông | 69.900 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nTrong ngắn hạn, giá thế giới được dự đoán có thể giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 62.100 – 73.100.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
+        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.400 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 68.400 – 70.500.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.300 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.800đ.\n\nTính lúc 19:31 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.300 | giảm |\n| Lâm Đồng | 68.800 | giảm |\n| Gia Lai | 69.300 | giảm |\n| Đắk Nông | 69.600 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nỞ thị trường quốc tế, giá cà phê vừa giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 61.800 – 72.800.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
         "ad_before": 1
       },
       "the": {
@@ -559,11 +558,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.600 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 69.300 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.200 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -582,11 +581,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.200 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.800 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.200 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -605,11 +604,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 68.700 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.400 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.200 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -619,22 +618,22 @@
           }
         ],
         "gia_in": {
-          "2026-11-26": 69600,
-          "2026-11-27": 69200,
-          "2026-11-28": 68700,
-          "2026-11-29": 68300,
-          "2026-11-30": 68000,
-          "2026-12-01": 67700,
-          "2026-12-02": 67500
+          "2026-11-26": 69300,
+          "2026-11-27": 68800,
+          "2026-11-28": 68400,
+          "2026-11-29": 68000,
+          "2026-11-30": 67700,
+          "2026-12-01": 67400,
+          "2026-12-02": 67200
         },
         "doc_cham": {
-          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.600 đ/⁠kg",
-          "2026-11-27": "Dự đoán ngày 27/11: khoảng 69.200 đ/⁠kg",
-          "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.700 đ/⁠kg",
-          "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.300 đ/⁠kg",
-          "2026-11-30": "Dự đoán ngày 30/11: khoảng 68.000 đ/⁠kg",
-          "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.700 đ/⁠kg",
-          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.500 đ/⁠kg"
+          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.300 đ/⁠kg",
+          "2026-11-27": "Dự đoán ngày 27/11: khoảng 68.800 đ/⁠kg",
+          "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.400 đ/⁠kg",
+          "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.000 đ/⁠kg",
+          "2026-11-30": "Dự đoán ngày 30/11: khoảng 67.700 đ/⁠kg",
+          "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.400 đ/⁠kg",
+          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.200 đ/⁠kg"
         },
         "so_voi": {
           "ngay_moc": "2026-11-25",
@@ -647,7 +646,7 @@
       }
     },
     "daknong": {
-      "generated_at": "2026-11-25T11:59:23+07:00",
+      "generated_at": "2026-11-25T19:31:01+07:00",
       "model": "taynguyen-robusta-technical-v3",
       "horizon_days": 7,
       "trained_days": 88,
@@ -658,45 +657,45 @@
       "predictions": [
         {
           "date": "2026-11-26",
-          "price": 69850,
-          "low": 67769,
-          "high": 71931
+          "price": 69638,
+          "low": 68566,
+          "high": 70710
         },
         {
           "date": "2026-11-27",
-          "price": 69511,
-          "low": 66568,
-          "high": 72454
+          "price": 69124,
+          "low": 66181,
+          "high": 72067
         },
         {
           "date": "2026-11-28",
-          "price": 68988,
-          "low": 65383,
-          "high": 72593
+          "price": 68697,
+          "low": 65092,
+          "high": 72302
         },
         {
           "date": "2026-11-29",
-          "price": 68619,
-          "low": 64456,
-          "high": 72782
+          "price": 68335,
+          "low": 64172,
+          "high": 72496
         },
         {
           "date": "2026-11-30",
-          "price": 68302,
-          "low": 63647,
-          "high": 72956
+          "price": 68022,
+          "low": 63368,
+          "high": 72676
         },
         {
           "date": "2026-12-01",
-          "price": 68034,
-          "low": 62936,
-          "high": 73133
+          "price": 67747,
+          "low": 62648,
+          "high": 72845
         },
         {
           "date": "2026-12-02",
-          "price": 67859,
-          "low": 62353,
-          "high": 73365
+          "price": 67499,
+          "low": 61993,
+          "high": 73005
         }
       ],
       "accuracy_30d": {
@@ -724,7 +723,7 @@
         "title": "Phân tích",
         "subtitle": "Chung 4 tỉnh · dự đoán ngày 26/11",
         "target_date": "2026-11-26",
-        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.700 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 67.600 – 71.700.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.600 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.500đ.\n\nTính lúc 11:59 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.600 | giảm |\n| Lâm Đồng | 69.100 | giảm |\n| Gia Lai | 69.600 | giảm |\n| Đắk Nông | 69.900 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nTrong ngắn hạn, giá thế giới được dự đoán có thể giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 62.100 – 73.100.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
+        "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.400 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 68.400 – 70.500.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.300 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.800đ.\n\nTính lúc 19:31 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.300 | giảm |\n| Lâm Đồng | 68.800 | giảm |\n| Gia Lai | 69.300 | giảm |\n| Đắk Nông | 69.600 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nỞ thị trường quốc tế, giá cà phê vừa giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 61.800 – 72.800.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
         "ad_before": 1
       },
       "the": {
@@ -741,11 +740,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.900 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 69.600 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.900 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -764,11 +763,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.500 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 69.100 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.900 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -787,11 +786,11 @@
               "mau": "giam"
             },
             "gia": {
-              "chu": "Giá dự đoán: khoảng 69.000 đ/⁠kg",
+              "chu": "Giá dự đoán: khoảng 68.700 đ/⁠kg",
               "mau": "giam"
             },
             "nhung_ngay_toi": {
-              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.900 đ/⁠kg",
+              "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.500 đ/⁠kg",
               "mau": "giam"
             },
             "tieu_de_tinh": {
@@ -801,22 +800,22 @@
           }
         ],
         "gia_in": {
-          "2026-11-26": 69900,
-          "2026-11-27": 69500,
-          "2026-11-28": 69000,
-          "2026-11-29": 68600,
-          "2026-11-30": 68300,
-          "2026-12-01": 68000,
-          "2026-12-02": 67900
+          "2026-11-26": 69600,
+          "2026-11-27": 69100,
+          "2026-11-28": 68700,
+          "2026-11-29": 68300,
+          "2026-11-30": 68000,
+          "2026-12-01": 67700,
+          "2026-12-02": 67500
         },
         "doc_cham": {
-          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.900 đ/⁠kg",
-          "2026-11-27": "Dự đoán ngày 27/11: khoảng 69.500 đ/⁠kg",
-          "2026-11-28": "Dự đoán ngày 28/11: khoảng 69.000 đ/⁠kg",
-          "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.600 đ/⁠kg",
-          "2026-11-30": "Dự đoán ngày 30/11: khoảng 68.300 đ/⁠kg",
-          "2026-12-01": "Dự đoán ngày 01/12: khoảng 68.000 đ/⁠kg",
-          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.900 đ/⁠kg"
+          "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.600 đ/⁠kg",
+          "2026-11-27": "Dự đoán ngày 27/11: khoảng 69.100 đ/⁠kg",
+          "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.700 đ/⁠kg",
+          "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.300 đ/⁠kg",
+          "2026-11-30": "Dự đoán ngày 30/11: khoảng 68.000 đ/⁠kg",
+          "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.700 đ/⁠kg",
+          "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.500 đ/⁠kg"
         },
         "so_voi": {
           "ngay_moc": "2026-11-25",
@@ -830,7 +829,7 @@
     }
   },
   "market_evidence": {
-    "observed_at": "2026-11-25T11:59:23+07:00",
+    "observed_at": "2026-11-25T19:31:01+07:00",
     "ready_for_multifactor": true,
     "external_adjustment_active": false,
     "groups": {
@@ -849,11 +848,12 @@
           "",
           "Báo Gia Lai",
           "Báo Lào Cai",
+          "Báo Lâm Đồng",
           "Báo Ninh Bình",
+          "Báo Phú Thọ",
           "Báo Quân Đội Nhân Dân",
           "Báo Tiền Phong",
           "Báo Văn hóa",
-          "Chuyên Trang Doanh nhân & Công lý - Báo Công Lý",
           "FX_IDC:USDBRL",
           "FX_IDC:USDVND",
           "TVC:DXY",
@@ -932,14 +932,14 @@
     ]
   },
   "sai_so_theo_ban": {
-    "loai": "truoc_phien",
+    "loai": "dau_phien",
     "dung": "sau_phien"
   },
   "reason": {
     "title": "Phân tích",
     "subtitle": "Chung 4 tỉnh · dự đoán ngày 26/11",
     "target_date": "2026-11-26",
-    "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.700 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 67.600 – 71.700.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.600 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.500đ.\n\nTính lúc 11:59 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.600 | giảm |\n| Lâm Đồng | 69.100 | giảm |\n| Gia Lai | 69.600 | giảm |\n| Đắk Nông | 69.900 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nTrong ngắn hạn, giá thế giới được dự đoán có thể giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 62.100 – 73.100.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
+    "markdown": "## Dự đoán\n\n**Ngày mai: có thể giảm.** Giá trung bình 4 tỉnh ngày 26/11: **khoảng 69.400 đ/⁠kg** (ngày 25/11: 70.100). Có thể trong khoảng 68.400 – 70.500.\n\n**Những ngày tới: nghiêng giảm.** Tới ngày 02/12 khoảng 67.300 đ/⁠kg, thấp hơn ngày 25/11 khoảng 2.800đ.\n\nTính lúc 19:31 ngày 25/11.\n\nTừng tỉnh (đ/⁠kg):\n\n| Tỉnh | Dự đoán 26/11 | So với 25/11 |\n|---|---:|---|\n| Đắk Lắk | 69.300 | giảm |\n| Lâm Đồng | 68.800 | giảm |\n| Gia Lai | 69.300 | giảm |\n| Đắk Nông | 69.600 | giảm |\n\n## Nhận định\n\n### Giá trong nước\n\nĐợt giảm từ 09/11 đến 25/11: giá từ 85.100 xuống **70.100 đ/⁠kg**, giảm **15.000đ (17,6%)** sau 14 phiên.\n\nĐây cũng là mức thấp nhất trong 30 ngày có giá gần nhất; mức cao nhất là 91.900đ/⁠kg vào ngày 21/10.\n\n### Giá thế giới\n\nỞ thị trường quốc tế, giá cà phê vừa giảm khá mạnh.\n\n### Tỷ giá và vĩ mô\n\nBiến động trong một tuần:\n\n- Đồng real Brazil mất giá 2,1% so với đô la Mỹ (nông dân Brazil bán ra có lợi hơn, thường ép giá cà phê thế giới).\n- Chỉ số đô la Mỹ (DXY) và tỷ giá USD/VND gần như đứng yên.\n\n### Thời vụ\n\nTây Nguyên đang giữa vụ thu hoạch, hàng mới ra nhiều.\n\nCùng thời điểm này, số liệu 6 năm 2020–2025 cho thấy một tuần sau giá thấp hơn ở 2 năm, cao hơn ở 3 năm, gần như không đổi ở 1 năm.\n\n### Chu kỳ giá\n\n| Năm | Biến động |\n|---|---|\n| 2021 | Tăng 26% |\n| 2022 | Đi ngang |\n| 2023 | Tăng 67% |\n| 2024 | Tăng 81% |\n| 2025 | Giảm 23% |\n\nTừ đầu năm nay giá giảm tiếp 26%, tức xu hướng giảm bắt đầu từ năm 2025 vẫn đang tiếp diễn.\n\n### Phân tích kỹ thuật\n\nRSI 14 phiên hiện ở mức 7/100, dưới ngưỡng 30.\n\nTrong 6 năm số liệu đã đối chiếu, sau những đợt như vậy, giá một tuần sau vẫn giảm tiếp khoảng 7 trong 10 lần khi thị trường có xu hướng rõ, và khoảng 6 trong 10 lần khi giá giằng co.\n\n### Tâm lý thị trường\n\nCác nhận định trên báo hôm nay thiên về khả năng giá giảm nhẹ.\n\n## Những ngày tới\n\n- Đến ngày 02/12, khoảng giá có thể là 61.800 – 72.800.\n- Trong 20 ngày có giá gần nhất, giá đã giảm 15.600đ.\n\n## Điều cần lưu ý\n\n- Tin mới về thời tiết, nguồn cung hoặc chính sách có thể làm giá đổi hướng.\n- Giá thế giới cũng có thể diễn biến khác nhận định hiện tại.\n- Giá tại đại lý có thể khác giá niêm yết được ghi nhận.\n\n## Đối soát\n\n- **2 lần gần nhất (giá trung bình 4 tỉnh):** gần nhất (ngày 25/11) app dự đoán 70.589, giá thật 70.100 — lệch 489đ, cũng là lần lệch nhiều nhất.\n- **Tính chung:** 2 lần dự đoán gần nhất lệch giá thật trung bình 376đ/⁠kg; đoán đúng chiều 2 trong 2 lần; chỉ đoán giá đứng yên thì lệch 800đ — dự đoán lệch ít hơn.\n\nApp chấm lại mọi dự đoán bằng giá thật ngay khi giá về và ghi kết quả ở đây, kể cả khi sai.\n\n**Dự đoán tham khảo — không phải khuyến nghị mua bán.**",
     "ad_before": 1
   },
   "the": {
@@ -956,11 +956,11 @@
           "mau": "giam"
         },
         "gia": {
-          "chu": "Giá dự đoán: khoảng 69.700 đ/⁠kg",
+          "chu": "Giá dự đoán: khoảng 69.400 đ/⁠kg",
           "mau": "giam"
         },
         "nhung_ngay_toi": {
-          "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.600 đ/⁠kg",
+          "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.300 đ/⁠kg",
           "mau": "giam"
         },
         "tieu_de_tinh": {
@@ -979,11 +979,11 @@
           "mau": "giam"
         },
         "gia": {
-          "chu": "Giá dự đoán: khoảng 69.300 đ/⁠kg",
+          "chu": "Giá dự đoán: khoảng 68.900 đ/⁠kg",
           "mau": "giam"
         },
         "nhung_ngay_toi": {
-          "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.600 đ/⁠kg",
+          "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.300 đ/⁠kg",
           "mau": "giam"
         },
         "tieu_de_tinh": {
@@ -1002,11 +1002,11 @@
           "mau": "giam"
         },
         "gia": {
-          "chu": "Giá dự đoán: khoảng 68.800 đ/⁠kg",
+          "chu": "Giá dự đoán: khoảng 68.500 đ/⁠kg",
           "mau": "giam"
         },
         "nhung_ngay_toi": {
-          "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.600 đ/⁠kg",
+          "chu": "▼ Những ngày tới: nghiêng giảm, tới 02/12 khoảng 67.300 đ/⁠kg",
           "mau": "giam"
         },
         "tieu_de_tinh": {
@@ -1016,22 +1016,22 @@
       }
     ],
     "gia_in": {
-      "2026-11-26": 69700,
-      "2026-11-27": 69300,
-      "2026-11-28": 68800,
-      "2026-11-29": 68400,
-      "2026-11-30": 68100,
-      "2026-12-01": 67800,
-      "2026-12-02": 67600
+      "2026-11-26": 69400,
+      "2026-11-27": 68900,
+      "2026-11-28": 68500,
+      "2026-11-29": 68100,
+      "2026-11-30": 67800,
+      "2026-12-01": 67500,
+      "2026-12-02": 67300
     },
     "doc_cham": {
-      "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.700 đ/⁠kg",
-      "2026-11-27": "Dự đoán ngày 27/11: khoảng 69.300 đ/⁠kg",
-      "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.800 đ/⁠kg",
-      "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.400 đ/⁠kg",
-      "2026-11-30": "Dự đoán ngày 30/11: khoảng 68.100 đ/⁠kg",
-      "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.800 đ/⁠kg",
-      "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.600 đ/⁠kg"
+      "2026-11-26": "Dự đoán ngày 26/11: khoảng 69.400 đ/⁠kg",
+      "2026-11-27": "Dự đoán ngày 27/11: khoảng 68.900 đ/⁠kg",
+      "2026-11-28": "Dự đoán ngày 28/11: khoảng 68.500 đ/⁠kg",
+      "2026-11-29": "Dự đoán ngày 29/11: khoảng 68.100 đ/⁠kg",
+      "2026-11-30": "Dự đoán ngày 30/11: khoảng 67.800 đ/⁠kg",
+      "2026-12-01": "Dự đoán ngày 01/12: khoảng 67.500 đ/⁠kg",
+      "2026-12-02": "Dự đoán ngày 02/12: khoảng 67.300 đ/⁠kg"
     },
     "so_voi": {
       "ngay_moc": "2026-11-25",
@@ -1040,6 +1040,10 @@
     },
     "sai_so": "2 lần dự đoán gần nhất lệch giá thật trung bình 376đ",
     "dung_chieu": "Đoán đúng chiều tăng/giảm: 2 trong 2 lần",
-    "bien_dong": null
+    "bien_dong": null,
+    "tin_hieu_san": {
+      "chu": "▼ Giá London giảm 1,9% so với ngày 25/11.",
+      "mau": "giam"
+    }
   }
 }

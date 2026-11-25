@@ -1,6 +1,6 @@
 {
   "model": "robusta-technical-v3",
-  "generated_at": "2026-11-25T11:59:23+07:00",
+  "generated_at": "2026-11-25T19:31:01+07:00",
   "horizon_days": 7,
   "trained_days": 86,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-26",
-      "price": 2777,
-      "low": 2693,
-      "high": 2861
+      "price": 2760,
+      "low": 2696,
+      "high": 2824
     },
     {
       "date": "2026-11-27",
-      "price": 2788,
-      "low": 2669,
-      "high": 2906
+      "price": 2725,
+      "low": 2619,
+      "high": 2831
     },
     {
       "date": "2026-11-28",
-      "price": 2778,
-      "low": 2633,
-      "high": 2924
+      "price": 2736,
+      "low": 2601,
+      "high": 2871
     },
     {
       "date": "2026-11-29",
-      "price": 2778,
-      "low": 2633,
-      "high": 2924
+      "price": 2736,
+      "low": 2601,
+      "high": 2871
     },
     {
       "date": "2026-11-30",
-      "price": 2778,
-      "low": 2633,
-      "high": 2924
+      "price": 2736,
+      "low": 2601,
+      "high": 2871
     },
     {
       "date": "2026-12-01",
-      "price": 2776,
-      "low": 2608,
-      "high": 2944
+      "price": 2727,
+      "low": 2568,
+      "high": 2887
     },
     {
       "date": "2026-12-02",
-      "price": 2780,
-      "low": 2592,
-      "high": 2968
+      "price": 2726,
+      "low": 2546,
+      "high": 2906
     }
   ],
   "accuracy_30d": {
@@ -110,17 +110,17 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.5363636363636364,
+    "rating": -0.4454545454545455,
     "rating_ma": -0.8,
-    "rating_other": -0.2727272727272727,
-    "rsi": 17.917344007242107,
-    "close": 2813.0,
+    "rating_other": -0.09090909090909091,
+    "rsi": 16.279501936079384,
+    "close": 2760.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-25T11:59:23+07:00",
-    "open": 2854.0,
-    "high": 2854.0,
-    "low": 2801.0,
-    "volume": 11608
+    "fetched_at": "2026-11-25T19:31:01+07:00",
+    "open": 2800.0,
+    "high": 2803.0,
+    "low": 2736.0,
+    "volume": 5870
   },
   "the": {
     "schema": 1,
