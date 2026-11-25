@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T13:35:17+07:00",
+  "generated_at": "2026-11-25T13:55:19+07:00",
   "date": "2026-11-25",
   "groups": [
+    {
+      "id": "bm-56596801",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56596801",
+          "title": "Cà phê Khởi nghiệp Phú Thọ 2026: Kết nối nguồn lực, mở rộng thị trường và thúc đẩy khởi nghiệp đổi mới sáng tạo",
+          "url": "https://baomoi.com/ca-phe-khoi-nghiep-phu-tho-2026-ket-noi-nguon-luc-mo-rong-thi-truong-va-thuc-day-khoi-nghiep-doi-moi-sang-tao-c56596801.epi",
+          "source": "Báo Phú Thọ",
+          "published_at": "2026-11-25T12:35:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_444_56596801/f301ac8032cbdb9582da.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-25",
       "label": "Giá cà phê ngày 25/11",
@@ -130,7 +145,7 @@
     {
       "id": "bm-56594539",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "bm-56594539",
@@ -320,13 +335,20 @@
         "id": "bm-56596454",
         "the": null,
         "dong_nguon": "Đại Biểu Nhân Dân · 13:33",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
         "id": "ct-482581",
         "the": null,
         "dong_nguon": "Báo Công Thương · 13:16",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56596801",
+        "the": null,
+        "dong_nguon": "Báo Phú Thọ · 12:35",
         "noi_bat": false
       },
       {
