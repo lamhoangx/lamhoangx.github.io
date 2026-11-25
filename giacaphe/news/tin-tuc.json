@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T19:30:22+07:00",
+  "generated_at": "2026-11-25T19:50:25+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -8,6 +8,14 @@
       "label": "Giá cà phê ngày 25/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56599560",
+          "title": "Giá cà phê hôm nay 25/11/2026 giảm mạnh về dưới 70.000, thị trường vào chu kỳ giảm? Mỹ chuẩn bị công bố thuế quan mới, các đối tác có còn cơ hội?",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-25-11-2026-giam-manh-ve-duoi-70-000-thi-truong-vao-chu-ky-giam-my-chuan-bi-cong-bo-thue-quan-moi-cac-doi-tac-co-con-co-hoi-c56599560.epi",
+          "source": "Báo Thế Giới & Việt Nam",
+          "published_at": "2026-11-25T19:45:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_194_56599560/248c2ea3b2e85bb602f9.jpg"
+        },
         {
           "id": "bm-56595905",
           "title": "Giá cà phê hôm nay 25/11/2026: Tây Nguyên đồng loạt giảm 1.000 đồng/kg, Robusta và Arabica cùng giảm 700 đồng/kg",
@@ -238,6 +246,15 @@
               "published_at": "2026-11-25T05:42:25+07:00",
               "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/24/01a20e67-d3c5-7cc9-b1aa-f0b19df94260.jpg",
               "image_small": "news/anh/a3a3f1e0a8bdb6007a43.jpg"
+            },
+            {
+              "id": "ct-482539",
+              "title": "Giá tiêu hôm nay 25/11/2026: Lao dốc, 'bốc hơi' 2.000 đồng/kg",
+              "url": "https://congthuong.vn/gia-tieu-hom-nay-25-11-2026-lao-doc-boc-hoi-2-000-dong-kg-482539.html",
+              "source": "Báo Công Thương",
+              "published_at": "2026-11-25T05:31:00+07:00",
+              "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/25/04606efc-097d-46ef-908e-0fc29aab0d73-2-19362228.JPEG",
+              "image_small": "news/anh/cc7faf7e00c8a9976248.jpg"
             }
           ]
         }
@@ -412,11 +429,18 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56599560",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Thế Giới & Việt Nam · 19:45",
+        "noi_bat": true
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "bm-56598893",
         "the": null,
         "dong_nguon": "Báo Tiền Phong · 18:32",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
@@ -437,7 +461,7 @@
         "id": "tcct-569114",
         "the": "Hồ tiêu",
         "dong_nguon": "Tạp chí Công Thương · 16:55",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
@@ -451,7 +475,7 @@
         "id": "bm-56595905",
         "the": "Cà phê",
         "dong_nguon": "Báo Lâm Đồng · 15:40",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
@@ -654,6 +678,13 @@
         "id": "bvh-gia-ca-phe-hom-nay-25-11-the-gioi-tiep-tuc-lao-doc-trong-nuoc-giam-manh",
         "the": "Cà phê",
         "dong_nguon": "Báo Văn hóa · 05:42",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "ct-482539",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Báo Công Thương · 05:31",
         "noi_bat": false
       },
       {
