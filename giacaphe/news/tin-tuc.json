@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T07:55:20+07:00",
+  "generated_at": "2026-11-25T08:20:19+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56593655",
+          "title": "Bản tin nông sản hôm nay (25-11): Giá cà phê tiếp tục đi xuống",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-25-11-gia-ca-phe-tiep-tuc-di-xuong-c56593655.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-25T08:04:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_16_56593655/b833d46b7c20957ecc31.jpg"
+        },
+        {
           "id": "dnhn-155038",
           "title": "Giá cà phê hôm nay 25 11 2026 Giá cà phê trong nước và thế giới tiếp tục giảm",
           "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-25112026-gia-ca-phe-trong-nuoc-va-the-gioi-tiep-tuc-giam-155038.html",
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-25T07:30:03+07:00",
           "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/25/06/in_social/2720261125063613.jpg",
-          "image_small": "news/anh/0237b601f25515251fd2.jpg"
+          "image_small": "news/anh/4584eecb0fbb290c7b42.jpg"
         },
         {
           "id": "vnbiz-202611257263278",
@@ -28,11 +36,11 @@
         },
         {
           "id": "tbtc-207470",
-          "title": "Ngày 25 11 Giá cà phê lập đáy mới hồ tiêu ở mức 132 000 đồng kg",
+          "title": "Ngày 25/11: Giá cà phê lập đáy mới, hồ tiêu ở mức 132.000 đồng/kg",
           "url": "https://thoibaotaichinhvietnam.vn/ngay-25-11-gia-ca-phe-lap-day-moi-ho-tieu-o-muc-132-000-dong-kg-207470.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-25T07:18:08+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_578_56593725/ff5f168588ce619038df.jpg"
         },
         {
           "id": "bm-56593147",
@@ -75,6 +83,22 @@
           "published_at": "2026-11-25T01:00:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2024-12/ca_phe_dinh_gia_nong_dan_tay_nguyen_vua_thu_hai_vua_lo_de_phong_trom_cap_anh_5_20241211100311.jpg",
           "image_small": "news/anh/31c64b6b172353a49746.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tt-100261123165220462",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261123165220462",
+          "title": "Robusta Việt Nam - chuyển từ cái bóng ‘giá rẻ’ sang chế biến sâu",
+          "url": "https://tuoitre.vn/robusta-viet-nam-chuyen-tu-cai-bong-gia-re-sang-che-bien-sau-100261123165220462.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-25T08:00:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/23/1610-17954357490541068883944.jpg",
+          "image_small": "news/anh/a021f14f6b14b86604f8.jpg"
         }
       ]
     }
@@ -155,6 +179,20 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56593655",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 08:04",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "tt-100261123165220462",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 08:00",
+        "noi_bat": false
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "dnhn-155039",
         "the": "Sầu riêng",
@@ -166,7 +204,7 @@
         "id": "dnhn-155038",
         "the": "Cà phê",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
