@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T09:26:17+07:00",
+  "generated_at": "2026-11-25T09:50:19+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56594375",
+          "title": "Giá nông sản hôm nay (25-11): Cà phê mất thêm 500-600 đồng/kg, hồ tiêu giảm mạnh",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-25-11-ca-phe-mat-them-500-600-dong-kg-ho-tieu-giam-manh-c56594375.epi",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-25T09:30:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_425_56594375/f04b16e988a261fc38b3.jpg"
+        },
+        {
           "id": "vov-1352952",
           "title": "Giá cà phê hôm nay 25/11: Giá cà phê trong nước cao nhất 71.300 đồng/kg",
           "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2511-gia-ca-phe-trong-nuoc-cao-nhat-71300-dongkg-post1352952.vov",
           "source": "VOV",
           "published_at": "2026-11-25T09:23:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2024-12/ca_phe_dinh_gia_nong_dan_tay_nguyen_vua_thu_hai_vua_lo_de_phong_trom_cap_anh_5_20241211100311.jpg",
-          "image_small": "news/anh/54637c13f9520bfc61cf.jpg"
+          "image_small": "news/anh/31c64b6b172353a49746.jpg"
         },
         {
           "id": "vnb-gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg",
@@ -224,10 +232,17 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56594375",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Gia Lai · 09:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "vov-1352952",
         "the": "Cà phê",
         "dong_nguon": "VOV · 09:23",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
