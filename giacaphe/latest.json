@@ -610,7 +610,7 @@
     "thi_truong": [
       {
         "ten": "Robusta",
-        "phu": "London · USD/⁠tấn\n25/11 · 09:25",
+        "phu": "London · USD/⁠tấn\n25/11 · 09:42",
         "gia": "2.813",
         "doi": {
           "chu": "▼ 1,4%",
@@ -623,12 +623,14 @@
           "ngay_bang": "24/11/2026",
           "gia_bang": 2854.0,
           "ngay_moc": "2026-11-24",
-          "doc_luc": "2026-11-25T09:25:16+07:00"
+          "doc_luc": "2026-11-25T09:42:45+07:00",
+          "ngay_gia": "2026-11-25",
+          "gia": 2813
         }
       },
       {
         "ten": "Arabica",
-        "phu": "New York · USD/⁠tấn\n25/11 · 09:25",
+        "phu": "New York · USD/⁠tấn\n25/11 · 09:42",
         "gia": "5.789",
         "doi": {
           "chu": "▼ 1,93%",
@@ -641,7 +643,9 @@
           "ngay_bang": "24/11/2026",
           "gia_bang": 5903.0,
           "ngay_moc": "2026-11-24",
-          "doc_luc": "2026-11-25T09:25:16+07:00"
+          "doc_luc": "2026-11-25T09:42:45+07:00",
+          "ngay_gia": "2026-11-25",
+          "gia": 5789
         }
       },
       {
@@ -669,6 +673,19 @@
         "2026-11-24": "Giá ngày 24/11/2026 — chưa cập nhật hôm nay"
       }
     },
-    "the_gioi_moi_nhat": "2.854 USD/tấn · Thứ Ba, 24/11/2026"
+    "the_gioi_moi_nhat": "2.854 USD/tấn · Thứ Ba, 24/11/2026",
+    "bieu_do_the_gioi": {
+      "diem": {
+        "robusta": {
+          "ngay": "2026-11-25",
+          "gia": 2813
+        },
+        "arabica": {
+          "ngay": "2026-11-25",
+          "gia": 5789
+        }
+      },
+      "moi_nhat": "2.813 USD/tấn · Thứ Tư, 25/11/2026 · 09:42"
+    }
   }
 }
