@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T09:05:22+07:00",
+  "generated_at": "2026-11-25T09:26:17+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -9,13 +9,22 @@
       "important": true,
       "items": [
         {
+          "id": "vov-1352952",
+          "title": "Giá cà phê hôm nay 25/11: Giá cà phê trong nước cao nhất 71.300 đồng/kg",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2511-gia-ca-phe-trong-nuoc-cao-nhat-71300-dongkg-post1352952.vov",
+          "source": "VOV",
+          "published_at": "2026-11-25T09:23:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2024-12/ca_phe_dinh_gia_nong_dan_tay_nguyen_vua_thu_hai_vua_lo_de_phong_trom_cap_anh_5_20241211100311.jpg",
+          "image_small": "news/anh/54637c13f9520bfc61cf.jpg"
+        },
+        {
           "id": "vnb-gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg",
           "title": "Giá cà phê tiếp đà giảm, lùi về 71.100 đồng/kg",
           "url": "https://vnbusiness.vn//gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg.html",
           "source": "VnBusiness",
           "published_at": "2026-11-25T08:48:33+07:00",
           "image": "https://media.vnbusiness.vn/files/uploads/2026/11/25/8719a3e09cf84f96b39b1b80153f6c5d-20682.png?w=1200&h=630&mode=crop&anchor=top-center",
-          "image_small": "news/anh/7ec124c6a8697a626a71.jpg"
+          "image_small": "news/anh/f4986be5459819ca4467.jpg"
         },
         {
           "id": "gdm-101145",
@@ -91,15 +100,6 @@
           "published_at": "2026-11-25T05:42:15+07:00",
           "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/24/01a20e6f-97a4-722c-992b-b6c8ecbc9bf0.jpg",
           "image_small": "news/anh/c60200060a5598fe01bb.jpg"
-        },
-        {
-          "id": "vov-1352952",
-          "title": "Giá cà phê hôm nay 25/11: Giá cà phê trong nước và thế giới đều giảm",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2511-gia-ca-phe-trong-nuoc-va-the-gioi-deu-giam-post1352952.vov",
-          "source": "VOV",
-          "published_at": "2026-11-25T01:00:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2024-12/ca_phe_dinh_gia_nong_dan_tay_nguyen_vua_thu_hai_vua_lo_de_phong_trom_cap_anh_5_20241211100311.jpg",
-          "image_small": "news/anh/31c64b6b172353a49746.jpg"
         }
       ]
     },
@@ -142,6 +142,15 @@
               "image_small": "news/anh/7326542ac28e1af258a8.jpg"
             },
             {
+              "id": "vnbiz-2026112583328732",
+              "title": "Giá tiêu hôm nay 25/11: Tiếp tục giảm, giá tiêu trong nước rơi xuống mức thấp nhất trong gần 17 tháng",
+              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2511-tiep-tuc-giam-gia-tieu-trong-nuoc-roi-xuong-muc-thap-nhat-trong-gan-17-thang-2026112583328732.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-25T08:33:22+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/25/gia-tieu-25-11-2026112508305044-avatar-15x10-20261125083328434.jpg",
+              "image_small": "news/anh/0c66e0cb28e5bdb7207c.jpg"
+            },
+            {
               "id": "thcl-295594",
               "title": "Giá tiêu hôm nay 25/11: Tiếp tục đi ngang",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-tieu-hom-nay-25-11-tiep-tuc-di-ngang-a295594.html",
@@ -171,8 +180,17 @@
         {
           "id": "gia-sau-rieng-2026-11-25",
           "label": "Giá sầu riêng ngày 25/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "vnbiz-202611259340541",
+              "title": "Giá sầu riêng hôm nay 25/11: Thị trường ổn định, Đắk Lắk đề xuất nâng cấp quốc lộ 26 phục vụ vận chuyển sầu riêng",
+              "url": "https://vietnambiz.vn/gia-sau-rieng-hom-nay-2511-thi-truong-on-dinh-dak-lak-de-xuat-nang-cap-quoc-lo-26-phuc-vu-van-chuyen-sau-rieng-202611259340541.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-25T09:03:32+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/25/lich-cup-dien-quang-tri-10-20261125090212779-avatar-15x10-20261125090340119.jpg",
+              "image_small": "news/anh/4b20581a4cc359c7262d.jpg"
+            },
             {
               "id": "dnhn-155039",
               "title": "Giá sầu riêng hôm nay 25 11 Thị trường duy trì giá tương đối tốt",
@@ -180,7 +198,7 @@
               "source": "Doanh nghiệp và Hội nhập",
               "published_at": "2026-11-25T07:30:05+07:00",
               "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/25/06/in_social/anh-sau-rieng-lua-gao-heo-hoi20261125062034.png",
-              "image_small": "news/anh/3d191559a4107e552621.jpg"
+              "image_small": "news/anh/6049dca45e8272b1e0c0.jpg"
             },
             {
               "id": "thcl-295600",
@@ -205,6 +223,20 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "vov-1352952",
+        "the": "Cà phê",
+        "dong_nguon": "VOV · 09:23",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "vnbiz-202611259340541",
+        "the": "Sầu riêng",
+        "dong_nguon": "VietnamBiz · 09:03",
+        "noi_bat": false
+      },
+      {
         "chu_de": "ho-tieu",
         "id": "dnhn-154977",
         "the": "Hồ tiêu",
@@ -216,7 +248,14 @@
         "id": "vnb-gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg",
         "the": "Cà phê",
         "dong_nguon": "VnBusiness · 08:48",
-        "noi_bat": true
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "vnbiz-2026112583328732",
+        "the": "Hồ tiêu",
+        "dong_nguon": "VietnamBiz · 08:33",
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -237,14 +276,14 @@
         "id": "tt-100261123165220462",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 08:00",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
         "id": "dnhn-155039",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -314,13 +353,6 @@
         "id": "bvh-gia-ca-phe-hom-nay-25-11-the-gioi-tiep-tuc-lao-doc-trong-nuoc-giam-manh",
         "the": "Cà phê",
         "dong_nguon": "Báo Văn hóa · 05:42",
-        "noi_bat": false
-      },
-      {
-        "chu_de": "",
-        "id": "vov-1352952",
-        "the": "Cà phê",
-        "dong_nguon": "VOV · 01:00",
         "noi_bat": false
       }
     ]
