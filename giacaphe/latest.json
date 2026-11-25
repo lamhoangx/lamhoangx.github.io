@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-11-24",
-  "updated_at": "2026-11-25T05:50:13+07:00",
+  "updated_at": "2026-11-25T09:25:14+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
@@ -610,23 +610,39 @@
     "thi_truong": [
       {
         "ten": "Robusta",
-        "phu": "London · USD/⁠tấn",
-        "gia": "2.854",
+        "phu": "London · USD/⁠tấn\n25/11 · 09:25",
+        "gia": "2.813",
         "doi": {
-          "chu": "▼ 0,94%",
+          "chu": "▼ 1,4%",
           "mau": "giam"
         },
-        "bieu_do_the_gioi": true
+        "bieu_do_the_gioi": true,
+        "gia_san": {
+          "san": "robusta",
+          "ky_han": "01/27",
+          "ngay_bang": "24/11/2026",
+          "gia_bang": 2854.0,
+          "ngay_moc": "2026-11-24",
+          "doc_luc": "2026-11-25T09:25:16+07:00"
+        }
       },
       {
         "ten": "Arabica",
-        "phu": "New York · USD/⁠tấn",
-        "gia": "5.903",
+        "phu": "New York · USD/⁠tấn\n25/11 · 09:25",
+        "gia": "5.789",
         "doi": {
-          "chu": "▼ 0,28%",
+          "chu": "▼ 1,93%",
           "mau": "giam"
         },
-        "bieu_do_the_gioi": true
+        "bieu_do_the_gioi": true,
+        "gia_san": {
+          "san": "arabica",
+          "ky_han": "03/27",
+          "ngay_bang": "24/11/2026",
+          "gia_bang": 5903.0,
+          "ngay_moc": "2026-11-24",
+          "doc_luc": "2026-11-25T09:25:16+07:00"
+        }
       },
       {
         "ten": "Giá tiêu",
