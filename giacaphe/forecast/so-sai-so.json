@@ -110,6 +110,15 @@
         "gia_du_doan": 2841,
         "gia_neo": 2854,
         "gia_thuc": 2813
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 21,
+        "direction_hit": true,
+        "sai_so_khong_doi": 15,
+        "gia_du_doan": 2777,
+        "gia_neo": 2813,
+        "gia_thuc": 2798
       }
     ],
     "world-arabica.json": [
@@ -250,6 +259,15 @@
         "gia_du_doan": 5893,
         "gia_neo": 5903,
         "gia_thuc": 5789
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 146,
+        "direction_hit": false,
+        "sai_so_khong_doi": 132,
+        "gia_du_doan": 5775,
+        "gia_neo": 5789,
+        "gia_thuc": 5921
       }
     ]
   }
