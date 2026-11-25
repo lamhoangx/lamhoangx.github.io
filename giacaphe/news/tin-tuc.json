@@ -1,28 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T10:20:19+07:00",
+  "generated_at": "2026-11-25T11:40:25+07:00",
   "date": "2026-11-25",
   "groups": [
-    {
-      "id": "bm-56594539",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "bm-56594539",
-          "title": "Đắk Lắk: Tiếp sức người dân phát triển vườn cà phê từ nguồn vốn tín dụng chính sách",
-          "url": "https://baomoi.com/dak-lak-tiep-suc-nguoi-dan-phat-trien-vuon-ca-phe-tu-nguon-von-tin-dung-chinh-sach-c56594539.epi",
-          "source": "Báo Tiền Phong",
-          "published_at": "2026-11-25T09:51:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_20_56594539/4b613dcda3864ad81397.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-25",
       "label": "Giá cà phê ngày 25/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56594921",
+          "title": "Giá nông sản hôm nay (25/11): Giá thịt lợn hơi bất ngờ quay đầu giảm, cà phê lập đáy mới",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-25-11-gia-thit-lon-hoi-bat-ngo-quay-dau-giam-ca-phe-lap-day-moi-c56594921.epi",
+          "source": "Tạp chí Thương Gia",
+          "published_at": "2026-11-25T10:34:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_341_56594921/b7bc01149f5f76012f4e.jpg"
+        },
         {
           "id": "bm-56594375",
           "title": "Giá nông sản hôm nay (25-11): Cà phê mất thêm 500-600 đồng/kg, hồ tiêu giảm mạnh",
@@ -123,6 +116,21 @@
           "published_at": "2026-11-25T05:42:15+07:00",
           "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/24/01a20e6f-97a4-722c-992b-b6c8ecbc9bf0.jpg",
           "image_small": "news/anh/c60200060a5598fe01bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bm-56594539",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56594539",
+          "title": "Đắk Lắk: Tiếp sức người dân phát triển vườn cà phê từ nguồn vốn tín dụng chính sách",
+          "url": "https://baomoi.com/dak-lak-tiep-suc-nguoi-dan-phat-trien-vuon-ca-phe-tu-nguon-von-tin-dung-chinh-sach-c56594539.epi",
+          "source": "Báo Tiền Phong",
+          "published_at": "2026-11-25T09:51:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_20_56594539/4b613dcda3864ad81397.jpg"
         }
       ]
     },
@@ -247,6 +255,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56594921",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Thương Gia · 10:34",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56594539",
         "the": null,
         "dong_nguon": "Báo Tiền Phong · 09:51",
@@ -257,7 +272,7 @@
         "id": "bm-56594375",
         "the": "Cà phê",
         "dong_nguon": "Báo Gia Lai · 09:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -278,7 +293,7 @@
         "id": "dnhn-154977",
         "the": "Hồ tiêu",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 08:56",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
