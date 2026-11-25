@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T12:45:19+07:00",
+  "generated_at": "2026-11-25T13:35:17+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -217,25 +217,17 @@
       "date": "2026-11-25",
       "groups": [
         {
-          "id": "bm-56595988",
+          "id": "bm-56596454",
           "label": "",
           "important": true,
           "items": [
             {
-              "id": "bm-56595988",
-              "title": "Chuyển đổi xanh cho ngành hàng sầu riêng",
-              "url": "https://baomoi.com/chuyen-doi-xanh-cho-nganh-hang-sau-rieng-c56595988.epi",
-              "source": "Báo Nhân Dân",
-              "published_at": "2026-11-25T12:34:00+07:00",
-              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_14_56595988/3c31a98c37c7de9987d6.jpg"
-            },
-            {
-              "id": "bm-56595812",
-              "title": "Sầu riêng Việt Nam trước yêu cầu chuyển đổi xanh để giữ thị trường xuất khẩu",
-              "url": "https://baomoi.com/sau-rieng-viet-nam-truoc-yeu-cau-chuyen-doi-xanh-de-giu-thi-truong-xuat-khau-c56595812.epi",
-              "source": "Báo Giáo Dục & Thời Đại",
-              "published_at": "2026-11-25T12:18:00+07:00",
-              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_181_56595812/f9295e9ac0d1298f70c0.jpg"
+              "id": "bm-56596454",
+              "title": "Đồng Tháp: Phát triển ngành sầu riêng xanh, chất lượng bền vững",
+              "url": "https://baomoi.com/dong-thap-phat-trien-nganh-sau-rieng-xanh-chat-luong-ben-vung-c56596454.epi",
+              "source": "Đại Biểu Nhân Dân",
+              "published_at": "2026-11-25T13:33:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_592_56596454/4294f3106d5b8405dd4a.jpg"
             }
           ]
         },
@@ -271,6 +263,45 @@
               "image": ""
             }
           ]
+        },
+        {
+          "id": "ct-482581",
+          "label": "",
+          "important": false,
+          "items": [
+            {
+              "id": "ct-482581",
+              "title": "Hoàn thiện chuỗi giá trị, xây dựng thương hiệu sầu riêng xanh",
+              "url": "https://congthuong.vn/hoan-thien-chuoi-gia-tri-xay-dung-thuong-hieu-sau-rieng-xanh-482581.html",
+              "source": "Báo Công Thương",
+              "published_at": "2026-11-25T13:16:30+07:00",
+              "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/25/3-3-12390078.jpg",
+              "image_small": "news/anh/3c11abd3f3627366f368.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bm-56595988",
+          "label": "",
+          "important": false,
+          "items": [
+            {
+              "id": "bm-56595988",
+              "title": "Chuyển đổi xanh cho ngành hàng sầu riêng",
+              "url": "https://baomoi.com/chuyen-doi-xanh-cho-nganh-hang-sau-rieng-c56595988.epi",
+              "source": "Báo Nhân Dân",
+              "published_at": "2026-11-25T12:34:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_14_56595988/3c31a98c37c7de9987d6.jpg"
+            },
+            {
+              "id": "bm-56595812",
+              "title": "Sầu riêng Việt Nam trước yêu cầu chuyển đổi xanh để giữ thị trường xuất khẩu",
+              "url": "https://baomoi.com/sau-rieng-viet-nam-truoc-yeu-cau-chuyen-doi-xanh-de-giu-thi-truong-xuat-khau-c56595812.epi",
+              "source": "Báo Giáo Dục & Thời Đại",
+              "published_at": "2026-11-25T12:18:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_181_56595812/f9295e9ac0d1298f70c0.jpg"
+            }
+          ]
         }
       ]
     }
@@ -284,6 +315,20 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56596454",
+        "the": null,
+        "dong_nguon": "Đại Biểu Nhân Dân · 13:33",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "ct-482581",
+        "the": null,
+        "dong_nguon": "Báo Công Thương · 13:16",
+        "noi_bat": false
+      },
       {
         "chu_de": "sau-rieng",
         "id": "bm-56595988",
