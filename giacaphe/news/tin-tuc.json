@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T09:50:19+07:00",
+  "generated_at": "2026-11-25T10:20:19+07:00",
   "date": "2026-11-25",
   "groups": [
+    {
+      "id": "bm-56594539",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56594539",
+          "title": "Đắk Lắk: Tiếp sức người dân phát triển vườn cà phê từ nguồn vốn tín dụng chính sách",
+          "url": "https://baomoi.com/dak-lak-tiep-suc-nguoi-dan-phat-trien-vuon-ca-phe-tu-nguon-von-tin-dung-chinh-sach-c56594539.epi",
+          "source": "Báo Tiền Phong",
+          "published_at": "2026-11-25T09:51:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_20_56594539/4b613dcda3864ad81397.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-25",
       "label": "Giá cà phê ngày 25/11",
@@ -114,7 +129,7 @@
     {
       "id": "tt-100261123165220462",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "tt-100261123165220462",
@@ -230,6 +245,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "",
+        "id": "bm-56594539",
+        "the": null,
+        "dong_nguon": "Báo Tiền Phong · 09:51",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "bm-56594375",
