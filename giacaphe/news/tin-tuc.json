@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T08:20:19+07:00",
+  "generated_at": "2026-11-25T09:05:22+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 25/11",
       "important": true,
       "items": [
+        {
+          "id": "vnb-gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg",
+          "title": "Giá cà phê tiếp đà giảm, lùi về 71.100 đồng/kg",
+          "url": "https://vnbusiness.vn//gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg.html",
+          "source": "VnBusiness",
+          "published_at": "2026-11-25T08:48:33+07:00",
+          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/25/8719a3e09cf84f96b39b1b80153f6c5d-20682.png?w=1200&h=630&mode=crop&anchor=top-center",
+          "image_small": "news/anh/7ec124c6a8697a626a71.jpg"
+        },
+        {
+          "id": "gdm-101145",
+          "title": "Giá cà phê hôm nay 25/11: Tiếp tục giảm 500–600 đồng/kg",
+          "url": "https://giadinhmoi.vn/gia-ca-phe-hom-nay-25-11-tiep-tuc-giam-500600-dong-kg-d101145.html",
+          "source": "Gia đình Mới",
+          "published_at": "2026-11-25T08:27:00+07:00",
+          "image": ""
+        },
         {
           "id": "bm-56593655",
           "title": "Bản tin nông sản hôm nay (25-11): Giá cà phê tiếp tục đi xuống",
@@ -113,8 +130,17 @@
         {
           "id": "gia-ho-tieu-2026-11-25",
           "label": "Giá hồ tiêu ngày 25/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "dnhn-154977",
+              "title": "Giá tiêu hôm nay 25 11 2026 Giảm sâu 2 000 đồng kg xuống đáy 17 tháng",
+              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-25112026-giam-sau-2000-dongkg-xuong-day-17-thang-154977.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-25T08:56:17+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/6120261115225844.jpg",
+              "image_small": "news/anh/7326542ac28e1af258a8.jpg"
+            },
             {
               "id": "thcl-295594",
               "title": "Giá tiêu hôm nay 25/11: Tiếp tục đi ngang",
@@ -179,11 +205,32 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "ho-tieu",
+        "id": "dnhn-154977",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 08:56",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "vnb-gia-ca-phe-tiep-da-giam-lui-ve-71100-dongkg",
+        "the": "Cà phê",
+        "dong_nguon": "VnBusiness · 08:48",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "gdm-101145",
+        "the": "Cà phê",
+        "dong_nguon": "Gia đình Mới · 08:27",
+        "noi_bat": false
+      },
+      {
         "chu_de": "",
         "id": "bm-56593655",
         "the": "Cà phê",
         "dong_nguon": "Báo Quân Đội Nhân Dân · 08:04",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -197,7 +244,7 @@
         "id": "dnhn-155039",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
