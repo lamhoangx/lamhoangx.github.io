@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T17:01:39+07:00",
+  "generated_at": "2026-11-25T17:50:17+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -241,6 +241,21 @@
       "date": "2026-11-25",
       "groups": [
         {
+          "id": "bm-56598640",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56598640",
+              "title": "Sầu riêng bước vào cuộc đua mới",
+              "url": "https://baomoi.com/sau-rieng-buoc-vao-cuoc-dua-moi-c56598640.epi",
+              "source": "Báo Tin Tức TTXVN",
+              "published_at": "2026-11-25T17:50:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_294_56598640/45622efbb0b059ee00a1.jpg"
+            }
+          ]
+        },
+        {
           "id": "bvh-nganh-hang-sau-rieng-can-chuyen-doi-xanh-de-phat-trien-ben-vung",
           "label": "",
           "important": true,
@@ -285,14 +300,6 @@
               "source": "Báo Nhân Dân",
               "published_at": "2026-11-25T12:34:00+07:00",
               "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_14_56595988/3c31a98c37c7de9987d6.jpg"
-            },
-            {
-              "id": "bm-56595812",
-              "title": "Sầu riêng Việt Nam trước yêu cầu chuyển đổi xanh để giữ thị trường xuất khẩu",
-              "url": "https://baomoi.com/sau-rieng-viet-nam-truoc-yeu-cau-chuyen-doi-xanh-de-giu-thi-truong-xuat-khau-c56595812.epi",
-              "source": "Báo Giáo Dục & Thời Đại",
-              "published_at": "2026-11-25T12:18:00+07:00",
-              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_181_56595812/f9295e9ac0d1298f70c0.jpg"
             }
           ]
         },
@@ -330,6 +337,29 @@
           ]
         },
         {
+          "id": "bm-56598520",
+          "label": "",
+          "important": false,
+          "items": [
+            {
+              "id": "bm-56598520",
+              "title": "Sầu riêng Việt Nam trước sức ép nâng chuẩn để giữ thị trường",
+              "url": "https://baomoi.com/sau-rieng-viet-nam-truoc-suc-ep-nang-chuan-de-giu-thi-truong-c56598520.epi",
+              "source": "Bnews",
+              "published_at": "2026-11-25T17:46:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_324_56598520/515ff001bb4a52140b5b.jpg"
+            },
+            {
+              "id": "bm-56595812",
+              "title": "Sầu riêng Việt Nam trước yêu cầu chuyển đổi xanh để giữ thị trường xuất khẩu",
+              "url": "https://baomoi.com/sau-rieng-viet-nam-truoc-yeu-cau-chuyen-doi-xanh-de-giu-thi-truong-xuat-khau-c56595812.epi",
+              "source": "Báo Giáo Dục & Thời Đại",
+              "published_at": "2026-11-25T12:18:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_181_56595812/f9295e9ac0d1298f70c0.jpg"
+            }
+          ]
+        },
+        {
           "id": "ct-482581",
           "label": "",
           "important": false,
@@ -357,6 +387,20 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56598640",
+        "the": null,
+        "dong_nguon": "Báo Tin Tức TTXVN · 17:50",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56598520",
+        "the": null,
+        "dong_nguon": "Bnews · 17:46",
+        "noi_bat": false
+      },
       {
         "chu_de": "ho-tieu",
         "id": "tcct-569114",
