@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T11:40:25+07:00",
+  "generated_at": "2026-11-25T12:25:21+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -8,6 +8,14 @@
       "label": "Giá cà phê ngày 25/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56595905",
+          "title": "Giá cà phê hôm nay 25/11/2026: 1 tấn cà phê hiện thấp hơn 1 triệu đồng",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-25-11-2026-1-tan-ca-phe-hien-thap-hon-1-trieu-dong-c56595905.epi",
+          "source": "Báo Lâm Đồng",
+          "published_at": "2026-11-25T12:20:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_439_56595905/f96cb823fd6814364d79.jpg"
+        },
         {
           "id": "bm-56594921",
           "title": "Giá nông sản hôm nay (25/11): Giá thịt lợn hơi bất ngờ quay đầu giảm, cà phê lập đáy mới",
@@ -209,6 +217,21 @@
       "date": "2026-11-25",
       "groups": [
         {
+          "id": "bm-56595812",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56595812",
+              "title": "Sầu riêng Việt Nam trước yêu cầu chuyển đổi xanh để giữ thị trường xuất khẩu",
+              "url": "https://baomoi.com/sau-rieng-viet-nam-truoc-yeu-cau-chuyen-doi-xanh-de-giu-thi-truong-xuat-khau-c56595812.epi",
+              "source": "Báo Giáo Dục & Thời Đại",
+              "published_at": "2026-11-25T12:18:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_25_181_56595812/f9295e9ac0d1298f70c0.jpg"
+            }
+          ]
+        },
+        {
           "id": "gia-sau-rieng-2026-11-25",
           "label": "Giá sầu riêng ngày 25/11",
           "important": true,
@@ -255,10 +278,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56595905",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lâm Đồng · 12:20",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56595812",
+        "the": null,
+        "dong_nguon": "Báo Giáo Dục & Thời Đại · 12:18",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56594921",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Thương Gia · 10:34",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
