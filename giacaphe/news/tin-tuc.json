@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T06:46:33+07:00",
+  "generated_at": "2026-11-25T07:36:31+07:00",
   "date": "2026-11-25",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 25/11",
       "important": true,
       "items": [
+        {
+          "id": "dnhn-155038",
+          "title": "Giá cà phê hôm nay 25 11 2026 Giá cà phê trong nước và thế giới tiếp tục giảm",
+          "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-25112026-gia-ca-phe-trong-nuoc-va-the-gioi-tiep-tuc-giam-155038.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-25T07:30:03+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/25/06/in_social/2720261125063613.jpg",
+          "image_small": "news/anh/0237b601f25515251fd2.jpg"
+        },
+        {
+          "id": "tbtc-207470",
+          "title": "Ngày 25 11 Giá cà phê lập đáy mới hồ tiêu ở mức 132 000 đồng kg",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-25-11-gia-ca-phe-lap-day-moi-ho-tieu-o-muc-132-000-dong-kg-207470.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-25T07:18:08+07:00",
+          "image": ""
+        },
         {
           "id": "bm-56593147",
           "title": "Giá cà phê hôm nay 25/11: Robusta giảm phiên thứ 12 liên tiếp, xuống sát mốc 2.800 USD",
@@ -98,6 +115,15 @@
           "important": false,
           "items": [
             {
+              "id": "dnhn-155039",
+              "title": "Giá sầu riêng hôm nay 25 11 Thị trường duy trì giá tương đối tốt",
+              "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2511-thi-truong-duy-tri-gia-tuong-doi-tot-155039.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-25T07:30:05+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/25/06/in_social/anh-sau-rieng-lua-gao-heo-hoi20261125062034.png",
+              "image_small": "news/anh/3d191559a4107e552621.jpg"
+            },
+            {
               "id": "thcl-295600",
               "title": "Giá sầu riêng hôm nay 25/11: Sầu Thái ở Đồng bằng sông Cửu Long giảm",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-25-11-sau-thai-o-dong-bang-song-cuu-long-giam-a295600.html",
@@ -120,11 +146,32 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "sau-rieng",
+        "id": "dnhn-155039",
+        "the": "Sầu riêng",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "dnhn-155038",
+        "the": "Cà phê",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "tbtc-207470",
+        "the": "Cà phê",
+        "dong_nguon": "Thời báo Tài chính Việt Nam · 07:18",
+        "noi_bat": false
+      },
+      {
         "chu_de": "",
         "id": "bm-56593147",
         "the": "Cà phê",
         "dong_nguon": "Báo Ninh Bình · 06:41",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
