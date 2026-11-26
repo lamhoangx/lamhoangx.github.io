@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T17:01:01+07:00",
+  "generated_at": "2026-11-26T18:50:19+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -309,9 +309,32 @@
       "date": "2026-11-26",
       "groups": [
         {
-          "id": "bm-56606006",
+          "id": "bm-56607760",
           "label": "",
           "important": true,
+          "items": [
+            {
+              "id": "bm-56607760",
+              "title": "Chuyển đổi xanh cây sầu riêng tăng tính cạnh tranh trên thị trường quốc tế",
+              "url": "https://baomoi.com/chuyen-doi-xanh-cay-sau-rieng-tang-tinh-canh-tranh-tren-thi-truong-quoc-te-c56607760.epi",
+              "source": "Báo Xây Dựng",
+              "published_at": "2026-11-26T18:21:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_56_56607760/0a733364ad2f44711d3e.jpg"
+            },
+            {
+              "id": "bm-56601900",
+              "title": "Chuyển đổi xanh để phát triển bền vững ngành hàng sầu riêng",
+              "url": "https://baomoi.com/chuyen-doi-xanh-de-phat-trien-ben-vung-nganh-hang-sau-rieng-c56601900.epi",
+              "source": "Đại Biểu Nhân Dân",
+              "published_at": "2026-11-26T08:06:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_592_56601900/32acfce062ab8bf5d2ba.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bm-56606006",
+          "label": "",
+          "important": false,
           "items": [
             {
               "id": "bm-56606006",
@@ -335,14 +358,6 @@
               "source": "Báo Hà Nội Mới",
               "published_at": "2026-11-26T14:30:00+07:00",
               "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_8_56605244/4afa03cc9d8774d92d96.jpg"
-            },
-            {
-              "id": "bm-56601900",
-              "title": "Chuyển đổi xanh để phát triển bền vững ngành hàng sầu riêng",
-              "url": "https://baomoi.com/chuyen-doi-xanh-de-phat-trien-ben-vung-nganh-hang-sau-rieng-c56601900.epi",
-              "source": "Đại Biểu Nhân Dân",
-              "published_at": "2026-11-26T08:06:00+07:00",
-              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_592_56601900/32acfce062ab8bf5d2ba.jpg"
             }
           ]
         },
@@ -430,6 +445,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56607760",
+        "the": null,
+        "dong_nguon": "Báo Xây Dựng · 18:21",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "tt-100261126084317879",
