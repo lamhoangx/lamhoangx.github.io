@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T06:46:38+07:00",
+  "generated_at": "2026-11-26T07:30:33+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -8,6 +8,31 @@
       "label": "Giá cà phê ngày 26/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56601615",
+          "title": "Giá cà phê hôm nay 26/11: Trong nước vẫn giảm, thị trường chưa hết áp lực",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-26-11-trong-nuoc-van-giam-thi-truong-chua-het-ap-luc-c56601615.epi",
+          "source": "Báo Lào Cai",
+          "published_at": "2026-11-26T07:19:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_438_56601615/a5ac41eddfa636f86fb7.jpg"
+        },
+        {
+          "id": "vnbiz-20261125174421268",
+          "title": "Tồn kho trên sàn tăng mạnh, giá cà phê chịu áp lực giảm",
+          "url": "https://vietnambiz.vn/ton-kho-tren-san-tang-manh-gia-ca-phe-chiu-ap-luc-giam-20261125174421268.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-26T07:00:00+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/25/83bd0319462c4c16a8dc35118dc33f4e-6763-20261125174308399-avatar-15x10-2026112517442119.jpg"
+        },
+        {
+          "id": "bvh-gia-ca-phe-hom-nay-26-11-robusta-giam-arabica-tang-trong-phien-toi-truoc",
+          "title": "Giá cà phê hôm nay 26.11: Robusta giảm, Arabica tăng trong phiên tối trước",
+          "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-26-11-robusta-giam-arabica-tang-trong-phien-toi-truoc.html",
+          "source": "Báo Văn hóa",
+          "published_at": "2026-11-26T06:47:57+07:00",
+          "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/25/01a21343-5f86-781e-891a-6925abb81bac.jpg",
+          "image_small": "news/anh/3a9e7e94b11c10ecb370.jpg"
+        },
         {
           "id": "bm-56601394",
           "title": "Giá cà phê hôm nay 26/11: Robusta tiếp tục giảm, mất mốc 2.800 USD",
@@ -66,6 +91,15 @@
           "important": false,
           "items": [
             {
+              "id": "bvh-gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai",
+              "title": "Giá hồ tiêu hôm nay 26.11.2026: Sau hai phiên giảm, lực mua có trở lại?",
+              "url": "https://baovanhoa.vn/gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai.html",
+              "source": "Báo Văn hóa",
+              "published_at": "2026-11-26T06:48:50+07:00",
+              "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/25/01a21343-5fee-7886-9680-04a58be8edb1.jpg",
+              "image_small": "news/anh/313155f364337bc51937.jpg"
+            },
+            {
               "id": "thcl-295620",
               "title": "Giá tiêu hôm nay 26/11: Cao nhất 132.000 đồng/kg",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-tieu-hom-nay-26-11-cao-nhat-132-000-dong-kg-a295620.html",
@@ -112,10 +146,38 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56601615",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lào Cai · 07:19",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-20261125174421268",
+        "the": "Cà phê",
+        "dong_nguon": "VietnamBiz · 07:00",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "bvh-gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Báo Văn hóa · 06:48",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bvh-gia-ca-phe-hom-nay-26-11-robusta-giam-arabica-tang-trong-phien-toi-truoc",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Văn hóa · 06:47",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56601394",
         "the": "Cà phê",
         "dong_nguon": "Báo Ninh Bình · 06:44",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
