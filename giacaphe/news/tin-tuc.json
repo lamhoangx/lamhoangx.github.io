@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T10:25:20+07:00",
+  "generated_at": "2026-11-26T11:41:28+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -245,9 +245,26 @@
       "date": "2026-11-26",
       "groups": [
         {
-          "id": "bm-56601900",
+          "id": "thcl-295635",
           "label": "",
           "important": true,
+          "items": [
+            {
+              "id": "thcl-295635",
+              "title": "Sầu riêng Việt Nam: Không thể mãi chạy theo diện tích",
+              "url": "https://hangthat.thuonghieucongluan.com.vn/sau-rieng-viet-nam-khong-the-mai-chay-theo-dien-tich-a295635.html",
+              "source": "Thương hiệu và Công luận",
+              "published_at": "2026-11-26T11:16:00+07:00",
+              "image": "https://media.hangthat.vn/resize_640x360/uploads/2026/11/26/z7861324493130fd48a4f87840413e4c4d2ab9f3364939-17796337343541691548573-17956002021641844273111-1795666206.jpg",
+              "image_checked": true,
+              "image_small": "news/anh/293afe602192bb5b55cb.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bm-56601900",
+          "label": "",
+          "important": false,
           "items": [
             {
               "id": "bm-56601900",
@@ -295,6 +312,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "thcl-295635",
+        "the": null,
+        "dong_nguon": "Thương hiệu và Công luận · 11:16",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "vnb-gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong",
