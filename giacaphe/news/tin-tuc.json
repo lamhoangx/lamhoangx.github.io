@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T13:35:18+07:00",
+  "generated_at": "2026-11-26T14:20:20+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -163,9 +163,25 @@
       ]
     },
     {
-      "id": "dnhn-155097",
+      "id": "vnbiz-2026112611132493",
       "label": "",
       "important": true,
+      "items": [
+        {
+          "id": "vnbiz-2026112611132493",
+          "title": "Cà phê rớt giá còn 15.000 đồng một kg",
+          "url": "https://vietnambiz.vn/ca-phe-rot-gia-con-15000-dong-mot-kg-2026112611132493.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-26T11:01:28+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/26/crawl-20261126110055268-avatar-15x10-20261126110131756.jpg",
+          "image_small": "news/anh/165ec60d73d6f4a08e49.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dnhn-155097",
+      "label": "",
+      "important": false,
       "items": [
         {
           "id": "dnhn-155097",
@@ -393,6 +409,13 @@
         "the": null,
         "dong_nguon": "Thương hiệu và Công luận · 11:16",
         "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-2026112611132493",
+        "the": null,
+        "dong_nguon": "VietnamBiz · 11:01",
+        "noi_bat": true
       },
       {
         "chu_de": "",
