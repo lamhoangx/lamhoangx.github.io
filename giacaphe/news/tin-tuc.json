@@ -1,29 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T09:30:23+07:00",
+  "generated_at": "2026-11-26T09:50:27+07:00",
   "date": "2026-11-26",
   "groups": [
-    {
-      "id": "dnhn-155097",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "dnhn-155097",
-          "title": "Thị trường nguyên liệu công nghiệp 26 11 2026 Giá đường và cà phê đồng loạt tăng nhờ lo ngại nguồn cung",
-          "url": "https://doanhnghiephoinhap.vn/thi-truong-nguyen-lieu-cong-nghiep-26112026-gia-duong-va-ca-phe-dong-loat-tang-nho-lo-ngai-nguon-cung-155097.html",
-          "source": "Doanh nghiệp và Hội nhập",
-          "published_at": "2026-11-26T09:10:19+07:00",
-          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/11/in_social/8820261123113634.jpg",
-          "image_small": "news/anh/c6bbe771465b8b18e8ea.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-26",
       "label": "Giá cà phê ngày 26/11",
       "important": true,
       "items": [
+        {
+          "id": "vov-1353194",
+          "title": "Giá cà phê hôm nay 26/11: Giá cà phê trung bình ở mức 70.100 đồng/kg",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2611-gia-ca-phe-trung-binh-o-muc-70100-dongkg-post1353194.vov",
+          "source": "VOV",
+          "published_at": "2026-11-26T09:41:00+07:00",
+          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/gia-ca-phe-hom-nay-1112_1_9fadd-1.jpg",
+          "image_small": "news/anh/1c76a3e44f99607e093d.jpg"
+        },
         {
           "id": "dnhn-155157",
           "title": "Giá cà phê hôm nay 26 11 2026 Cà phê trong nước và thế giới đồng loạt giảm",
@@ -31,7 +24,7 @@
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-26T09:02:51+07:00",
           "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/26/08/in_social/ty-gia-usd-hom-nay-26112026-usd-suy-yeu-thi-truong-doi-theo-dong-thai-cua-fed-20261126084439.jpg",
-          "image_small": "news/anh/6bd0a7b22e5b9d9b51de.jpg"
+          "image_small": "news/anh/82c2605d629ca93d58b8.jpg"
         },
         {
           "id": "bgl-606048",
@@ -133,15 +126,22 @@
           "published_at": "2026-11-26T04:15:01+07:00",
           "image": "https://daknong.1cdn.vn/2026/11/24/dsc_1363.jpg",
           "image_small": "news/anh/9572927ceaed66c90129.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "id": "dnhn-155097",
+      "label": "",
+      "important": true,
+      "items": [
         {
-          "id": "vov-1353194",
-          "title": "Giá cà phê hôm nay 26/11: Giá cà phê trong nước giảm 1.000 đồng/kg",
-          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2611-gia-ca-phe-trong-nuoc-giam-1000-dongkg-post1353194.vov",
-          "source": "VOV",
-          "published_at": "2026-11-26T01:00:00+07:00",
-          "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/gia-ca-phe-hom-nay-1112_1_9fadd-1.jpg",
-          "image_small": "news/anh/4da3370940987ac92256.jpg"
+          "id": "dnhn-155097",
+          "title": "Thị trường nguyên liệu công nghiệp 26 11 2026 Giá đường và cà phê đồng loạt tăng nhờ lo ngại nguồn cung",
+          "url": "https://doanhnghiephoinhap.vn/thi-truong-nguyen-lieu-cong-nghiep-26112026-gia-duong-va-ca-phe-dong-loat-tang-nho-lo-ngai-nguon-cung-155097.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-26T09:10:19+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/11/in_social/8820261123113634.jpg",
+          "image_small": "news/anh/c6bbe771465b8b18e8ea.jpg"
         }
       ]
     },
@@ -280,6 +280,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "vov-1353194",
+        "the": "Cà phê",
+        "dong_nguon": "VOV · 09:41",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "dnhn-155097",
         "the": null,
         "dong_nguon": "Doanh nghiệp và Hội nhập · 09:10",
@@ -290,7 +297,7 @@
         "id": "dnhn-155157",
         "the": "Cà phê",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 09:02",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "ho-tieu",
@@ -311,7 +318,7 @@
         "id": "dnhn-155104",
         "the": "Hồ tiêu",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 08:31",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -437,13 +444,6 @@
         "id": "bld-475735",
         "the": "Cà phê",
         "dong_nguon": "Báo Lâm Đồng · 04:15",
-        "noi_bat": false
-      },
-      {
-        "chu_de": "",
-        "id": "vov-1353194",
-        "the": "Cà phê",
-        "dong_nguon": "VOV · 01:00",
         "noi_bat": false
       }
     ]
