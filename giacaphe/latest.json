@@ -1,212 +1,212 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
-  "updated_at": "2026-11-26T05:50:11+07:00",
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T10:25:13+07:00",
   "fallback_host": "https://lamhoangx.github.io/giacaphe/",
   "domestic": {
     "unit": "VND/kg",
-    "average": 70100,
-    "average_change": -1000,
-    "highest": 70300,
+    "average": 69800,
+    "average_change": -300,
+    "highest": 70000,
     "regions": [
       {
         "id": "daklak",
         "name": "Đắk Lắk",
-        "price": 70000,
-        "change": -1000
+        "price": 69700,
+        "change": -300
       },
       {
         "id": "lamdong",
         "name": "Lâm Đồng",
-        "price": 69500,
-        "change": -1000
+        "price": 69200,
+        "change": -300
       },
       {
         "id": "gialai",
         "name": "Gia Lai",
-        "price": 70000,
-        "change": -1000
+        "price": 69700,
+        "change": -300
       },
       {
         "id": "daknong",
         "name": "Đắk Nông",
-        "price": 70300,
-        "change": -1000
+        "price": 70000,
+        "change": -300
       }
     ]
   },
   "pepper": {
     "unit": "VND/kg",
-    "price": 127000,
-    "change": -1000
+    "price": 124000,
+    "change": -3000
   },
   "fx": {
-    "usd_vnd": 25560
+    "usd_vnd": 25630
   },
   "international": {
     "robusta_london": {
       "unit": "USD/tấn",
-      "updated": "25/11/2026",
+      "updated": "26/11/2026",
       "contracts": [
         {
           "month": "01/27",
-          "price": 2813.0,
-          "change": -41.0,
-          "change_pct": -1.44,
-          "high": 2854.0,
-          "low": 2801.0,
-          "volume": 11563,
-          "open": 2854.0,
-          "previous": 2854.0,
-          "open_interest": 64900
+          "price": 2798.0,
+          "change": -15.0,
+          "change_pct": -0.53,
+          "high": 2822.0,
+          "low": 2734.0,
+          "volume": 17500,
+          "open": 2800.0,
+          "previous": 2813.0,
+          "open_interest": 63240
         },
         {
           "month": "03/27",
-          "price": 2788.0,
-          "change": -40.0,
-          "change_pct": -1.41,
-          "high": 2831.0,
-          "low": 2777.0,
-          "volume": 11402,
-          "open": 2829.0,
-          "previous": 2828.0,
-          "open_interest": 44997
+          "price": 2767.0,
+          "change": -21.0,
+          "change_pct": -0.75,
+          "high": 2788.0,
+          "low": 2709.0,
+          "volume": 15317,
+          "open": 2780.0,
+          "previous": 2788.0,
+          "open_interest": 45872
         },
         {
           "month": "05/27",
-          "price": 2778.0,
-          "change": -38.0,
-          "change_pct": -1.35,
-          "high": 2820.0,
-          "low": 2766.0,
-          "volume": 4377,
-          "open": 2810.0,
-          "previous": 2816.0,
-          "open_interest": 17912
+          "price": 2748.0,
+          "change": -30.0,
+          "change_pct": -1.08,
+          "high": 2770.0,
+          "low": 2699.0,
+          "volume": 6935,
+          "open": 2770.0,
+          "previous": 2778.0,
+          "open_interest": 18582
         },
         {
           "month": "07/27",
-          "price": 2770.0,
-          "change": -36.0,
-          "change_pct": -1.28,
-          "high": 2810.0,
-          "low": 2758.0,
-          "volume": 2112,
-          "open": 2809.0,
-          "previous": 2806.0,
-          "open_interest": 6806
+          "price": 2739.0,
+          "change": -31.0,
+          "change_pct": -1.12,
+          "high": 2762.0,
+          "low": 2692.0,
+          "volume": 2290,
+          "open": 2759.0,
+          "previous": 2770.0,
+          "open_interest": 6892
         },
         {
           "month": "09/27",
-          "price": 2764.0,
-          "change": -29.0,
-          "change_pct": -1.04,
-          "high": 2790.0,
-          "low": 2750.0,
-          "volume": 1691,
-          "open": 2764.0,
-          "previous": 2793.0,
-          "open_interest": 4437
+          "price": 2733.0,
+          "change": -31.0,
+          "change_pct": -1.12,
+          "high": 2765.0,
+          "low": 2686.0,
+          "volume": 1360,
+          "open": 2765.0,
+          "previous": 2764.0,
+          "open_interest": 4505
         }
       ]
     },
     "arabica_newyork": {
       "unit": "USD/tấn",
-      "updated": "25/11/2026",
+      "updated": "26/11/2026",
       "contracts": [
         {
           "month": "03/27",
-          "price": 5789.0,
-          "change": -114.0,
-          "change_pct": -1.92,
-          "high": 5881.0,
-          "low": 5733.0,
-          "volume": 18935,
-          "open": 5881.0,
-          "previous": 5903.0,
-          "open_interest": 79239
+          "price": 5952.0,
+          "change": 163.0,
+          "change_pct": 2.82,
+          "high": 5993.0,
+          "low": 5702.0,
+          "volume": 21296,
+          "open": 5732.0,
+          "previous": 5789.0,
+          "open_interest": 77263
         },
         {
           "month": "12/26",
-          "price": 5921.0,
-          "change": -128.0,
-          "change_pct": -2.11,
-          "high": 5975.0,
-          "low": 5900.0,
-          "volume": 14,
-          "open": 5966.0,
-          "previous": 6048.0,
-          "open_interest": 1215
+          "price": 6077.0,
+          "change": 157.0,
+          "change_pct": 2.64,
+          "high": 6077.0,
+          "low": 5842.0,
+          "volume": 9,
+          "open": 5842.0,
+          "previous": 5921.0,
+          "open_interest": 1197
         },
         {
           "month": "05/27",
-          "price": 5675.0,
-          "change": -83.0,
-          "change_pct": -1.44,
-          "high": 5746.0,
-          "low": 5620.0,
-          "volume": 10702,
-          "open": 5746.0,
-          "previous": 5757.0,
-          "open_interest": 28671
+          "price": 5800.0,
+          "change": 126.0,
+          "change_pct": 2.21,
+          "high": 5842.0,
+          "low": 5584.0,
+          "volume": 10807,
+          "open": 5630.0,
+          "previous": 5675.0,
+          "open_interest": 30523
         },
         {
           "month": "07/27",
-          "price": 5573.0,
-          "change": -72.0,
-          "change_pct": -1.27,
-          "high": 5633.0,
-          "low": 5524.0,
-          "volume": 3530,
-          "open": 5633.0,
-          "previous": 5645.0,
-          "open_interest": 13771
+          "price": 5681.0,
+          "change": 108.0,
+          "change_pct": 1.94,
+          "high": 5723.0,
+          "low": 5493.0,
+          "volume": 3962,
+          "open": 5528.0,
+          "previous": 5573.0,
+          "open_interest": 13891
         },
         {
           "month": "09/27",
-          "price": 5493.0,
-          "change": -66.0,
-          "change_pct": -1.19,
-          "high": 5549.0,
-          "low": 5445.0,
-          "volume": 1900,
-          "open": 5534.0,
-          "previous": 5559.0,
-          "open_interest": 7191
+          "price": 5582.0,
+          "change": 89.0,
+          "change_pct": 1.63,
+          "high": 5625.0,
+          "low": 5420.0,
+          "volume": 1834,
+          "open": 5442.0,
+          "previous": 5493.0,
+          "open_interest": 7316
         }
       ]
     }
   },
   "hien_thi": {
     "schema": 1,
-    "ngay": "2026-11-25",
+    "ngay": "2026-11-26",
     "chuoi": {
       "average": {
         "ten": "Trung bình 4 tỉnh",
         "don_vi": "đồng/kg · Trung bình 4 tỉnh",
         "doi": {
-          "chu": "▼ Giảm 1.000đ so với hôm qua",
+          "chu": "▼ Giảm 300đ so với hôm qua",
           "mau": "giam"
         },
         "doi_gon": {
-          "chu": "▼ 1.000đ",
+          "chu": "▼ 300đ",
           "mau": "giam"
         },
         "vi_the": {
-          "tu_ngay": "2026-10-27",
-          "den_ngay": "2026-11-25",
+          "tu_ngay": "2026-10-28",
+          "den_ngay": "2026-11-26",
           "cao": 89100,
-          "thap": 70100,
+          "thap": 69800,
           "tieu_de": "Trong 26 ngày có giá gần đây",
           "dong_cao": "Cao nhất 89.100 đ/⁠kg (ngày 28/10)",
-          "dong_thap": "Thấp nhất 70.100 đ/⁠kg (ngày 25/11)",
+          "dong_thap": "Thấp nhất 69.800 đ/⁠kg (ngày 26/11)",
           "nhan_cham": {
-            "2026-11-25": "Hôm nay",
-            "khac": "Ngày 25/11"
+            "2026-11-26": "Hôm nay",
+            "khac": "Ngày 26/11"
           },
           "ket_luan": {
-            "2026-11-25": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
-            "khac": "Giá ngày 25/11 đang là mức THẤP NHẤT trong 26 ngày đó"
+            "2026-11-26": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
+            "khac": "Giá ngày 26/11 đang là mức THẤP NHẤT trong 26 ngày đó"
           }
         },
         "cung_ky": {
@@ -226,43 +226,43 @@
             }
           ],
           "so_sanh": {
-            "chu": "▼ Giá ngày 25/11 thấp hơn cùng kỳ 2025 khoảng 41.800đ/kg (37%)",
+            "chu": "▼ Giá ngày 26/11 thấp hơn cùng kỳ 2025 khoảng 42.100đ/kg (38%)",
             "mau": "giam"
           },
           "ghi_chu": "Giá mỗi năm tính từ các ngày quanh ngày 26/11 (trước và sau 3 ngày), làm tròn 100đ. Nguồn: Bộ Nông nghiệp và Môi trường."
         },
         "chia_se": {
-          "2026-11-25": "Giá cà phê Trung bình 4 tỉnh ngày 25/11/2026\n70.100 đ/kg\n▼ Giảm 1.000đ so với hôm qua",
-          "khac": "Giá cà phê Trung bình 4 tỉnh ngày 25/11/2026\n70.100 đ/kg\n▼ Giảm 1.000đ so với ngày 24/11"
+          "2026-11-26": "Giá cà phê Trung bình 4 tỉnh ngày 26/11/2026\n69.800 đ/kg\n▼ Giảm 300đ so với hôm qua",
+          "khac": "Giá cà phê Trung bình 4 tỉnh ngày 26/11/2026\n69.800 đ/kg\n▼ Giảm 300đ so với ngày 25/11"
         },
         "widget": {
           "vung": {
-            "2026-11-25": "Trung bình 4 tỉnh · giá ngày 25/11",
-            "khac": "Trung bình 4 tỉnh · giá ngày 25/11, chưa cập nhật hôm nay"
+            "2026-11-26": "Trung bình 4 tỉnh · giá ngày 26/11",
+            "khac": "Trung bình 4 tỉnh · giá ngày 26/11, chưa cập nhật hôm nay"
           },
-          "gia": "70.100 đ/kg",
+          "gia": "69.800 đ/kg",
           "doi": {
-            "chu": "▼ Giảm 1.000đ so với hôm qua",
+            "chu": "▼ Giảm 300đ so với hôm qua",
             "mau": "giam"
           }
         },
         "thong_bao": {
           "gia": {
             "tieu_de": "Giá cà phê Trung bình 4 tỉnh hôm nay",
-            "noi_dung": "70.100 đ/kg, giảm 1.000đ so với hôm qua"
+            "noi_dung": "69.800 đ/kg, giảm 300đ so với hôm qua"
           },
           "chua_co_gia": {
             "tieu_de": "Giá cà phê Trung bình 4 tỉnh hôm nay",
-            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 25/11: 70.100 đ/kg"
+            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 26/11: 69.800 đ/kg"
           },
           "doi_trong_ngay": {
             "tieu_de": "Giá cà phê Trung bình 4 tỉnh vừa thay đổi",
-            "so_hom_qua": "giảm 1.000đ so với hôm qua"
+            "so_hom_qua": "giảm 300đ so với hôm qua"
           },
           "tong_ket_tuan": {
             "ngay": "2026-11-29",
             "tieu_de": "Giá cà phê Trung bình 4 tỉnh tuần qua",
-            "noi_dung": "Cả tuần giảm 7.000đ. Cao nhất 77.100 đ/kg (ngày 18/11), thấp nhất 70.100 đ/kg (ngày 25/11)."
+            "noi_dung": "Cả tuần giảm 5.100đ. Cao nhất 74.900 đ/kg (ngày 19/11), thấp nhất 69.800 đ/kg (ngày 26/11)."
           }
         }
       },
@@ -270,28 +270,28 @@
         "ten": "Đắk Lắk",
         "don_vi": "đồng/kg · Đắk Lắk",
         "doi": {
-          "chu": "▼ Giảm 1.000đ so với hôm qua",
+          "chu": "▼ Giảm 300đ so với hôm qua",
           "mau": "giam"
         },
         "doi_gon": {
-          "chu": "▼ 1.000đ",
+          "chu": "▼ 300đ",
           "mau": "giam"
         },
         "vi_the": {
-          "tu_ngay": "2026-10-27",
-          "den_ngay": "2026-11-25",
+          "tu_ngay": "2026-10-28",
+          "den_ngay": "2026-11-26",
           "cao": 89000,
-          "thap": 70000,
+          "thap": 69700,
           "tieu_de": "Trong 26 ngày có giá gần đây",
           "dong_cao": "Cao nhất 89.000 đ/⁠kg (ngày 28/10)",
-          "dong_thap": "Thấp nhất 70.000 đ/⁠kg (ngày 25/11)",
+          "dong_thap": "Thấp nhất 69.700 đ/⁠kg (ngày 26/11)",
           "nhan_cham": {
-            "2026-11-25": "Hôm nay",
-            "khac": "Ngày 25/11"
+            "2026-11-26": "Hôm nay",
+            "khac": "Ngày 26/11"
           },
           "ket_luan": {
-            "2026-11-25": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
-            "khac": "Giá ngày 25/11 đang là mức THẤP NHẤT trong 26 ngày đó"
+            "2026-11-26": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
+            "khac": "Giá ngày 26/11 đang là mức THẤP NHẤT trong 26 ngày đó"
           }
         },
         "cung_ky": {
@@ -311,43 +311,43 @@
             }
           ],
           "so_sanh": {
-            "chu": "▼ Giá ngày 25/11 thấp hơn cùng kỳ 2025 khoảng 41.900đ/kg (37%)",
+            "chu": "▼ Giá ngày 26/11 thấp hơn cùng kỳ 2025 khoảng 42.200đ/kg (38%)",
             "mau": "giam"
           },
           "ghi_chu": "Giá mỗi năm tính từ các ngày quanh ngày 26/11 (trước và sau 3 ngày), làm tròn 100đ. Nguồn: Bộ Nông nghiệp và Môi trường."
         },
         "chia_se": {
-          "2026-11-25": "Giá cà phê Đắk Lắk ngày 25/11/2026\n70.000 đ/kg\n▼ Giảm 1.000đ so với hôm qua",
-          "khac": "Giá cà phê Đắk Lắk ngày 25/11/2026\n70.000 đ/kg\n▼ Giảm 1.000đ so với ngày 24/11"
+          "2026-11-26": "Giá cà phê Đắk Lắk ngày 26/11/2026\n69.700 đ/kg\n▼ Giảm 300đ so với hôm qua",
+          "khac": "Giá cà phê Đắk Lắk ngày 26/11/2026\n69.700 đ/kg\n▼ Giảm 300đ so với ngày 25/11"
         },
         "widget": {
           "vung": {
-            "2026-11-25": "Đắk Lắk · giá ngày 25/11",
-            "khac": "Đắk Lắk · giá ngày 25/11, chưa cập nhật hôm nay"
+            "2026-11-26": "Đắk Lắk · giá ngày 26/11",
+            "khac": "Đắk Lắk · giá ngày 26/11, chưa cập nhật hôm nay"
           },
-          "gia": "70.000 đ/kg",
+          "gia": "69.700 đ/kg",
           "doi": {
-            "chu": "▼ Giảm 1.000đ so với hôm qua",
+            "chu": "▼ Giảm 300đ so với hôm qua",
             "mau": "giam"
           }
         },
         "thong_bao": {
           "gia": {
             "tieu_de": "Giá cà phê Đắk Lắk hôm nay",
-            "noi_dung": "70.000 đ/kg, giảm 1.000đ so với hôm qua"
+            "noi_dung": "69.700 đ/kg, giảm 300đ so với hôm qua"
           },
           "chua_co_gia": {
             "tieu_de": "Giá cà phê Đắk Lắk hôm nay",
-            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 25/11: 70.000 đ/kg"
+            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 26/11: 69.700 đ/kg"
           },
           "doi_trong_ngay": {
             "tieu_de": "Giá cà phê Đắk Lắk vừa thay đổi",
-            "so_hom_qua": "giảm 1.000đ so với hôm qua"
+            "so_hom_qua": "giảm 300đ so với hôm qua"
           },
           "tong_ket_tuan": {
             "ngay": "2026-11-29",
             "tieu_de": "Giá cà phê Đắk Lắk tuần qua",
-            "noi_dung": "Cả tuần giảm 7.000đ. Cao nhất 77.000 đ/kg (ngày 18/11), thấp nhất 70.000 đ/kg (ngày 25/11)."
+            "noi_dung": "Cả tuần giảm 5.100đ. Cao nhất 74.800 đ/kg (ngày 19/11), thấp nhất 69.700 đ/kg (ngày 26/11)."
           }
         }
       },
@@ -355,28 +355,28 @@
         "ten": "Lâm Đồng",
         "don_vi": "đồng/kg · Lâm Đồng",
         "doi": {
-          "chu": "▼ Giảm 1.000đ so với hôm qua",
+          "chu": "▼ Giảm 300đ so với hôm qua",
           "mau": "giam"
         },
         "doi_gon": {
-          "chu": "▼ 1.000đ",
+          "chu": "▼ 300đ",
           "mau": "giam"
         },
         "vi_the": {
-          "tu_ngay": "2026-10-27",
-          "den_ngay": "2026-11-25",
+          "tu_ngay": "2026-10-28",
+          "den_ngay": "2026-11-26",
           "cao": 88500,
-          "thap": 69500,
+          "thap": 69200,
           "tieu_de": "Trong 26 ngày có giá gần đây",
           "dong_cao": "Cao nhất 88.500 đ/⁠kg (ngày 28/10)",
-          "dong_thap": "Thấp nhất 69.500 đ/⁠kg (ngày 25/11)",
+          "dong_thap": "Thấp nhất 69.200 đ/⁠kg (ngày 26/11)",
           "nhan_cham": {
-            "2026-11-25": "Hôm nay",
-            "khac": "Ngày 25/11"
+            "2026-11-26": "Hôm nay",
+            "khac": "Ngày 26/11"
           },
           "ket_luan": {
-            "2026-11-25": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
-            "khac": "Giá ngày 25/11 đang là mức THẤP NHẤT trong 26 ngày đó"
+            "2026-11-26": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
+            "khac": "Giá ngày 26/11 đang là mức THẤP NHẤT trong 26 ngày đó"
           }
         },
         "cung_ky": {
@@ -396,43 +396,43 @@
             }
           ],
           "so_sanh": {
-            "chu": "▼ Giá ngày 25/11 thấp hơn cùng kỳ 2025 khoảng 41.500đ/kg (37%)",
+            "chu": "▼ Giá ngày 26/11 thấp hơn cùng kỳ 2025 khoảng 41.800đ/kg (38%)",
             "mau": "giam"
           },
           "ghi_chu": "Giá mỗi năm tính từ các ngày quanh ngày 26/11 (trước và sau 3 ngày), làm tròn 100đ. Nguồn: Bộ Nông nghiệp và Môi trường."
         },
         "chia_se": {
-          "2026-11-25": "Giá cà phê Lâm Đồng ngày 25/11/2026\n69.500 đ/kg\n▼ Giảm 1.000đ so với hôm qua",
-          "khac": "Giá cà phê Lâm Đồng ngày 25/11/2026\n69.500 đ/kg\n▼ Giảm 1.000đ so với ngày 24/11"
+          "2026-11-26": "Giá cà phê Lâm Đồng ngày 26/11/2026\n69.200 đ/kg\n▼ Giảm 300đ so với hôm qua",
+          "khac": "Giá cà phê Lâm Đồng ngày 26/11/2026\n69.200 đ/kg\n▼ Giảm 300đ so với ngày 25/11"
         },
         "widget": {
           "vung": {
-            "2026-11-25": "Lâm Đồng · giá ngày 25/11",
-            "khac": "Lâm Đồng · giá ngày 25/11, chưa cập nhật hôm nay"
+            "2026-11-26": "Lâm Đồng · giá ngày 26/11",
+            "khac": "Lâm Đồng · giá ngày 26/11, chưa cập nhật hôm nay"
           },
-          "gia": "69.500 đ/kg",
+          "gia": "69.200 đ/kg",
           "doi": {
-            "chu": "▼ Giảm 1.000đ so với hôm qua",
+            "chu": "▼ Giảm 300đ so với hôm qua",
             "mau": "giam"
           }
         },
         "thong_bao": {
           "gia": {
             "tieu_de": "Giá cà phê Lâm Đồng hôm nay",
-            "noi_dung": "69.500 đ/kg, giảm 1.000đ so với hôm qua"
+            "noi_dung": "69.200 đ/kg, giảm 300đ so với hôm qua"
           },
           "chua_co_gia": {
             "tieu_de": "Giá cà phê Lâm Đồng hôm nay",
-            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 25/11: 69.500 đ/kg"
+            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 26/11: 69.200 đ/kg"
           },
           "doi_trong_ngay": {
             "tieu_de": "Giá cà phê Lâm Đồng vừa thay đổi",
-            "so_hom_qua": "giảm 1.000đ so với hôm qua"
+            "so_hom_qua": "giảm 300đ so với hôm qua"
           },
           "tong_ket_tuan": {
             "ngay": "2026-11-29",
             "tieu_de": "Giá cà phê Lâm Đồng tuần qua",
-            "noi_dung": "Cả tuần giảm 7.000đ. Cao nhất 76.500 đ/kg (ngày 18/11), thấp nhất 69.500 đ/kg (ngày 25/11)."
+            "noi_dung": "Cả tuần giảm 5.000đ. Cao nhất 74.200 đ/kg (ngày 19/11), thấp nhất 69.200 đ/kg (ngày 26/11)."
           }
         }
       },
@@ -440,28 +440,28 @@
         "ten": "Gia Lai",
         "don_vi": "đồng/kg · Gia Lai",
         "doi": {
-          "chu": "▼ Giảm 1.000đ so với hôm qua",
+          "chu": "▼ Giảm 300đ so với hôm qua",
           "mau": "giam"
         },
         "doi_gon": {
-          "chu": "▼ 1.000đ",
+          "chu": "▼ 300đ",
           "mau": "giam"
         },
         "vi_the": {
-          "tu_ngay": "2026-10-27",
-          "den_ngay": "2026-11-25",
+          "tu_ngay": "2026-10-28",
+          "den_ngay": "2026-11-26",
           "cao": 89000,
-          "thap": 70000,
+          "thap": 69700,
           "tieu_de": "Trong 26 ngày có giá gần đây",
           "dong_cao": "Cao nhất 89.000 đ/⁠kg (ngày 28/10)",
-          "dong_thap": "Thấp nhất 70.000 đ/⁠kg (ngày 25/11)",
+          "dong_thap": "Thấp nhất 69.700 đ/⁠kg (ngày 26/11)",
           "nhan_cham": {
-            "2026-11-25": "Hôm nay",
-            "khac": "Ngày 25/11"
+            "2026-11-26": "Hôm nay",
+            "khac": "Ngày 26/11"
           },
           "ket_luan": {
-            "2026-11-25": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
-            "khac": "Giá ngày 25/11 đang là mức THẤP NHẤT trong 26 ngày đó"
+            "2026-11-26": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
+            "khac": "Giá ngày 26/11 đang là mức THẤP NHẤT trong 26 ngày đó"
           }
         },
         "cung_ky": {
@@ -481,43 +481,43 @@
             }
           ],
           "so_sanh": {
-            "chu": "▼ Giá ngày 25/11 thấp hơn cùng kỳ 2025 khoảng 41.400đ/kg (37%)",
+            "chu": "▼ Giá ngày 26/11 thấp hơn cùng kỳ 2025 khoảng 41.700đ/kg (37%)",
             "mau": "giam"
           },
           "ghi_chu": "Giá mỗi năm tính từ các ngày quanh ngày 26/11 (trước và sau 3 ngày), làm tròn 100đ. Nguồn: Bộ Nông nghiệp và Môi trường."
         },
         "chia_se": {
-          "2026-11-25": "Giá cà phê Gia Lai ngày 25/11/2026\n70.000 đ/kg\n▼ Giảm 1.000đ so với hôm qua",
-          "khac": "Giá cà phê Gia Lai ngày 25/11/2026\n70.000 đ/kg\n▼ Giảm 1.000đ so với ngày 24/11"
+          "2026-11-26": "Giá cà phê Gia Lai ngày 26/11/2026\n69.700 đ/kg\n▼ Giảm 300đ so với hôm qua",
+          "khac": "Giá cà phê Gia Lai ngày 26/11/2026\n69.700 đ/kg\n▼ Giảm 300đ so với ngày 25/11"
         },
         "widget": {
           "vung": {
-            "2026-11-25": "Gia Lai · giá ngày 25/11",
-            "khac": "Gia Lai · giá ngày 25/11, chưa cập nhật hôm nay"
+            "2026-11-26": "Gia Lai · giá ngày 26/11",
+            "khac": "Gia Lai · giá ngày 26/11, chưa cập nhật hôm nay"
           },
-          "gia": "70.000 đ/kg",
+          "gia": "69.700 đ/kg",
           "doi": {
-            "chu": "▼ Giảm 1.000đ so với hôm qua",
+            "chu": "▼ Giảm 300đ so với hôm qua",
             "mau": "giam"
           }
         },
         "thong_bao": {
           "gia": {
             "tieu_de": "Giá cà phê Gia Lai hôm nay",
-            "noi_dung": "70.000 đ/kg, giảm 1.000đ so với hôm qua"
+            "noi_dung": "69.700 đ/kg, giảm 300đ so với hôm qua"
           },
           "chua_co_gia": {
             "tieu_de": "Giá cà phê Gia Lai hôm nay",
-            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 25/11: 70.000 đ/kg"
+            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 26/11: 69.700 đ/kg"
           },
           "doi_trong_ngay": {
             "tieu_de": "Giá cà phê Gia Lai vừa thay đổi",
-            "so_hom_qua": "giảm 1.000đ so với hôm qua"
+            "so_hom_qua": "giảm 300đ so với hôm qua"
           },
           "tong_ket_tuan": {
             "ngay": "2026-11-29",
             "tieu_de": "Giá cà phê Gia Lai tuần qua",
-            "noi_dung": "Cả tuần giảm 7.000đ. Cao nhất 77.000 đ/kg (ngày 18/11), thấp nhất 70.000 đ/kg (ngày 25/11)."
+            "noi_dung": "Cả tuần giảm 5.100đ. Cao nhất 74.800 đ/kg (ngày 19/11), thấp nhất 69.700 đ/kg (ngày 26/11)."
           }
         }
       },
@@ -525,28 +525,28 @@
         "ten": "Đắk Nông",
         "don_vi": "đồng/kg · Đắk Nông",
         "doi": {
-          "chu": "▼ Giảm 1.000đ so với hôm qua",
+          "chu": "▼ Giảm 300đ so với hôm qua",
           "mau": "giam"
         },
         "doi_gon": {
-          "chu": "▼ 1.000đ",
+          "chu": "▼ 300đ",
           "mau": "giam"
         },
         "vi_the": {
-          "tu_ngay": "2026-10-27",
-          "den_ngay": "2026-11-25",
+          "tu_ngay": "2026-10-28",
+          "den_ngay": "2026-11-26",
           "cao": 89300,
-          "thap": 70300,
+          "thap": 70000,
           "tieu_de": "Trong 26 ngày có giá gần đây",
           "dong_cao": "Cao nhất 89.300 đ/⁠kg (ngày 28/10)",
-          "dong_thap": "Thấp nhất 70.300 đ/⁠kg (ngày 25/11)",
+          "dong_thap": "Thấp nhất 70.000 đ/⁠kg (ngày 26/11)",
           "nhan_cham": {
-            "2026-11-25": "Hôm nay",
-            "khac": "Ngày 25/11"
+            "2026-11-26": "Hôm nay",
+            "khac": "Ngày 26/11"
           },
           "ket_luan": {
-            "2026-11-25": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
-            "khac": "Giá ngày 25/11 đang là mức THẤP NHẤT trong 26 ngày đó"
+            "2026-11-26": "Giá hôm nay đang là mức THẤP NHẤT trong 26 ngày đó",
+            "khac": "Giá ngày 26/11 đang là mức THẤP NHẤT trong 26 ngày đó"
           }
         },
         "cung_ky": {
@@ -566,43 +566,43 @@
             }
           ],
           "so_sanh": {
-            "chu": "▼ Giá ngày 25/11 thấp hơn cùng kỳ 2025 khoảng 41.700đ/kg (37%)",
+            "chu": "▼ Giá ngày 26/11 thấp hơn cùng kỳ 2025 khoảng 42.000đ/kg (38%)",
             "mau": "giam"
           },
           "ghi_chu": "Giá mỗi năm tính từ các ngày quanh ngày 26/11 (trước và sau 3 ngày), làm tròn 100đ. Nguồn: Bộ Nông nghiệp và Môi trường."
         },
         "chia_se": {
-          "2026-11-25": "Giá cà phê Đắk Nông ngày 25/11/2026\n70.300 đ/kg\n▼ Giảm 1.000đ so với hôm qua",
-          "khac": "Giá cà phê Đắk Nông ngày 25/11/2026\n70.300 đ/kg\n▼ Giảm 1.000đ so với ngày 24/11"
+          "2026-11-26": "Giá cà phê Đắk Nông ngày 26/11/2026\n70.000 đ/kg\n▼ Giảm 300đ so với hôm qua",
+          "khac": "Giá cà phê Đắk Nông ngày 26/11/2026\n70.000 đ/kg\n▼ Giảm 300đ so với ngày 25/11"
         },
         "widget": {
           "vung": {
-            "2026-11-25": "Đắk Nông · giá ngày 25/11",
-            "khac": "Đắk Nông · giá ngày 25/11, chưa cập nhật hôm nay"
+            "2026-11-26": "Đắk Nông · giá ngày 26/11",
+            "khac": "Đắk Nông · giá ngày 26/11, chưa cập nhật hôm nay"
           },
-          "gia": "70.300 đ/kg",
+          "gia": "70.000 đ/kg",
           "doi": {
-            "chu": "▼ Giảm 1.000đ so với hôm qua",
+            "chu": "▼ Giảm 300đ so với hôm qua",
             "mau": "giam"
           }
         },
         "thong_bao": {
           "gia": {
             "tieu_de": "Giá cà phê Đắk Nông hôm nay",
-            "noi_dung": "70.300 đ/kg, giảm 1.000đ so với hôm qua"
+            "noi_dung": "70.000 đ/kg, giảm 300đ so với hôm qua"
           },
           "chua_co_gia": {
             "tieu_de": "Giá cà phê Đắk Nông hôm nay",
-            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 25/11: 70.300 đ/kg"
+            "noi_dung": "Chưa có giá mới. Giá gần nhất ngày 26/11: 70.000 đ/kg"
           },
           "doi_trong_ngay": {
             "tieu_de": "Giá cà phê Đắk Nông vừa thay đổi",
-            "so_hom_qua": "giảm 1.000đ so với hôm qua"
+            "so_hom_qua": "giảm 300đ so với hôm qua"
           },
           "tong_ket_tuan": {
             "ngay": "2026-11-29",
             "tieu_de": "Giá cà phê Đắk Nông tuần qua",
-            "noi_dung": "Cả tuần giảm 6.900đ. Cao nhất 77.200 đ/kg (ngày 18/11), thấp nhất 70.300 đ/kg (ngày 25/11)."
+            "noi_dung": "Cả tuần giảm 5.000đ. Cao nhất 75.000 đ/kg (ngày 19/11), thấp nhất 70.000 đ/kg (ngày 26/11)."
           }
         }
       }
@@ -610,7 +610,7 @@
     "thi_truong": [
       {
         "ten": "Robusta",
-        "phu": "London · USD/⁠tấn\n26/11 · 06:15",
+        "phu": "London · USD/⁠tấn\n26/11 · 10:25",
         "gia": "2.798",
         "doi": {
           "chu": "▼ 0,5%",
@@ -620,40 +620,40 @@
         "gia_san": {
           "san": "robusta",
           "ky_han": "01/27",
-          "ngay_bang": "25/11/2026",
-          "gia_bang": 2813.0,
-          "ngay_moc": "2026-11-25",
-          "doc_luc": "2026-11-26T06:15:18+07:00",
+          "ngay_bang": "26/11/2026",
+          "gia_bang": 2798.0,
+          "ngay_moc": "2026-11-26",
+          "doc_luc": "2026-11-26T10:25:23+07:00",
           "ngay_gia": "2026-11-26",
           "gia": 2798
         }
       },
       {
         "ten": "Arabica",
-        "phu": "New York · USD/⁠tấn\n26/11 · 06:15",
-        "gia": "5.921",
+        "phu": "New York · USD/⁠tấn\n26/11 · 10:25",
+        "gia": "5.952",
         "doi": {
-          "chu": "▲ 2,28%",
+          "chu": "▲ 2,82%",
           "mau": "tang"
         },
         "bieu_do_the_gioi": true,
         "gia_san": {
           "san": "arabica",
           "ky_han": "03/27",
-          "ngay_bang": "25/11/2026",
-          "gia_bang": 5789.0,
-          "ngay_moc": "2026-11-25",
-          "doc_luc": "2026-11-26T06:15:18+07:00",
+          "ngay_bang": "26/11/2026",
+          "gia_bang": 5952.0,
+          "ngay_moc": "2026-11-26",
+          "doc_luc": "2026-11-26T10:25:23+07:00",
           "ngay_gia": "2026-11-26",
-          "gia": 5921
+          "gia": 5952
         }
       },
       {
         "ten": "Giá tiêu",
         "phu": "đ/kg",
-        "gia": "127.000",
+        "gia": "124.000",
         "doi": {
-          "chu": "▼ 1.000đ",
+          "chu": "▼ 3.000đ",
           "mau": "giam"
         },
         "bieu_do_the_gioi": false
@@ -661,11 +661,19 @@
       {
         "ten": "Tỷ giá USD",
         "phu": "đồng",
-        "gia": "25.560",
+        "gia": "25.630",
         "doi": null,
         "bieu_do_the_gioi": false
       }
     ],
+    "chia_se_chung": "\n\nGiá các tỉnh:\n- Đắk Lắk: 69.700 đ/kg\n- Lâm Đồng: 69.200 đ/kg\n- Gia Lai: 69.700 đ/kg\n- Đắk Nông: 70.000 đ/kg\n\nThế giới: Robusta London 2.798 USD/tấn\n\n(Xem trên app Giá cà phê: https://play.google.com/store/apps/details?id=com.lamhoangx.giacaphe)",
+    "gia_cu": {
+      "hom_nay": "Đang hiện giá ngày Thứ Năm, 26/11/2026.",
+      "bieu_do": {
+        "2026-11-26": "Giá ngày 26/11/2026 — chưa cập nhật hôm nay"
+      }
+    },
+    "the_gioi_moi_nhat": "2.798 USD/tấn · Thứ Năm, 26/11/2026",
     "bieu_do_the_gioi": {
       "diem": {
         "robusta": {
@@ -674,18 +682,10 @@
         },
         "arabica": {
           "ngay": "2026-11-26",
-          "gia": 5921
+          "gia": 5952
         }
       },
-      "moi_nhat": "2.798 USD/tấn · Thứ Năm, 26/11/2026 · 06:15"
-    },
-    "chia_se_chung": "\n\nGiá các tỉnh:\n- Đắk Lắk: 70.000 đ/kg\n- Lâm Đồng: 69.500 đ/kg\n- Gia Lai: 70.000 đ/kg\n- Đắk Nông: 70.300 đ/kg\n\nThế giới: Robusta London 2.813 USD/tấn\n\n(Xem trên app Giá cà phê: https://play.google.com/store/apps/details?id=com.lamhoangx.giacaphe)",
-    "gia_cu": {
-      "hom_nay": "Đang hiện giá ngày Thứ Tư, 25/11/2026.",
-      "bieu_do": {
-        "2026-11-25": "Giá ngày 25/11/2026 — chưa cập nhật hôm nay"
-      }
-    },
-    "the_gioi_moi_nhat": "2.813 USD/tấn · Thứ Tư, 25/11/2026"
+      "moi_nhat": "2.798 USD/tấn · Thứ Năm, 26/11/2026 · 10:25"
+    }
   }
 }

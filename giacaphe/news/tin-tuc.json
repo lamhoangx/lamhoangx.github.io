@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T09:50:27+07:00",
+  "generated_at": "2026-11-26T10:25:20+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -9,13 +9,30 @@
       "important": true,
       "items": [
         {
+          "id": "vnb-gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong",
+          "title": "Giá cà phê giảm thêm 1.000 đồng/kg, xuống sát mốc 69.000 đồng",
+          "url": "https://vnbusiness.vn//gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong.html",
+          "source": "VnBusiness",
+          "published_at": "2026-11-26T10:23:30+07:00",
+          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/26/ccb9fb85e3fb4e819116b4fed0dbd7ec-20741.jpg?w=1200&h=630&mode=crop&anchor=top-center",
+          "image_small": "news/anh/d98fab2ca0c2bdc2f1a1.jpg"
+        },
+        {
+          "id": "bm-56602930",
+          "title": "Giá nông sản hôm nay (26/11): Giá cà phê giảm xuống còn 70.500 - 71.300 đồng/kg, hồ tiêu đi ngang",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-26-11-gia-ca-phe-giam-xuong-con-70-500-71-300-dong-kg-ho-tieu-di-ngang-c56602930.epi",
+          "source": "Tạp chí Thương Gia",
+          "published_at": "2026-11-26T10:04:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_341_56602930/d3686038fe73172d4e62.jpg"
+        },
+        {
           "id": "vov-1353194",
           "title": "Giá cà phê hôm nay 26/11: Giá cà phê trung bình ở mức 70.100 đồng/kg",
           "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-2611-gia-ca-phe-trung-binh-o-muc-70100-dongkg-post1353194.vov",
           "source": "VOV",
           "published_at": "2026-11-26T09:41:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/gia-ca-phe-hom-nay-1112_1_9fadd-1.jpg",
-          "image_small": "news/anh/1c76a3e44f99607e093d.jpg"
+          "image_small": "news/anh/4da3370940987ac92256.jpg"
         },
         {
           "id": "dnhn-155157",
@@ -280,10 +297,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "vnb-gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong",
+        "the": "Cà phê",
+        "dong_nguon": "VnBusiness · 10:23",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56602930",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Thương Gia · 10:04",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "vov-1353194",
         "the": "Cà phê",
         "dong_nguon": "VOV · 09:41",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",

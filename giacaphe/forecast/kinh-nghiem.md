@@ -1,44 +1,45 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 26/11/2026 06:15. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 26/11/2026 10:25. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
 ## Trung bình 4 tỉnh
 
-Đã ghi 3 mốc dự đoán, 2 mốc đã có giá thật để chấm.
+Đã ghi 4 mốc dự đoán, 3 mốc đã có giá thật để chấm.
 
 ### Sai số theo tầm dự đoán
 
 | Tầm (ngày) | Số lần | Sai số TB | Đứng yên | Dải 90% phủ |
 |---|---|---|---|---|
-| 1 | 2 | 376 đ | 800 đ | 100% |
-| 2 | 1 | 642 đ | 1.600 đ | 100% |
+| 1 | 3 | 289 đ | 633 đ | 100% |
+| 2 | 2 | 419 đ | 1.450 đ | 100% |
+| 3 | 1 | 435 đ | 1.900 đ | 100% |
 
 ### Lớp xu hướng chậm (ngày 2–7)
 
-Từ `tv-close-gemini-v12` các ngày 2–7 cộng thêm 0,5 × mức đổi trung bình mỗi ngày trên 20 phiên của chính chuỗi giá (từ `tv-close-gemini-v13`: 0,25 khi chuỗi vừa qua phiên sốc). Trên 1 mốc lớp có lên tiếng (1 lần chấm ngày 2–7): sai số TB **642 đ**, nếu bỏ lớp **806 đ**.
-Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 1) rồi mới kết luận.
+Từ `tv-close-gemini-v12` các ngày 2–7 cộng thêm 0,5 × mức đổi trung bình mỗi ngày trên 20 phiên của chính chuỗi giá (từ `tv-close-gemini-v13`: 0,25 khi chuỗi vừa qua phiên sốc). Trên 2 mốc lớp có lên tiếng (3 lần chấm ngày 2–7): sai số TB **424 đ**, nếu bỏ lớp **643 đ**.
+Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 2) rồi mới kết luận.
 
 ### Ngày-1: mô hình so với đứng yên
 
-Trên 2 lần đo: sai số TB **376 đ**, đứng yên **800 đ**, đúng chiều 100%, dải 90% phủ 100%.
-→ Mô hình **đang thắng** mốc đứng yên (−424 đ).
+Trên 3 lần đo: sai số TB **289 đ**, đứng yên **633 đ**, đúng chiều 100%, dải 90% phủ 100%.
+→ Mô hình **đang thắng** mốc đứng yên (−344 đ).
 
 ### Từng lớp giúp hay hại (ngày-1)
 
 | Lớp | Có tiếng nói | Đúng chiều | Nếu bỏ lớp, sai số TB | Kết luận |
 |---|---|---|---|---|
-| truyền dẫn London | 2 | 100% | 800 đ | giúp (+424 đ) |
-| dự đoán sàn London | 0 | — | 376 đ | chưa có tiếng nói |
-| giá sàn đã chạy | 0 | — | 376 đ | chưa có tiếng nói |
-| tín hiệu sàn | 0 | — | 376 đ | chưa có tiếng nói |
-| xu hướng gần | 0 | — | 376 đ | chưa có tiếng nói |
-| AI điều tiết | 0 | — | 376 đ | chưa có tiếng nói |
-| xu hướng và mốc kỹ thuật từ nến | 0 | — | 376 đ | chưa có tiếng nói |
-| cung cầu có dẫn nguồn | 0 | — | 376 đ | chưa có tiếng nói |
-| các yếu tố thị trường đã qua kiểm định | 0 | — | 376 đ | chưa có tiếng nói |
-| tỷ giá và thời tiết địa phương đã qua kiểm định | 0 | — | 376 đ | chưa có tiếng nói |
+| truyền dẫn London | 3 | 100% | 633 đ | giúp (+344 đ) |
+| dự đoán sàn London | 0 | — | 289 đ | chưa có tiếng nói |
+| giá sàn đã chạy | 0 | — | 289 đ | chưa có tiếng nói |
+| tín hiệu sàn | 0 | — | 289 đ | chưa có tiếng nói |
+| xu hướng gần | 0 | — | 289 đ | chưa có tiếng nói |
+| AI điều tiết | 0 | — | 289 đ | chưa có tiếng nói |
+| xu hướng và mốc kỹ thuật từ nến | 0 | — | 289 đ | chưa có tiếng nói |
+| cung cầu có dẫn nguồn | 0 | — | 289 đ | chưa có tiếng nói |
+| các yếu tố thị trường đã qua kiểm định | 0 | — | 289 đ | chưa có tiếng nói |
+| tỷ giá và thời tiết địa phương đã qua kiểm định | 0 | — | 289 đ | chưa có tiếng nói |
 
 ### Lớp đang đo BÓNG (chưa áp vào dự đoán)
 
@@ -48,27 +49,28 @@ Luật chốt trước: cần ≥ 20 mẫu có nhãn khác "đi ngang" (hiện 1
 
 ### Lời đầu: dự đoán lúc giá vừa về, sàn London chưa có phiên mới
 
-Từ `tv-close-gemini-v9` bản này lấy mức sàn DỰ ĐOÁN thay cho "đứng yên vì sàn chưa đi thêm". Trên 1 mốc: sai số TB **838 đ**, đoán đứng yên **1.000 đ**, đúng chiều 100%; lời cuối (sáng hôm sau, sàn đã đi thật) của chính các mốc đó **489 đ**.
-Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 1) rồi mới kết luận.
+Từ `tv-close-gemini-v9` bản này lấy mức sàn DỰ ĐOÁN thay cho "đứng yên vì sàn chưa đi thêm". Trên 2 mốc: sai số TB **494 đ**, đoán đứng yên **650 đ**, đúng chiều 100%; lời cuối (sáng hôm sau, sàn đã đi thật) của chính các mốc đó **301 đ**.
+Luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 2) rồi mới kết luận.
 
 ### Phân loại lỗi ngày-1
 
 - đúng chiều, vừa: 2 lần
+- bỏ lỡ cú đi: 1 lần
 
-Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 2 ngày sàn đi ≥ +0,50%): **0,94**.
+Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú đi của sàn London, trung vị trên 3 ngày sàn đi ≥ +0,50%): **0,89**.
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
-Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 512 so với 512) nhưng chưa vượt ngưỡng cải thiện 3%.
+Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 502 so với 502) nhưng chưa vượt ngưỡng cải thiện 3%.
 
 | beta | Sai số TB nếu dùng |
 |---|---|
-| 0,3 | 579 đ |
-| 0,4 | 540 đ |
-| 0,5 | 512 đ |
-| 0,6 | 521 đ |
-| 0,7 | 544 đ |
-| 0,8 | 573 đ |
+| 0,3 | 570 đ |
+| 0,4 | 530 đ |
+| 0,5 | 502 đ |
+| 0,6 | 510 đ |
+| 0,7 | 531 đ |
+| 0,8 | 559 đ |
 
 ### Năm lỗi lớn nhất và lý do
 
@@ -80,17 +82,21 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
   - Đúng chiều, vừa: giá đi −600 đ, dự đoán −336 đ.
   - Lớp truyền dẫn London đúng chiều (−336 đ), bớt được 336 đ sai số.
   - Giá trong nước chép 0,89 lần cú đi −0,94% của sàn (hệ số truyền dẫn đang dùng 0,5).
+- **26/11/2026** (mốc 25/11/2026), sai 113 đ:
+  - Bỏ lỡ cú đi: giá đi −300 đ, dự đoán −187 đ.
+  - Lớp truyền dẫn London đúng chiều (−187 đ), bớt được 187 đ sai số.
+  - Giá trong nước chép 0,80 lần cú đi −0,53% của sàn (hệ số truyền dẫn đang dùng 0,5).
 
 ## Các chuỗi khác — ngày-1
 
 | Chuỗi | Số lần | Sai số TB | Đứng yên | Đúng chiều | Dải 90% phủ |
 |---|---|---|---|---|---|
-| Đắk Lắk | 2 | 377 đ | 800 đ | 100% | 100% |
-| Lâm Đồng | 2 | 330 đ | 750 đ | 100% | 100% |
-| Gia Lai | 2 | 377 đ | 800 đ | 100% | 100% |
-| Đắk Nông | 2 | 326 đ | 750 đ | 100% | 100% |
+| Đắk Lắk | 3 | 289 đ | 633 đ | 100% | 100% |
+| Lâm Đồng | 3 | 259 đ | 600 đ | 100% | 100% |
+| Gia Lai | 3 | 289 đ | 633 đ | 100% | 100% |
+| Đắk Nông | 3 | 255 đ | 600 đ | 100% | 100% |
 | Robusta London | 3 | 0 USD | 28 USD | 100% | 100% |
-| Arabica New York | 11 | 9 USD | 74 USD | 91% | 100% |
+| Arabica New York | 11 | 12 USD | 77 USD | 91% | 100% |
 
 ## Dự đoán sàn TRƯỚC PHIÊN (lời đầu của hai chuỗi sàn)
 
@@ -99,7 +105,7 @@ Bản dựng lúc bảng sàn vừa sang ngày, phiên tối nay chưa mở: ch�
 | Chuỗi | Số mốc | Trước phiên: sai số TB | Đứng yên | Đúng chiều | Lời cuối |
 |---|---|---|---|---|---|
 | Robusta London | 2 | 24 USD | 28 USD | 100% | 0 USD |
-| Arabica New York | 11 | 75 USD | 74 USD | 46% | 9 USD |
+| Arabica New York | 11 | 78 USD | 77 USD | 46% | 12 USD |
 
 - Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 2) rồi mới kết luận.
 - Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 11) rồi mới kết luận.

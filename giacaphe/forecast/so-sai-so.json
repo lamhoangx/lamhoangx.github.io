@@ -19,6 +19,15 @@
         "gia_du_doan": 70589,
         "gia_neo": 71100,
         "gia_thuc": 70100
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 113,
+        "direction_hit": true,
+        "sai_so_khong_doi": 300,
+        "gia_du_doan": 69913,
+        "gia_neo": 70100,
+        "gia_thuc": 69800
       }
     ],
     "latest.json#daklak": [
@@ -39,6 +48,15 @@
         "gia_du_doan": 70490,
         "gia_neo": 71000,
         "gia_thuc": 70000
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 113,
+        "direction_hit": true,
+        "sai_so_khong_doi": 300,
+        "gia_du_doan": 69813,
+        "gia_neo": 70000,
+        "gia_thuc": 69700
       }
     ],
     "latest.json#lamdong": [
@@ -59,6 +77,15 @@
         "gia_du_doan": 69994,
         "gia_neo": 70500,
         "gia_thuc": 69500
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 115,
+        "direction_hit": true,
+        "sai_so_khong_doi": 300,
+        "gia_du_doan": 69315,
+        "gia_neo": 69500,
+        "gia_thuc": 69200
       }
     ],
     "latest.json#gialai": [
@@ -79,6 +106,15 @@
         "gia_du_doan": 70490,
         "gia_neo": 71000,
         "gia_thuc": 70000
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 113,
+        "direction_hit": true,
+        "sai_so_khong_doi": 300,
+        "gia_du_doan": 69813,
+        "gia_neo": 70000,
+        "gia_thuc": 69700
       }
     ],
     "latest.json#daknong": [
@@ -99,6 +135,15 @@
         "gia_du_doan": 70788,
         "gia_neo": 71300,
         "gia_thuc": 70300
+      },
+      {
+        "date": "2026-11-26",
+        "absolute_error": 113,
+        "direction_hit": true,
+        "sai_so_khong_doi": 300,
+        "gia_du_doan": 70113,
+        "gia_neo": 70300,
+        "gia_thuc": 70000
       }
     ],
     "world.json": [
@@ -262,12 +307,12 @@
       },
       {
         "date": "2026-11-26",
-        "absolute_error": 146,
+        "absolute_error": 177,
         "direction_hit": false,
-        "sai_so_khong_doi": 132,
+        "sai_so_khong_doi": 163,
         "gia_du_doan": 5775,
         "gia_neo": 5789,
-        "gia_thuc": 5921
+        "gia_thuc": 5952
       }
     ]
   }
