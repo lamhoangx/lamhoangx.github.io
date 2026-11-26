@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T12:50:18+07:00",
+  "generated_at": "2026-11-26T13:10:20+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -8,6 +8,14 @@
       "label": "Giá cà phê ngày 26/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56604717",
+          "title": "Điều gì đang kéo giá cà phê Robusta giảm sâu hơn quy luật mùa vụ?",
+          "url": "https://baomoi.com/dieu-gi-dang-keo-gia-ca-phe-robusta-giam-sau-hon-quy-luat-mua-vu-c56604717.epi",
+          "source": "Tạp chí Mekong Asean",
+          "published_at": "2026-11-26T13:01:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_595_56604717/0bc15beec5a52cfb75b4.jpg"
+        },
         {
           "id": "bm-56604146",
           "title": "Giá cà phê hôm nay 26/11/2026: Giảm gần 7% sau một tuần, giá từ 75.000 xuống 70.000 đồng/kg",
@@ -338,10 +346,17 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56604717",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Mekong Asean · 13:01",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56604146",
         "the": "Cà phê",
         "dong_nguon": "Báo Lâm Đồng · 12:33",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
