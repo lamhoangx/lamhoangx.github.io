@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T19:30:23+07:00",
+  "generated_at": "2026-11-26T22:00:11+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
@@ -9,7 +9,7 @@
         {
           "date": "2026-11-26",
           "t_min": 22,
-          "t_max": 23,
+          "t_max": 22,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -19,23 +19,23 @@
         },
         {
           "date": "2026-11-27",
-          "t_min": 22,
-          "t_max": 27,
-          "rain_mm": 2.9,
+          "t_min": 21,
+          "t_max": 28,
+          "rain_mm": 1.2,
           "rain": {
-            "sang": 0.5,
-            "chieu": 2.4,
+            "sang": 0.1,
+            "chieu": 1.1,
             "toi": 0.0
           }
         },
         {
           "date": "2026-11-28",
-          "t_min": 20,
-          "t_max": 25,
-          "rain_mm": 26.5,
+          "t_min": 21,
+          "t_max": 24,
+          "rain_mm": 22.7,
           "rain": {
-            "sang": 13.7,
-            "chieu": 7.2,
+            "sang": 18.6,
+            "chieu": 4.1,
             "toi": 0.0
           }
         }
@@ -57,7 +57,7 @@
               "khac": "Thứ 5"
             },
             "ngay_thang": "26/11",
-            "nhiet_do": "22–23°C",
+            "nhiet_do": "22–22°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -76,10 +76,10 @@
               "khac": "Thứ 6"
             },
             "ngay_thang": "27/11",
-            "nhiet_do": "22–27°C",
+            "nhiet_do": "21–28°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 2,9 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 2,9 mm)",
+            "mua_mm": "cả ngày 1,2 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 1,2 mm)",
             "co_mua": true
           },
           {
@@ -95,10 +95,10 @@
               "khac": "Thứ 7"
             },
             "ngay_thang": "28/11",
-            "nhiet_do": "20–25°C",
+            "nhiet_do": "21–24°C",
             "mua_gon": "Mưa sáng, chiều",
-            "mua_mm": "cả ngày 26,5 mm",
-            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 26,5 mm)",
+            "mua_mm": "cả ngày 22,7 mm",
+            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 22,7 mm)",
             "co_mua": true
           }
         ]
@@ -110,7 +110,7 @@
         {
           "date": "2026-11-26",
           "t_min": 22,
-          "t_max": 23,
+          "t_max": 22,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -121,11 +121,11 @@
         {
           "date": "2026-11-27",
           "t_min": 20,
-          "t_max": 28,
-          "rain_mm": 9.7,
+          "t_max": 29,
+          "rain_mm": 4.1,
           "rain": {
-            "sang": 0.3,
-            "chieu": 9.4,
+            "sang": 0.0,
+            "chieu": 4.1,
             "toi": 0.0
           }
         },
@@ -133,11 +133,11 @@
           "date": "2026-11-28",
           "t_min": 21,
           "t_max": 26,
-          "rain_mm": 14.1,
+          "rain_mm": 13.9,
           "rain": {
-            "sang": 1.0,
-            "chieu": 11.4,
-            "toi": 0.2
+            "sang": 5.9,
+            "chieu": 6.7,
+            "toi": 0.1
           }
         }
       ],
@@ -158,7 +158,7 @@
               "khac": "Thứ 5"
             },
             "ngay_thang": "26/11",
-            "nhiet_do": "22–23°C",
+            "nhiet_do": "22–22°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -177,10 +177,10 @@
               "khac": "Thứ 6"
             },
             "ngay_thang": "27/11",
-            "nhiet_do": "20–28°C",
+            "nhiet_do": "20–29°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 9,7 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 9,7 mm)",
+            "mua_mm": "cả ngày 4,1 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 4,1 mm)",
             "co_mua": true
           },
           {
@@ -198,8 +198,8 @@
             "ngay_thang": "28/11",
             "nhiet_do": "21–26°C",
             "mua_gon": "Mưa sáng, chiều",
-            "mua_mm": "cả ngày 14,1 mm",
-            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 14,1 mm)",
+            "mua_mm": "cả ngày 13,9 mm",
+            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 13,9 mm)",
             "co_mua": true
           }
         ]
@@ -223,10 +223,10 @@
           "date": "2026-11-27",
           "t_min": 20,
           "t_max": 28,
-          "rain_mm": 2.5,
+          "rain_mm": 4.2,
           "rain": {
-            "sang": 0.0,
-            "chieu": 2.5,
+            "sang": 0.6,
+            "chieu": 3.6,
             "toi": 0.0
           }
         },
@@ -234,11 +234,11 @@
           "date": "2026-11-28",
           "t_min": 20,
           "t_max": 25,
-          "rain_mm": 11.9,
+          "rain_mm": 3.8,
           "rain": {
-            "sang": 0.3,
-            "chieu": 2.0,
-            "toi": 9.6
+            "sang": 3.1,
+            "chieu": 0.3,
+            "toi": 0.4
           }
         }
       ],
@@ -280,8 +280,8 @@
             "ngay_thang": "27/11",
             "nhiet_do": "20–28°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 2,5 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 2,5 mm)",
+            "mua_mm": "cả ngày 4,2 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 4,2 mm)",
             "co_mua": true
           },
           {
@@ -298,9 +298,9 @@
             },
             "ngay_thang": "28/11",
             "nhiet_do": "20–25°C",
-            "mua_gon": "Mưa chiều, tối",
-            "mua_mm": "cả ngày 11,9 mm",
-            "mua_day_du": "Có mưa buổi chiều, tối (cả ngày 11,9 mm)",
+            "mua_gon": "Mưa sáng",
+            "mua_mm": "cả ngày 3,8 mm",
+            "mua_day_du": "Có mưa buổi sáng (cả ngày 3,8 mm)",
             "co_mua": true
           }
         ]
@@ -312,7 +312,7 @@
         {
           "date": "2026-11-26",
           "t_min": 20,
-          "t_max": 22,
+          "t_max": 20,
           "rain_mm": 0.0,
           "rain": {
             "sang": 0.0,
@@ -324,22 +324,22 @@
           "date": "2026-11-27",
           "t_min": 19,
           "t_max": 28,
-          "rain_mm": 8.8,
+          "rain_mm": 3.2,
           "rain": {
-            "sang": 0.0,
-            "chieu": 8.8,
+            "sang": 0.1,
+            "chieu": 3.1,
             "toi": 0.0
           }
         },
         {
           "date": "2026-11-28",
           "t_min": 20,
-          "t_max": 22,
-          "rain_mm": 18.3,
+          "t_max": 24,
+          "rain_mm": 17.8,
           "rain": {
-            "sang": 8.9,
-            "chieu": 8.6,
-            "toi": 0.3
+            "sang": 5.8,
+            "chieu": 6.3,
+            "toi": 1.0
           }
         }
       ],
@@ -360,7 +360,7 @@
               "khac": "Thứ 5"
             },
             "ngay_thang": "26/11",
-            "nhiet_do": "20–22°C",
+            "nhiet_do": "20–20°C",
             "mua_gon": "Không mưa",
             "mua_mm": null,
             "mua_day_du": "Không mưa",
@@ -381,8 +381,8 @@
             "ngay_thang": "27/11",
             "nhiet_do": "19–28°C",
             "mua_gon": "Mưa chiều",
-            "mua_mm": "cả ngày 8,8 mm",
-            "mua_day_du": "Có mưa buổi chiều (cả ngày 8,8 mm)",
+            "mua_mm": "cả ngày 3,2 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 3,2 mm)",
             "co_mua": true
           },
           {
@@ -398,10 +398,10 @@
               "khac": "Thứ 7"
             },
             "ngay_thang": "28/11",
-            "nhiet_do": "20–22°C",
-            "mua_gon": "Mưa sáng, chiều",
-            "mua_mm": "cả ngày 18,3 mm",
-            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 18,3 mm)",
+            "nhiet_do": "20–24°C",
+            "mua_gon": "Mưa sáng, chiều, tối",
+            "mua_mm": "cả ngày 17,8 mm",
+            "mua_day_du": "Có mưa buổi sáng, chiều, tối (cả ngày 17,8 mm)",
             "co_mua": true
           }
         ]
