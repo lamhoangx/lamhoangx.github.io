@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T13:10:20+07:00",
+  "generated_at": "2026-11-26T13:35:18+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -261,9 +261,24 @@
       "date": "2026-11-26",
       "groups": [
         {
-          "id": "dt-20261126104947035",
+          "id": "vtv-100261126121851262",
           "label": "",
           "important": true,
+          "items": [
+            {
+              "id": "vtv-100261126121851262",
+              "title": "Số hóa vùng trồng, tăng \"sức khỏe\" đất đai, nâng tầm sầu riêng xuất khẩu",
+              "url": "https://vtv.vn/so-hoa-vung-trong-tang-suc-khoe-dat-dai-nang-tam-sau-rieng-xuat-khau-100261126121851262.htm",
+              "source": "VTV",
+              "published_at": "2026-11-26T13:17:00+07:00",
+              "image": "https://cdn-images.vtv.vn/zoom/600_315/66349b6076cb4dee98746cf1/2026/11/26/so-hoa-vung-trong--nang-tam-sau-rieng-77057840325032917568933-53176738771533583902190.png"
+            }
+          ]
+        },
+        {
+          "id": "dt-20261126104947035",
+          "label": "",
+          "important": false,
           "items": [
             {
               "id": "dt-20261126104947035",
@@ -344,6 +359,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "vtv-100261126121851262",
+        "the": null,
+        "dong_nguon": "VTV · 13:17",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "bm-56604717",
