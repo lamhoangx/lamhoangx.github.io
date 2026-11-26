@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T07:55:23+07:00",
+  "generated_at": "2026-11-26T08:20:31+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -15,6 +15,14 @@
           "source": "Báo Quân Đội Nhân Dân",
           "published_at": "2026-11-26T07:42:00+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_16_56601792/abad0d594812a14cf803.jpg"
+        },
+        {
+          "id": "gdm-101181",
+          "title": "Giá cà phê hôm nay 26/11/2026: Thị trường trong nước giảm mạnh",
+          "url": "https://giadinhmoi.vn/gia-ca-phe-hom-nay-26-11-2026-thi-truong-trong-nuoc-giam-manh-d101181.html",
+          "source": "Gia đình Mới",
+          "published_at": "2026-11-26T07:51:00+07:00",
+          "image": ""
         },
         {
           "id": "vnbiz-20261126733381",
@@ -135,6 +143,21 @@
       "date": "2026-11-26",
       "groups": [
         {
+          "id": "bm-56601900",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56601900",
+              "title": "Chuyển đổi xanh để phát triển bền vững ngành hàng sầu riêng",
+              "url": "https://baomoi.com/chuyen-doi-xanh-de-phat-trien-ben-vung-nganh-hang-sau-rieng-c56601900.epi",
+              "source": "Đại Biểu Nhân Dân",
+              "published_at": "2026-11-26T08:06:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_592_56601900/32acfce062ab8bf5d2ba.jpg"
+            }
+          ]
+        },
+        {
           "id": "gia-sau-rieng-2026-11-26",
           "label": "Giá sầu riêng ngày 26/11",
           "important": false,
@@ -170,6 +193,20 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56601900",
+        "the": null,
+        "dong_nguon": "Đại Biểu Nhân Dân · 08:06",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "gdm-101181",
+        "the": "Cà phê",
+        "dong_nguon": "Gia đình Mới · 07:51",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "bm-56601792",
