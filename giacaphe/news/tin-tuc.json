@@ -1,24 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T18:50:19+07:00",
+  "generated_at": "2026-11-26T19:10:20+07:00",
   "date": "2026-11-26",
   "groups": [
-    {
-      "id": "tt-100261126084317879",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "tt-100261126084317879",
-          "title": "Để Robusta Việt được thế giới nhìn nhận và gọi tên",
-          "url": "https://tuoitre.vn/de-robusta-viet-duoc-the-gioi-nhin-nhan-va-goi-ten-100261126084317879.htm",
-          "source": "Tuổi Trẻ",
-          "published_at": "2026-11-26T16:58:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/2aoborfenkgnehhsewfforepxztadjd6provinty-1795657299258874402258-107-0-1707-2560-crop-1795657303592140202415.jpg",
-          "image_small": "news/anh/01f507c4e3ed35b31ce8.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-26",
       "label": "Giá cà phê ngày 26/11",
@@ -31,6 +15,14 @@
           "source": "Báo Chính Phủ",
           "published_at": "2026-11-26T16:25:00+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_146_56606895/0f6bcd685323ba7de332.jpg"
+        },
+        {
+          "id": "gdm-101216",
+          "title": "Giá cà phê tươi rớt còn 15.000 đồng/kg, nông dân mất 25-30% doanh thu dù được mùa",
+          "url": "https://giadinhmoi.vn/gia-ca-phe-tuoi-rot-con-15000-dong-kg-nong-dan-mat-25-30-doanh-thu-du-duoc-mua-d101216.html",
+          "source": "Gia đình Mới",
+          "published_at": "2026-11-26T17:49:03+07:00",
+          "image": ""
         },
         {
           "id": "bm-56605461",
@@ -191,6 +183,22 @@
           "published_at": "2026-11-26T04:15:01+07:00",
           "image": "https://daknong.1cdn.vn/2026/11/24/dsc_1363.jpg",
           "image_small": "news/anh/9572927ceaed66c90129.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tt-100261126084317879",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261126084317879",
+          "title": "Để Robusta Việt được thế giới nhìn nhận và gọi tên",
+          "url": "https://tuoitre.vn/de-robusta-viet-duoc-the-gioi-nhin-nhan-va-goi-ten-100261126084317879.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-26T16:58:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/2aoborfenkgnehhsewfforepxztadjd6provinty-1795657299258874402258-107-0-1707-2560-crop-1795657303592140202415.jpg",
+          "image_small": "news/anh/01f507c4e3ed35b31ce8.jpg"
         }
       ]
     },
@@ -450,6 +458,13 @@
         "id": "bm-56607760",
         "the": null,
         "dong_nguon": "Báo Xây Dựng · 18:21",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "gdm-101216",
+        "the": "Cà phê",
+        "dong_nguon": "Gia đình Mới · 17:49",
         "noi_bat": false
       },
       {
