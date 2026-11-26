@@ -1,13 +1,45 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T14:50:21+07:00",
+  "generated_at": "2026-11-26T17:01:01+07:00",
   "date": "2026-11-26",
   "groups": [
+    {
+      "id": "tt-100261126084317879",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261126084317879",
+          "title": "Để Robusta Việt được thế giới nhìn nhận và gọi tên",
+          "url": "https://tuoitre.vn/de-robusta-viet-duoc-the-gioi-nhin-nhan-va-goi-ten-100261126084317879.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-26T16:58:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/2aoborfenkgnehhsewfforepxztadjd6provinty-1795657299258874402258-107-0-1707-2560-crop-1795657303592140202415.jpg",
+          "image_small": "news/anh/01f507c4e3ed35b31ce8.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-26",
       "label": "Giá cà phê ngày 26/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56606895",
+          "title": "Sự thật đằng sau cú lao dốc của giá cà phê",
+          "url": "https://baomoi.com/su-that-dang-sau-cu-lao-doc-cua-gia-ca-phe-c56606895.epi",
+          "source": "Báo Chính Phủ",
+          "published_at": "2026-11-26T16:25:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_146_56606895/0f6bcd685323ba7de332.jpg"
+        },
+        {
+          "id": "bm-56605461",
+          "title": "Thị trường hàng hóa: 'Sự thật' đằng sau cú lao dốc của giá cà phê",
+          "url": "https://baomoi.com/thi-truong-hang-hoa-su-that-dang-sau-cu-lao-doc-cua-gia-ca-phe-c56605461.epi",
+          "source": "Báo Thời Báo Ngân Hàng",
+          "published_at": "2026-11-26T15:00:37+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_59_56605461/50604951d71a3e44670b.jpg"
+        },
         {
           "id": "bm-56604717",
           "title": "Điều gì đang kéo giá cà phê Robusta giảm sâu hơn quy luật mùa vụ?",
@@ -165,7 +197,7 @@
     {
       "id": "vnbiz-2026112611132493",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "vnbiz-2026112611132493",
@@ -277,9 +309,24 @@
       "date": "2026-11-26",
       "groups": [
         {
-          "id": "bm-56605244",
+          "id": "bm-56606006",
           "label": "",
           "important": true,
+          "items": [
+            {
+              "id": "bm-56606006",
+              "title": "Sau cơn sốt xuất khẩu, sầu riêng vào cuộc đua chất lượng",
+              "url": "https://baomoi.com/sau-con-sot-xuat-khau-sau-rieng-vao-cuoc-dua-chat-luong-c56606006.epi",
+              "source": "Báo Thời Báo Ngân Hàng",
+              "published_at": "2026-11-26T15:31:35+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_59_56606006/f89353abcde024be7df1.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bm-56605244",
+          "label": "",
+          "important": false,
           "items": [
             {
               "id": "bm-56605244",
@@ -384,6 +431,34 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "tt-100261126084317879",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 16:58",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56606895",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Chính Phủ · 16:25",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56606006",
+        "the": null,
+        "dong_nguon": "Báo Thời Báo Ngân Hàng · 15:31",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56605461",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Thời Báo Ngân Hàng · 15:00",
+        "noi_bat": false
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "bm-56605244",
         "the": null,
@@ -395,14 +470,14 @@
         "id": "vtv-100261126121851262",
         "the": null,
         "dong_nguon": "VTV · 13:17",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
         "id": "bm-56604717",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Mekong Asean · 13:01",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -423,14 +498,14 @@
         "id": "thcl-295635",
         "the": null,
         "dong_nguon": "Thương hiệu và Công luận · 11:16",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
         "id": "vnbiz-2026112611132493",
         "the": null,
         "dong_nguon": "VietnamBiz · 11:01",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
