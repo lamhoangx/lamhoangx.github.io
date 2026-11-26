@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T07:30:33+07:00",
+  "generated_at": "2026-11-26T07:55:23+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -8,6 +8,23 @@
       "label": "Giá cà phê ngày 26/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56601792",
+          "title": "Bản tin nông sản hôm nay (26-11): Giá cà phê tiếp tục giảm",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-26-11-gia-ca-phe-tiep-tuc-giam-c56601792.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-26T07:42:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_16_56601792/abad0d594812a14cf803.jpg"
+        },
+        {
+          "id": "vnbiz-20261126733381",
+          "title": "Giá cà phê hôm nay 26/11: Diễn biến trái chiều trên hai sàn giao dịch",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2611-dien-bien-trai-chieu-tren-hai-san-giao-dich-20261126733381.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-26T07:33:31+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/26/gia-ca-phe-26-11-2026112607311866-avatar-15x10-20261126073337660.jpg",
+          "image_small": "news/anh/e31fef25a4b449ca1636.jpg"
+        },
         {
           "id": "bm-56601615",
           "title": "Giá cà phê hôm nay 26/11: Trong nước vẫn giảm, thị trường chưa hết áp lực",
@@ -43,11 +60,11 @@
         },
         {
           "id": "tbtc-207518",
-          "title": "Ngày 26 11 Giá cà phê chưa dứt đà giảm hồ tiêu giữ vững mốc 132 000 đồng kg",
+          "title": "Ngày 26/11: Giá cà phê chưa dứt đà giảm, hồ tiêu giữ vững mốc 132.000 đồng/kg",
           "url": "https://thoibaotaichinhvietnam.vn/ngay-26-11-gia-ca-phe-chua-dut-da-giam-ho-tieu-giu-vung-moc-132-000-dong-kg-207518.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-26T06:32:12+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_578_56601661/b9ebaba935e2dcbc85f3.jpg"
         },
         {
           "id": "thcl-295621",
@@ -123,6 +140,15 @@
           "important": false,
           "items": [
             {
+              "id": "dnhn-155151",
+              "title": "Giá sầu riêng hôm nay 26 11 Sầu riêng Black Thorn miền Tây tăng giá mạnh",
+              "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2611-sau-rieng-black-thorn-mien-tay-tang-gia-manh-155151.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-26T07:30:15+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/26/06/in_social/anh-sau-rieng-lua-gao-heo-hoi20261126062416.png",
+              "image_small": "news/anh/870290c64f763e8e9316.jpg"
+            },
+            {
               "id": "thcl-295627",
               "title": "Giá sầu riêng hôm nay 26/11: Black Thorn tăng mạnh",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-26-11-black-thorn-tang-manh-a295627.html",
@@ -146,10 +172,31 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56601792",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 07:42",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-20261126733381",
+        "the": "Cà phê",
+        "dong_nguon": "VietnamBiz · 07:33",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "dnhn-155151",
+        "the": "Sầu riêng",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56601615",
         "the": "Cà phê",
         "dong_nguon": "Báo Lào Cai · 07:19",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -163,7 +210,7 @@
         "id": "bvh-gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai",
         "the": "Hồ tiêu",
         "dong_nguon": "Báo Văn hóa · 06:48",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
