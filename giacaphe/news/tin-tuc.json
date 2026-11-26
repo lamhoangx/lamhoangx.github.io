@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T12:05:49+07:00",
+  "generated_at": "2026-11-26T12:50:18+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -9,13 +9,21 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56604146",
+          "title": "Giá cà phê hôm nay 26/11/2026: Giảm gần 7% sau một tuần, giá từ 75.000 xuống 70.000 đồng/kg",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-26-11-2026-giam-gan-7-sau-mot-tuan-gia-tu-75-000-xuong-70-000-dong-kg-c56604146.epi",
+          "source": "Báo Lâm Đồng",
+          "published_at": "2026-11-26T12:33:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_439_56604146/28d2353e7c75952bcc64.jpg"
+        },
+        {
           "id": "vnb-gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong",
           "title": "Giá cà phê giảm thêm 1.000 đồng/kg, xuống sát mốc 69.000 đồng",
           "url": "https://vnbusiness.vn//gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong.html",
           "source": "VnBusiness",
           "published_at": "2026-11-26T10:23:30+07:00",
           "image": "https://media.vnbusiness.vn/files/uploads/2026/11/26/ccb9fb85e3fb4e819116b4fed0dbd7ec-20741.jpg?w=1200&h=630&mode=crop&anchor=top-center",
-          "image_small": "news/anh/d98fab2ca0c2bdc2f1a1.jpg"
+          "image_small": "news/anh/e07547354f591646b83e.jpg"
         },
         {
           "id": "bm-56602930",
@@ -329,6 +337,13 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56604146",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lâm Đồng · 12:33",
+        "noi_bat": true
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "dt-20261126104947035",
         "the": null,
@@ -347,7 +362,7 @@
         "id": "vnb-gia-ca-phe-giam-them-1000-dongkg-xuong-sat-moc-69000-dong",
         "the": "Cà phê",
         "dong_nguon": "VnBusiness · 10:23",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -368,7 +383,7 @@
         "id": "dnhn-155097",
         "the": null,
         "dong_nguon": "Doanh nghiệp và Hội nhập · 09:10",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
