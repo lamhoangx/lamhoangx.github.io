@@ -1,25 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T22:00:11+07:00",
+  "generated_at": "2026-11-27T05:40:11+07:00",
   "source": "MET Norway",
   "regions": {
     "daklak": {
       "place": "Buôn Ma Thuột",
       "days": [
         {
-          "date": "2026-11-26",
-          "t_min": 22,
-          "t_max": 22,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
-        {
           "date": "2026-11-27",
-          "t_min": 21,
+          "t_min": 22,
           "t_max": 28,
           "rain_mm": 1.2,
           "rain": {
@@ -38,31 +27,23 @@
             "chieu": 4.1,
             "toi": 0.0
           }
+        },
+        {
+          "date": "2026-11-29",
+          "t_min": 20,
+          "t_max": 27,
+          "rain_mm": 1.0,
+          "rain": {
+            "sang": 0.0,
+            "chieu": 0.9,
+            "toi": 0.1
+          }
         }
       ],
       "hien_thi": {
         "tieu_de": "Thời tiết 3 ngày · Buôn Ma Thuột",
         "nguon": "Nguồn: Viện Khí tượng Na Uy (MET Norway)",
         "ngay": [
-          {
-            "ngay": "2026-11-26",
-            "nhan": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5, 26/11"
-            },
-            "ten": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5"
-            },
-            "ngay_thang": "26/11",
-            "nhiet_do": "22–22°C",
-            "mua_gon": "Không mưa",
-            "mua_mm": null,
-            "mua_day_du": "Không mưa",
-            "co_mua": false
-          },
           {
             "ngay": "2026-11-27",
             "nhan": {
@@ -76,7 +57,7 @@
               "khac": "Thứ 6"
             },
             "ngay_thang": "27/11",
-            "nhiet_do": "21–28°C",
+            "nhiet_do": "22–28°C",
             "mua_gon": "Mưa chiều",
             "mua_mm": "cả ngày 1,2 mm",
             "mua_day_du": "Có mưa buổi chiều (cả ngày 1,2 mm)",
@@ -100,6 +81,25 @@
             "mua_mm": "cả ngày 22,7 mm",
             "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 22,7 mm)",
             "co_mua": true
+          },
+          {
+            "ngay": "2026-11-29",
+            "nhan": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật, 29/11"
+            },
+            "ten": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật"
+            },
+            "ngay_thang": "29/11",
+            "nhiet_do": "20–27°C",
+            "mua_gon": "Có thể mưa nhỏ",
+            "mua_mm": null,
+            "mua_day_du": "Có thể mưa nhỏ (dưới 1 mm)",
+            "co_mua": true
           }
         ]
       }
@@ -107,17 +107,6 @@
     "daknong": {
       "place": "Gia Nghĩa",
       "days": [
-        {
-          "date": "2026-11-26",
-          "t_min": 22,
-          "t_max": 22,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
         {
           "date": "2026-11-27",
           "t_min": 20,
@@ -139,31 +128,23 @@
             "chieu": 6.7,
             "toi": 0.1
           }
+        },
+        {
+          "date": "2026-11-29",
+          "t_min": 20,
+          "t_max": 28,
+          "rain_mm": 9.1,
+          "rain": {
+            "sang": 0.0,
+            "chieu": 8.9,
+            "toi": 0.2
+          }
         }
       ],
       "hien_thi": {
         "tieu_de": "Thời tiết 3 ngày · Gia Nghĩa",
         "nguon": "Nguồn: Viện Khí tượng Na Uy (MET Norway)",
         "ngay": [
-          {
-            "ngay": "2026-11-26",
-            "nhan": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5, 26/11"
-            },
-            "ten": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5"
-            },
-            "ngay_thang": "26/11",
-            "nhiet_do": "22–22°C",
-            "mua_gon": "Không mưa",
-            "mua_mm": null,
-            "mua_day_du": "Không mưa",
-            "co_mua": false
-          },
           {
             "ngay": "2026-11-27",
             "nhan": {
@@ -201,6 +182,25 @@
             "mua_mm": "cả ngày 13,9 mm",
             "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 13,9 mm)",
             "co_mua": true
+          },
+          {
+            "ngay": "2026-11-29",
+            "nhan": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật, 29/11"
+            },
+            "ten": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật"
+            },
+            "ngay_thang": "29/11",
+            "nhiet_do": "20–28°C",
+            "mua_gon": "Mưa chiều",
+            "mua_mm": "cả ngày 9,1 mm",
+            "mua_day_du": "Có mưa buổi chiều (cả ngày 9,1 mm)",
+            "co_mua": true
           }
         ]
       }
@@ -208,17 +208,6 @@
     "gialai": {
       "place": "Pleiku",
       "days": [
-        {
-          "date": "2026-11-26",
-          "t_min": 20,
-          "t_max": 21,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
         {
           "date": "2026-11-27",
           "t_min": 20,
@@ -240,31 +229,23 @@
             "chieu": 0.3,
             "toi": 0.4
           }
+        },
+        {
+          "date": "2026-11-29",
+          "t_min": 20,
+          "t_max": 21,
+          "rain_mm": 70.4,
+          "rain": {
+            "sang": 51.8,
+            "chieu": 8.8,
+            "toi": 0.3
+          }
         }
       ],
       "hien_thi": {
         "tieu_de": "Thời tiết 3 ngày · Pleiku",
         "nguon": "Nguồn: Viện Khí tượng Na Uy (MET Norway)",
         "ngay": [
-          {
-            "ngay": "2026-11-26",
-            "nhan": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5, 26/11"
-            },
-            "ten": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5"
-            },
-            "ngay_thang": "26/11",
-            "nhiet_do": "20–21°C",
-            "mua_gon": "Không mưa",
-            "mua_mm": null,
-            "mua_day_du": "Không mưa",
-            "co_mua": false
-          },
           {
             "ngay": "2026-11-27",
             "nhan": {
@@ -302,6 +283,25 @@
             "mua_mm": "cả ngày 3,8 mm",
             "mua_day_du": "Có mưa buổi sáng (cả ngày 3,8 mm)",
             "co_mua": true
+          },
+          {
+            "ngay": "2026-11-29",
+            "nhan": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật, 29/11"
+            },
+            "ten": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật"
+            },
+            "ngay_thang": "29/11",
+            "nhiet_do": "20–21°C",
+            "mua_gon": "Mưa sáng, chiều",
+            "mua_mm": "cả ngày 70,4 mm",
+            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 70,4 mm)",
+            "co_mua": true
           }
         ]
       }
@@ -309,17 +309,6 @@
     "lamdong": {
       "place": "Bảo Lộc",
       "days": [
-        {
-          "date": "2026-11-26",
-          "t_min": 20,
-          "t_max": 20,
-          "rain_mm": 0.0,
-          "rain": {
-            "sang": 0.0,
-            "chieu": 0.0,
-            "toi": 0.0
-          }
-        },
         {
           "date": "2026-11-27",
           "t_min": 19,
@@ -341,31 +330,23 @@
             "chieu": 6.3,
             "toi": 1.0
           }
+        },
+        {
+          "date": "2026-11-29",
+          "t_min": 19,
+          "t_max": 27,
+          "rain_mm": 16.2,
+          "rain": {
+            "sang": 2.3,
+            "chieu": 13.9,
+            "toi": 0.0
+          }
         }
       ],
       "hien_thi": {
         "tieu_de": "Thời tiết 3 ngày · Bảo Lộc",
         "nguon": "Nguồn: Viện Khí tượng Na Uy (MET Norway)",
         "ngay": [
-          {
-            "ngay": "2026-11-26",
-            "nhan": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5, 26/11"
-            },
-            "ten": {
-              "2026-11-26": "Hôm nay",
-              "2026-11-25": "Ngày mai",
-              "khac": "Thứ 5"
-            },
-            "ngay_thang": "26/11",
-            "nhiet_do": "20–20°C",
-            "mua_gon": "Không mưa",
-            "mua_mm": null,
-            "mua_day_du": "Không mưa",
-            "co_mua": false
-          },
           {
             "ngay": "2026-11-27",
             "nhan": {
@@ -402,6 +383,25 @@
             "mua_gon": "Mưa sáng, chiều, tối",
             "mua_mm": "cả ngày 17,8 mm",
             "mua_day_du": "Có mưa buổi sáng, chiều, tối (cả ngày 17,8 mm)",
+            "co_mua": true
+          },
+          {
+            "ngay": "2026-11-29",
+            "nhan": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật, 29/11"
+            },
+            "ten": {
+              "2026-11-29": "Hôm nay",
+              "2026-11-28": "Ngày mai",
+              "khac": "Chủ Nhật"
+            },
+            "ngay_thang": "29/11",
+            "nhiet_do": "19–27°C",
+            "mua_gon": "Mưa sáng, chiều",
+            "mua_mm": "cả ngày 16,2 mm",
+            "mua_day_du": "Có mưa buổi sáng, chiều (cả ngày 16,2 mm)",
             "co_mua": true
           }
         ]
