@@ -1,20 +1,46 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T08:20:31+07:00",
+  "generated_at": "2026-11-26T08:45:21+07:00",
   "date": "2026-11-26",
   "groups": [
+    {
+      "id": "bgl-606010",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bgl-606010",
+          "title": "Đoàn doanh nghiệp Pháp thăm thực tế vùng trồng và nhà máy chế biến cà phê của Vĩnh Hiệp",
+          "url": "https://baogialai.com.vn/doan-doanh-nghiep-phap-tham-thuc-te-vung-trong-va-nha-may-che-bien-ca-phe-cua-vinh-hiep-post606010.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-26T08:36:39+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgDSqyHm8X95uowJB5bOomQ0MPD2Y9yjgFSUcAvcSXq-0Yp8Z9IVFzKgDoDtzZSoF1Rd9IFYLYJIHRO6NlxsOt26W7hWQyMkcwnRT32kuLYCkWlgYs0Znh-PxOjNdN7YXoJPFKeOzrNTVMJHXy4cXn5A/doan-doanh-nghiep-phap-tham-thuc-te-vung-trong-va-nha-may-che-bien-ca-phe-cua-vinh-hiep.jpg",
+          "image_small": "news/anh/334dc65fb98e378c0455.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-26",
       "label": "Giá cà phê ngày 26/11",
       "important": true,
       "items": [
         {
-          "id": "bm-56601792",
-          "title": "Bản tin nông sản hôm nay (26-11): Giá cà phê tiếp tục giảm",
-          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-26-11-gia-ca-phe-tiep-tuc-giam-c56601792.epi",
-          "source": "Báo Quân Đội Nhân Dân",
-          "published_at": "2026-11-26T07:42:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_16_56601792/abad0d594812a14cf803.jpg"
+          "id": "bgl-606048",
+          "title": "Giá nông sản hôm nay (26-11): Cà phê chững giá, hồ tiêu giảm thêm 1.000 đồng/kg",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-26-11-ca-phe-chung-gia-ho-tieu-giam-them-1000-dongkg-post606048.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-26T08:30:00+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgNV8sZcwlrEIboJVB_qLnbIwAHxDi4bIPyJIcbQ-eYodhrhubTd564kbbv8zAdqEKbJ0Nxk9NysPpAPJSUypj6E/gia-nong-san-ca-phe-va-tieu-hom-nay.png",
+          "image_small": "news/anh/de30e6476e3be32e3dfb.jpg"
+        },
+        {
+          "id": "dt-20261126075639658",
+          "title": "Giá cà phê xuống dưới 70.000 đồng/kg, người trồng cân nhắc bán hay giữ",
+          "url": "https://dantri.com.vn/kinh-doanh/gia-ca-phe-xuong-duoi-70000-dongkg-nguoi-trong-can-nhac-ban-hay-giu-20261126075639658.htm",
+          "source": "Dân trí",
+          "published_at": "2026-11-26T08:08:58+07:00",
+          "image": "https://cdnphoto.dantri.com.vn/qhYlJUAVpSnLa_mbCzGAijdRo24=/2026/11/24/img9191-1795487457788.jpg",
+          "image_small": "news/anh/4491342c5b8a7d19ad05.jpg"
         },
         {
           "id": "gdm-101181",
@@ -23,6 +49,14 @@
           "source": "Gia đình Mới",
           "published_at": "2026-11-26T07:51:00+07:00",
           "image": ""
+        },
+        {
+          "id": "bm-56601792",
+          "title": "Bản tin nông sản hôm nay (26-11): Giá cà phê tiếp tục giảm",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-26-11-gia-ca-phe-tiep-tuc-giam-c56601792.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-26T07:42:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_26_16_56601792/abad0d594812a14cf803.jpg"
         },
         {
           "id": "vnbiz-20261126733381",
@@ -113,8 +147,17 @@
         {
           "id": "gia-ho-tieu-2026-11-26",
           "label": "Giá hồ tiêu ngày 26/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "dnhn-155104",
+              "title": "Giá tiêu hôm nay 26 11 2026 Tiêu trong nước tiếp tục giảm rời mốc 130 000 đồng kg",
+              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-26112026-tieu-trong-nuoc-tiep-tuc-giam-roi-moc-130000-dongkg-155104.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-26T08:31:31+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/6220261115225846.jpg",
+              "image_small": "news/anh/04e8ff60bf3f2509005d.jpg"
+            },
             {
               "id": "bvh-gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai",
               "title": "Giá hồ tiêu hôm nay 26.11.2026: Sau hai phiên giảm, lực mua có trở lại?",
@@ -122,7 +165,7 @@
               "source": "Báo Văn hóa",
               "published_at": "2026-11-26T06:48:50+07:00",
               "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/25/01a21343-5fee-7886-9680-04a58be8edb1.jpg",
-              "image_small": "news/anh/313155f364337bc51937.jpg"
+              "image_small": "news/anh/e091193a101895e4f245.jpg"
             },
             {
               "id": "thcl-295620",
@@ -194,6 +237,34 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bgl-606010",
+        "the": null,
+        "dong_nguon": "Báo Gia Lai · 08:36",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "dnhn-155104",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 08:31",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bgl-606048",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Gia Lai · 08:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "dt-20261126075639658",
+        "the": "Cà phê",
+        "dong_nguon": "Dân trí · 08:08",
+        "noi_bat": false
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "bm-56601900",
         "the": null,
@@ -212,7 +283,7 @@
         "id": "bm-56601792",
         "the": "Cà phê",
         "dong_nguon": "Báo Quân Đội Nhân Dân · 07:42",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -226,7 +297,7 @@
         "id": "dnhn-155151",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -247,7 +318,7 @@
         "id": "bvh-gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai",
         "the": "Hồ tiêu",
         "dong_nguon": "Báo Văn hóa · 06:48",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
