@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T11:41:28+07:00",
+  "generated_at": "2026-11-26T12:05:49+07:00",
   "date": "2026-11-26",
   "groups": [
     {
@@ -245,9 +245,25 @@
       "date": "2026-11-26",
       "groups": [
         {
-          "id": "thcl-295635",
+          "id": "dt-20261126104947035",
           "label": "",
           "important": true,
+          "items": [
+            {
+              "id": "dt-20261126104947035",
+              "title": "Giá hàng A giảm, lợi nhuận mỗi ha sầu riêng còn 369 triệu đồng",
+              "url": "https://dantri.com.vn/kinh-doanh/gia-hang-a-giam-loi-nhuan-moi-ha-sau-rieng-con-369-trieu-dong-20261126104947035.htm",
+              "source": "Dân trí",
+              "published_at": "2026-11-26T11:23:33+07:00",
+              "image": "https://cdnphoto.dantri.com.vn/cq9Ega6QWb9RDNd_L51UCqIgqt4=/2026/11/25/anh-1-1908-1795600992097.jpg",
+              "image_small": "news/anh/3bba23a3c29b71b428f8.jpg"
+            }
+          ]
+        },
+        {
+          "id": "thcl-295635",
+          "label": "",
+          "important": false,
           "items": [
             {
               "id": "thcl-295635",
@@ -312,6 +328,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "dt-20261126104947035",
+        "the": null,
+        "dong_nguon": "Dân trí · 11:23",
+        "noi_bat": false
+      },
       {
         "chu_de": "sau-rieng",
         "id": "thcl-295635",
