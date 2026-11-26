@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T09:10:22+07:00",
+  "generated_at": "2026-11-26T09:30:23+07:00",
   "date": "2026-11-26",
   "groups": [
+    {
+      "id": "dnhn-155097",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "dnhn-155097",
+          "title": "Thị trường nguyên liệu công nghiệp 26 11 2026 Giá đường và cà phê đồng loạt tăng nhờ lo ngại nguồn cung",
+          "url": "https://doanhnghiephoinhap.vn/thi-truong-nguyen-lieu-cong-nghiep-26112026-gia-duong-va-ca-phe-dong-loat-tang-nho-lo-ngai-nguon-cung-155097.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-26T09:10:19+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/11/in_social/8820261123113634.jpg",
+          "image_small": "news/anh/c6bbe771465b8b18e8ea.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-26",
       "label": "Giá cà phê ngày 26/11",
@@ -132,7 +148,7 @@
     {
       "id": "bgl-606010",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "bgl-606010",
@@ -174,6 +190,15 @@
               "source": "Gia đình Mới",
               "published_at": "2026-11-26T08:43:07+07:00",
               "image": ""
+            },
+            {
+              "id": "vnbiz-202611268637170",
+              "title": "Giá tiêu hôm nay 26/11: Tiếp tục đi xuống, mỗi địa phương giảm thêm 1.000 đồng/kg",
+              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2611-tiep-tuc-di-xuong-moi-dia-phuong-giam-them-1000-dongkg-202611268637170.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-26T08:06:30+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/26/gia-tieu-26-11-20261126080456625-avatar-15x10-20261126080636610.jpg",
+              "image_small": "news/anh/9b6e4f090eb0722f7717.jpg"
             },
             {
               "id": "bvh-gia-ho-tieu-hom-nay-26-11-2026-sau-hai-phien-giam-luc-mua-co-tro-lai",
@@ -255,6 +280,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "dnhn-155097",
+        "the": null,
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 09:10",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "dnhn-155157",
         "the": "Cà phê",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 09:02",
@@ -293,6 +325,13 @@
         "id": "dt-20261126075639658",
         "the": "Cà phê",
         "dong_nguon": "Dân trí · 08:08",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "vnbiz-202611268637170",
+        "the": "Hồ tiêu",
+        "dong_nguon": "VietnamBiz · 08:06",
         "noi_bat": false
       },
       {
