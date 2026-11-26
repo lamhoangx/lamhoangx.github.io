@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 26/11/2026 22:00. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 27/11/2026 05:50. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -95,8 +95,8 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 | Lâm Đồng | 3 | 259 đ | 600 đ | 100% | 100% |
 | Gia Lai | 3 | 289 đ | 633 đ | 100% | 100% |
 | Đắk Nông | 3 | 255 đ | 600 đ | 100% | 100% |
-| Robusta London | 3 | 0 USD | 28 USD | 100% | 100% |
-| Arabica New York | 11 | 12 USD | 77 USD | 91% | 100% |
+| Robusta London | 4 | 0 USD | 36 USD | 100% | 100% |
+| Arabica New York | 12 | 11 USD | 70 USD | 92% | 100% |
 
 ## Dự đoán sàn TRƯỚC PHIÊN (lời đầu của hai chuỗi sàn)
 
@@ -104,11 +104,11 @@ Bản dựng lúc bảng sàn vừa sang ngày, phiên tối nay chưa mở: ch�
 
 | Chuỗi | Số mốc | Trước phiên: sai số TB | Đứng yên | Đúng chiều | Lời cuối |
 |---|---|---|---|---|---|
-| Robusta London | 2 | 24 USD | 28 USD | 100% | 0 USD |
-| Arabica New York | 11 | 78 USD | 77 USD | 46% | 12 USD |
+| Robusta London | 3 | 43 USD | 38 USD | 67% | 0 USD |
+| Arabica New York | 12 | 72 USD | 70 USD | 42% | 11 USD |
 
-- Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 2) rồi mới kết luận.
-- Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 11) rồi mới kết luận.
+- Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 3) rồi mới kết luận.
+- Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 12) rồi mới kết luận.
 
 ## Cách đọc
 

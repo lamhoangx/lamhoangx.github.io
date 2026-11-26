@@ -1,6 +1,6 @@
 {
   "model": "robusta-technical-v3",
-  "generated_at": "2026-11-26T22:00:16+07:00",
+  "generated_at": "2026-11-27T05:50:16+07:00",
   "horizon_days": 7,
   "trained_days": 87,
   "anchor": {
@@ -10,51 +10,51 @@
   "predictions": [
     {
       "date": "2026-11-27",
-      "price": 2849,
-      "low": 2803,
-      "high": 2895
+      "price": 2857,
+      "low": 2834,
+      "high": 2880
     },
     {
       "date": "2026-11-28",
-      "price": 2831,
-      "low": 2735,
-      "high": 2926
+      "price": 2852,
+      "low": 2768,
+      "high": 2936
     },
     {
       "date": "2026-11-29",
-      "price": 2831,
-      "low": 2735,
-      "high": 2926
+      "price": 2852,
+      "low": 2768,
+      "high": 2936
     },
     {
       "date": "2026-11-30",
-      "price": 2831,
-      "low": 2735,
-      "high": 2926
+      "price": 2852,
+      "low": 2768,
+      "high": 2936
     },
     {
       "date": "2026-12-01",
-      "price": 2798,
-      "low": 2671,
-      "high": 2925
+      "price": 2846,
+      "low": 2727,
+      "high": 2965
     },
     {
       "date": "2026-12-02",
-      "price": 2826,
-      "low": 2673,
-      "high": 2978
+      "price": 2840,
+      "low": 2695,
+      "high": 2986
     },
     {
       "date": "2026-12-03",
-      "price": 2821,
-      "low": 2646,
-      "high": 2995
+      "price": 2836,
+      "low": 2668,
+      "high": 3004
     }
   ],
   "accuracy_30d": {
-    "samples": 2,
-    "mae": 24,
-    "direction_hit_rate": 1.0
+    "samples": 3,
+    "mae": 43,
+    "direction_hit_rate": 0.667
   },
   "pre_session": {
     "anchor_date": "2026-11-26",
@@ -110,21 +110,21 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.2181818181818182,
+    "rating": -0.26363636363636367,
     "rating_ma": -0.8,
-    "rating_other": 0.36363636363636365,
-    "rsi": 25.021944073001293,
-    "close": 2849.0,
+    "rating_other": 0.2727272727272727,
+    "rsi": 26.0890592050105,
+    "close": 2857.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-26T22:00:16+07:00",
+    "fetched_at": "2026-11-27T05:50:16+07:00",
     "open": 2804.0,
-    "high": 2849.0,
+    "high": 2885.0,
     "low": 2791.0,
-    "volume": 5753
+    "volume": 8745
   },
   "the": {
     "schema": 1,
     "the": [],
-    "sai_so": "2 lần dự đoán Robusta gần nhất lệch giá thật trung bình 24 USD/tấn"
+    "sai_so": "3 lần dự đoán Robusta gần nhất lệch giá thật trung bình 43 USD/tấn"
   }
 }
