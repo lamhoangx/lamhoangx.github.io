@@ -610,11 +610,11 @@
     "thi_truong": [
       {
         "ten": "Robusta",
-        "phu": "London · USD/⁠tấn\n26/11 · 10:25",
-        "gia": "2.798",
+        "phu": "London · USD/⁠tấn\n26/11 · 19:30",
+        "gia": "2.802",
         "doi": {
-          "chu": "▼ 0,5%",
-          "mau": "giam"
+          "chu": "▲ 0,1%",
+          "mau": "tang"
         },
         "bieu_do_the_gioi": true,
         "gia_san": {
@@ -623,18 +623,18 @@
           "ngay_bang": "26/11/2026",
           "gia_bang": 2798.0,
           "ngay_moc": "2026-11-26",
-          "doc_luc": "2026-11-26T10:25:23+07:00",
+          "doc_luc": "2026-11-26T19:30:27+07:00",
           "ngay_gia": "2026-11-26",
-          "gia": 2798
+          "gia": 2802
         }
       },
       {
         "ten": "Arabica",
-        "phu": "New York · USD/⁠tấn\n26/11 · 10:25",
+        "phu": "New York · USD/⁠tấn\n26/11 · 19:30",
         "gia": "5.952",
         "doi": {
-          "chu": "▲ 2,82%",
-          "mau": "tang"
+          "chu": "—",
+          "mau": null
         },
         "bieu_do_the_gioi": true,
         "gia_san": {
@@ -643,7 +643,7 @@
           "ngay_bang": "26/11/2026",
           "gia_bang": 5952.0,
           "ngay_moc": "2026-11-26",
-          "doc_luc": "2026-11-26T10:25:23+07:00",
+          "doc_luc": "2026-11-26T19:30:27+07:00",
           "ngay_gia": "2026-11-26",
           "gia": 5952
         }
@@ -678,14 +678,14 @@
       "diem": {
         "robusta": {
           "ngay": "2026-11-26",
-          "gia": 2798
+          "gia": 2802
         },
         "arabica": {
           "ngay": "2026-11-26",
           "gia": 5952
         }
       },
-      "moi_nhat": "2.798 USD/tấn · Thứ Năm, 26/11/2026 · 10:25"
+      "moi_nhat": "2.802 USD/tấn · Thứ Năm, 26/11/2026 · 19:30"
     }
   }
 }
