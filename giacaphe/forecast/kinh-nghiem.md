@@ -1,6 +1,6 @@
 # Sổ học kinh nghiệm dự đoán giá cà phê
 
-Cập nhật: 27/11/2026 22:00. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
+Cập nhật: 28/11/2026 05:50. Sổ giữ 60 ngày mốc gần nhất; mọi con số đo trên giá THẬT đã về, không con số nào do mô hình ngôn ngữ viết. Sai số tính bằng đ/kg (nội địa) hoặc USD/tấn (thế giới).
 
 Đây là sổ nội bộ để cải thiện mô hình — không phải khuyến nghị mua bán.
 
@@ -62,16 +62,16 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 
 ### Hiệu chỉnh hệ số truyền dẫn (beta)
 
-Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 494 so với 494) nhưng chưa vượt ngưỡng cải thiện 3%.
+Đang dùng **beta 0,5** (mặc định 0,5). giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 496 so với 496) nhưng chưa vượt ngưỡng cải thiện 3%.
 
 | beta | Sai số TB nếu dùng |
 |---|---|
-| 0,3 | 560 đ |
-| 0,4 | 518 đ |
-| 0,5 | 494 đ |
+| 0,3 | 570 đ |
+| 0,4 | 524 đ |
+| 0,5 | 496 đ |
 | 0,6 | 504 đ |
-| 0,7 | 529 đ |
-| 0,8 | 560 đ |
+| 0,7 | 526 đ |
+| 0,8 | 554 đ |
 
 ### Năm lỗi lớn nhất và lý do
 
@@ -100,8 +100,8 @@ Tỷ lệ truyền dẫn thực (giá trong nước chép bao nhiêu phần cú 
 | Lâm Đồng | 4 | 226 đ | 600 đ | 100% | 100% |
 | Gia Lai | 4 | 226 đ | 650 đ | 100% | 100% |
 | Đắk Nông | 4 | 251 đ | 575 đ | 100% | 100% |
-| Robusta London | 4 | 0 USD | 36 USD | 100% | 100% |
-| Arabica New York | 12 | 11 USD | 70 USD | 92% | 100% |
+| Robusta London | 5 | 0 USD | 46 USD | 100% | 100% |
+| Arabica New York | 13 | 10 USD | 74 USD | 92% | 100% |
 
 ## Dự đoán sàn TRƯỚC PHIÊN (lời đầu của hai chuỗi sàn)
 
@@ -109,11 +109,11 @@ Bản dựng lúc bảng sàn vừa sang ngày, phiên tối nay chưa mở: ch�
 
 | Chuỗi | Số mốc | Trước phiên: sai số TB | Đứng yên | Đúng chiều | Lời cuối |
 |---|---|---|---|---|---|
-| Robusta London | 3 | 43 USD | 38 USD | 67% | 0 USD |
-| Arabica New York | 12 | 72 USD | 70 USD | 42% | 11 USD |
+| Robusta London | 4 | 56 USD | 51 USD | 50% | 0 USD |
+| Arabica New York | 13 | 77 USD | 74 USD | 38% | 10 USD |
 
-- Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 3) rồi mới kết luận.
-- Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 12) rồi mới kết luận.
+- Robusta London: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 4) rồi mới kết luận.
+- Arabica New York: luật chốt trước: cần ≥ 20 mốc đã chấm (hiện 13) rồi mới kết luận.
 
 ## Cách đọc
 
