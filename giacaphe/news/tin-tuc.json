@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T07:30:22+07:00",
+  "generated_at": "2026-11-27T07:55:17+07:00",
   "date": "2026-11-27",
   "groups": [
     {
@@ -8,6 +8,24 @@
       "label": "Giá cà phê ngày 27/11",
       "important": true,
       "items": [
+        {
+          "id": "dnhn-155248",
+          "title": "Giá cà phê hôm nay 27 11 2026 Giá cà phê Tây Nguyên tiếp đà giảm sàn thế giới tăng mạnh",
+          "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-27112026-gia-ca-phe-tay-nguyen-tiep-da-giam-san-the-gioi-tang-manh-155248.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-27T07:30:31+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/27/06/in_social/2920261127061331.jpg",
+          "image_small": "news/anh/d31f014df59a2456d93b.jpg"
+        },
+        {
+          "id": "vnbiz-202611277242143",
+          "title": "Giá cà phê hôm nay 27/11: Sàn London tăng mạnh trở lại",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2711-san-london-tang-manh-tro-lai-202611277242143.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-27T07:23:55+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/27/gia-ca-phe-27-11-20261127072219932-avatar-15x10-20261127072401965.jpg",
+          "image_small": "news/anh/faa434a389700c510b2d.jpg"
+        },
         {
           "id": "bm-56610470",
           "title": "Giá cà phê hôm nay 27/11: Robusta hồi phục, dứt đà giảm 13 phiên liên tiếp",
@@ -18,11 +36,11 @@
         },
         {
           "id": "tbtc-207590",
-          "title": "Ngày 27 11 Giá cà phê và hồ tiêu đồng loạt chịu áp lực điều chỉnh giảm",
+          "title": "Ngày 27/11: Giá cà phê và hồ tiêu đồng loạt chịu áp lực điều chỉnh giảm",
           "url": "https://thoibaotaichinhvietnam.vn/ngay-27-11-gia-ca-phe-va-ho-tieu-dong-loat-chiu-ap-luc-dieu-chinh-giam-207590.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-27T06:53:50+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_578_56610845/5d24fbe064ab8df5d4ba.jpg"
         },
         {
           "id": "bvh-gia-ca-phe-hom-nay-27-11-suc-ep-vu-thu-hoach-co-lan-at-nhip-hoi-london",
@@ -98,6 +116,15 @@
           "important": false,
           "items": [
             {
+              "id": "dnhn-155253",
+              "title": "Giá sầu riêng hôm nay 27 11 Thị trường ổn định sau đợt tăng ở miền Tây",
+              "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2711-thi-truong-on-dinh-sau-dot-tang-o-mien-tay-155253.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-27T07:30:45+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/27/06/in_social/anh-sau-rieng-lua-gao-heo-hoi20261127065809.png",
+              "image_small": "news/anh/2fae356195d03a4bbf14.jpg"
+            },
+            {
               "id": "thcl-295655",
               "title": "Giá sầu riêng hôm nay 27/11: Sầu Thái ở khu vực Đồng bằng sông Cửu Long giữ mức cao",
               "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-27-11-sau-thai-o-khu-vuc-dong-bang-song-cuu-long-giu-muc-cao-a295655.html",
@@ -120,11 +147,32 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "sau-rieng",
+        "id": "dnhn-155253",
+        "the": "Sầu riêng",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "dnhn-155248",
+        "the": "Cà phê",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-202611277242143",
+        "the": "Cà phê",
+        "dong_nguon": "VietnamBiz · 07:23",
+        "noi_bat": false
+      },
+      {
         "chu_de": "",
         "id": "bm-56610470",
         "the": "Cà phê",
         "dong_nguon": "Báo Ninh Bình · 06:54",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -145,7 +193,7 @@
         "id": "bvh-gia-ho-tieu-hom-nay-27-11-2026-chenh-4-000-dong-kg-giua-cac-vung",
         "the": "Hồ tiêu",
         "dong_nguon": "Báo Văn hóa · 06:20",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
