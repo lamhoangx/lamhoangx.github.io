@@ -1,13 +1,38 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T09:45:21+07:00",
+  "generated_at": "2026-11-27T11:40:30+07:00",
   "date": "2026-11-27",
   "groups": [
+    {
+      "id": "tt-100261124110031378",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261124110031378",
+          "title": "Xây 'tấm khiên' bảo vệ vườn Robusta trước giờ G thu hoạch",
+          "url": "https://tuoitre.vn/xay-tam-khien-bao-ve-vuon-robusta-truoc-gio-g-thu-hoach-100261124110031378.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-27T10:40:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/ong-phuc-1795435275600393392218-0-0-1003-1605-crop-1795491503671843853657.png",
+          "image_small": "news/anh/b6093d1f406c616d7215.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-27",
       "label": "Giá cà phê ngày 27/11",
       "important": true,
       "items": [
+        {
+          "id": "dnhn-155199",
+          "title": "Thị trường nguyên liệu công nghiệp 27 11 2026 Giá cà phê giảm dầu cọ duy trì đà phục hồi",
+          "url": "https://doanhnghiephoinhap.vn/thi-truong-nguyen-lieu-cong-nghiep-27112026-gia-ca-phe-giam-dau-co-duy-tri-da-phuc-hoi-155199.html",
+          "source": "Doanh nghiệp và Hội nhập",
+          "published_at": "2026-11-27T10:16:39+07:00",
+          "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/11/in_social/8920261123113636.jpg",
+          "image_small": "news/anh/cbc4eca52a96bfc15d68.jpg"
+        },
         {
           "id": "vov-1353551",
           "title": "Giá cà phê hôm nay 27/11: Giá cà phê trong nước cao nhất 70.000 đồng/kg",
@@ -15,7 +40,7 @@
           "source": "VOV",
           "published_at": "2026-11-27T09:26:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2025-09/ca_phe_3.jpg",
-          "image_small": "news/anh/6510637fd82ff7bed5e7.jpg"
+          "image_small": "news/anh/2dfb020f1711e85d2bc7.jpg"
         },
         {
           "id": "gdm-101220",
@@ -70,8 +95,8 @@
         },
         {
           "id": "vnbiz-202611277242143",
-          "title": "Giá cà phê hôm nay 27/11: Sàn London tăng mạnh trở lại",
-          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2711-san-london-tang-manh-tro-lai-202611277242143.htm",
+          "title": "Giá cà phê hôm nay 27/11: Robusta phục hồi mạnh, giá trong nước tăng tới 700 đồng/kg",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2711-robusta-phuc-hoi-manh-gia-trong-nuoc-tang-toi-700-dongkg-202611277242143.htm",
           "source": "VietnamBiz",
           "published_at": "2026-11-27T07:23:55+07:00",
           "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/27/gia-ca-phe-27-11-20261127072219932-avatar-15x10-20261127072401965.jpg",
@@ -126,13 +151,22 @@
           "important": true,
           "items": [
             {
+              "id": "dnhn-155207",
+              "title": "Giá tiêu hôm nay 27 11 2026 Giảm phiên thứ 3 lùi về 122 000 đồng kg",
+              "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-27112026-giam-phien-thu-3-lui-ve-122000-dongkg-155207.html",
+              "source": "Doanh nghiệp và Hội nhập",
+              "published_at": "2026-11-27T10:18:35+07:00",
+              "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/6320261115225848.jpg",
+              "image_small": "news/anh/701695f0f1e131455622.jpg"
+            },
+            {
               "id": "vnbiz-2026112774633380",
               "title": "Giá tiêu hôm nay 27/11: Giảm mạnh 3 ngày liên tiếp, thấp nhất 122.000 đồng/kg",
               "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2711-giam-manh-3-ngay-lien-tiep-thap-nhat-122000-dongkg-2026112774633380.htm",
               "source": "VietnamBiz",
               "published_at": "2026-11-27T07:46:23+07:00",
               "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/27/gia-tieu-27-11-20261127074347669-avatar-15x10-20261127074632909.jpg",
-              "image_small": "news/anh/f68ee11f264704e92579.jpg"
+              "image_small": "news/anh/ab882c2c9aece3ef7d7c.jpg"
             },
             {
               "id": "bvh-gia-ho-tieu-hom-nay-27-11-2026-chenh-4-000-dong-kg-giua-cac-vung",
@@ -223,10 +257,31 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "tt-100261124110031378",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 10:40",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "dnhn-155207",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 10:18",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "dnhn-155199",
+        "the": "Cà phê",
+        "dong_nguon": "Doanh nghiệp và Hội nhập · 10:16",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "vov-1353551",
         "the": "Cà phê",
         "dong_nguon": "VOV · 09:26",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -275,14 +330,14 @@
         "id": "bm-56611007",
         "the": null,
         "dong_nguon": "Báo Đại Đoàn Kết · 08:00",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "ho-tieu",
         "id": "vnbiz-2026112774633380",
         "the": "Hồ tiêu",
         "dong_nguon": "VietnamBiz · 07:46",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
