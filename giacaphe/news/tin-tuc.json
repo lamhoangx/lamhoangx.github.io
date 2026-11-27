@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T08:15:19+07:00",
+  "generated_at": "2026-11-27T08:40:20+07:00",
   "date": "2026-11-27",
   "groups": [
     {
@@ -9,13 +9,30 @@
       "important": true,
       "items": [
         {
+          "id": "vnb-ap-luc-nguon-cung-vu-moi-gia-ca-phe-dong-loat-giam-nhe-300-dongkg",
+          "title": "Áp lực nguồn cung vụ mới, giá cà phê đồng loạt giảm nhẹ 300 đồng/kg",
+          "url": "https://vnbusiness.vn//ap-luc-nguon-cung-vu-moi-gia-ca-phe-dong-loat-giam-nhe-300-dongkg.html",
+          "source": "VnBusiness",
+          "published_at": "2026-11-27T08:19:08+07:00",
+          "image": "https://media.vnbusiness.vn/files/uploads/2026/11/27/c2ef423b481c4f1d9121d8ed02cd7287-20779.jpg?w=1200&h=630&mode=crop&anchor=top-center",
+          "image_small": "news/anh/e6c7fb3e11aab46014d1.jpg"
+        },
+        {
+          "id": "bm-56611093",
+          "title": "Bản tin nông sản hôm nay (27-11): Giá lúa gạo ít biến động, giá cà phê giảm",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-27-11-gia-lua-gao-it-bien-dong-gia-ca-phe-giam-c56611093.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-27T08:19:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_16_56611093/b7f582761f3df663af2c.jpg"
+        },
+        {
           "id": "dnhn-155248",
           "title": "Giá cà phê hôm nay 27 11 2026 Giá cà phê Tây Nguyên tiếp đà giảm sàn thế giới tăng mạnh",
           "url": "https://doanhnghiephoinhap.vn/gia-ca-phe-hom-nay-27112026-gia-ca-phe-tay-nguyen-tiep-da-giam-san-the-gioi-tang-manh-155248.html",
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-27T07:30:31+07:00",
           "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/27/06/in_social/2920261127061331.jpg",
-          "image_small": "news/anh/d31f014df59a2456d93b.jpg"
+          "image_small": "news/anh/2fffd56a05207a579ac5.jpg"
         },
         {
           "id": "vnbiz-202611277242143",
@@ -171,6 +188,20 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "vnb-ap-luc-nguon-cung-vu-moi-gia-ca-phe-dong-loat-giam-nhe-300-dongkg",
+        "the": "Cà phê",
+        "dong_nguon": "VnBusiness · 08:19",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56611093",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 08:19",
+        "noi_bat": false
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "bm-56611007",
         "the": null,
@@ -189,14 +220,14 @@
         "id": "dnhn-155253",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
         "id": "dnhn-155248",
         "the": "Cà phê",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
