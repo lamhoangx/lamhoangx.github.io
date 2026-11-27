@@ -1,29 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T11:40:30+07:00",
+  "generated_at": "2026-11-27T12:05:21+07:00",
   "date": "2026-11-27",
   "groups": [
-    {
-      "id": "tt-100261124110031378",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "tt-100261124110031378",
-          "title": "Xây 'tấm khiên' bảo vệ vườn Robusta trước giờ G thu hoạch",
-          "url": "https://tuoitre.vn/xay-tam-khien-bao-ve-vuon-robusta-truoc-gio-g-thu-hoach-100261124110031378.htm",
-          "source": "Tuổi Trẻ",
-          "published_at": "2026-11-27T10:40:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/ong-phuc-1795435275600393392218-0-0-1003-1605-crop-1795491503671843853657.png",
-          "image_small": "news/anh/b6093d1f406c616d7215.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-27",
       "label": "Giá cà phê ngày 27/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56613055",
+          "title": "Giá cà phê hôm nay 27/11/2026: Tây Nguyên phục hồi sau 1 tuần liên tục giảm giá",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-27-11-2026-tay-nguyen-phuc-hoi-sau-1-tuan-lien-tuc-giam-gia-c56613055.epi",
+          "source": "Báo Lâm Đồng",
+          "published_at": "2026-11-27T11:51:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_439_56613055/b58a6a54f51f1c41450e.jpg"
+        },
         {
           "id": "dnhn-155199",
           "title": "Thị trường nguyên liệu công nghiệp 27 11 2026 Giá cà phê giảm dầu cọ duy trì đà phục hồi",
@@ -31,7 +23,7 @@
           "source": "Doanh nghiệp và Hội nhập",
           "published_at": "2026-11-27T10:16:39+07:00",
           "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/23/11/in_social/8920261123113636.jpg",
-          "image_small": "news/anh/cbc4eca52a96bfc15d68.jpg"
+          "image_small": "news/anh/e765e315c79a0f6ecfeb.jpg"
         },
         {
           "id": "vov-1353551",
@@ -134,6 +126,22 @@
           "source": "Thương hiệu và Công luận",
           "published_at": "2026-11-27T05:58:00+07:00",
           "image": ""
+        }
+      ]
+    },
+    {
+      "id": "tt-100261124110031378",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261124110031378",
+          "title": "Xây 'tấm khiên' bảo vệ vườn Robusta trước giờ G thu hoạch",
+          "url": "https://tuoitre.vn/xay-tam-khien-bao-ve-vuon-robusta-truoc-gio-g-thu-hoach-100261124110031378.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-27T10:40:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/24/ong-phuc-1795435275600393392218-0-0-1003-1605-crop-1795491503671843853657.png",
+          "image_small": "news/anh/b6093d1f406c616d7215.jpg"
         }
       ]
     }
@@ -257,6 +265,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56613055",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lâm Đồng · 11:51",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "tt-100261124110031378",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 10:40",
@@ -274,7 +289,7 @@
         "id": "dnhn-155199",
         "the": "Cà phê",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 10:16",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -295,7 +310,7 @@
         "id": "vnbiz-2026112791252813",
         "the": "Sầu riêng",
         "dong_nguon": "VietnamBiz · 09:12",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
