@@ -1,54 +1,54 @@
 {
   "model": "robusta-technical-v3",
-  "generated_at": "2026-11-27T06:15:17+07:00",
+  "generated_at": "2026-11-27T10:08:22+07:00",
   "horizon_days": 7,
-  "trained_days": 87,
+  "trained_days": 88,
   "anchor": {
-    "date": "2026-11-26",
-    "price": 2798
+    "date": "2026-11-27",
+    "price": 2857
   },
   "predictions": [
     {
-      "date": "2026-11-27",
-      "price": 2857,
-      "low": 2834,
-      "high": 2880
-    },
-    {
       "date": "2026-11-28",
       "price": 2852,
-      "low": 2768,
-      "high": 2936
+      "low": 2766,
+      "high": 2938
     },
     {
       "date": "2026-11-29",
       "price": 2852,
-      "low": 2768,
-      "high": 2936
+      "low": 2766,
+      "high": 2938
     },
     {
       "date": "2026-11-30",
       "price": 2852,
-      "low": 2768,
-      "high": 2936
+      "low": 2766,
+      "high": 2938
     },
     {
       "date": "2026-12-01",
       "price": 2846,
-      "low": 2727,
-      "high": 2965
+      "low": 2724,
+      "high": 2967
     },
     {
       "date": "2026-12-02",
       "price": 2840,
-      "low": 2695,
-      "high": 2986
+      "low": 2691,
+      "high": 2989
     },
     {
       "date": "2026-12-03",
       "price": 2836,
-      "low": 2668,
-      "high": 3004
+      "low": 2664,
+      "high": 3007
+    },
+    {
+      "date": "2026-12-04",
+      "price": 2834,
+      "low": 2642,
+      "high": 3026
     }
   ],
   "accuracy_30d": {
@@ -57,50 +57,50 @@
     "direction_hit_rate": 0.667
   },
   "pre_session": {
-    "anchor_date": "2026-11-26",
-    "anchor_price": 2798,
+    "anchor_date": "2026-11-27",
+    "anchor_price": 2857,
     "predictions": [
       {
-        "date": "2026-11-27",
-        "price": 2778,
-        "low": 2694,
-        "high": 2862
-      },
-      {
         "date": "2026-11-28",
-        "price": 2744,
-        "low": 2625,
-        "high": 2863
+        "price": 2852,
+        "low": 2766,
+        "high": 2938
       },
       {
         "date": "2026-11-29",
-        "price": 2744,
-        "low": 2625,
-        "high": 2863
+        "price": 2852,
+        "low": 2766,
+        "high": 2938
       },
       {
         "date": "2026-11-30",
-        "price": 2744,
-        "low": 2625,
-        "high": 2863
+        "price": 2852,
+        "low": 2766,
+        "high": 2938
       },
       {
         "date": "2026-12-01",
-        "price": 2770,
-        "low": 2624,
-        "high": 2916
+        "price": 2846,
+        "low": 2724,
+        "high": 2967
       },
       {
         "date": "2026-12-02",
-        "price": 2764,
-        "low": 2596,
-        "high": 2932
+        "price": 2840,
+        "low": 2691,
+        "high": 2989
       },
       {
         "date": "2026-12-03",
-        "price": 2766,
-        "low": 2578,
-        "high": 2954
+        "price": 2836,
+        "low": 2664,
+        "high": 3007
+      },
+      {
+        "date": "2026-12-04",
+        "price": 2834,
+        "low": 2642,
+        "high": 3026
       }
     ]
   },
@@ -116,7 +116,7 @@
     "rsi": 26.0890592050105,
     "close": 2857.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-27T06:15:17+07:00",
+    "fetched_at": "2026-11-27T10:08:22+07:00",
     "open": 2804.0,
     "high": 2885.0,
     "low": 2791.0,

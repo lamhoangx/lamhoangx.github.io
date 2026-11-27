@@ -1,19 +1,19 @@
 {
   "beta": 0.5,
   "beta_mac_dinh": 0.5,
-  "so_mau": 41,
+  "so_mau": 42,
   "toi_thieu": 20,
   "nguong_cai_thien": 0.03,
   "mae_theo_beta": {
-    "0.3": 570,
-    "0.4": 530,
-    "0.5": 502,
-    "0.6": 510,
-    "0.7": 531,
-    "0.8": 559
+    "0.3": 560,
+    "0.4": 518,
+    "0.5": 494,
+    "0.6": 504,
+    "0.7": 529,
+    "0.8": 560
   },
-  "mae_hien_tai": 502,
-  "ly_do": "giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 502 so với 502) nhưng chưa vượt ngưỡng cải thiện 3%",
+  "mae_hien_tai": 494,
+  "ly_do": "giữ 0,5: tốt nhất trên lưới là 0,5 (MAE 494 so với 494) nhưng chưa vượt ngưỡng cải thiện 3%",
   "chuoi": "average",
-  "cap_nhat": "2026-11-27T06:15:17+07:00"
+  "cap_nhat": "2026-11-27T10:08:22+07:00"
 }
