@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T06:47:32+07:00",
+  "generated_at": "2026-11-27T07:30:22+07:00",
   "date": "2026-11-27",
   "groups": [
     {
@@ -9,13 +9,29 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56610470",
+          "title": "Giá cà phê hôm nay 27/11: Robusta hồi phục, dứt đà giảm 13 phiên liên tiếp",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-27-11-robusta-hoi-phuc-dut-da-giam-13-phien-lien-tiep-c56610470.epi",
+          "source": "Báo Ninh Bình",
+          "published_at": "2026-11-27T06:54:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_442_56610470/8bef3878a4334d6d1422.jpg"
+        },
+        {
+          "id": "tbtc-207590",
+          "title": "Ngày 27 11 Giá cà phê và hồ tiêu đồng loạt chịu áp lực điều chỉnh giảm",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-27-11-gia-ca-phe-va-ho-tieu-dong-loat-chiu-ap-luc-dieu-chinh-giam-207590.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-27T06:53:50+07:00",
+          "image": ""
+        },
+        {
           "id": "bvh-gia-ca-phe-hom-nay-27-11-suc-ep-vu-thu-hoach-co-lan-at-nhip-hoi-london",
           "title": "Giá cà phê hôm nay 27.11: Sức ép vụ thu hoạch có lấn át nhịp hồi London?",
           "url": "https://baovanhoa.vn/gia-ca-phe-hom-nay-27-11-suc-ep-vu-thu-hoach-co-lan-at-nhip-hoi-london.html",
           "source": "Báo Văn hóa",
           "published_at": "2026-11-27T06:21:59+07:00",
           "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/26/01a21875-294a-77f4-8e78-b3d7c0322265.jpg",
-          "image_small": "news/anh/d100646a6d3692598167.jpg"
+          "image_small": "news/anh/cf0a084b887788e6ddc8.jpg"
         },
         {
           "id": "thcl-295651",
@@ -105,10 +121,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56610470",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Ninh Bình · 06:54",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "tbtc-207590",
+        "the": "Cà phê",
+        "dong_nguon": "Thời báo Tài chính Việt Nam · 06:53",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bvh-gia-ca-phe-hom-nay-27-11-suc-ep-vu-thu-hoach-co-lan-at-nhip-hoi-london",
         "the": "Cà phê",
         "dong_nguon": "Báo Văn hóa · 06:21",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "ho-tieu",
