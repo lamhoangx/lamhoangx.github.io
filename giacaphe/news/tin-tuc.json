@@ -1,29 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T14:20:16+07:00",
+  "generated_at": "2026-11-27T14:40:18+07:00",
   "date": "2026-11-27",
   "groups": [
-    {
-      "id": "tt-100261127090733948",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "tt-100261127090733948",
-          "title": "Chợp mắt cùng Robusta: 'Cuộc đua' 20 phút của caffeine trong cơ thể",
-          "url": "https://tuoitre.vn/chop-mat-cung-robusta-cuoc-dua-20-phut-cua-caffeine-trong-co-the-100261127090733948.htm",
-          "source": "Tuổi Trẻ",
-          "published_at": "2026-11-27T14:16:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/robusta-1-17957435555551377096878-177-0-816-1022-crop-17957447546141711316263.jpg",
-          "image_small": "news/anh/ddf703cb290bc0f2da28.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-27",
       "label": "Giá cà phê ngày 27/11",
       "important": true,
       "items": [
+        {
+          "id": "tcct-569629",
+          "title": "Giá cà phê hôm nay 27/11: Robusta bật tăng, giá cà phê trong nước phục hồi",
+          "url": "https://tapchicongthuong.vn/gia-ca-phe-hom-nay-27-11--robusta-bat-tang--gia-ca-phe-trong-nuoc-phuc-hoi-569629.htm",
+          "source": "Tạp chí Công Thương",
+          "published_at": "2026-11-27T14:26:00+07:00",
+          "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/27/gia-ca-phe7_6b0928a9edd13.jpeg",
+          "image_small": "news/anh/89b2dbdc0a23b221c2b1.jpg"
+        },
         {
           "id": "bm-56613055",
           "title": "Giá cà phê hôm nay 27/11/2026: Tây Nguyên phục hồi sau 1 tuần liên tục giảm giá",
@@ -146,6 +139,22 @@
       ]
     },
     {
+      "id": "tt-100261127090733948",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261127090733948",
+          "title": "Chợp mắt cùng Robusta: 'Cuộc đua' 20 phút của caffeine trong cơ thể",
+          "url": "https://tuoitre.vn/chop-mat-cung-robusta-cuoc-dua-20-phut-cua-caffeine-trong-co-the-100261127090733948.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-27T14:16:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/robusta-1-17957435555551377096878-177-0-816-1022-crop-17957447546141711316263.jpg",
+          "image_small": "news/anh/ddf703cb290bc0f2da28.jpg"
+        }
+      ]
+    },
+    {
       "id": "bm-56613741",
       "label": "",
       "important": false,
@@ -190,13 +199,21 @@
           "important": true,
           "items": [
             {
+              "id": "tcct-569626",
+              "title": "Giá tiêu hôm nay 27/11: Tiếp tục lao dốc, áp lực giảm giá có thể kéo dài",
+              "url": "https://tapchicongthuong.vn/gia-tieu-hom-nay-27-11--tiep-tuc-lao-doc--ap-luc-giam-gia-co-the-keo-dai-569626.htm",
+              "source": "Tạp chí Công Thương",
+              "published_at": "2026-11-27T14:25:00+07:00",
+              "image": "https://imgcdn.tapchicongthuong.vn/tcct-media/26/11/27/gia-tieu-hom-nay-1_6b0926c7f3806.jpg"
+            },
+            {
               "id": "dnhn-155207",
               "title": "Giá tiêu hôm nay 27 11 2026 Giảm phiên thứ 3 lùi về 122 000 đồng kg",
               "url": "https://doanhnghiephoinhap.vn/gia-tieu-hom-nay-27112026-giam-phien-thu-3-lui-ve-122000-dongkg-155207.html",
               "source": "Doanh nghiệp và Hội nhập",
               "published_at": "2026-11-27T10:18:35+07:00",
               "image": "https://doanhnghiephoinhap.vn/stores/news_dataimages/2026/112026/15/22/in_social/6320261115225848.jpg",
-              "image_small": "news/anh/701695f0f1e131455622.jpg"
+              "image_small": "news/anh/7f51aeffbfac76a959dc.jpg"
             },
             {
               "id": "vnbiz-2026112774633380",
@@ -296,6 +313,20 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "tcct-569629",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Công Thương · 14:26",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "tcct-569626",
+        "the": "Hồ tiêu",
+        "dong_nguon": "Tạp chí Công Thương · 14:25",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "tt-100261127090733948",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 14:16",
@@ -313,14 +344,14 @@
         "id": "bm-56613055",
         "the": "Cà phê",
         "dong_nguon": "Báo Lâm Đồng · 11:51",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
         "id": "tt-100261124110031378",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 10:40",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "ho-tieu",
