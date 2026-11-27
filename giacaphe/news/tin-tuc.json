@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T07:55:17+07:00",
+  "generated_at": "2026-11-27T08:15:19+07:00",
   "date": "2026-11-27",
   "groups": [
     {
@@ -81,8 +81,17 @@
         {
           "id": "gia-ho-tieu-2026-11-27",
           "label": "Giá hồ tiêu ngày 27/11",
-          "important": false,
+          "important": true,
           "items": [
+            {
+              "id": "vnbiz-2026112774633380",
+              "title": "Giá tiêu hôm nay 27/11: Giảm mạnh 3 ngày liên tiếp, thấp nhất 122.000 đồng/kg",
+              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2711-giam-manh-3-ngay-lien-tiep-thap-nhat-122000-dongkg-2026112774633380.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-27T07:46:23+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/27/gia-tieu-27-11-20261127074347669-avatar-15x10-20261127074632909.jpg",
+              "image_small": "news/anh/f68ee11f264704e92579.jpg"
+            },
             {
               "id": "bvh-gia-ho-tieu-hom-nay-27-11-2026-chenh-4-000-dong-kg-giua-cac-vung",
               "title": "Giá hồ tiêu hôm nay 27.11.2026: Chênh 4.000 đồng/kg giữa các vùng",
@@ -90,7 +99,7 @@
               "source": "Báo Văn hóa",
               "published_at": "2026-11-27T06:20:38+07:00",
               "image": "https://cdn.baovanhoa.vn/1200x630/uploaded/images/2026/11/26/01a21875-28cd-744e-be7a-8fbe8b1327e0.jpg",
-              "image_small": "news/anh/30c1d3178127812545f7.jpg"
+              "image_small": "news/anh/ef63f54fde7dafdc9389.jpg"
             },
             {
               "id": "thcl-295652",
@@ -110,6 +119,21 @@
       "title": "Tin tức sầu riêng",
       "date": "2026-11-27",
       "groups": [
+        {
+          "id": "bm-56611007",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56611007",
+              "title": "Nâng tầm giá trị sầu riêng bằng chuyển đổi xanh",
+              "url": "https://baomoi.com/nang-tam-gia-tri-sau-rieng-bang-chuyen-doi-xanh-c56611007.epi",
+              "source": "Báo Đại Đoàn Kết",
+              "published_at": "2026-11-27T08:00:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_113_56611007/506b25adbae653b80af7.jpg"
+            }
+          ]
+        },
         {
           "id": "gia-sau-rieng-2026-11-27",
           "label": "Giá sầu riêng ngày 27/11",
@@ -146,6 +170,20 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56611007",
+        "the": null,
+        "dong_nguon": "Báo Đại Đoàn Kết · 08:00",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "vnbiz-2026112774633380",
+        "the": "Hồ tiêu",
+        "dong_nguon": "VietnamBiz · 07:46",
+        "noi_bat": false
+      },
       {
         "chu_de": "sau-rieng",
         "id": "dnhn-155253",
@@ -193,7 +231,7 @@
         "id": "bvh-gia-ho-tieu-hom-nay-27-11-2026-chenh-4-000-dong-kg-giua-cac-vung",
         "the": "Hồ tiêu",
         "dong_nguon": "Báo Văn hóa · 06:20",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "sau-rieng",
