@@ -1,8 +1,39 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T14:40:18+07:00",
+  "generated_at": "2026-11-27T17:01:00+07:00",
   "date": "2026-11-27",
   "groups": [
+    {
+      "id": "bm-56615071",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56615071",
+          "title": "Thị trường giữ đà khởi sắc trong lễ Tạ ơn",
+          "url": "https://baomoi.com/thi-truong-giu-da-khoi-sac-trong-le-ta-on-c56615071.epi",
+          "source": "Báo Hà Nội Mới",
+          "published_at": "2026-11-27T16:01:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_8_56615071/aca7c5145a5fb301ea4e.jpg"
+        },
+        {
+          "id": "bm-56613741",
+          "title": "Thị trường hàng hóa giữ đà khởi sắc trong ngày Mỹ nghỉ lễ Tạ ơn",
+          "url": "https://baomoi.com/thi-truong-hang-hoa-giu-da-khoi-sac-trong-ngay-my-nghi-le-ta-on-c56613741.epi",
+          "source": "Báo Tin Tức TTXVN",
+          "published_at": "2026-11-27T13:11:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_294_56613741/63085ea8c1e328bd71f2.jpg"
+        },
+        {
+          "id": "bm-56614903",
+          "title": "Thị trường hàng hóa: Đà khởi sắc trong ngày Mỹ nghỉ lễ Tạ ơn",
+          "url": "https://baomoi.com/thi-truong-hang-hoa-da-khoi-sac-trong-ngay-my-nghi-le-ta-on-c56614903.epi",
+          "source": "Báo Thời Báo Ngân Hàng",
+          "published_at": "2026-11-27T11:05:44+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_59_56614903/01e9ea5975129c4cc503.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-27",
       "label": "Giá cà phê ngày 27/11",
@@ -149,23 +180,8 @@
           "url": "https://tuoitre.vn/chop-mat-cung-robusta-cuoc-dua-20-phut-cua-caffeine-trong-co-the-100261127090733948.htm",
           "source": "Tuổi Trẻ",
           "published_at": "2026-11-27T14:16:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/robusta-1-17957435555551377096878-177-0-816-1022-crop-17957447546141711316263.jpg",
-          "image_small": "news/anh/ddf703cb290bc0f2da28.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bm-56613741",
-      "label": "",
-      "important": false,
-      "items": [
-        {
-          "id": "bm-56613741",
-          "title": "Thị trường hàng hóa giữ đà khởi sắc trong ngày Mỹ nghỉ lễ Tạ ơn",
-          "url": "https://baomoi.com/thi-truong-hang-hoa-giu-da-khoi-sac-trong-ngay-my-nghi-le-ta-on-c56613741.epi",
-          "source": "Báo Tin Tức TTXVN",
-          "published_at": "2026-11-27T13:11:00+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_294_56613741/63085ea8c1e328bd71f2.jpg"
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/ngu-trua-17957652805891477867336-257-73-812-961-crop-17957653117901744865516.jpg",
+          "image_small": "news/anh/f28c8024a8b0fa6fabd8.jpg"
         }
       ]
     },
@@ -313,6 +329,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56615071",
+        "the": null,
+        "dong_nguon": "Báo Hà Nội Mới · 16:01",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "tcct-569629",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Công Thương · 14:26",
@@ -344,6 +367,13 @@
         "id": "bm-56613055",
         "the": "Cà phê",
         "dong_nguon": "Báo Lâm Đồng · 11:51",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56614903",
+        "the": null,
+        "dong_nguon": "Báo Thời Báo Ngân Hàng · 11:05",
         "noi_bat": false
       },
       {
