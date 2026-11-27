@@ -1,6 +1,6 @@
 {
   "model": "robusta-technical-v3",
-  "generated_at": "2026-11-27T11:30:14+07:00",
+  "generated_at": "2026-11-27T19:30:27+07:00",
   "horizon_days": 7,
   "trained_days": 88,
   "anchor": {
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-28",
-      "price": 2852,
-      "low": 2766,
-      "high": 2938
+      "price": 2949,
+      "low": 2883,
+      "high": 3015
     },
     {
       "date": "2026-11-29",
-      "price": 2852,
-      "low": 2766,
-      "high": 2938
+      "price": 2949,
+      "low": 2883,
+      "high": 3015
     },
     {
       "date": "2026-11-30",
-      "price": 2852,
-      "low": 2766,
-      "high": 2938
+      "price": 2949,
+      "low": 2883,
+      "high": 3015
     },
     {
       "date": "2026-12-01",
-      "price": 2846,
-      "low": 2724,
-      "high": 2967
+      "price": 2944,
+      "low": 2836,
+      "high": 3052
     },
     {
       "date": "2026-12-02",
-      "price": 2840,
-      "low": 2691,
-      "high": 2989
+      "price": 2938,
+      "low": 2800,
+      "high": 3076
     },
     {
       "date": "2026-12-03",
-      "price": 2836,
-      "low": 2664,
-      "high": 3007
+      "price": 2932,
+      "low": 2769,
+      "high": 3095
     },
     {
       "date": "2026-12-04",
-      "price": 2834,
-      "low": 2642,
-      "high": 3026
+      "price": 2928,
+      "low": 2744,
+      "high": 3112
     }
   ],
   "accuracy_30d": {
@@ -110,17 +110,17 @@
   "technical": {
     "symbol": "ICEEUR:RCF2027",
     "month": "01/27",
-    "rating": -0.26363636363636367,
-    "rating_ma": -0.8,
-    "rating_other": 0.2727272727272727,
-    "rsi": 26.0890592050105,
-    "close": 2857.0,
+    "rating": -0.26666666666666666,
+    "rating_ma": -0.5333333333333333,
+    "rating_other": 0,
+    "rsi": 37.164579825713616,
+    "close": 2949.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-27T11:30:14+07:00",
-    "open": 2804.0,
-    "high": 2885.0,
-    "low": 2791.0,
-    "volume": 8745
+    "fetched_at": "2026-11-27T19:30:27+07:00",
+    "open": 2897.0,
+    "high": 2976.0,
+    "low": 2870.0,
+    "volume": 6021
   },
   "the": {
     "schema": 1,

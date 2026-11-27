@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:30:14+07:00",
+  "generated_at": "2026-11-27T19:30:27+07:00",
   "model": "tv-live-v1",
   "horizon_days": 7,
   "trained_days": 88,
@@ -10,45 +10,45 @@
   "predictions": [
     {
       "date": "2026-11-28",
-      "price": 5941,
-      "low": 5733,
-      "high": 6150
+      "price": 6113,
+      "low": 5945,
+      "high": 6281
     },
     {
       "date": "2026-11-29",
-      "price": 5941,
-      "low": 5733,
-      "high": 6150
+      "price": 6113,
+      "low": 5945,
+      "high": 6281
     },
     {
       "date": "2026-11-30",
-      "price": 5941,
-      "low": 5733,
-      "high": 6150
+      "price": 6113,
+      "low": 5945,
+      "high": 6281
     },
     {
       "date": "2026-12-01",
-      "price": 5933,
-      "low": 5638,
-      "high": 6229
+      "price": 6114,
+      "low": 5846,
+      "high": 6382
     },
     {
       "date": "2026-12-02",
-      "price": 5927,
-      "low": 5566,
-      "high": 6289
+      "price": 6115,
+      "low": 5775,
+      "high": 6455
     },
     {
       "date": "2026-12-03",
-      "price": 5923,
-      "low": 5505,
-      "high": 6340
+      "price": 6116,
+      "low": 5717,
+      "high": 6514
     },
     {
       "date": "2026-12-04",
-      "price": 5919,
-      "low": 5453,
-      "high": 6386
+      "price": 6116,
+      "low": 5666,
+      "high": 6566
     }
   ],
   "accuracy_30d": {
@@ -77,17 +77,17 @@
   "technical": {
     "symbol": "ICEUS:KCH2027",
     "month": "03/27",
-    "rating": -0.4,
-    "rating_ma": -0.8,
+    "rating": 0.06666666666666667,
+    "rating_ma": 0.13333333333333333,
     "rating_other": 0,
-    "rsi": 45.32320411956473,
-    "close": 5952.0,
+    "rsi": 51.873311999188395,
+    "close": 6113.0,
     "unit": "USD/tấn",
-    "fetched_at": "2026-11-27T11:30:14+07:00",
-    "open": 5732.0,
-    "high": 5993.0,
-    "low": 5702.0,
-    "volume": 21296
+    "fetched_at": "2026-11-27T19:30:27+07:00",
+    "open": 6045.0,
+    "high": 6151.0,
+    "low": 6031.0,
+    "volume": 4387
   },
   "the": {
     "schema": 1,
