@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T08:40:20+07:00",
+  "generated_at": "2026-11-27T09:00:19+07:00",
   "date": "2026-11-27",
   "groups": [
     {
@@ -9,13 +9,30 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56611448",
+          "title": "Giá nông sản hôm nay (27/11): Giá cà phê tiếp tục chịu áp lực điều chỉnh, thịt lợn hơi có xu hướng giảm",
+          "url": "https://baomoi.com/gia-nong-san-hom-nay-27-11-gia-ca-phe-tiep-tuc-chiu-ap-luc-dieu-chinh-thit-lon-hoi-co-xu-huong-giam-c56611448.epi",
+          "source": "Tạp chí Thương Gia",
+          "published_at": "2026-11-27T08:57:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_27_341_56611448/a330ebf374b89de6c4a9.jpg"
+        },
+        {
+          "id": "bgl-606146",
+          "title": "Giá nông sản hôm nay (27-11): Cà phê Gia Lai về dưới 70.000 đồng/kg, hồ tiêu chịu sức ép giảm sâu",
+          "url": "https://baogialai.com.vn/gia-nong-san-hom-nay-27-11-ca-phe-gia-lai-ve-duoi-70000-dongkg-ho-tieu-chiu-suc-ep-giam-sau-post606146.html",
+          "source": "Báo Gia Lai",
+          "published_at": "2026-11-27T08:30:00+07:00",
+          "image": "https://cdn.baogialai.com.vn/images/VJZboi-GToxqibikiKlDgErSyTyLoyEt8becN5ZhF1mlzKcmyDNgO99j5g7W39-EsF9zo724Bpc8Yr3xCteoqg/gia-nong-san-hom-nay-27.png",
+          "image_small": "news/anh/e463ae5342f7cb839869.jpg"
+        },
+        {
           "id": "vnb-ap-luc-nguon-cung-vu-moi-gia-ca-phe-dong-loat-giam-nhe-300-dongkg",
           "title": "Áp lực nguồn cung vụ mới, giá cà phê đồng loạt giảm nhẹ 300 đồng/kg",
           "url": "https://vnbusiness.vn//ap-luc-nguon-cung-vu-moi-gia-ca-phe-dong-loat-giam-nhe-300-dongkg.html",
           "source": "VnBusiness",
           "published_at": "2026-11-27T08:19:08+07:00",
           "image": "https://media.vnbusiness.vn/files/uploads/2026/11/27/c2ef423b481c4f1d9121d8ed02cd7287-20779.jpg?w=1200&h=630&mode=crop&anchor=top-center",
-          "image_small": "news/anh/e6c7fb3e11aab46014d1.jpg"
+          "image_small": "news/anh/d46e2aa3d0df4876fd8c.jpg"
         },
         {
           "id": "bm-56611093",
@@ -189,10 +206,24 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56611448",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Thương Gia · 08:57",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "bgl-606146",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Gia Lai · 08:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "vnb-ap-luc-nguon-cung-vu-moi-gia-ca-phe-dong-loat-giam-nhe-300-dongkg",
         "the": "Cà phê",
         "dong_nguon": "VnBusiness · 08:19",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -213,14 +244,14 @@
         "id": "vnbiz-2026112774633380",
         "the": "Hồ tiêu",
         "dong_nguon": "VietnamBiz · 07:46",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "sau-rieng",
         "id": "dnhn-155253",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
