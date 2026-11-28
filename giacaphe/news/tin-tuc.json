@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T13:55:18+07:00",
+  "generated_at": "2026-11-28T14:20:20+07:00",
   "date": "2026-11-28",
   "groups": [
     {
@@ -100,6 +100,15 @@
           "source": "Thương hiệu và Công luận",
           "published_at": "2026-11-28T06:10:00+07:00",
           "image": ""
+        },
+        {
+          "id": "ct-483003",
+          "title": "Giá cà phê hôm nay 28/11/2026: Bật tăng hơn 2.000 đồng/kg",
+          "url": "https://congthuong.vn/gia-ca-phe-hom-nay-28-11-2026-bat-tang-hon-2-000-dong-kg-483003.html",
+          "source": "Báo Công Thương",
+          "published_at": "2026-11-28T05:28:00+07:00",
+          "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/28/b233df6d-fd11-4a32-ad92-a1c160824c0c-13591513.JPEG",
+          "image_small": "news/anh/1b57eff13306191fc3a6.jpg"
         }
       ]
     },
@@ -115,6 +124,21 @@
           "source": "Tạp chí Văn Hóa & Phát Triển",
           "published_at": "2026-11-28T10:36:08+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_585_56620721/c25bce195152b80ce143.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bm-56622182",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "bm-56622182",
+          "title": "Đổi cây trồng, liên kết sản xuất, nông dân Điện Biên 'hái ra tiền' trên đất dốc",
+          "url": "https://baomoi.com/doi-cay-trong-lien-ket-san-xuat-nong-dan-dien-bien-hai-ra-tien-tren-dat-doc-c56622182.epi",
+          "source": "Báo VietnamNet",
+          "published_at": "2026-11-28T14:00:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_23_56622182/693d3e60a12b4875113a.jpg"
         }
       ]
     },
@@ -234,6 +258,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "",
+        "id": "bm-56622182",
+        "the": null,
+        "dong_nguon": "Báo VietnamNet · 14:00",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "bm-56622124",
@@ -365,6 +396,13 @@
         "id": "thcl-295675",
         "the": "Cà phê",
         "dong_nguon": "Thương hiệu và Công luận · 06:10",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "ct-483003",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Công Thương · 05:28",
         "noi_bat": false
       }
     ]
