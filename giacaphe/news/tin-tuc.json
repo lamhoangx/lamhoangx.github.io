@@ -1,29 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T19:20:21+07:00",
+  "generated_at": "2026-11-28T19:40:21+07:00",
   "date": "2026-11-28",
   "groups": [
-    {
-      "id": "tt-100261126143833923",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "tt-100261126143833923",
-          "title": "Tái định vị cà phê Robusta từ gốc",
-          "url": "https://tuoitre.vn/tai-dinh-vi-ca-phe-robusta-tu-goc-100261126143833923.htm",
-          "source": "Tuổi Trẻ",
-          "published_at": "2026-11-28T17:04:00+07:00",
-          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/1795678306625-203355486795784869-1536705306097611812-f651439dabbb477512bffb442883ddc1-17956784228932142055771-0-0-1250-2000-crop-17956784841032121845512.jpg",
-          "image_small": "news/anh/6bad431cafe979b42ca1.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-28",
       "label": "Giá cà phê ngày 28/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56624503",
+          "title": "Giá cà phê lao dốc nhanh không tưởng",
+          "url": "https://baomoi.com/gia-ca-phe-lao-doc-nhanh-khong-tuong-c56624503.epi",
+          "source": "Báo Tiền Phong",
+          "published_at": "2026-11-28T19:37:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_20_56624503/5d183221ad6a44341d7b.jpg"
+        },
         {
           "id": "bm-56622124",
           "title": "Giá cà phê hôm nay 28/11/2026: Trong nước bật tăng, Robusta tiến sát mốc 3.000 USD/tấn",
@@ -125,6 +117,22 @@
           "published_at": "2026-11-28T05:28:00+07:00",
           "image": "https://cdn-i2.congthuong.vn/resize/gn/upload/2026/11/28/b233df6d-fd11-4a32-ad92-a1c160824c0c-13591513.JPEG",
           "image_small": "news/anh/1b57eff13306191fc3a6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tt-100261126143833923",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261126143833923",
+          "title": "Tái định vị cà phê Robusta từ gốc",
+          "url": "https://tuoitre.vn/tai-dinh-vi-ca-phe-robusta-tu-goc-100261126143833923.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-28T17:04:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/1795678306625-203355486795784869-1536705306097611812-f651439dabbb477512bffb442883ddc1-17956784228932142055771-0-0-1250-2000-crop-17956784841032121845512.jpg",
+          "image_small": "news/anh/6bad431cafe979b42ca1.jpg"
         }
       ]
     },
@@ -314,6 +322,13 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56624503",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Tiền Phong · 19:37",
+        "noi_bat": true
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "bm-56624231",
         "the": null,
@@ -339,7 +354,7 @@
         "id": "bm-56622124",
         "the": "Cà phê",
         "dong_nguon": "Báo Lào Cai · 13:38",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -360,7 +375,7 @@
         "id": "bm-56621128",
         "the": null,
         "dong_nguon": "Báo Quảng Trị · 11:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
