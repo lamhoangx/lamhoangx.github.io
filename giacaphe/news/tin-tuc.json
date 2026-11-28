@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T09:00:22+07:00",
+  "generated_at": "2026-11-28T11:41:37+07:00",
   "date": "2026-11-28",
   "groups": [
+    {
+      "id": "bm-56620721",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56620721",
+          "title": "Quảng Ngãi: Sa Loong kết nối nhà nông, doanh nghiệp hướng đến phát triển cà phê bền vững",
+          "url": "https://baomoi.com/quang-ngai-sa-loong-ket-noi-nha-nong-doanh-nghiep-huong-den-phat-trien-ca-phe-ben-vung-c56620721.epi",
+          "source": "Tạp chí Văn Hóa & Phát Triển",
+          "published_at": "2026-11-28T10:36:08+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_585_56620721/c25bce195152b80ce143.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-28",
       "label": "Giá cà phê ngày 28/11",
@@ -90,7 +105,7 @@
     {
       "id": "tt-100261127160215739",
       "label": "",
-      "important": true,
+      "important": false,
       "items": [
         {
           "id": "tt-100261127160215739",
@@ -111,6 +126,21 @@
       "title": "Tin tức hồ tiêu",
       "date": "2026-11-28",
       "groups": [
+        {
+          "id": "bm-56621128",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56621128",
+              "title": "Nâng tầm hồ tiêu Cam Lộ",
+              "url": "https://baomoi.com/nang-tam-ho-tieu-cam-lo-c56621128.epi",
+              "source": "Báo Quảng Trị",
+              "published_at": "2026-11-28T11:30:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_450_56621128/6422766de92600785937.jpg"
+            }
+          ]
+        },
         {
           "id": "gia-ho-tieu-2026-11-28",
           "label": "Giá hồ tiêu ngày 28/11",
@@ -189,6 +219,20 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "ho-tieu",
+        "id": "bm-56621128",
+        "the": null,
+        "dong_nguon": "Báo Quảng Trị · 11:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "bm-56620721",
+        "the": null,
+        "dong_nguon": "Tạp chí Văn Hóa & Phát Triển · 10:36",
+        "noi_bat": false
+      },
+      {
         "chu_de": "",
         "id": "vov-1353795",
         "the": "Cà phê",
@@ -228,7 +272,7 @@
         "id": "dnhn-155327",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -249,7 +293,7 @@
         "id": "tt-100261127160215739",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 07:18",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
