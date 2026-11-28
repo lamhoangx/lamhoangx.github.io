@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T18:40:19+07:00",
+  "generated_at": "2026-11-28T19:20:21+07:00",
   "date": "2026-11-28",
   "groups": [
     {
@@ -248,9 +248,24 @@
       "date": "2026-11-28",
       "groups": [
         {
-          "id": "bm-56623934",
+          "id": "bm-56624231",
           "label": "",
           "important": true,
+          "items": [
+            {
+              "id": "bm-56624231",
+              "title": "Không thể đánh đổi chất lượng lấy sản lượng sầu riêng",
+              "url": "https://baomoi.com/khong-the-danh-doi-chat-luong-lay-san-luong-sau-rieng-c56624231.epi",
+              "source": "Báo Công An Nhân Dân",
+              "published_at": "2026-11-28T19:05:36+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_5_56624231/4a03803f1f74f62aaf65.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bm-56623934",
+          "label": "",
+          "important": false,
           "items": [
             {
               "id": "bm-56623934",
@@ -298,6 +313,13 @@
     },
     "ca_phe_trong": null,
     "muc": [
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56624231",
+        "the": null,
+        "dong_nguon": "Báo Công An Nhân Dân · 19:05",
+        "noi_bat": false
+      },
       {
         "chu_de": "",
         "id": "tt-100261126143833923",
