@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T06:47:51+07:00",
+  "generated_at": "2026-11-28T07:31:10+07:00",
   "date": "2026-11-28",
   "groups": [
     {
@@ -8,6 +8,32 @@
       "label": "Giá cà phê ngày 28/11",
       "important": true,
       "items": [
+        {
+          "id": "vtc-1054063",
+          "title": "Giá cà phê hôm nay trực tuyến 28/11/2026",
+          "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-28-11-2026-ar1054063.html",
+          "source": "VTC News",
+          "published_at": "2026-11-28T07:28:11+07:00",
+          "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/28/ca-phe9-07103563.jpg",
+          "image_small": "news/anh/bc17aa9fbed6cbea56f1.jpg"
+        },
+        {
+          "id": "tbtc-207673",
+          "title": "Ngày 28 11 Giá cà phê đảo chiều tăng trở lại hồ tiêu tiếp tục giảm sâu",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-28-11-gia-ca-phe-dao-chieu-tang-tro-lai-ho-tieu-tiep-tuc-giam-sau-207673.html",
+          "source": "Thời báo Tài chính Việt Nam",
+          "published_at": "2026-11-28T07:27:08+07:00",
+          "image": ""
+        },
+        {
+          "id": "vnbiz-2026112865517501",
+          "title": "Giá cà phê hôm nay 28/11: Tiếp đà tăng mạnh, robusta hướng tới mốc 3.000 USD/tấn",
+          "url": "https://vietnambiz.vn/gia-ca-phe-hom-nay-2811-tiep-da-tang-manh-robusta-huong-toi-moc-3000-usdtan-2026112865517501.htm",
+          "source": "VietnamBiz",
+          "published_at": "2026-11-28T06:55:10+07:00",
+          "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/28/gia-ca-phe-28-11-20261128065343601-avatar-15x10-20261128065517190.jpg",
+          "image_small": "news/anh/edce5b81507fbc1289c6.jpg"
+        },
         {
           "id": "bm-56619095",
           "title": "Giá cà phê hôm nay 28/11: Robusta tăng phiên thứ 2 liên tiếp, áp sát mốc 3.000 USD",
@@ -34,6 +60,22 @@
           "image_small": "news/anh/5aff46c645c871753454.jpg"
         }
       ]
+    },
+    {
+      "id": "tt-100261127160215739",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261127160215739",
+          "title": "‘Hồi sức’ cho vườn cà phê sau thu hoạch thế nào?",
+          "url": "https://tuoitre.vn/hoi-suc-cho-vuon-ca-phe-sau-thu-hoach-the-nao-100261127160215739.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-28T07:18:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/27/anh-1-1-17957697903161475965463.png",
+          "image_small": "news/anh/22c68c4729e73f8d4949.jpg"
+        }
+      ]
     }
   ],
   "topics": [
@@ -48,6 +90,15 @@
           "label": "Giá hồ tiêu ngày 28/11",
           "important": false,
           "items": [
+            {
+              "id": "vnbiz-2026112862546173",
+              "title": "Giá tiêu hôm nay 28/11: Đà giảm kéo dài, giá thu mua lùi về 120.000–124.000 đồng/kg",
+              "url": "https://vietnambiz.vn/gia-tieu-hom-nay-2811-da-giam-keo-dai-gia-thu-mua-lui-ve-120000-124000-dongkg-2026112862546173.htm",
+              "source": "VietnamBiz",
+              "published_at": "2026-11-28T06:25:39+07:00",
+              "image": "https://cdn.vietnambiz.vn/1881912202208555/images/2026/11/28/gia-tieu-28-11-20261128062159597-avatar-15x10-20261128062545743.jpg",
+              "image_small": "news/anh/2e4a2709e56ed03aa00f.jpg"
+            },
             {
               "id": "thcl-295676",
               "title": "Giá tiêu hôm nay 28/11: Giảm sâu, thấp nhất 17 tháng",
@@ -94,6 +145,34 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "vtc-1054063",
+        "the": "Cà phê",
+        "dong_nguon": "VTC News · 07:28",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
+        "id": "tbtc-207673",
+        "the": "Cà phê",
+        "dong_nguon": "Thời báo Tài chính Việt Nam · 07:27",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "tt-100261127160215739",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 07:18",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
+        "id": "vnbiz-2026112865517501",
+        "the": "Cà phê",
+        "dong_nguon": "VietnamBiz · 06:55",
+        "noi_bat": false
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "thcl-295682",
         "the": "Sầu riêng",
@@ -105,6 +184,13 @@
         "id": "bm-56619095",
         "the": "Cà phê",
         "dong_nguon": "Báo Ninh Bình · 06:30",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "ho-tieu",
+        "id": "vnbiz-2026112862546173",
+        "the": "Hồ tiêu",
+        "dong_nguon": "VietnamBiz · 06:25",
         "noi_bat": true
       },
       {
