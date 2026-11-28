@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T14:50:19+07:00",
+  "generated_at": "2026-11-28T17:31:24+07:00",
   "date": "2026-11-28",
   "groups": [
+    {
+      "id": "tt-100261126143833923",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "tt-100261126143833923",
+          "title": "Tái định vị cà phê Robusta từ gốc",
+          "url": "https://tuoitre.vn/tai-dinh-vi-ca-phe-robusta-tu-goc-100261126143833923.htm",
+          "source": "Tuổi Trẻ",
+          "published_at": "2026-11-28T17:04:00+07:00",
+          "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/11/26/1795678306625-203355486795784869-1536705306097611812-f651439dabbb477512bffb442883ddc1-17956784228932142055771-0-0-1250-2000-crop-17956784841032121845512.jpg",
+          "image_small": "news/anh/6bad431cafe979b42ca1.jpg"
+        }
+      ]
+    },
     {
       "id": "gia-2026-11-28",
       "label": "Giá cà phê ngày 28/11",
@@ -113,21 +129,6 @@
       ]
     },
     {
-      "id": "bm-56620721",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "bm-56620721",
-          "title": "Quảng Ngãi: Sa Loong kết nối nhà nông, doanh nghiệp hướng đến phát triển cà phê bền vững",
-          "url": "https://baomoi.com/quang-ngai-sa-loong-ket-noi-nha-nong-doanh-nghiep-huong-den-phat-trien-ca-phe-ben-vung-c56620721.epi",
-          "source": "Tạp chí Văn Hóa & Phát Triển",
-          "published_at": "2026-11-28T10:36:08+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_585_56620721/c25bce195152b80ce143.jpg"
-        }
-      ]
-    },
-    {
       "id": "bm-56622182",
       "label": "",
       "important": false,
@@ -139,6 +140,21 @@
           "source": "Báo VietnamNet",
           "published_at": "2026-11-28T14:00:00+07:00",
           "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_23_56622182/693d3e60a12b4875113a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bm-56620721",
+      "label": "",
+      "important": false,
+      "items": [
+        {
+          "id": "bm-56620721",
+          "title": "Quảng Ngãi: Sa Loong kết nối nhà nông, doanh nghiệp hướng đến phát triển cà phê bền vững",
+          "url": "https://baomoi.com/quang-ngai-sa-loong-ket-noi-nha-nong-doanh-nghiep-huong-den-phat-trien-ca-phe-ben-vung-c56620721.epi",
+          "source": "Tạp chí Văn Hóa & Phát Triển",
+          "published_at": "2026-11-28T10:36:08+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_585_56620721/c25bce195152b80ce143.jpg"
         }
       ]
     },
@@ -232,6 +248,21 @@
       "date": "2026-11-28",
       "groups": [
         {
+          "id": "bm-56623934",
+          "label": "",
+          "important": true,
+          "items": [
+            {
+              "id": "bm-56623934",
+              "title": "Điều tra nguyên nhân vùng trồng và cơ sở đóng gói thanh long, sầu riêng xuất khẩu vi phạm an toàn thực phẩm",
+              "url": "https://baomoi.com/dieu-tra-nguyen-nhan-vung-trong-va-co-so-dong-goi-thanh-long-sau-rieng-xuat-khau-vi-pham-an-toan-thuc-pham-c56623934.epi",
+              "source": "Tạp chí Nông nghiệp Hữu cơ Việt Nam",
+              "published_at": "2026-11-28T13:08:00+07:00",
+              "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_632_56623934/b344ab74343fdd61842e.jpg"
+            }
+          ]
+        },
+        {
           "id": "gia-sau-rieng-2026-11-28",
           "label": "Giá sầu riêng ngày 28/11",
           "important": false,
@@ -269,6 +300,13 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "tt-100261126143833923",
+        "the": null,
+        "dong_nguon": "Tuổi Trẻ · 17:04",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "",
         "id": "bm-56622182",
         "the": null,
         "dong_nguon": "Báo VietnamNet · 14:00",
@@ -286,6 +324,13 @@
         "id": "bm-56621883",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 13:10",
+        "noi_bat": false
+      },
+      {
+        "chu_de": "sau-rieng",
+        "id": "bm-56623934",
+        "the": null,
+        "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 13:08",
         "noi_bat": false
       },
       {
