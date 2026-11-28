@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T13:10:18+07:00",
+  "generated_at": "2026-11-28T13:55:18+07:00",
   "date": "2026-11-28",
   "groups": [
     {
@@ -8,6 +8,14 @@
       "label": "Giá cà phê ngày 28/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56622124",
+          "title": "Giá cà phê hôm nay 28/11/2026: Trong nước bật tăng, Robusta tiến sát mốc 3.000 USD/tấn",
+          "url": "https://baomoi.com/gia-ca-phe-hom-nay-28-11-2026-trong-nuoc-bat-tang-robusta-tien-sat-moc-3-000-usd-tan-c56622124.epi",
+          "source": "Báo Lào Cai",
+          "published_at": "2026-11-28T13:38:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_438_56622124/70dacb8654cdbd93e4dc.jpg"
+        },
         {
           "id": "bm-56621883",
           "title": "Thị trường nông sản 28/11/2026: Cà phê phục hồi, hồ tiêu giảm sâu",
@@ -228,10 +236,17 @@
     "muc": [
       {
         "chu_de": "",
+        "id": "bm-56622124",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Lào Cai · 13:38",
+        "noi_bat": true
+      },
+      {
+        "chu_de": "",
         "id": "bm-56621883",
         "the": "Cà phê",
         "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 13:10",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "ho-tieu",
