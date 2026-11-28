@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T07:50:20+07:00",
+  "generated_at": "2026-11-28T08:40:21+07:00",
   "date": "2026-11-28",
   "groups": [
     {
@@ -9,21 +9,29 @@
       "important": true,
       "items": [
         {
+          "id": "bm-56619726",
+          "title": "Bản tin nông sản hôm nay (28-11): Giá cà phê trong nước tăng",
+          "url": "https://baomoi.com/ban-tin-nong-san-hom-nay-28-11-gia-ca-phe-trong-nuoc-tang-c56619726.epi",
+          "source": "Báo Quân Đội Nhân Dân",
+          "published_at": "2026-11-28T08:22:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_16_56619726/35bb86c6198df0d3a99c.jpg"
+        },
+        {
           "id": "vtc-1054063",
           "title": "Giá cà phê hôm nay trực tuyến 28/11/2026",
           "url": "https://vtcnews.vn/gia-ca-phe-hom-nay-truc-tuyen-28-11-2026-ar1054063.html",
           "source": "VTC News",
           "published_at": "2026-11-28T07:28:11+07:00",
           "image": "https://cdn-i.vtcnews.vn/resize/gn/upload/2026/11/28/ca-phe9-07103563.jpg",
-          "image_small": "news/anh/bc17aa9fbed6cbea56f1.jpg"
+          "image_small": "news/anh/7ce048ed62c115a101f1.jpg"
         },
         {
           "id": "tbtc-207673",
-          "title": "Ngày 28 11 Giá cà phê đảo chiều tăng trở lại hồ tiêu tiếp tục giảm sâu",
+          "title": "Ngày 28/11: Giá cà phê đảo chiều tăng trở lại, hồ tiêu tiếp tục giảm sâu",
           "url": "https://thoibaotaichinhvietnam.vn/ngay-28-11-gia-ca-phe-dao-chieu-tang-tro-lai-ho-tieu-tiep-tuc-giam-sau-207673.html",
           "source": "Thời báo Tài chính Việt Nam",
           "published_at": "2026-11-28T07:27:08+07:00",
-          "image": ""
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_578_56619732/57f9c3845ccfb591ecde.jpg"
         },
         {
           "id": "vnbiz-2026112865517501",
@@ -154,6 +162,13 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56619726",
+        "the": "Cà phê",
+        "dong_nguon": "Báo Quân Đội Nhân Dân · 08:22",
+        "noi_bat": true
+      },
+      {
         "chu_de": "sau-rieng",
         "id": "dnhn-155327",
         "the": "Sầu riêng",
@@ -165,7 +180,7 @@
         "id": "vtc-1054063",
         "the": "Cà phê",
         "dong_nguon": "VTC News · 07:28",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -179,7 +194,7 @@
         "id": "tt-100261127160215739",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 07:18",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
