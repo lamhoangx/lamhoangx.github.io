@@ -1,28 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T11:41:37+07:00",
+  "generated_at": "2026-11-28T13:10:18+07:00",
   "date": "2026-11-28",
   "groups": [
-    {
-      "id": "bm-56620721",
-      "label": "",
-      "important": true,
-      "items": [
-        {
-          "id": "bm-56620721",
-          "title": "Quảng Ngãi: Sa Loong kết nối nhà nông, doanh nghiệp hướng đến phát triển cà phê bền vững",
-          "url": "https://baomoi.com/quang-ngai-sa-loong-ket-noi-nha-nong-doanh-nghiep-huong-den-phat-trien-ca-phe-ben-vung-c56620721.epi",
-          "source": "Tạp chí Văn Hóa & Phát Triển",
-          "published_at": "2026-11-28T10:36:08+07:00",
-          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_585_56620721/c25bce195152b80ce143.jpg"
-        }
-      ]
-    },
     {
       "id": "gia-2026-11-28",
       "label": "Giá cà phê ngày 28/11",
       "important": true,
       "items": [
+        {
+          "id": "bm-56621883",
+          "title": "Thị trường nông sản 28/11/2026: Cà phê phục hồi, hồ tiêu giảm sâu",
+          "url": "https://baomoi.com/thi-truong-nong-san-28-11-2026-ca-phe-phuc-hoi-ho-tieu-giam-sau-c56621883.epi",
+          "source": "Tạp chí Nông nghiệp Hữu cơ Việt Nam",
+          "published_at": "2026-11-28T13:10:00+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_632_56621883/0e806ed1f19a18c4418b.jpg"
+        },
         {
           "id": "vov-1353795",
           "title": "Giá cà phê hôm nay 28/11: Giá cà phê Robusta và Arabia đồng loạt tăng",
@@ -30,7 +23,7 @@
           "source": "VOV",
           "published_at": "2026-11-28T08:48:00+07:00",
           "image": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/viec-tham-gia-dau-gia-quoc-te-se-tao-dong-luc-de-nguoi-trong-ca-phe-son-la-nang-cao-chat-luong-san-xuat.jpg",
-          "image_small": "news/anh/a129dba1d096089af2d0.jpg"
+          "image_small": "news/anh/5aff46c645c871753454.jpg"
         },
         {
           "id": "dnhn-155291",
@@ -99,6 +92,21 @@
           "source": "Thương hiệu và Công luận",
           "published_at": "2026-11-28T06:10:00+07:00",
           "image": ""
+        }
+      ]
+    },
+    {
+      "id": "bm-56620721",
+      "label": "",
+      "important": true,
+      "items": [
+        {
+          "id": "bm-56620721",
+          "title": "Quảng Ngãi: Sa Loong kết nối nhà nông, doanh nghiệp hướng đến phát triển cà phê bền vững",
+          "url": "https://baomoi.com/quang-ngai-sa-loong-ket-noi-nha-nong-doanh-nghiep-huong-den-phat-trien-ca-phe-ben-vung-c56620721.epi",
+          "source": "Tạp chí Văn Hóa & Phát Triển",
+          "published_at": "2026-11-28T10:36:08+07:00",
+          "image": "https://photo-baomoi.bmcdn.me/w250_r3x2/2026_11_28_585_56620721/c25bce195152b80ce143.jpg"
         }
       ]
     },
@@ -219,6 +227,13 @@
     "ca_phe_trong": null,
     "muc": [
       {
+        "chu_de": "",
+        "id": "bm-56621883",
+        "the": "Cà phê",
+        "dong_nguon": "Tạp chí Nông nghiệp Hữu cơ Việt Nam · 13:10",
+        "noi_bat": true
+      },
+      {
         "chu_de": "ho-tieu",
         "id": "bm-56621128",
         "the": null,
@@ -237,7 +252,7 @@
         "id": "vov-1353795",
         "the": "Cà phê",
         "dong_nguon": "VOV · 08:48",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -251,7 +266,7 @@
         "id": "dnhn-155302",
         "the": "Hồ tiêu",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 08:35",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
@@ -272,7 +287,7 @@
         "id": "dnhn-155327",
         "the": "Sầu riêng",
         "dong_nguon": "Doanh nghiệp và Hội nhập · 07:30",
-        "noi_bat": true
+        "noi_bat": false
       },
       {
         "chu_de": "",
@@ -293,7 +308,7 @@
         "id": "tt-100261127160215739",
         "the": null,
         "dong_nguon": "Tuổi Trẻ · 07:18",
-        "noi_bat": false
+        "noi_bat": true
       },
       {
         "chu_de": "",
